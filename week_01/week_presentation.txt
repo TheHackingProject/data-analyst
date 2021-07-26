@@ -1,0 +1,1 @@
+Le premier outil que tout vrai Data Analyst se doit de maîtriser est le code. Durant cette première semaine, vous apprendrez les langages informatiques les plus populaires pour faire de l'analyse de données : Python et SQL.
