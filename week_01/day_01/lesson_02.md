@@ -38,4 +38,4 @@ cf. cours
 
 
 ## 5. Pour aller plus loin
-La documentation Python disponible [ici](https://docs.python.org/3/). Quand vous commencerez à être à l'aise avec Python, vous pourrez trouverez des renseignements sur tous les packages et méthodes existants en Python.
+La documentation Python disponible [ici](https://docs.python.org/3/). Quand vous commencerez à être à l'aise avec Python, vous pourrez trouver des renseignements sur tous les packages et méthodes existants en Python.
