@@ -61,9 +61,10 @@ Ex :
 Cf. chapitre 3 du cours OpenClassrooms
 
 ## 4. Points importants à retenir
-Comprendre les différents types et à quoi on les reconnaît (parenthèses, crochets etc).
+- Comprendre les différents types et à quoi on les reconnaît (parenthèses, crochets etc).
 ![Les types sous Python](https://github.com/TheHackingProject/data-analyst/blob/master/week_01/day_01/Capture%20d%E2%80%99e%CC%81cran%20(58).png)
 
+- Se familiariser avec les méthodes les plus utilisées sur ces types (accéder à un élément, ajouter un élément, supprimer un élément, modifier un élément, compter le nombre d’éléments stockés etc.).
 
 ## 5. Pour aller plus loin
 La documentation Python disponible [ici](https://docs.python.org/3/). Quand vous commencerez à être à l'aise avec Python, vous pourrez trouver des renseignements sur tous les packages et méthodes existants en Python.
