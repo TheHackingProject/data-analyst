@@ -61,7 +61,7 @@ Ex :
 Cf. chapitre 3 du cours OpenClassrooms
 
 ## 4. Points importants à retenir
-
+![Les types sous Python](/image.jpg)
 
 
 ## 5. Pour aller plus loin
