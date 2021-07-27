@@ -1,7 +1,9 @@
 # Découvrir Python
 
 ## 1. Introduction
-Sans transition aucune, on se lance ! Comment ça marche Python ? Est-ce que c'est si intuitif que ça ? Quels objets vais-je utiliser en Python ? 🐣 🐣 ☕️☕️
+Sans transition aucune, on se lance ! Comment ça marche Python ? Est-ce que c'est si intuitif que ça ? Quels objets vais-je utiliser en Python ? 
+
+Allons découvrir tout cela 🐣 🐣 ☕️☕️  !
 
 ## 2. La ressource
 Pour bien comprendre les bases de Python, nous te demandons de suivre le cours OpenClassrooms [Initiez-vous à Python pour l'analyse de données](https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees).
@@ -10,7 +12,7 @@ Ce cours est très bien fait et il est très adapté au niveau débutant.
 N'hésite pas à prendre deux heures entières pour faire les 3 premiers chapitres (en réalisant les exercices sur ton Notebook et les quizz). Tu peux t'arrêter avant *Prenez en main les modules et librairies Python* car c'est le programme de la journée de demain.
 
 ### 2.1. Jupyter Notebook et Anaconda
-Pour votre environnement de développement, nous vous recommandons fortement de suivre ce que préconise le cours, c'est-à-dire télécharger Anaconda et utiliser Jupyter Notebook.
+Pour ton environnement de développement, nous te recommandons fortement de suivre ce que préconise le cours, c'est-à-dire télécharger Anaconda et utiliser Jupyter Notebook.
 
 Plusieurs outils différents permettent de coder en Python, notamment les IDE populaires comme Pycharm, Spyder, ou encore Visual Studio.
 >Un IDE (ou environnement intégré de développement) est un ensemble d'outils pour augmenter la productivité des programmeurs qui développent des logiciels.
@@ -19,7 +21,7 @@ Mais pour débuter et avoir un environnement Python complet et prêt à l’empl
 
 >*Anaconda Individual Edition* est une plateforme de distribution Python recensant plus de 20 millions d’utilisateurs dans le monde, basé sur un écosystème totalement open-source.
 
-En téléchargeant Anaconda, vous bénéficierez à la fois de : 
+En téléchargeant Anaconda, tu bénéficieras à la fois de : 
 - une installation de Python
 - les packages de data science tels que Numpy, Pandas, Scikit-learn …
 - des IDE de dernière génération tels que Jupyter (JupyterLab et Jupyter Notebooks) ou Spyder
@@ -61,8 +63,7 @@ Ex :
 Cf. chapitre 3 du cours OpenClassrooms
 
 ### 3.4. Gestion des fichiers
-
-
+La ressource est disponible [ici](https://python.antoinepernot.fr/cours.php?course=chap5). Tu peux réaliser les activités si ça te dit, ou au moins comprendre les codes en solution (pour cela, tu dois d'abord envoyer un code).
 
 
 ## 4. Points importants à retenir
@@ -71,7 +72,7 @@ Cf. chapitre 3 du cours OpenClassrooms
 
 - Se familiariser avec les méthodes les plus utilisées sur ces types (accéder à un élément, ajouter un élément, supprimer un élément, modifier un élément, compter le nombre d’éléments stockés etc.).
 
-- Comprendre la gestion ds fichiers avec Python
+- Comprendre la gestion des fichiers avec Python
 
 ## 5. Pour aller plus loin
 La documentation Python disponible [ici](https://docs.python.org/3/). Quand vous commencerez à être à l'aise avec Python, vous pourrez trouver des renseignements sur tous les packages et méthodes existants en Python.
@@ -79,6 +80,7 @@ La documentation Python disponible [ici](https://docs.python.org/3/). Quand vous
 Par ailleurs, il existe énormément de ressources en ligne pour apprendre à maîtriser Python. Si vous voulez appronfondir certaines notions de Python, voici quelques ressources qui pourront vous être utiles : 
 - la chaîne YouTube *Machine Learnia* qui propose plus de 30 vidéos sur [Python pour le Machine Learning](https://www.youtube.com/watch?v=82KLS2C_gNQ&list=PLO_fdPEVlfKqMDNmCFzQISI2H_nJcEDJq)
 - un [cours d'introduction à Python](https://courspython.com/)
+- un [autre cours pour débutants sur Python](https://python.antoinepernot.fr/index.php)
 - le site [Python Doctor](https://python.doctor/) qui vous donne plusieurs exemples
 
-et bien d'autres encore ... à vous d'allez chercher celles qui vous correspondent le mieux ✌️✌️✌️!
+et bien d'autres encore ... à vous d'aller chercher celles qui vous correspondent le mieux ✌️✌️✌️!
