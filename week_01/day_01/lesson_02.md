@@ -38,33 +38,30 @@ Cf. chapitre 2 du cours OpenClassrooms
 
 Il existe plusieurs types de variables pour stocker les éléments en Python : 
 - les types numériques : qui peuvent être des nombres entiers `int` ou des nombres réels `float`. Ex : `x = 3` ou `y = 3.5` ;
-- les booléens `boolean` : ils sont le résultat d'opérations logiques et ont deux valeurs possibles : `True` ou `False`. Ex : `x = 4 < 5` ;
+- les booléens `boolean` : sont le résultat d'opérations logiques et ont deux valeurs possibles : `True` ou `False`. Ex : `x = 4 < 5` ;
 - les chaînes de caractères `string` : qui permettent de stocker du texte. Ex : `x = "Hello world"` ;
 - les listes `list` : un tableau ordonné, où chaque élément est associé à un indice. Ex : `x = [4,5]` ;
 - les tuples `tuple` : un tableau d'objets qui peut être de tout type. Ex : `x = (4,5)` ;
-- les dictionnaires : un tableau non ordonné, où chaque élément est associé à une clé. Ex : `symboles = {"H" : "hydrogen", "He" : "helium", "Li" : "lithium"}
-- les sets ou ensembles : une collection d'objets non ordonnée et contenant des éléments uniques. Ex : `s = {1,2,3}`
+- les dictionnaires `dictionary` : un tableau non ordonné, où chaque élément est associé à une clé. Ex : `symboles = {"H" : "hydrogen", "He" : "helium", "Li" : "lithium"}`
+- les sets ou ensembles `set` : une collection d'objets non ordonnée et contenant des éléments uniques. Ex : `s = {1,2,3}`.
 
 Le type d'une variable peut changer, il correspond toujours au type de la dernière affectation.
 La fonction `type()` détermine le type d'une variable.
 
-Il y a des variables **immuables**, c'est-à-dire qu'elles ne peuvent pas être modifiées. Les nombres sont des types immuables, tout comme les chaînes de caractères et les tuples.
+Enfin, il y a des variables **immuables**, c'est-à-dire qu'elles ne peuvent pas être modifiées. Les nombres sont des types immuables, tout comme les chaînes de caractères et les tuples.
 Ex : 
+  ```
   x = (3,2)
   x[0] = 1
   TypeError: 'tuple' object does not support item assignment.
-
+  ```
 
 
 ### 3.3. Boucles et conditions
 Cf. chapitre 3 du cours OpenClassrooms
 
 ## 4. Points importants à retenir
-Il existe plusieurs types de variables pour stocker les éléments en Python : 
-- les chaînes de caractères : qui permettent de stocker du texte ;
-- les listes : un tableau ordonné, où chaque élément est associé à un indice ;
 
-- les dictionnaires : un tableau non ordonné, où chaque élément est associé à une clé ;
 
 
 ## 5. Pour aller plus loin
