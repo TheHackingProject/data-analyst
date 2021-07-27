@@ -52,11 +52,11 @@ b) écrire une fonction NbrLignes qui a pour paramètre le nom d'un fichier (tex
 ### 2.7. Exercice bonus 💯
 Soit un fichier typé intitulé concours.txt qui comporte les enregistrements relatifs aux candidats d’un concours. Chaque enregistrement est composé de : NCIN, NOM, PRENOM, AGE, DECISION : (type contenant les identificateurs suivants : admis, refusé, ajourné), et séparé par point virgule (;).
 
-a) Définir la fonction saisir() qui permet de remplir les données relatives aux candidats dans le fichier concours.txt.  
-b) Définir la fonction admis() qui permet de créer le fichier admis.txt comportant les données relatives aux candidat admis.  
-c) Afin de sélectionner en priorité les candidats admis et âgés moins de 30 ans, créer la fonction attente() qui produira à partir du fichier admis.txt, un nouveau fichier intitulé attente.txt comportant les données relatives aux candidats admis et âgés de plus de 30 ans. Une ligne du fichier attente.txt comprend le NCIN, le NOM et PRENOM d’un candidat séparés par point virgule (;).  
-d) Définir la fonction statistiques(dec) qui permet de retourner le pourcentage des candidats pour la décision dec (admis, refusé et ajourné). Exemple : Le pourcentage des candidats admis = (Nombre des candidats admis / Nombre des candidats)x100  
-e) Définir la fonction supprimer() qui supprimera du fichier admis.txt les candidat âgés de plus de 30 ans  
+a) définir la fonction saisir() qui permet de remplir les données relatives aux candidats dans le fichier concours.txt.  
+b) définir la fonction admis() qui permet de créer le fichier admis.txt comportant les données relatives aux candidat admis.  
+c) afin de sélectionner en priorité les candidats admis et âgés moins de 30 ans, créer la fonction attente() qui produira à partir du fichier admis.txt, un nouveau fichier intitulé attente.txt comportant les données relatives aux candidats admis et âgés de plus de 30 ans. Une ligne du fichier attente.txt comprend le NCIN, le NOM et PRENOM d’un candidat séparés par point virgule (;).  
+d) définir la fonction statistiques(dec) qui permet de retourner le pourcentage des candidats pour la décision dec (admis, refusé et ajourné). Exemple : Le pourcentage des candidats admis = (Nombre des candidats admis / Nombre des candidats)x100  
+e) définir la fonction supprimer() qui supprimera du fichier admis.txt les candidat âgés de plus de 30 ans  
 
 ## 3. Rendu attendu
 Un fichier .ipynb ou un fichier .py qui comprend l'ensemble des scripts demandés. 
