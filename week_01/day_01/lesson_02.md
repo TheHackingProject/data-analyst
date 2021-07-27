@@ -61,7 +61,7 @@ Ex :
 Cf. chapitre 3 du cours OpenClassrooms
 
 ## 4. Points importants à retenir
-![Les types sous Python](data-analyst/week_01/day_01/Capture d’écran (58).png)
+![Les types sous Python](day_01/Capture%20d’écran%20(58).png)
 
 
 ## 5. Pour aller plus loin
