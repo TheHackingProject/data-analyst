@@ -61,6 +61,7 @@ Ex :
 Cf. chapitre 3 du cours OpenClassrooms
 
 ## 4. Points importants à retenir
+Comprendre les différents types et à quoi on les reconnaît (parenthèses, crochets etc).
 ![Les types sous Python](https://github.com/TheHackingProject/data-analyst/blob/master/week_01/day_01/Capture%20d%E2%80%99e%CC%81cran%20(58).png)
 
 
