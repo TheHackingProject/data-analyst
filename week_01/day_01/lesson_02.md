@@ -60,11 +60,25 @@ Ex :
 ### 3.3. Boucles et conditions
 Cf. chapitre 3 du cours OpenClassrooms
 
+### 3.4. Gestion des fichiers
+
+
+
+
 ## 4. Points importants à retenir
-- Comprendre les différents types et à quoi on les reconnaît (parenthèses, crochets etc).
+- Comprendre les différents types et comment on les reconnaît (parenthèses, crochets etc).
 ![Les types sous Python](https://github.com/TheHackingProject/data-analyst/blob/master/week_01/day_01/Capture%20d%E2%80%99e%CC%81cran%20(58).png)
 
 - Se familiariser avec les méthodes les plus utilisées sur ces types (accéder à un élément, ajouter un élément, supprimer un élément, modifier un élément, compter le nombre d’éléments stockés etc.).
 
+- Comprendre la gestion ds fichiers avec Python
+
 ## 5. Pour aller plus loin
 La documentation Python disponible [ici](https://docs.python.org/3/). Quand vous commencerez à être à l'aise avec Python, vous pourrez trouver des renseignements sur tous les packages et méthodes existants en Python.
+
+Par ailleurs, il existe énormément de ressources en ligne pour apprendre à maîtriser Python. Si vous voulez appronfondir certaines notions de Python, voici quelques ressources qui pourront vous être utiles : 
+- la chaîne YouTube *Machine Learnia* qui propose plus de 30 vidéos sur [Python pour le Machine Learning](https://www.youtube.com/watch?v=82KLS2C_gNQ&list=PLO_fdPEVlfKqMDNmCFzQISI2H_nJcEDJq)
+- un [cours d'introduction à Python](https://courspython.com/)
+- le site [Python Doctor](https://python.doctor/) qui vous donne plusieurs exemples
+
+et bien d'autres encore ... à vous d'allez chercher celles qui vous correspondent le mieux ✌️✌️✌️!
