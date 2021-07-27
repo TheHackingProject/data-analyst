@@ -7,13 +7,13 @@ Pour ton premier jour de développeur Python 😎😎😎, rien de mieux que de 
 La difficulté des exercices est croissante alors pas d'inquiétude si tu as du mal vers la fin du projet.
 
 ### 2.1. Manipulation de chaînes de caractères
-a) créer et afficher la variable `bonjour` qui contient une chaîne de caractères "hello world !"
-b) afficher le premier caractère de `bonjour`
-c) afficher le dernier caractère de `bonjour`
-d) afficher les caractères de `bonjour` de la position 1 à la position 3
-e) afficher les caractères de `bonjour` de la position 3 jusqu'à la fin
-f) vérifier que `bonjour` commence par "hel"
-g) vérifier que `bonjour` se termine par "world !"
+a) créer et afficher la variable `bonjour` qui contient une chaîne de caractères "hello world !"  
+b) afficher le premier caractère de `bonjour`  
+c) afficher le dernier caractère de `bonjour`  
+d) afficher les caractères de `bonjour` de la position 1 à la position 3  
+e) afficher les caractères de `bonjour` de la position 3 jusqu'à la fin  
+f) vérifier que `bonjour` commence par "hel"  
+g) vérifier que `bonjour` se termine par "world !"  
 
 ### 2.2. Manipulation de listes
 a) créer et afficher la liste `mylist` qui contient les éléments "am", "stram", "gram", "pic"
