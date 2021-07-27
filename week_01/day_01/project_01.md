@@ -45,7 +45,7 @@ Ex pour 4, le programme affichera :
 *
 ```
 
-### 2.6. Manipulation des fichiers 🖆
+### 2.6. Manipulation des fichiers 📦
 a) écrire un programme qui ouvre un fichier texte, modifie les lignes affichées afin qu’elles commencent par une majuscule, puis affiche le contenu du fichier texte   
 b) écrire une fonction NbrLignes qui a pour paramètre le nom d'un fichier (texte) et qui renvoie le nombre de lignes de ce fichier  
 
