@@ -87,6 +87,8 @@ La ressource est disponible [ici](https://python.antoinepernot.fr/cours.php?cour
 
 - Comprendre la gestion des fichiers avec Python
 
+- Savoir s'adapter à l'état d'esprit de Python et ses bonnes pratiques. Voici ![une ressource](https://python.sdv.univ-paris-diderot.fr/15_bonnes_pratiques/) qui te fera découvrir l'essentiel du Python mindset 🎩🎩🎩.
+
 ## 5. Pour aller plus loin
 La documentation Python disponible [ici](https://docs.python.org/3/). Quand vous commencerez à être à l'aise avec Python, vous pourrez trouver des renseignements sur tous les packages et méthodes existants en Python.
 
