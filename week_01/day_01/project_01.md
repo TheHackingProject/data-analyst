@@ -11,13 +11,13 @@ Le fait de reprendre les mêmes programmes que mardi de la semaine dernière va 
 La difficulté des exercices est croissante alors pas d'inquiétude si tu as du mal vers la fin du projet.
 
 ### 2.1. Rapide exerice de chauffe : manipulation de chaînes de caractères ⛓
-a) créer et afficher la variable `bonjour` qui contient une chaîne de caractères "hello world !"  
-b) afficher le premier caractère de `bonjour`  
-c) afficher le dernier caractère de `bonjour`  
-d) afficher les caractères de `bonjour` de la position 1 à la position 3  
-e) afficher les caractères de `bonjour` de la position 3 jusqu'à la fin  
-f) vérifier que `bonjour` commence par "hel"  
-g) vérifier que `bonjour` se termine par "world !"  
+- créer et afficher la variable `bonjour` qui contient une chaîne de caractères "hello world !"  
+- afficher le premier caractère de `bonjour`  
+- afficher le dernier caractère de `bonjour`  
+- afficher les caractères de `bonjour` de la position 1 à la position 3  
+- afficher les caractères de `bonjour` de la position 3 jusqu'à la fin  
+- vérifier que `bonjour` commence par "hel"  
+- vérifier que `bonjour` se termine par "world !"  
 
 ### 2.2. Manipulation de fonctions 🔗
 a) créer une fonction qui prend en paramètre une variable intitulée `name` et qui affiche "Hello" suivi du prénom choisi  
