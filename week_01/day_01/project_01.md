@@ -43,7 +43,20 @@ Cédric Villani a besoin d'aide pour enfin décrocher le prix Nobel de Mathémat
 >Si on liste tous les entiers naturels strictement inférieurs à 11 et qui sont multiples de 3 ou 5, on obtient 3, 5, 6, 9 et 10. La somme de ces nombres est égale à 33.
 => Trouve la somme des entiers naturels strictement inférieurs à 1000 et qui sont multiples de 3 ou 5.
 
-Pour t'aider sur ce premier exercice, on va décomposer des étapes qui vont nous permettre de le résoudre : découper le problème en petits problèmes (en méthodes), écrire les tests en premier (pour faire du Test Driven Development) puis finalement coder le programme.
+Pour t'aider sur ce premier exercice, on va décomposer des étapes qui vont nous permettre de le résoudre.
+
+## 2.4.2. Mise en oeuvre de l'approche analytique
+
+Comme on l'a appris, pour résoudre ce problème compliqué, on va le découper en plein de petits problèmes simples. Ici, on doit écrire un programme qui prend un nombre, et qui ressort la somme des multiples de 3 ou 5 inférieurs à ce nombre.
+
+Moi, quand je lis ça, je me dis "ok, mon programme va aller de zéro jusqu'à 1000 (par exemple) et à chaque chiffre va tester s'il est multiple de 3 ou 5. Si c'est le cas, il met le chiffre de côté, dans une boite, pour faire une somme à la fin. Si le chiffre n'est pas multiple, on l'oublie et on passe au suivant".
+
+Hum, en écrivant ça sur papier, j'ai identifié 2 choses qui vont composer mon programme final :
+
+"mon programme va aller de zéro jusqu'à 1000 (par exemple)" => Il va y avoir une boucle !
+"à chaque chiffre [mon programme] va tester s'il est multiple de 3 ou 5" => voilà un problème simple et bien défini : être capable d'identifier si un nombre est multiple de 3 ou 5 !
+
+Allez c'est parti, tu peux te lancer maintenant !
 
 
 
