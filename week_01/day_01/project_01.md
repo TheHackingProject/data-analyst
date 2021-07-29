@@ -35,9 +35,9 @@ Le fait de reprendre les mêmes programmes que mardi de la semaine dernière va 
 
 ___
 
-### 2.4. Multiples de 3 et 5
+## 2.4. Multiples de 3 et 5
 
-## 2.4.1. L'énoncé
+### 2.4.1. L'énoncé
 Cédric Villani a besoin d'aide pour enfin décrocher le prix Nobel de Mathématiques. Il a besoin de résoudre le problème suivant :
 
 >Si on liste tous les entiers naturels strictement inférieurs à 11 et qui sont multiples de 3 ou 5, on obtient 3, 5, 6, 9 et 10. La somme de ces nombres est égale à 33.
@@ -45,7 +45,7 @@ Cédric Villani a besoin d'aide pour enfin décrocher le prix Nobel de Mathémat
 
 Pour t'aider sur ce premier exercice, on va décomposer des étapes qui vont nous permettre de le résoudre.
 
-## 2.4.2. Mise en oeuvre de l'approche analytique
+### 2.4.2. Mise en oeuvre de l'approche analytique
 
 Comme on l'a appris, pour résoudre ce problème compliqué, on va le découper en plein de petits problèmes simples. Ici, on doit écrire un programme qui prend un nombre, et qui ressort la somme des multiples de 3 ou 5 inférieurs à ce nombre.
 
