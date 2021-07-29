@@ -35,7 +35,15 @@ Créé à partir de Python en 2014, **Jupyter est un notebook de calcul** (compu
 Avec cet outil, il est possible de visualiser le code et de l’exécuter depuis la même interface utilisateur. On peut même apporter des changements au code et vérifier les résultats de ces modifications instantanément. Des données peuvent également être ajoutées.
 **Enfin, cet outil permet de combiner  du code, des équations, des visualisations ou du texte**. Pour cette raison, il s’agit d’un outil idéal et très utile pour les Data Analysts et les Data Scientists.
 
+___
+
+✌️✌️ BONNE ASTUCE ✌️✌️
+
 C'est assez facile de prendre en main Jupyter Notebook mais si tu veux intégrer les fonctionnalités principales, je t'invite à lire ce [guide rapide d'utilisation](https://pyspc.readthedocs.io/fr/latest/03-guide/).
+
+N'hésite pas, dès le début, à documenter tes notebooks en utilisant les commentaires ou le format Markdown. Cela te permettra d'y retourner plus tard et de comprendre ce que tu voulais faire à l'époque. Par ailleurs, tu pourras plus facilement les partager à la communauté.
+
+___
 
 
 ### 3.2. Types de variables et fonctions
