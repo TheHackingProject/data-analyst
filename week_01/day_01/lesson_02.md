@@ -1,5 +1,7 @@
 # Découvrir Python
 
+C'est le moment de faire tes gammes en Python. Accroche-toi bien car dans la data, Python est indispensable !
+
 ## 1. Introduction
 Sans transition aucune, on se lance ! Comment ça marche Python ? Est-ce que c'est si intuitif que ça ? Quels objets vais-je utiliser en Python ? 
 
@@ -32,6 +34,9 @@ En téléchargeant Anaconda, tu bénéficieras à la fois de :
 Créé à partir de Python en 2014, **Jupyter est un notebook de calcul** (computational notebook) open source, gratuit et interactif. 
 Avec cet outil, il est possible de visualiser le code et de l’exécuter depuis la même interface utilisateur. On peut même apporter des changements au code et vérifier les résultats de ces modifications instantanément. Des données peuvent également être ajoutées.
 **Enfin, cet outil permet de combiner  du code, des équations, des visualisations ou du texte**. Pour cette raison, il s’agit d’un outil idéal et très utile pour les Data Analysts et les Data Scientists.
+
+C'est assez facile de prendre en main Jupyter Notebook mais si tu veux intégrer les fonctionnalités principales, je t'invite à lire ce [guide rapide d'utilisation](https://pyspc.readthedocs.io/fr/latest/03-guide/).
+
 
 ### 3.2. Types de variables et fonctions
 Cf. chapitre 2 du cours OpenClassrooms
