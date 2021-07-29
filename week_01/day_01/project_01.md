@@ -35,7 +35,7 @@ Le fait de reprendre les mêmes programmes que mardi de la semaine dernière va 
 
 ___
 
-## 2.4. Multiples de 3 et 5
+## 2.4. Multiples de 3 et 5 🎲🎲
 
 ### 2.4.1. L'énoncé
 Cédric Villani a besoin d'aide pour enfin décrocher le prix Nobel de Mathématiques. Il a besoin de résoudre le problème suivant :
@@ -81,7 +81,7 @@ Ou, en version plus condensée, ainsi :
 ___
 
 
-## 2.5. Cryptofolies
+## 2.5. Cryptofolies 💳💳
 Après ce petit tour de chauffe, voici un autre exercice sous forme d'initiation à la cybersécurité, avec un algorithme de chiffrement hyper secure (lol) : le chiffrement par décalage. En effet, la NSA a besoin de chiffrer ses e-mails et veut faire appel à toi pour implémenter cette méthode indéchiffrable par un enfant de 5 ans.
 
 >En cryptographie, le chiffrement par décalage, aussi connu comme le chiffre de César ou le code de César, est une méthode de chiffrement très simple utilisée par Jules César dans ses correspondances secrètes.
@@ -95,7 +95,7 @@ Ta mission : créer une méthode `caesar_cipher` qui prend en paramètres un str
 => "Bmfy f xywnsl!"
 ```
 
-## 2.6 Jean-Michel Trader
+## 2.6 Jean-Michel Trader 💸💸
 Si tu es arrivé à bout des deux premiers exercices, bien joué ! On continue sur notre lancée.
 
 Après la cybersécurité à la NSA, Lehman Brothers veut te débaucher pour faire de la finance. Hyper cool. Ils te demandent cette fois de coder un programme qui permet, à partir d'un array de prix, de connaître le meilleur jour d'achat et le meilleur jour de revente pour faire le maximum de bénéfices.
@@ -123,7 +123,7 @@ La fonction devra renvoyer le nombre d'occurrences de chaque mot de la référen
 => {"down" : 1, "how" : 2, "howdy" : 1, "go" : 1, "going" : 1, "it" : 2, "i" : 3, "own" : 1, "part" : 1, "partner" : 1, "sit" : 1}
 ```
 
-### 2.7.2. Compter chez Shakespeare
+### 2.7.2. Compter chez Shakespeare 🤓🤓
 
 #### a) Les mots communs
 Google veut savoir combien de fois l'on peut trouver dans l'œuvre intégrale de Shakespeare les mots suivants :
