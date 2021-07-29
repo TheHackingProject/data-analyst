@@ -87,7 +87,7 @@ La ressource est disponible [ici](https://python.antoinepernot.fr/cours.php?cour
 
 - Comprendre la gestion des fichiers avec Python
 
-- Savoir s'adapter à l'état d'esprit de Python et ses bonnes pratiques. Voici [une ressource](https://python.sdv.univ-paris-diderot.fr/15_bonnes_pratiques/) qui te fera découvrir l'essentiel du Python mindset 🎩🎩🎩. Et n'oublie pas en plus qu'en utilisant Python pour l'analyse de données, tu n'auras pas les mêmes exigences/contraintes qu'un dev Python qui doit créer des applications robustes et stables.
+- Savoir s'adapter à l'état d'esprit de Python et ses bonnes pratiques. Voici [une ressource](https://python.sdv.univ-paris-diderot.fr/15_bonnes_pratiques/) qui te fera découvrir l'essentiel du Python mindset 🎩🎩🎩. Et rappelle toi qu'en utilisant Python pour l'analyse de données, tu n'as pas les mêmes exigences/contraintes qu'un dev Python qui doit créer des applications robustes et stables.
 
 ## 5. Pour aller plus loin
 La documentation Python disponible [ici](https://docs.python.org/3/). Quand vous commencerez à être à l'aise avec Python, vous pourrez trouver des renseignements sur tous les packages et méthodes existants en Python.
