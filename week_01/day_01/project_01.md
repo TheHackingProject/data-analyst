@@ -31,7 +31,7 @@ ___
 
 On arrête les exercices de chauffe ici. Retour à nos chers exercices de mardi dernier. 
 
-Le fait de reprendre les mêmes programmes que mardi de la semaine dernière va t'aider à bien comprendre les différences entre Ruby et Python. D'ailleurs, on te déconseille de chercher à traduire ton programme Ruby en Python mais cherche plutôt, pour chaque programme, à reprendre la logique de décomposition que tu as apprise la fois dernière. Puis à voir comment tu écrirais le morceau en Python avec ce que tu as appris ce matin dans les ressources.
+Le fait de reprendre les mêmes programmes que mardi de la semaine dernière va t'aider à bien comprendre les différences entre Ruby et Python. D'ailleurs, on te déconseille de chercher à traduire ton programme Ruby en Python mais cherche plutôt, pour chaque programme, à reprendre la logique de décomposition que tu as apprise la fois dernière. Puis à voir comment tu écrirais le morceau en Python avec ce que tu as appris ce matin dans les ressources et ton nouvel oeil de Data Analyst en herbe !
 
 ___
 
