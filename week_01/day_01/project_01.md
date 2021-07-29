@@ -5,8 +5,6 @@ C'est parti, tu vas faire ton premier Jupyter Notebook et tes premiers programme
 ## 1. Introduction
 Pour ton premier jour de développeur Python 😎😎😎, rien de mieux que de te faire la main avec une série de programmes ... dont certains que tu as déjà faits en Ruby !
 
-Le fait de reprendre les mêmes programmes que mardi de la semaine dernière va t'aider à bien comprendre les différences entre Ruby et Python. D'ailleurs, on te déconseille de chercher à traduire ton programme Ruby en Python mais cherche plutôt, pour chaque programme, à reprendre la logique de décomposition que tu as apprise la fois dernière.
-
 ## 2. A toi de jouer !
 La difficulté des exercices est croissante alors pas d'inquiétude si tu as du mal vers la fin du projet.
 
@@ -20,33 +18,34 @@ La difficulté des exercices est croissante alors pas d'inquiétude si tu as du 
 - vérifier que `bonjour` se termine par "world !"  
 
 ### 2.2. Manipulation de fonctions 🔗
-a) créer une fonction qui prend en paramètre une variable intitulée `name` et qui affiche "Hello" suivi du prénom choisi  
-b) écrire un programme qui demande à l'utilisateur son prénom et lui retourne un message lui disant "Hello" suivi de son prénom  
+- créer une fonction qui prend en paramètre une variable intitulée `name` et qui affiche "Hello" suivi du prénom choisi  
+- écrire un programme qui demande à l'utilisateur son prénom et lui retourne un message lui disant "Hello" suivi de son prénom  
 
 ### 2.3. Manipulation des conditions ↙️
-a) écrire un programme qui affiche "vous êtes majeur !" si votre âge est supérieur ou égal à 18 et "vous êtes mineur" sinon    
-b) écrire un programme qui affiche "a est pair" si la valeur de la variable a est paire et "a est impair" sinon  
+- écrire un programme qui affiche "vous êtes majeur !" si votre âge est supérieur ou égal à 18 et "vous êtes mineur" sinon    
+- écrire un programme qui affiche "a est pair" si la valeur de la variable a est paire et "a est impair" sinon  
 
-### 2.5. Manipulation des boucles 💍
-a) écrire un programme qui demande à l'utilisateur un nombre puis affiche la table de multiplication du nombre choisi  
-b) écrire un programme qui demande à l'utilisateur un nombre d'étoiles (qui correspond au nombre d'étoiles de la ligne centrale du triangle) et puis qui affiche le triangle en question.  
-Ex pour 4, le programme affichera : 
-```
-*
-**
-***
-****
-***
-**
-*
-```
+___
 
-### 2.6. Manipulation des fichiers 📦
-a) écrire un programme qui ouvre un fichier texte, modifie les lignes affichées afin qu’elles commencent par une majuscule, puis affiche le contenu du fichier texte   
-b) écrire une fonction NbrLignes qui a pour paramètre le nom d'un fichier (texte) et qui renvoie le nombre de lignes de ce fichier  
+👾👾 ALERTE 👾👾 
+
+On arrête les exercices de chauffe ici. Retour à nos chers exercices de mardi dernier. 
+
+Le fait de reprendre les mêmes programmes que mardi de la semaine dernière va t'aider à bien comprendre les différences entre Ruby et Python. D'ailleurs, on te déconseille de chercher à traduire ton programme Ruby en Python mais cherche plutôt, pour chaque programme, à reprendre la logique de décomposition que tu as apprise la fois dernière. Puis à voir comment tu écrirais le morceau en Python avec ce que tu as appris ce matin dans les ressources.
+
+___
+
+### 2.4. Multiples de 3 et 5
+
+## 2.4.1. L'énoncé
+Cédric Villani a besoin d'aide pour enfin décrocher le prix Nobel de Mathématiques. Il a besoin de résoudre le problème suivant :
+
+>Si on liste tous les entiers naturels strictement inférieurs à 11 et qui sont multiples de 3 ou 5, on obtient 3, 5, 6, 9 et 10. La somme de ces nombres est égale à 33.
+=> Trouve la somme des entiers naturels strictement inférieurs à 1000 et qui sont multiples de 3 ou 5.
+
+Pour t'aider sur ce premier exercice, on va décomposer des étapes qui vont nous permettre de le résoudre : découper le problème en petits problèmes (en méthodes), écrire les tests en premier (pour faire du Test Driven Development) puis finalement coder le programme.
 
 
-2.1. Multiples de 3 et 5
 
 Voir ce qu'on laisse
 Le code en Python est réalisé en 4 lignes (voir 1)
