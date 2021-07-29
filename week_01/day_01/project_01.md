@@ -62,7 +62,7 @@ ___
 🙀🙀 SPOILER ALERT 🙀🙀
 
 Tu pourras voir à la suite deux solutions pour ce programme. Essaye d'abord de faire ta version avant de les regarder. 
-On te montre la solution pour que tu voies qu'on n'est plus exactement dans la même démarche qu'avec Ruby (écrire des méthodes qu'on imbrique entre elles). A partir de maintenant et car spécifiquement tu souhaites te spécialiser dans la donnée, tu peux aller au plus vite et au plus efficace. L'objectif dans l'analyse de données, c'est d'utiliser le code pour obtenir le bon résultat.
+On te montre la solution pour que tu voies qu'on n'est plus exactement dans la même démarche qu'avec Ruby (écrire des méthodes qu'on imbrique entre elles). A partir de maintenant et car précisément tu souhaites te spécialiser dans la donnée, tu peux aller au plus vite et au plus efficace. L'objectif dans l'analyse de données, c'est d'utiliser le code pour obtenir le bon résultat.
 
 Une des solutions peut s'écrire ainsi : 
 ```
