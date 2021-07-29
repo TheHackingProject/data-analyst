@@ -1,7 +1,9 @@
 # Petits programmes en Python
 
+C'est parti, tu vas faire ton premier Jupyter Notebook et tes premiers programmes Python. Good luck my friend 🚀
+
 ## 1. Introduction
-Pour ton premier jour de développeur Python 😎😎😎, rien de mieux que de te faire la main avec une série de programmes ... dont certains que tu as déjà fait en Ruby !
+Pour ton premier jour de développeur Python 😎😎😎, rien de mieux que de te faire la main avec une série de programmes ... dont certains que tu as déjà faits en Ruby !
 
 Le fait de reprendre les mêmes programmes que mardi de la semaine dernière va t'aider à bien comprendre les différences entre Ruby et Python. D'ailleurs, on te déconseille de chercher à traduire ton programme Ruby en Python mais cherche plutôt, pour chaque programme, à reprendre la logique de décomposition que tu as apprise la fois dernière.
 
@@ -17,19 +19,11 @@ e) afficher les caractères de `bonjour` de la position 3 jusqu'à la fin
 f) vérifier que `bonjour` commence par "hel"  
 g) vérifier que `bonjour` se termine par "world !"  
 
-### 2.2. Manipulation de listes 🐛
-a) créer et afficher la liste `mylist` qui contient les éléments "am", "stram", "gram", "pic"  
-b) supprimer le deuxième élément de `mylist`  
-c) supprimer l'élément "am" de `mylist`  
-d) inverser les valeurs de `mylist`  
-e) afficher la taille de `mylist`  
-f) compter le nombre d'occurences de l'élément "am" de `mylist`  
-
-### 2.3. Manipulation de fonctions 🔗
+### 2.2. Manipulation de fonctions 🔗
 a) créer une fonction qui prend en paramètre une variable intitulée `name` et qui affiche "Hello" suivi du prénom choisi  
 b) écrire un programme qui demande à l'utilisateur son prénom et lui retourne un message lui disant "Hello" suivi de son prénom  
 
-### 2.4. Manipulation des conditions ↙️
+### 2.3. Manipulation des conditions ↙️
 a) écrire un programme qui affiche "vous êtes majeur !" si votre âge est supérieur ou égal à 18 et "vous êtes mineur" sinon    
 b) écrire un programme qui affiche "a est pair" si la valeur de la variable a est paire et "a est impair" sinon  
 
