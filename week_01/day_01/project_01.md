@@ -8,7 +8,7 @@ Pour ton premier jour de développeur Python 😎😎😎, rien de mieux que de 
 ## 2. A toi de jouer !
 La difficulté des exercices est croissante alors pas d'inquiétude si tu as du mal vers la fin du projet.
 
-### 2.1. Rapide exerice de chauffe : manipulation de chaînes de caractères ⛓
+## 2.1. Rapide exerice de chauffe : manipulation de chaînes de caractères ⛓
 - créer et afficher la variable `bonjour` qui contient une chaîne de caractères `hello world !`  
 - afficher le premier caractère de `bonjour`  
 - afficher le dernier caractère de `bonjour`  
@@ -17,11 +17,11 @@ La difficulté des exercices est croissante alors pas d'inquiétude si tu as du 
 - vérifier que `bonjour` commence par `hel`
 - vérifier que `bonjour` se termine par `world !`  
 
-### 2.2. Manipulation de fonctions 🔗
+## 2.2. Manipulation de fonctions 🔗
 - créer une fonction qui prend en paramètre une variable intitulée `name` et qui affiche `Hello` suivi du prénom choisi  
 - écrire un programme qui demande à l'utilisateur son prénom et lui retourne un message lui disant `Hello` suivi de son prénom  
 
-### 2.3. Manipulation des conditions ↙️
+## 2.3. Manipulation des conditions ↙️
 - écrire un programme qui demande à l'utilisateur de saisir son âge et affiche `vous êtes majeur !` si l'âge est supérieur ou égal à 18 et `vous êtes mineur` sinon    
 - écrire un programme qui demande à l'utilisateur de saisir un nombre et affiche `a est pair` si la valeur de `a` est paire et `a est impair` sinon  
 
@@ -59,9 +59,9 @@ Hum, en écrivant ça sur papier, j'ai identifié 2 choses qui vont composer mon
 Allez c'est parti, tu peux te lancer maintenant !
 ___
 
-🙀🙀 SPOILER ALERT 🙀🙀
+🙈🙈 SPOILER ALERT 🙈🙈
 
-Tu pourras voir à la suite deux solutions pour ce programme. Essaye d'abord de faire ta version avant de les regarder. 
+Tu peux voir à la suite deux solutions pour ce programme. Essaye d'abord de faire ta version avant de les regarder. 
 On te montre la solution pour que tu voies qu'on n'est plus exactement dans la même démarche qu'avec Ruby (écrire des méthodes qu'on imbrique entre elles). A partir de maintenant et car précisément tu souhaites te spécialiser dans la donnée, tu peux aller au plus vite et au plus efficace. L'objectif dans l'analyse de données, c'est d'utiliser le code pour obtenir le bon résultat.
 
 Une des solutions peut s'écrire ainsi : 
@@ -75,13 +75,37 @@ print(resultat)
 
 Ou, en version plus condensée, ainsi :
 ```
-print(sum(i for i in range(1, 1000) if i%3 == 0 or i%5 == 0))
+> print(sum(i for i in range(1, 1000) if i%3 == 0 or i%5 == 0))
 ```
 
 ___
 
 
+## 2.5. Cryptofolies
+Après ce petit tour de chauffe, voici un autre exercice sous forme d'initiation à la cybersécurité, avec un algorithme de chiffrement hyper secure (lol) : le chiffrement par décalage. En effet, la NSA a besoin de chiffrer ses e-mails et veut faire appel à toi pour implémenter cette méthode indéchiffrable par un enfant de 5 ans.
 
+>En cryptographie, le chiffrement par décalage, aussi connu comme le chiffre de César ou le code de César, est une méthode de chiffrement très simple utilisée par Jules César dans ses correspondances secrètes.
+Le texte chiffré s'obtient en remplaçant chaque lettre du texte clair original par une lettre à distance fixe, toujours du même côté, dans l'ordre de l'alphabet. Si jamais on dépasse la dernière lettre de l'alphabet, on continue à compter depuis le début. Par exemple avec un décalage de 3 vers la droite, A est remplacé par D, B devient E, W devient Z, X devient A, Y devient B, etc.
+Il s'agit d'une permutation circulaire de l'alphabet. La longueur du décalage, 3 dans l'exemple évoqué, constitue la clé du chiffrement qu'il suffit de transmettre au destinataire — s'il sait déjà qu'il s'agit d'un chiffrement de César — pour que celui-ci puisse déchiffrer le message. Dans le cas de l'alphabet latin, le chiffre de César n'a que 26 clés possibles (plus la clé nulle, qui ne modifie pas le texte).
+
+Ta mission : créer une méthode caesar_cipher qui prend en paramètres un string et une clé de chiffrement (nombre de lettres à décaler) pour en sortir le string modifié.
+
+```
+> caesar_cipher("What a string!", 5)
+=> "Bmfy f xywnsl!"
+```
+
+## Jean-Michel Trader
+Si tu es arrivé à bout des deux premiers exercices, bien joué ! On continue sur notre lancée.
+
+Après la cybersécurité à la NSA, Lehman Brothers veut te débaucher pour faire de la finance. Hyper cool. Ils te demandent cette fois de coder un programme qui permet, à partir d'un array de prix, de connaître le meilleur jour d'achat et le meilleur jour de revente pour faire le maximum de bénéfices.
+
+Si l'on considère la liste de prix suivant : `[17, 3, 6, 9, 15, 8, 6, 1, 10]`, la fonction `day_trader` doit renvoyer qu'il s'agit du deuxième jour à l'achat et du cinquième jour à la revente.
+
+```
+> day_trader([17, 3, 6, 9, 15, 8, 6, 1, 10])
+=> [1,4]  # $15 - $3 == $12
+```
 
 ## 3. Rendu attendu
 Un fichier .ipynb ou un fichier .py qui comprend l'ensemble des scripts demandés. 
