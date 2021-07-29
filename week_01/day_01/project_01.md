@@ -57,14 +57,28 @@ Hum, en écrivant ça sur papier, j'ai identifié 2 choses qui vont composer mon
 "à chaque chiffre [mon programme] va tester s'il est multiple de 3 ou 5" => voilà un problème simple et bien défini : être capable d'identifier si un nombre est multiple de 3 ou 5 !
 
 Allez c'est parti, tu peux te lancer maintenant !
+___
 
+🙀🙀 SPOILER ALERT 🙀🙀
 
+Tu pourras voir à la suite deux solutions pour ce programme. Essaye d'abord de faire ta version avant de les regarder. 
+On te montre la solution pour que tu voies qu'on n'est plus exactement dans la même démarche qu'avec Ruby (écrire des méthodes qu'on imbrique entre elles). A partir de maintenant et car spécifiquement tu souhaites te spécialiser dans la donnée, tu peux aller au plus vite et au plus efficace. L'objectif dans l'analyse de données, c'est d'utiliser le code pour obtenir le bon résultat.
 
-Voir ce qu'on laisse
-Le code en Python est réalisé en 4 lignes (voir 1)
-Voir si ça vaut le coup d'apprendre à faire des méthodes ? 
-Pour le coup je ne pense pas que ça soit utile en analyse de données.
+Une des solutions peut s'écrire ainsi : 
+```
+resultat = 0
+for i in range(1, 1000):
+    if i%3 == 0 or i%5 == 0:
+        resultat += i
+print(resultat)
+```
 
+Ou, en version plus condensée, ainsi :
+```
+print(sum(i for i in range(1, 1000) if i%3 == 0 or i%5 == 0))
+```
+
+___
 
 
 
