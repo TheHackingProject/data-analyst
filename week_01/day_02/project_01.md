@@ -5,8 +5,8 @@ Ca y est, tu es déjà armé pour être Data Analyst, niveau junior. Tu vas aujo
 ## 1. Introduction
 Tu viens d'être recruté en tant que stagiaire Data Analyst par le Ministère de la Culture. Le précédent stagiaire avait réussi, grâce à un script Python, à récolter le maximum d'informations sur les musées français. 
 Comme première mission, ton manager te demande de regarder ces fichiers csv et d'essayer de trouver des informations intéressantes à partir de ce fichier.
-En fait, la 17ème Nuit européenne des musées a eu lieu le samedi 3 juillet. Pour revenir sur cet événement annuel, la personne responsable de la communication a été sollicitée pour écrire un article -je cite- "donnant des informations insolites sur les musées en France". 
-Mais elle ne sait pas vraiment quoi raconter ... Elle espère que ton analyse de données l'aidera à se lancer dans la rédaction de son article.
+En fait, la 17ème Nuit européenne des musées a eu lieu le samedi 3 juillet 🏛🏛🏛. Pour revenir sur cet événement annuel, la personne responsable de la communication a été sollicitée pour écrire un article -je cite- "donnant des informations insolites sur les musées en France". 
+Mais elle ne sait pas vraiment quoi raconter ... Elle espère que ton analyse de données l'aidera à se lancer dans la rédaction de son article 🙄🙄.
 
 ## 2. Le projet
 
@@ -29,6 +29,9 @@ Ton manager t'a donné une liste de questions pour te rendre la tâche plus conc
 - Combien de musées ont "Napoléon" dans leur nom ?
 
 ### 2.3. Proposer des axes d'analyse supplémentaires
+En tant que Data Analyst, tu dois t'habituer à être force de proposition, te dit ton manager. Pour cela, il te demande de proposer trois pistes d'analyse complémentaires qui pourraient enrichier le fichier. Ajoute dans ton fichier Markdown 3 sources de données existantes qu'il serait utile d'ajouter à notre fichier, comment tu penses réussir à les récupérer et ce qu'elles apporteraient dans l'analyse. 
+
+S'il te reste du temps, il t'encourage à réellement étudier ces données dans ton Markdown pour qu'il puisse voir les résultats que tu as obtenus en fouinant sur le web ... 👻👻
 
 ## 3. Rendu attendu
- Un récapitulatif de ce que nous attendons du projet.
+Un beau fichier Markdown qui alterne entre code et texte et contient les 3 étapes du projet.
