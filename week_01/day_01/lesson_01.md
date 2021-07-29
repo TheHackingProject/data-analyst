@@ -1,5 +1,7 @@
 # Python vs Ruby
 
+Avant de se lancer dans l'apprentissage d'un langage, il est important de connaître ses avantages et ses inconvénients, et de faire le point sur ce que cela peut t'apporter personnellement et professionnellement.
+
 ## 1. Introduction
 Tu viens de passer 3 semaines à découvrir les bases de l'informatique et tu as commencé à programmer avec le langage Ruby. Or, tu l'as lu, à partir d'aujourd'hui c'est focus sur Python. Je te vois déjà venir avec une tonne de questions  : Pourquoi on n'a pas commencé directement en Python ? Quelle est la différence entre les deux langages ? Est-ce que je dois oublier tout ce que j'ai appris lors des 3 semaines d'introduction ?
 
@@ -10,9 +12,17 @@ Ruby a été créé en 1995 par un informaticien japonais, Yukihiro Matsumoto. C
 
 Python a été créé en 1991 par un informaticien hollandais, Guido van Rossum. C'est un langage de programmation de haut niveau et polyvalent. Comme Ruby, il est également entièrement orienté objet. La philosophie de base de Python est qu’il doit être extrêmement facile à utiliser. C’est ce que signifie la partie « de haut niveau » : un langage de programmation de haut niveau possède une syntaxe très simple et facile à lire, très similaire à la langue anglaise courante.
 
-## 3. Pourquoi passer à Python maintenant ?
+## 3. Pourquoi Ruby puis Python ?
 
-### 3.1. C'est LE langage le plus répandu pour l'analyse de données
+### 3.1. Ruby, c'est parfait pour commencer
+
+- Commencer à apprendre Ruby en faisant les 3 semaines d'introduction de THP t'a permis de **rencontrer des personnes aux profils très différents**. A la suite de ces 3 semaines, vous avez choisi des parcours différents mais ce qui compte, c'est que vous avez déjà noué des liens forts et que vous faites désormais partie de la même communauté. Nous t'incitons à cultiver ce réseau de profils divers (tous passionés par la Tech) qui pourra t'être utile à de nombreuses reprises.
+- **Ruby est un très bon langage de script**. Pour rappel, les langages de script sont les plus utilisés pour automatiser des tâches spécifiques. En outre, les langages de script sont moins gourmands en code par rapport aux langages de programmation traditionnels. Ils ne nécessitent pas l'étape de compilation et sont à la place interprétés.
+- C'était **une opportunité de te faire voir différents langages**, entraîner ton cerveau à switcher de langage ... rendez-vous au projet de cet après-midi et tu sauras si tu vas vite pouvoir devenir bilingue en programmation !
+- Pour débuter, **Ruby est légèrement plus simple que Python**. Il est plus permissif et c'est un bon ami pour commencer à comprendre l'algorithmie ! Maintenant que tu as déjà 3 semaines de code intensif derrière toi, on peut passer à autre chose et découvrir le monde de la DATAAAA 😜😜😜.
+
+
+### 3.2. Python est LE langage le plus répandu pour l'analyse de données
 
 Ruby, et le framework Ruby on Rails, permettent de développer des applications web de façon rapide et intuitive. En revanche, ils ne permettent pas de réaliser des analyses de données.
 
@@ -23,7 +33,7 @@ D'après le site *Talentgarden.org*, en 2020, environ 66% des scientifiques des 
 Dans la grande majorité des offres d'emploi de data Analysts, Python est le langage qui figure en pré-requis. 
 Son grand rival reste le langage R, communément appelé langage des statistiques, mais il est plutôt utilisé par le milieu académique.
 
-### 3.2. La compétence à acquérir à tout prix est l'adaptabilité !
+### 3.3. La compétence à acquérir à tout prix est l'adaptabilité !
 
 Les langages informatiques et les besoins des entreprises évoluent si vite que **le plus important est de pouvoir s'adapter sans difficulté**. Si tu décides de faire carrière dans la data, il est très probable que tu aies affaire à Python, à R, à Scala ... et à des dizaines d'autres outils à la fois (Tableau, PowerBI, SPSS pour n'en citer que quelques uns).
 
