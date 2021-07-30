@@ -33,22 +33,34 @@ L’image ci-dessus nous donne un exemple d’un tableau à 1 dimension. Ainsi, 
 
 On voit ici des exemples de tableaux à une, deux et trois dimensions. *C’est un peu plus compliqué de représenter les dimensions supérieures à 3*.
 
-
 >Attention, il ne faut pas confondre les listes et les tableaux. Contrairement aux listes en Python, les tableaux Numpy ne peuvent contenir des membres que d'un seul type. Par ailleurs, la grande différence entre ces deux structures de données se trouve au niveau des fonctions que vous pouvez leur appliquer. Par exemple, vous pouvez diviser un tableau (valeurs numériques) par 5, et chaque nombre dans le tableau sera divisé par 5 et vous aurez le résultat voulu. Cependant, si vous essayez de diviser une liste (valeurs numériques) par 5, l’interpréteur Python vous retournera une erreur.
 
-Enfin, les attributs principaux d'un tablea sont les type de données (dtype), l'allure (shape), la taille (size), la taille de l'élément (itemsize), la donnée (data) et la dimension N (ndim). 
+Enfin, dis toi que tu vas pouvoir analyser beaucoup de choses en tant que tableaux de nombres. Par exemple, une image peut être considérée comme un tableau de deux dimensions (une matrice) où chaque nombre représente l'intensité lumineuse d'un pixel. 
+
 
 ### 3.2. Manipulations de tableaux
-blabla
+
+Regarde comment créer et manipuler des tableaux sur [ce cours d'introduction à NumPy](https://courspython.com/apprendre-numpy.html).
 
 ### 3.2. Intérêt des tableaux
+Mais surtout le plus important est que tu comprennes l'intérêt de NumPy pour l'analyse de données.
 
+Les éléments d'un tableau sont stockés dans des emplacements de mémoire contigus. En fait, l’idée de NumPy est de stocker plusieurs éléments du même type ensemble dans le but d’améliorer les performances de calcul.
+
+Cela est très utile car les boucles peuvent êtres lentes en Python. Si vous voulez savoir pourquoi, l'idée principale est la suivante : l'implémentation de référence de Python, encore appelée CPython, est très flexible, mais cette flexibilité l'empêche d'utiliser toutes les optimisations possibles. Avec des boucles, il faudra plusieurs secondes pour accomplir un million d'opérations. Sachant que les processeurs actuels sont capables d'exécuter des milliards d'opérations par seconde, cette durée peut apparaître absurde. Ce délai est dû à toutes les opérations annexes que doit accomplir l'interprète, comme les appels de fonction et vérifications de type. ⏳⏳⏳
+
+___
+
+🔧🔧 ASTUCE 🔧🔧
+
+À chaque fois que tu te retrouves à utiliser une boucle pour effectuer une opération en Python, demande-toi si cette opération ne peut pas s'accomplir grâce à Numpy sans boucle.
+
+___
 
 
 ## 4. Points importants à retenir
-NumPy permet une manipulation aisée et flexible des tableaux. Nous n'avons qu'effleurer la surface de cette fabuleuse librairie Python. NumPy contient davantage de caractéristiques à étudier pour sa redoutable efficacité. 
-
-Les éléments du tableau sont stockés dans des emplacements de mémoire contigus. L’idée est de stocker plusieurs éléments du même type ensemble dans le but d’améliorer les performances de calcul.
+- NumPy permet une manipulation aisée et flexible des tableaux. 
+- NumPy reste très important dans l'analyse de donnée pour sa redoutable efficacité. L’idée derrière les tableaux est de stocker plusieurs éléments du même type ensemble dans le but d’améliorer les performances de calcul.
 
 ## 5. Pour aller plus loin
-Il existe aussi un guide complet sur ce sujet par le concepteur de NumPy lui-mêm : Guide to NumPy.
+La [documentation officielle](https://numpy.org/doc/stable/reference/)
