@@ -2,10 +2,14 @@
 Tu t'inquiétais de n'avoir toujours pas croisé de tableaux ? Rassure-toi, les tableaux NumPy sont dans la place 🤘🤘
 
 ## 1. Introduction
-NumPy est une bibliothèque Python destinée à manipuler des matrices ou tableaux multidimensionnels ainsi que des fonctions mathématiques opérant sur ces tableaux. Dit comme ça, ça fait un peu peur mais en gros, dis toi 
+NumPy est une bibliothèque Python destinée à manipuler des matrices ou tableaux multidimensionnels ainsi que des fonctions mathématiques opérant sur ces tableaux. Dit comme ça, ça fait un peu peur mais en gros, dis toi que tu utiliseras NumPy quand tu travailleras avec des tableaux.
 
 ## 2.Historique et contexte
-Cette partie peut être plus ou moins longue. Elle explique l'histoire ou le contexte sur la notion que l'on veut enseigner.
+Comme on l'a déjà vu, le langage Python n'a pas été conçu à l'origine pour le calcul numérique. Cependant, il a très tôt attiré l'attention de la communauté scientifique et technique.
+
+En 1995, le groupe d'intérêt spécial (SIG) matrix-sig a été fondé dans le but de définir un paquetage de calcul matriciel. Parmi ses membres, Guido van Rossum, concepteur et développeur de Python, a étendu sa syntaxe, et en particulier, la syntaxe d'indexation, afin de faciliter le calcul des tableaux. Une première implémentation d'un paquetage matriciel a été réalisée par Jim Fulton, puis amélioré par Jim Hugunin et appelée Numeric, également connu sous le nom de "Numerical Python extensions" ou "NumPy".
+
+NumPy est la base de SciPy, regroupement de bibliothèques Python autour du calcul scientifique3.
 
 ## 3. La ressource
 Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
