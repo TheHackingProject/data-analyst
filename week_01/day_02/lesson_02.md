@@ -1,7 +1,8 @@
 # La librairie NumPy
+Tu t'inquiétais de n'avoir toujours pas croisé de tableaux ? Rassure-toi, les tableaux NumPy sont dans la place 🤘🤘
 
 ## 1. Introduction
-Une introduction sur la ressource.
+NumPy est une bibliothèque Python destinée à manipuler des matrices ou tableaux multidimensionnels ainsi que des fonctions mathématiques opérant sur ces tableaux. Dit comme ça, ça fait un peu peur mais en gros, dis toi 
 
 ## 2.Historique et contexte
 Cette partie peut être plus ou moins longue. Elle explique l'histoire ou le contexte sur la notion que l'on veut enseigner.
