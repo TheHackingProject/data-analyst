@@ -14,16 +14,20 @@ NumPy est la base de SciPy, regroupement de bibliothèques Python autour du calc
 > Pour info, au cas où tu es largué dans ces histoires de calcul : le calcul scientifique est une discipline aux contours pas toujours franchement définis, mais qui regroupe un ensemble de champs mathématiques et informatiques permettant la simulation numérique des phénomènes de la physique, chimie, biologie, et sciences appliquées en général.
 
 ## 3. La ressource
-Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
+On va découvrir ici à quoi la librairie NumPy va te servir.
 
-### 3.1. Première sous partie
-blabla
+A chaque fois que tu en auras besoin, n'oublie pas de l'importer au début de ton script : 
+
+`import numpy as np`
+
+### 3.1. Les tableaux multidimensionnels
+Le principe fondamental de NumPy est l'apport de tableaux multidimensionnels.
 
 ### 3.2. Deuxième sous partie
 blabla
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+Comme on a pu le voir à travers ce tutoriel, NumPy permet une manipulation aisée et flexible des tableaux. Nous n'avons qu'effleurer la surface de cette fabuleuse librairie Python. NumPy contient davantage de caractéristiques à étudier pour sa redoutable efficacité. 
 
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+Il existe aussi un guide complet sur ce sujet par le concepteur de NumPy lui-mêm : Guide to NumPy.
