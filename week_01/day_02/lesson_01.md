@@ -131,4 +131,4 @@ Dans cette leçon, nous avons vu ensemble les bases de l’utilisation des modul
 - il existe de nombreux packages spécifiquement créés pour l’analyse de données.
 
 ## 5. Pour aller plus loin
-- Découvrir le module `random` avec [le cours OC](https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees/6252451-manipulez-des-nombres-aleatoires-avec-le-module-random)
+- Découvrir le module `random` avec [le cours OC](https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees/6252451-manipulez-des-nombres-aleatoires-avec-le-module-random) et faire le quizz qui suit 👣👣
