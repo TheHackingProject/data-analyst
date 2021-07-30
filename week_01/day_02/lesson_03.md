@@ -36,7 +36,7 @@ La librairie Pandas est très utilisée en data science car elle permet entre au
 - simplifier les manipulations de données avec les dataframes (valeurs manquantes, colonnes, etc…)
 - permettre d’agréger et fusionner les données très facilement avec grâce aux fonctions `groupby`, `agg` et `merge`
 - simplifier le calcul de moyenne, médiane, variance ou encore somme
-- bénéficier d’une indexation sophistiquée et simple d’usage
+- bénéficier d’une indexation sophistiquée et simple d’usage.
 
 Au-delà de la simplification d’usages complexes, Pandas est également facile à prendre en main et permet de lire simplement des données sous différents formats : fichiers CSV et texte, Microsoft Excel, bases de données SQL.
 Tu l'as compris, Pandas est très apprécié pour la multitude d’options qu’elle offre mais aussi pour sa prise en main rapide quand on débute. Si tu n'as pas encore tout saisi aux concepts de merge de tables, on va revoir ça demain avec SQL donc tu pourras te remettre dans le bain 🛁🛁
