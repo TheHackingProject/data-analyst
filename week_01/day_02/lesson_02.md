@@ -24,7 +24,7 @@ A chaque fois que tu en auras besoin, n'oublie pas de l'importer au début de to
 Le principe fondamental de NumPy est l'apport de tableaux multidimensionnels.
 
 Par définition un tableau (ou *array*) en anglais est une structure de données constituée d’une collection d’éléments (du même type) identifiés par un index.
-
+![Un exemple de tableau](https://www.google.fr/url?sa=i&url=https%3A%2F%2Fledatascientist.com%2Fdecouvrir-numpy%2F&psig=AOvVaw3T819HiGceeuiWiaJhufzj&ust=1627749273800000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj__-Cci_ICFQAAAAAdAAAAABAD)
  array
 source: https://codingwithalex.com/data-structures-everything-you-need-to-know-about-arrays/
 Les éléments de ce tableau sont stockés dans des emplacements de mémoire contigus. L’idée est de stocker plusieurs éléments du même type ensemble dans le but d’améliorer les performances de calcul.
