@@ -120,7 +120,7 @@ Les packages sont omniprésents dans l’analyse de données avec Python. En eff
 - faire tourner des algorithmes de machine learning plus ou moins compliqués ;
 etc.
 
-Et pour réaliser tout cela, il te sera indispensable de maîtriser les différents objets et fonctions issus des librairies correspondantes. Avec les autres ressources du jour, tu vas déjà découvrir deux librairies indispensables pour l'analyse de données.
+Et pour réaliser tout cela, il te sera indispensable de maîtriser les différents objets et fonctions issus des librairies correspondantes. Avec les autres ressources du jour, tu vas déjà découvrir deux librairies indispensables pour l'analyse de données. J'espère que tu es au taquet 💪💪
 
 ## 4. Points importants à retenir
 Dans cette leçon, nous avons vu ensemble les bases de l’utilisation des modules et des packages :
@@ -131,4 +131,4 @@ Dans cette leçon, nous avons vu ensemble les bases de l’utilisation des modul
 - il existe de nombreux packages spécifiquement créés pour l’analyse de données.
 
 ## 5. Pour aller plus loin
-- Découvrir le module random avec [le cours OC](https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees/6252451-manipulez-des-nombres-aleatoires-avec-le-module-random)
+- Découvrir le module `random` avec [le cours OC](https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees/6252451-manipulez-des-nombres-aleatoires-avec-le-module-random)
