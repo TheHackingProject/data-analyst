@@ -112,7 +112,7 @@ u = package1.module1.fonction1(3)
 print("u vaut", u)
 ```
 
-### 3.2.2 Les librairies dans l'analyse de données
+#### 3.2.2 Les librairies dans l'analyse de données
 Les packages sont omniprésents dans l’analyse de données avec Python. En effet, de nombreux packages ont été créés spécifiquement pour répondre aux problématiques du domaine. Au fur et à mesure de la formation data, tu vas être amené à :
 - manipuler vos données pour en faciliter l’analyse ;
 - réaliser différents graphiques pertinents représentant le comportement de vos données ;
@@ -123,7 +123,7 @@ etc.
 Et pour réaliser tout cela, il te sera indispensable de maîtriser les différents objets et fonctions issus des librairies correspondantes.
 
 ## 4. Points importants à retenir
-Dans ce chapitre, nous avons vu ensemble les bases de l’utilisation des modules et des packages :
+Dans cette leçon, nous avons vu ensemble les bases de l’utilisation des modules et des packages :
 - un module est un fichier contenant du code Python qui peut définir des fonctions, des classes et/ou des variables ;
 - vous pouvez importer n’importe quel module Python via le mot clé `import`;
 - pour utiliser une fonction d’un module, ou une classe ou une variable, il faut utiliser l’opérateur `.`;
