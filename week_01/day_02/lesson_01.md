@@ -117,7 +117,12 @@ print("u vaut", u)
 
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+Dans ce chapitre, nous avons vu ensemble les bases de l’utilisation des modules et des packages :
+- un module est un fichier contenant du code Python qui peut définir des fonctions, des classes et/ou des variables ;
+- vous pouvez importer n’importe quel module Python via le mot clé `import`;
+- pour utiliser une fonction d’un module, ou une classe ou une variable, il faut utiliser l’opérateur `.`;
+- un package est un ensemble de plusieurs modules Python ;
+- il existe de nombreux packages spécifiquement créés pour l’analyse de données.
 
 ## 5. Pour aller plus loin
 Quelques éléments en ligne pour aller plus loin
