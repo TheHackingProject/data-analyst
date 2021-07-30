@@ -22,14 +22,24 @@ ___
 ## 3. La ressource
 Parmi les bibliothèques Python de calcul scientifique, Pandas est la plus utile pour les opérations de Data Analyse et de Data Science. Etudions ses principales fonctionnalités et son object phare : le dataframe.
 
-### 3.1. Première sous partie
-blabla
+### 3.1. Passez de Numpy à Pandas
+Cf. [cette page](https://openclassrooms.com/fr/courses/4452741-decouvrez-les-librairies-python-pour-la-data-science/5558996-passez-de-numpy-a-pandas) du cours OC
 
-### 3.2. Deuxième sous partie
-blabla
+### 3.2. Manipulez les données contenues dans vos DataFrames
+Cf. [cette page](https://openclassrooms.com/fr/courses/4452741-decouvrez-les-librairies-python-pour-la-data-science/5574866-manipulez-les-donnees-contenues-dans-vos-dataframes) du cours OC
+
+### 3.3. Effectuez les opérations d'algèbre relationnelle sur les DataFrames
+Cf. [cette page](https://openclassrooms.com/fr/courses/4452741-decouvrez-les-librairies-python-pour-la-data-science/5559346-effectuez-les-operations-dalgebre-relationnelle-sur-les-dataframes) du cours OC
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+La librairie Pandas est très utilisée en data science car elle permet entre autres de : 
+- simplifier les manipulations de données avec les dataframes (valeurs manquantes, colonnes, etc…)
+- permettre d’agréger et fusionner les données très facilement avec grâce aux fonctions `groupby`, `agg` et `merge`
+- simplifier le calcul de moyenne, médiane, variance ou encore somme
+- bénéficier d’une indexation sophistiquée et simple d’usage
+
+Au-delà de la simplification d’usages complexes, Pandas est également facile à prendre en main et permet de lire simplement des données sous différents formats : fichiers CSV et texte, Microsoft Excel, bases de données SQL.
+Tu l'as compris, Pandas est très apprécié pour la multitude d’options qu’elle offre mais aussi pour sa prise en main rapide quand on débute. Si tu n'as pas encore tout saisi aux concepts de merge de tables, on va revoir ça demain avec SQL donc tu pourras te remettre dans le bain 🛁🛁
 
 ## 5. Pour aller plus loin
 Hier, tu as découvert Python. Aujourd'hui, NumPy et Pandas. C'est bon, tu peux donc commencer à te plonger dans des jeux de données comme un vrai Data Analyst 😳😳 
@@ -37,5 +47,7 @@ Hier, tu as découvert Python. Aujourd'hui, NumPy et Pandas. C'est bon, tu peux 
 Tu n'es pas sûr d'avoir tout compris ? Ou tu as tout compris mais tu ne sais pas comment mettre ensemble toutes ses connaissances ? 
 
 Pas d'inquiétude, ça va venir naturellement avec la pratique. Avant de te lancer dans le projet, je t'invite à regarder à quoi ressemble une analyse de données. Voici [un exemple d'analyse](https://moncoachdata.com/blog/analyse-de-donnees-sur-le-covid-19/) réalisée sur LA Covid-19 (oui tu nous pardonneras mais c'est très très à la mode en ce moment, impossible d'y échapper 🙄). Prends en de la graine car maintenant, c'est à toi de réaliser les projets ci-dessous 😮
+
+Tu peux aussi jeter un oeil [au Cookbook de la doc de Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html) si tu veux encore plus d'exemples.
 
 
