@@ -24,12 +24,16 @@ A chaque fois que tu en auras besoin, n'oublie pas de l'importer au début de to
 Le principe fondamental de NumPy est l'apport de tableaux multidimensionnels.
 
 Par définition un tableau (ou *array*) en anglais est une structure de données constituée d’une collection d’éléments (du même type) identifiés par un index.
-![Un exemple de tableau](https://www.google.fr/url?sa=i&url=https%3A%2F%2Fledatascientist.com%2Fdecouvrir-numpy%2F&psig=AOvVaw3T819HiGceeuiWiaJhufzj&ust=1627749273800000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj__-Cci_ICFQAAAAAdAAAAABAD)
- array
-source: https://codingwithalex.com/data-structures-everything-you-need-to-know-about-arrays/
-Les éléments de ce tableau sont stockés dans des emplacements de mémoire contigus. L’idée est de stocker plusieurs éléments du même type ensemble dans le but d’améliorer les performances de calcul.
 
->Attention, Il ne faut pas confondre les listes et les tableaux qui sont deux structures de données semblables.La grande différence entre ces deux structures de données se trouve au niveau des fonctions que vous pouvez leur appliquer. Par exemple, vous pouvez diviser un tableau (valeurs numériques) par 5, et chaque nombre dans le tableau sera divisé par 5 et vous aurez le résultat voulu. Cependant, si vous essayez de diviser une liste (valeurs numériques) par 5, l’interpréteur Python vous retournera une erreur.
+![Un exemple de tableau](https://codeforwin.org/wp-content/uploads/2015/07/array-and-array-index-representation.png)
+
+L’image ci-dessus nous donne un exemple d’un tableau à une dimension. Ainsi, on parlera de tableaux multidimensionnels lorsqu’on aura au minimum deux dimensions 🙃.
+
+Les éléments du tableau sont stockés dans des emplacements de mémoire contigus. L’idée est de stocker plusieurs éléments du même type ensemble dans le but d’améliorer les performances de calcul.
+
+>Attention, il ne faut pas confondre les listes et les tableaux. Contrairement aux listes en Python, les tableaux Numpy ne peuvent contenir des membres que d'un seul type. Par ailleurs, la grande différence entre ces deux structures de données se trouve au niveau des fonctions que vous pouvez leur appliquer. Par exemple, vous pouvez diviser un tableau (valeurs numériques) par 5, et chaque nombre dans le tableau sera divisé par 5 et vous aurez le résultat voulu. Cependant, si vous essayez de diviser une liste (valeurs numériques) par 5, l’interpréteur Python vous retournera une erreur.
+
+
 
 ### 3.2. Deuxième sous partie
 blabla
