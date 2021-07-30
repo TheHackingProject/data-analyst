@@ -90,7 +90,31 @@ Vous pouvez retrouver la liste complète des modules standards Python sur le sit
 
 
 ### 3.2. Les librairies
-blabla
+
+#### 3.2.1 Définition d'une librairie
+
+Quand on a un grand nombre de modules, il peut être intéressant de les organiser dans des dossiers. Un dossier qui rassemble des modules est appelé un *package* (paquet ou librairie en français).
+
+Une librairie est donc une collection, un ensemble de modules Python. Comme vous l’avez vu ci-dessus, un module est un fichier Python. Un package est simplement un dossier contenant plusieurs fichiers Python (.py) et un fichier additionnel nommé  __init__.py. Ce dernier différencie un package d’un dossier lambda contenant uniquement des codes Python.
+
+On va pouvoir importer des paquets de la même façon que des modules et accéder à un module ou à un élément en particulier en utilisant la syntaxe `nom-paquet.nom-module.nom-element`.
+
+Par exemple, on crée un dossier `package1` dans lequel on place le fichier `module1.py` suivant :
+```
+def fonction1(a):
+    return a**2
+```
+On peut ensuite utiliser la fonction `fonction1()` définie dans `module1.py,` en important `package1.module1` comme dans l’exemple qui suit :
+```
+import package1.module1
+
+u = package1.module1.fonction1(3)
+print("u vaut", u)
+```
+
+### 3.2.2 Les librairies dans l'analyse de données
+
+
 
 ## 4. Points importants à retenir
 La ressource en quelques points importants.
