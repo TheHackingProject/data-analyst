@@ -32,10 +32,10 @@ blabla
 La ressource en quelques points importants.
 
 ## 5. Pour aller plus loin
-Hier, vous avez découvert Python. Aujourd'hui, NumPy et Pandas. C'est bon, vous pouvez donc commencer à étudier des jeux de données comme un vrai Data Analyst 😳😳 
+Hier, tu as découvert Python. Aujourd'hui, NumPy et Pandas. C'est bon, tu peux donc commencer à te plonger dans des jeux de données comme un vrai Data Analyst 😳😳 
 
-Tu n'es pas sûr d'avoir tout compris ? Ou tu as tout compris mais tu ne sais pas comment rassembler toutes ses connaissances ? 
+Tu n'es pas sûr d'avoir tout compris ? Ou tu as tout compris mais tu ne sais pas comment mettre ensemble toutes ses connaissances ? 
 
-Pas d'inquiétude, ça va venir naturellement avec la pratique. Avant de te lancer dans le projet, je t'invite à regarder à quoi ressemble une analyse de données. Voici [un exemple d'analyse](https://moncoachdata.com/blog/analyse-de-donnees-sur-le-covid-19/) réalisée sur LA Covid-19 (oui tu nous pardonneras mais c'est très très à la mode en ce moment, impossible d'y échapper 🙄).
+Pas d'inquiétude, ça va venir naturellement avec la pratique. Avant de te lancer dans le projet, je t'invite à regarder à quoi ressemble une analyse de données. Voici [un exemple d'analyse](https://moncoachdata.com/blog/analyse-de-donnees-sur-le-covid-19/) réalisée sur LA Covid-19 (oui tu nous pardonneras mais c'est très très à la mode en ce moment, impossible d'y échapper 🙄). Prends en de la graine car maintenant, c'est à toi de réaliser les projets ci-dessous 😮
 
 
