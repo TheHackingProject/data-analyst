@@ -120,7 +120,7 @@ Les packages sont omniprésents dans l’analyse de données avec Python. En eff
 - faire tourner des algorithmes de machine learning plus ou moins compliqués ;
 etc.
 
-Et pour réaliser tout cela, il te sera indispensable de maîtriser les différents objets et fonctions issus des librairies correspondantes.
+Et pour réaliser tout cela, il te sera indispensable de maîtriser les différents objets et fonctions issus des librairies correspondantes. Avec les autres ressources du jour, tu vas déjà découvrir deux librairies indispensables pour l'analyse de données.
 
 ## 4. Points importants à retenir
 Dans cette leçon, nous avons vu ensemble les bases de l’utilisation des modules et des packages :
