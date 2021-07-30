@@ -23,23 +23,32 @@ A chaque fois que tu en auras besoin, n'oublie pas de l'importer au début de to
 ### 3.1. Les tableaux multidimensionnels
 Le principe fondamental de NumPy est l'apport de tableaux multidimensionnels.
 
-Par définition un tableau (ou *array*) en anglais est une structure de données constituée d’une collection d’éléments (du même type) identifiés par un index.
+Par définition, un tableau (ou *array*) en anglais est une structure de données constituée d’une collection d’éléments (du même type) identifiés par un index.
 
 ![Un exemple de tableau](https://codeforwin.org/wp-content/uploads/2015/07/array-and-array-index-representation.png)
 
-L’image ci-dessus nous donne un exemple d’un tableau à une dimension. Ainsi, on parlera de tableaux multidimensionnels lorsqu’on aura au minimum deux dimensions 🙃.
+L’image ci-dessus nous donne un exemple d’un tableau à 1 dimension. Ainsi, on parlera de tableaux multidimensionnels lorsqu’on aura au minimum deux dimensions 🙃. On peut définir la dimension d’un tableau comme le nombre d’indices (d’axes) nécessaires pour spécifier de manière unique un élément dans le tableau. 
 
-Les éléments du tableau sont stockés dans des emplacements de mémoire contigus. L’idée est de stocker plusieurs éléments du même type ensemble dans le but d’améliorer les performances de calcul.
+![Les dimensions](https://www.w3resource.com/w3r_images/numpy-array-xyz-axis.png)
+
+On voit ici des exemples de tableaux à une, deux et trois dimensions. *C’est un peu plus compliqué de représenter les dimensions supérieures à 3*.
+
 
 >Attention, il ne faut pas confondre les listes et les tableaux. Contrairement aux listes en Python, les tableaux Numpy ne peuvent contenir des membres que d'un seul type. Par ailleurs, la grande différence entre ces deux structures de données se trouve au niveau des fonctions que vous pouvez leur appliquer. Par exemple, vous pouvez diviser un tableau (valeurs numériques) par 5, et chaque nombre dans le tableau sera divisé par 5 et vous aurez le résultat voulu. Cependant, si vous essayez de diviser une liste (valeurs numériques) par 5, l’interpréteur Python vous retournera une erreur.
 
+Enfin, les attributs principaux d'un tablea sont les type de données (dtype), l'allure (shape), la taille (size), la taille de l'élément (itemsize), la donnée (data) et la dimension N (ndim). 
 
-
-### 3.2. Deuxième sous partie
+### 3.2. Manipulations de tableaux
 blabla
 
+### 3.2. Intérêt des tableaux
+
+
+
 ## 4. Points importants à retenir
-Comme on a pu le voir à travers ce tutoriel, NumPy permet une manipulation aisée et flexible des tableaux. Nous n'avons qu'effleurer la surface de cette fabuleuse librairie Python. NumPy contient davantage de caractéristiques à étudier pour sa redoutable efficacité. 
+NumPy permet une manipulation aisée et flexible des tableaux. Nous n'avons qu'effleurer la surface de cette fabuleuse librairie Python. NumPy contient davantage de caractéristiques à étudier pour sa redoutable efficacité. 
+
+Les éléments du tableau sont stockés dans des emplacements de mémoire contigus. L’idée est de stocker plusieurs éléments du même type ensemble dans le but d’améliorer les performances de calcul.
 
 ## 5. Pour aller plus loin
 Il existe aussi un guide complet sur ce sujet par le concepteur de NumPy lui-mêm : Guide to NumPy.
