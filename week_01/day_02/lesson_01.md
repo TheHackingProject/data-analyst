@@ -42,6 +42,7 @@ def fib2(n):   # return Fibonacci series up to n
     return result
 ```
 Maintenant, ouvrez un interpréteur et importez le module en tapant :
+
 `> import fibo`
 
 Vous pouvez donc appeler les fonctions via le nom du module :
@@ -53,7 +54,20 @@ Vous pouvez donc appeler les fonctions via le nom du module :
 ```
 
 
-#### 3.1.3 Exemples
+#### 3.1.3 Modules standards
+
+Comme tu l'as lu au début de cette leçon, nous importerons bien souvent des modules créés par d’autres développeurs ou des modules mis à notre disposition par Python lui même.
+En effet, il existe un grand nombre de modules préconçus et prêts à l’emploi qui sont fournis d’office avec Python. Ces modules vont étendre le langage et nous permettre de réaliser toutes sortes d’opérations, notamment grâce aux fonctions qu’ils nous fournissent. Pour importer un module Python, nous allons à nouveau tout simplement utiliser une instruction `import` comme si on importait l’un de nos modules.
+
+Les modules Python standards à connaitre sont les suivants :
+- Le module `cgi` (“Common Gateway Interface” ou “Interface de Passerelle Commune” en français) fournit des éléments permettant à des programmes Python de s’exécuter sur des serveurs HTTP ;
+- Le module `datetime` fournit des classes pour manipuler de façon simple ou plus complexe des dates et des heures ;
+- Le module `json` permet l’encodage et le décodage de données au format JSON ;
+- Le module `math` fournit un ensemble de fonctions permettant de réaliser des calculs mathématiques complexes ;
+- Le module `os` fournit une manière portable d’utiliser les fonctionnalités dépendantes du système d’exploitation ;
+- Le module `random` implémente des générateurs de nombres pseudo-aléatoires pour différentes distributions ;
+
+Vous pouvez retrouver la liste complète des modules standards Python sur le site de [la documentation](https://docs.python.org/fr/3/library/index.html).
 
 
 ### 3.2. Les librairies
