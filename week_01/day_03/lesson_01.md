@@ -12,9 +12,9 @@ A la fin de cette ressource, tu devrais :
 - Te projeter facilement dans le quotidien d'un Data Analyst, ce métier où l'on passe ses journées à miner dans des BDD.
 
 ## 2. Historique
-Très rapidement dans l'informatique, nous eûmes besoin de stocker les informations, traitées par nos programmes, quelque part : ainsi furent créées les bases de données. En 1970, un certain Edgar Codd, ingénieur chez IBM, a inventé un moyen de lier en base des tables entre elles. Ainsi, une entrée, comme un `Message`, pourrait être liée à une autre entrée, par exemple en le faisant appartenir à un `User`. Ce modèle de base de données relationnelle a révolutionné l'informatique puisqu'aujourd'hui, il reste le format le plus répandu dans les applications.
+Très rapidement dans l'informatique, nous eûmes besoin de stocker les informations, traitées par nos programmes, quelque part : ainsi furent créées les bases de données. En 1970, un certain Edgar Codd, ingénieur chez IBM, a inventé un moyen de lier en base des tables entre elles. Ainsi, une entrée, comme un `Message`, pourrait être liée à une autre entrée, par exemple en le faisant appartenir à un `User`. **Le modèle relationnel a révolutionné l'informatique puisqu'aujourd'hui, il reste le format le plus répandu dans les applications.**
 
-Au début des années 70, deux ingénieurs chez IBM nommées Donald Chamberlin et Raymond Boyce, grâce aux travaux de "Ted" Codd ont inventé un langage pour créer, modifier et lire une base de donnée relationnelle : le SQL ou Structured Query Language. Leur invention est devenue tout aussi importante que celle de Mr Codd dans le monde de l'informatique : aujourd'hui le SQL est le langage de gestion de données le plus utilisé sur notre petite planète.
+Au début des années 70, deux ingénieurs chez IBM nommées Donald Chamberlin et Raymond Boyce, grâce aux travaux de "Ted" Codd ont inventé **un langage pour créer, modifier et lire une base de donnée relationnelle : le SQL** ou Structured Query Language. Leur invention est devenue tout aussi importante que celle de Mr Codd dans le monde de l'informatique : aujourd'hui le SQL est le langage de gestion de données le plus utilisé sur notre petite planète.
 
 ## 3. La ressource
 ### 3.1. Introduction aux bases de données
@@ -25,16 +25,16 @@ Nous allons ici commencer à étudier de vraies bases de données. Pour te faire
 
 Comme tu l'as compris, une base de données permet de stocker facilement de la donnée et d'y avoir accès. On peut se représenter une base de données comme un ensemble de gros tableurs Excel, avec des lignes et des colonnes, qu'on appellerait des tables.
 
-Voici un exemple d'une table d'utilisateurs (`users`) :
+> Le SGBD est un outil logiciel assurant l'interface Utilisateur/Base de données. Parmi les logiciels de base de données les plus célèbres, on peut citer : MySQL, PostgreSQL, SQL Server, Oracle, SQLite, etc.
 
-id	first_name	last_name	age	city
-1	Martin	Dupond	27	Paris
----	---	---	---	---
-2	Jack	Quilley	38	London
----	---	---	---	---
-3	Vittorio	Piccolini	18	Milan
----	---	---	---	---
-Tu remarqueras que la première colonne est un peu étonnante : elle s'appelle "id". Son rôle est d'ordonner les éléments de la BDD et de facilement y faire référence : l'id est un identifiant unique associé à chaque entrée dans la table.
+___
+
+🔴 ALERTE 🔴
+
+Outre les SGBD classiques (ou SGBDr avec r pour relationnelles), on parle aujourd'hui de NoSQL et de big data. Il n'y a donc pas que les SGBDr et le langage SQL pour manipuler les données. Mais nous verrons cela demain. Aujourd'hui, nous restons dans le monde des bases de données relationnelles.
+
+___
+
 
 3.1.2. La base de données relationnelle
 Prenons l'exemple d'une base de données contenant une table de professeurs. Chaque professeur a des attributs comme un nom, un téléphone, etc. Mais on aimerait aussi que notre professeur donne des cours. Chaque cours aura une heure de début, un nom, etc. Plutôt que de faire une gigantesque table contenant chaque professeur et ses cours, il est plus simple d'avoir deux tables distinctes : une pour les profs (nommée teachers) et une pour les cours (nommée classes). Ensuite, pour savoir quel professeur donne quel cours, ça serait top de pouvoir lier les tables entre elles comme le schéma ci-dessous :
