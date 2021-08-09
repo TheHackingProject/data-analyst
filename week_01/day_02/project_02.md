@@ -17,20 +17,23 @@ Les fichiers que t'a demandé de télécharger ta directrice sont disponibles su
 
 ___
 
-😑😑 Kaggle, kezako ? 😑😑
+😑😑  Kaggle, kezako ? 😑😑
 
-Kaggle est une plateforme web qui organise des compétitions en data science. Pour cette raison, on trouve énormément de jeux de données sur cette plateforme. Tu seras amené plusieurs fois au cours de la formation à aller cette plateforme. Nous te recommandons son usage sans modération. 
+Kaggle est une plateforme web qui organise des compétitions en data science. Pour cette raison, on trouve énormément de jeux de données sur cette plateforme. Tu seras amené plusieurs fois au cours de la formation à aller cette plateforme. Nous te recommandons d'utiliser Kaggle sans modération. 
 
 ___
 
 
-
 ### 2.2. Répondre aux questions posées par ton manager
 
+- Visualiser chaque fichier csv et décrire son contenu. 
+- Combien d'années sont prises en compte par chaque classement ? 
+- Combien d'universités sont prises en compte par chaque classement ?
+- Quel est le classement de l'Université de Strabourg dans chacun des 3 classements disponibles ?
 
-klnlk
 
-### 2.3. Répondre aux questions posées par ton manager
+### 2.3. Donner du sens aux data
+
 
 
 ## 3. Rendu attendu
