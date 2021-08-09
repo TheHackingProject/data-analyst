@@ -18,14 +18,16 @@ Au début des années 70, deux ingénieurs chez IBM nommées Donald Chamberlin e
 
 ## 3. La ressource
 ### 3.1. Introduction aux bases de données
-#### 3.1.1. Un gros classeur Excel
+
 Suite aux projets que tu as réalisés avec les fichiers csv, tu peux imaginer que stocker tous les objets liés à un site web dans un fichier CSV, c'est fonctionnel mais pas toujours très pratique. En effet, supprimer une entrée n'est pas simple, chercher un élément donné peut être long et encore, tu n'as pas testé avec des milliers de lignes…
 
 Nous allons ici commencer à étudier de vraies bases de données. Pour te faire un avis, regarde cette vidéo de [LucidChart](https://www.youtube.com/watch?v=wR0jg0eQsZA) où ils expliquent le concept des bases de données. Ensuite, je t'invite à regarder cette [vidéo de Khan Academy](https://www.youtube.com/watch?v=IXycPq7MnwE) qui explique les bases de données.
 
 Comme tu l'as compris, une base de données permet de stocker facilement de la donnée et d'y avoir accès. On peut se représenter une base de données comme un ensemble de gros tableurs Excel, avec des lignes et des colonnes, qu'on appellerait des tables.
 
-> Le SGBD est un outil logiciel assurant l'interface Utilisateur/Base de données. Parmi les logiciels de base de données les plus célèbres, on peut citer : MySQL, PostgreSQL, SQL Server, Oracle, SQLite, etc.
+> Techniquement, une base de données n'est que votre ensemble de données. Le système de gestion de base de données (SGBD) est le logiciel que vous utilisez pour structurer et gérer ces données. Le simple terme de « base de données » est couramment utilisé pour désigner un SGBD. Cet abus de langage est assez répandu et permet d'éviter les phrases interminables. 
+
+Le SGBD est donc un outil logiciel assurant l'interface Utilisateur/Base de données. Parmi les logiciels de base de données les plus célèbres, on peut citer : MySQL, PostgreSQL, SQL Server, Oracle, SQLite, etc.
 
 ___
 
@@ -36,7 +38,12 @@ Outre les SGBD classiques (ou SGBDr avec r pour relationnelles), on parle aujour
 ___
 
 
-3.1.2. La base de données relationnelle
+### 3.2. Le modèle relationnel 
+
+
+
+### 3.3. SQL
+
 Prenons l'exemple d'une base de données contenant une table de professeurs. Chaque professeur a des attributs comme un nom, un téléphone, etc. Mais on aimerait aussi que notre professeur donne des cours. Chaque cours aura une heure de début, un nom, etc. Plutôt que de faire une gigantesque table contenant chaque professeur et ses cours, il est plus simple d'avoir deux tables distinctes : une pour les profs (nommée teachers) et une pour les cours (nommée classes). Ensuite, pour savoir quel professeur donne quel cours, ça serait top de pouvoir lier les tables entre elles comme le schéma ci-dessous :
 
 
@@ -51,6 +58,6 @@ Relation 1-1 : Assez rare, elle sert à modéliser l'exclusivité. Par exemple :
 Relation 1-N : Très courante, elle sert à modéliser une appartenance. Par exemple : dans une hypothétique base de données "France", chaque habitant vit dans une ville unique mais chaque ville a plusieurs habitants. C'est du 1-N entre la table cities et la table people.
 Relation N-N : Très courante aussi, elle permet de modéliser un lien mais sans aucune unicité. Par exemple : un docteur a plusieurs patients et un patient peut avoir plusieurs docteurs. C'est du N-N entre la table doctors et la table patients.
 
-3.2. SQL
+
 
 
