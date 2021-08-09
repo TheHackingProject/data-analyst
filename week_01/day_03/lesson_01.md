@@ -40,29 +40,40 @@ ___
 
 ### 3.2. Le modèle relationnel 
 
-Pour bien comprendre les concepts fondamentaux du modèle relationnel, nous te demandons de suivre le cours OpenClassrooms [Initiez-vous à l'algèbre relationnelle avec le langage SQL](https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql). Commence ici par faire les deux premiers chapitres. Ils pourront te paraître théoriques 
+Pour bien comprendre les concepts fondamentaux du modèle relationnel, nous te demandons de suivre le cours OpenClassrooms [Initiez-vous à l'algèbre relationnelle avec le langage SQL](https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql). Commence par faire les deux premiers chapitres. Ils pourront te paraître théoriques mais ils constitueront un très bon socle de connaissances pour appréhender ensuite la pratique de SQL et de Python. Le cours est très bien fait et surtout il est vraiment réalisé pour des futurs Data Analysts. 
 
-Si on récapitule la terminologie du monde relationnel que l'on vient de voir, 
+Une fois les deux premiers chapitres réalisés (jusqu'au Quizz "xxxx), tu pourras lire ce récapitulatif de toute la terminologie du monde relationnel : 
 
-
-
-
-### 3.3. SQL
-
-Prenons l'exemple d'une base de données contenant une table de professeurs. Chaque professeur a des attributs comme un nom, un téléphone, etc. Mais on aimerait aussi que notre professeur donne des cours. Chaque cours aura une heure de début, un nom, etc. Plutôt que de faire une gigantesque table contenant chaque professeur et ses cours, il est plus simple d'avoir deux tables distinctes : une pour les profs (nommée teachers) et une pour les cours (nommée classes). Ensuite, pour savoir quel professeur donne quel cours, ça serait top de pouvoir lier les tables entre elles comme le schéma ci-dessous :
+copier-coller cours GK ...
 
 
-En y regardant de plus près, nous n'aurons pas pu mettre toutes ces informations dans une seule table car chaque professeur peut avoir N cours. Parfois il en a un seul (N=1), parfois aucun (N=0), parfois dix (N=10). Il est donc impossible de mettre toutes les informations d'un professeur sur une seule ligne de la table teachers car on ne connaît pas le nombre de colonnes nécessaires (vu qu'il n'y a pas de nombre maximum de cours qu'un prof peut avoir).
-
-Au final, c'est un cas qu'on rencontre couramment quand on fait face à des BDD complexes : on doit créer des tables et les lier entre elles. C'est ce que l'on appelle les bases de données relationnelles.
-Dans cette vidéo de O'Reilly, tu pourras comprendre ce qu'est qu'une base de données relationnelle.
-
+Voir si on laisse ça : 
 Il existe trois types de relations entre les tables d'une base de données :
-
 Relation 1-1 : Assez rare, elle sert à modéliser l'exclusivité. Par exemple : dans une hypothétique base de données "session THP en cours", un moussaillon a un unique ordinateur et chaque ordinateur appartient à un moussaillon. Bref, c'est du 1-1 entre 2 tables cabin_boys et computers.
 Relation 1-N : Très courante, elle sert à modéliser une appartenance. Par exemple : dans une hypothétique base de données "France", chaque habitant vit dans une ville unique mais chaque ville a plusieurs habitants. C'est du 1-N entre la table cities et la table people.
 Relation N-N : Très courante aussi, elle permet de modéliser un lien mais sans aucune unicité. Par exemple : un docteur a plusieurs patients et un patient peut avoir plusieurs docteurs. C'est du N-N entre la table doctors et la table patients.
 
+Dans cette vidéo de O'Reilly, tu pourras comprendre ce qu'est qu'une base de données relationnelle.
+
+### 3.3. SQL
+
+2 autre chapitres OC 
+
+
+
+
+
+
+## 4. Points importants à retenir
+
+
+## 5. Pour aller plus loin
+Voici quelques ressources pour être au top du SQL.
+
+Le cours de W3 Schools, qui contient une doc exhaustive de ce que l'on veut faire en SQL. Très pratique pour vérifier des syntaxes de méthodes.
+Plein d'exercices chez SQL Zoo, idéal pour s'entraîner et se sentir un Data-Analyst
+SQL avec des exercices
+Le cours de Khan Academy
 
 
 
