@@ -1,6 +1,6 @@
-# SQL pour débutants
+# Bases de données et SGBD pour débutants
 
-Aujourd'hui nous allons découvrir les bases de données et SQL.
+Aujourd'hui nous allons découvrir les bases de données et les SGBD.
 
 ## 1. Introduction
 Quand tu crées des applications web, il est indispensable de stocker les données (utilisateurs, potins, etc.) quelque part. Dans cette ressource nous allons t'apprendre comment fonctionnent les bases de données avant de voir pourquoi et comment lier des tables (morceaux de bases de données) entre elles. À l'avenir, nous nous focaliserons uniquement sur SQL quand il s'agira de bases de données : c'est LE langage de référence pour leur gestion.
