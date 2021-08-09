@@ -40,6 +40,11 @@ ___
 
 ### 3.2. Le modèle relationnel 
 
+Pour bien comprendre les concepts fondamentaux du modèle relationnel, nous te demandons de suivre le cours OpenClassrooms [Initiez-vous à l'algèbre relationnelle avec le langage SQL](https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql). Commence ici par faire les deux premiers chapitres. Ils pourront te paraître théoriques 
+
+Si on récapitule la terminologie du monde relationnel que l'on vient de voir, 
+
+
 
 
 ### 3.3. SQL
