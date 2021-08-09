@@ -37,7 +37,7 @@ Il te demande alors un nouveau travail : peux-tu proposer deux sources de donné
 
 > Par exemple, si tu trouves un site qui donne la fréquentation de tous les musées français, je pense que la responsable de la communication sera contente de pouvoir ajouter dans son article un top 5 des musées les plus fréquentés, ainsi qu'un flop 5 de ceux où personne ne va jamais 👹👹.
 
-Ajoute à la suite de ton fichier Jupyter une cellule au format Markdown qui détaille les deux sources de données existantes qu'il serait utile d'ajouter à notre fichier, sur quel site on peut les obtenir et ce qu'elles apporteraient dans l'analyse. 
+Ajoute à la suite de ton fichier Jupyter une cellule au format Markdown qui détaille les deux sources de données existantes qu'il serait utile d'ajouter au fichier csv initial, sur quel site on peut les obtenir et ce qu'elles apporteraient dans l'analyse. 
 
 Cela permettra à ton manager d'évaluer tes capacités de prise d'initiative et de recherche sur le web.
 
