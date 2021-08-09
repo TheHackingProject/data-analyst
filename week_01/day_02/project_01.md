@@ -1,4 +1,4 @@
-# Le tour des musées de France !
+# Le tour de France des musées !
 
 Ca y est, tu es déjà armé pour être Data Analyst, niveau junior. Tu vas aujourd'hui analyser ton premier fichier csv 👀
 
