@@ -41,7 +41,7 @@ ___
 Tu as réussi à trouver une réponse à toutes ces questions ? 
 Il est temps maintenant que tu t'habitues à fonctionner en pleine autonomie 👉👉. 
 
-La directrice de l'équipe data te demande de lui apporter 5 informations intéressantes que l'on peut sortir de toutes ces données. Par exemple, tu pourrais calculer que "les 20 meilleures universités au classement du Times ont un taux de parité relativement peu élevé (30% vs 45% en moyenne)". Ou alors que Strasbourg fait partie du 10% des universités présentes dans le classement qui ont le moins d'étudiants internationaux. 
+La directrice de l'équipe data te demande de lui apporter 5 informations intéressantes qui pourraient très utiles à la direction de l'Université pour orienter leur stratégie dans les années à venir. Par exemple, tu pourrais calculer que "les 20 meilleures universités au classement du Times ont un taux de parité relativement peu élevé (30% vs 45% en moyenne)". Ou alors que "l'université de Strasbourg fait partie du 10% des universités présentes dans le classement qui ont le moins d'étudiants internationaux". 
 ❌ *Ces données sont données à titre indicatif mais elles sont erronnées, à toi de chercher ce qui est intéressant dans tous ces fichiers et de renvoyer les bonnes données !*
 
 
