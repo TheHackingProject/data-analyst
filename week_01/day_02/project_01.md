@@ -29,7 +29,7 @@ Ton manager t'a donné une liste de questions pour te rendre la tâche plus conc
 - Combien de musées ont "Napoléon" dans leur nom ?
 
 ### 2.3. Proposer des axes d'analyse supplémentaires
-En tant que Data Analyst, tu dois t'habituer à être force de proposition, te dit ton manager. Pour cela, il te demande de proposer trois pistes d'analyse complémentaires qui pourraient enrichier le fichier. Ajoute dans ton fichier Markdown 3 sources de données existantes qu'il serait utile d'ajouter à notre fichier, comment tu penses réussir à les récupérer et ce qu'elles apporteraient dans l'analyse. Cela lui permettra d'évaluer tes capacités de recherche sur le web.
+En tant que Data Analyst, tu dois t'habituer à être force de proposition, te dit ton manager. Pour cela, il te demande de proposer trois pistes d'analyse complémentaires qui pourraient enrichir le fichier. Ajoute dans ton fichier Markdown 3 sources de données existantes qu'il serait utile d'ajouter à notre fichier, comment tu penses réussir à les récupérer et ce qu'elles apporteraient dans l'analyse. Cela lui permettra d'évaluer tes capacités de recherche sur le web.
 
 Enfin, s'il te reste du temps, il t'encourage à essayer d'intégrer ces données dans ton Markdown, et à commencer l'analyse ... 👻👻
 
