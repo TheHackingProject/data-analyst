@@ -8,10 +8,8 @@ Il y a un des aspects du web que tu n'as pas encore vu lors des 3 premières sem
 Or quand tu crées des applications web, il est indispensable de stocker les données (utilisateurs, messages échangés, etc.) quelque part. Dans cette ressource nous allons t'apprendre comment fonctionnent les bases de données et les logiciels dédiés au stockage des données : les SGBD (ou systèmes de gestions de bases de données).
 
 A la fin de cette ressource, tu devrais :
-
-Savoir comment marche une base de données, un élément que tu retrouveras dans TOUTE application web ;
-
-Te projeter facilement dans le quotidien d'un Data Analyst, ce métier où l'on passe ses journées à miner dans des BDD.
+- Savoir comment marche une base de données, un élément que tu retrouveras dans TOUTE application web ;
+- Te projeter facilement dans le quotidien d'un Data Analyst, ce métier où l'on passe ses journées à miner dans des BDD.
 
 ## 2. Historique
 Très rapidement dans l'informatique, nous eûmes besoin de stocker les informations, traitées par nos programmes, quelque part : ainsi furent créées les bases de données. En 1970, un certain Edgar Codd, ingénieur chez IBM, a inventé un moyen de lier en base des tables entre elles. Ainsi, une entrée, comme un Message, pourrait être liée à une autre entrée, par exemple en le faisant appartenir à un User. Ce modèle de base de données relationnelle a révolutionné l'informatique puisqu'aujourd'hui, il reste le format le plus répandu dans les applications.
