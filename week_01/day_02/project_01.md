@@ -33,7 +33,9 @@ Ton manager t'a donné une liste de questions pour te rendre la tâche plus conc
 ### 2.3. Proposer deux axes d'analyse supplémentaires
 Tu rends la réponse aux 10 questions mais ton manager n'est pas totalement satisfait. Il trouve que cela manque encore d'informations vraiment croustillantes pour le grand public.
 
-Il te demande alors un nouveau travail : peux-tu proposer deux sources de données complémentaires qui pourraient enrichir le fichier ? Les développeurs se chargeront de récupérer les données quand tu les auras identifiées. Par exemple, si tu trouves un site qui donne la fréquentation de tous les musées français, je pense que la responsable de la communication sera contente de pouvoir ajouter dans son article un top 5 des musées les plus fréquentés, ainsi qu'un flop 5 de ceux où personne ne va jamais 👹👹.
+Il te demande alors un nouveau travail : peux-tu proposer deux sources de données complémentaires qui pourraient enrichir le fichier ? Les développeurs se chargeront de récupérer les données quand tu les auras identifiées. 
+
+> Par exemple, si tu trouves un site qui donne la fréquentation de tous les musées français, je pense que la responsable de la communication sera contente de pouvoir ajouter dans son article un top 5 des musées les plus fréquentés, ainsi qu'un flop 5 de ceux où personne ne va jamais 👹👹.
 
 Ajoute à la suite de ton fichier Jupyter une cellule au format Markdown qui détaille les deux sources de données existantes qu'il serait utile d'ajouter à notre fichier, sur quel site on peut les obtenir et ce qu'elles apporteraient dans l'analyse. 
 
