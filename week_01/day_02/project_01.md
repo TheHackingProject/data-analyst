@@ -3,7 +3,7 @@
 Ca y est, tu es déjà armé pour être Data Analyst, niveau junior. Tu vas aujourd'hui analyser ton premier fichier csv 👀
 
 ## 1. Introduction
-Tu viens d'être recruté en tant que stagiaire Data Analyst par le Ministère de la Culture. Le précédent stagiaire avait réussi, grâce à un script Python, à récolter le maximum d'informations sur les musées français. 
+Tu viens d'être recruté en tant que stagiaire Data Analyst par le Ministère de la Culture. Le précédent stagiaire avait réussi à récolter le maximum d'informations sur les musées français. 
 Comme première mission, ton manager te demande d'analyser avec Python le fichier csv obtenu et d'essayer de trouver des informations intéressantes dans ce fichier.
 
 En fait, la 17ème Nuit européenne des musées a eu lieu le samedi 3 juillet 🏛🏛🏛. Pour revenir sur cet événement annuel, la personne responsable de la communication a été sollicitée pour écrire un article -je cite- "qui balance des infos insolites sur les musées en France". 
@@ -14,7 +14,7 @@ Mais elle ne sait pas vraiment quoi raconter ... Elle espère que ton analyse de
 ### 2.1. Télécharger le fichier csv et l'ouvrir sur ton notebook
 Le travail réalisé par le stagiaire précédent a été mis en ligne sur la plateforme Opendata du gouvernement : data.gouv.fr. Tu peux retrouver son travail [ici](https://www.data.gouv.fr/fr/datasets/liste-des-musees-de-france-1/) et télécharger le fichier csv concernant les musées de France métropolitaine.
 
-> Si tu es curieux, n'hésite pas à aller regarder le script Python qui a été réalisé et pourquoi il a fait cela. Cela te permettra de t'imprégner de la mentalité open source et de voir ce que tu sauras faire à la fin de la formation. 
+> Si tu es curieux, n'hésite pas à aller regarder le script Python qui a été réalisé et pourquoi il a fait cela. Cela te permettra de t'imprégner de la mentalité open source et de voir le genre de scripts que tu sauras faire à la fin de la formation. 
 
 ### 2.2. Répondre aux questions posées par ton manager
 Ton manager t'a donné une liste de questions pour te rendre la tâche plus concrète. Il t'a demandé de répondre à ces questions dans un premier temps en laissant apparentes tes requêtes sur le Notebook.
