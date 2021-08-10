@@ -61,14 +61,11 @@ Télécharge la base de données, ainsi que le logiciel SQLiteStudio, et réalis
 
 > Tu te demandes pourquoi tu ne vois qu'une partie du langage SQL (LMD, et plus particulièrement la partie lecture des données) ? En fait, c'est l'action principale qui te sera demandée en tant que Data Analyst : interroger la base de données pour en tirer des informations actualisées. Mais ne t'inquiète pas, on te détaillera les autres tâches dans la journée de demain 😏😏.
 
-
-
-
-
-
+A la fin du cours OpenClassrooms, tu auras vu toutes les requêtes principales et tu pourras maintenant pratiquer en pleine autonomie le SQL 😊😊.
 
 
 ## 4. Points importants à retenir
+
 
 
 ## 5. Pour aller plus loin
