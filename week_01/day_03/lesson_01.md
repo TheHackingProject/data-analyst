@@ -66,7 +66,9 @@ A la fin du cours OpenClassrooms, tu auras vu toutes les requêtes principales e
 
 ## 4. Points importants à retenir
 
+- Savoir pratiquer SQL. Pour cela, une "cheet sheet" est toujours utile pour se rappeler la syntaxe.
 
+![ee](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-Cheet-Sheet-1.png)
 
 ## 5. Pour aller plus loin
 Voici quelques ressources pour être au top du SQL.
