@@ -59,7 +59,7 @@ Pour que tu maîtrises les requêtes principales de ce langage, nous te demandon
 
 Télécharge la base de données, ainsi que le logiciel SQLiteStudio, et réalise le projet fil rouge autour des Panama Papers 👁👁.
 
-> Tu te demandes pourquoi tu ne vois qu'une partie du langage SQL (LMD, et plus particulièrement la partie lecture des données) ? En fait, c'est l'action principale qui te seront demandées en tant que Data Analyst : interroger la base de données pour en tirer des informations actualisées. Mais ne t'inquiète pas, on te détaillera les autres tâches dans la journée de demain 😏😏.
+> Tu te demandes pourquoi tu ne vois qu'une partie du langage SQL (LMD, et plus particulièrement la partie lecture des données) ? En fait, c'est l'action principale qui te sera demandée en tant que Data Analyst : interroger la base de données pour en tirer des informations actualisées. Mais ne t'inquiète pas, on te détaillera les autres tâches dans la journée de demain 😏😏.
 
 
 
