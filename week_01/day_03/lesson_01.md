@@ -57,7 +57,7 @@ SQL est donc le langage adapté aux bases de données relationnelles.
 
 Pour que tu maîtrises les requêtes principales de ce langage, nous te demandons de faire les deux derniers chapitres du cours OpenClassrooms. Ils commencent [ici](https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql/4538696-comprenez-les-bases-de-donnees-sql).
 
-Télécharge la base de données, ainsi que le logiciel SQLiteStudio, et réalise le projet fil rouge autour des Panama Papers 👁👁.
+Télécharge la base de données, ainsi que le logiciel SQLiteStudio (si vraiment tu n'arrives pas à le télécharger, tu peux toujours utiliser [SQL Online Compiler](https://sqliteonline.com/)). Lis bien le projet fil rouge autour des Panama Papers car c'est le même jeu de données que tu devras étudier cet après-midi dans ton projet 👁👁.
 
 > Tu te demandes pourquoi tu ne vois qu'une partie du langage SQL (LMD, et plus particulièrement la partie lecture des données) ? En fait, c'est l'action principale qui te sera demandée en tant que Data Analyst : interroger la base de données pour en tirer des informations actualisées. Mais ne t'inquiète pas, on te détaillera les autres tâches dans la journée de demain 😏😏.
 
