@@ -5,7 +5,7 @@ Aujourd'hui nous allons découvrir les bases de données, le modèle relationnel
 ## 1. Introduction
 Il y a un des aspects du web que tu n'as pas encore vu lors des 3 premières semaines d'introduction au code : il s'agit des bases de données ! 
 
-Or quand tu crées des applications web, il est indispensable de stocker les données (utilisateurs, messages échangés, etc.) quelque part. Dans cette ressource nous allons t'apprendre comment fonctionnent les bases de données et les logiciels dédiés au stockage des données : les SGBD (ou systèmes de gestions de bases de données).
+Or quand tu crées des applications web, il est indispensable de stocker les données (utilisateurs, messages échangés, etc.) quelque part. Dans cette ressource, nous allons t'apprendre comment fonctionnent les bases de données et les logiciels dédiés au stockage des données : les SGBD (ou systèmes de gestion de bases de données).
 
 A la fin de cette ressource, tu devrais :
 - Savoir comment marche une base de données, un élément que tu retrouveras dans TOUTE application web ;
@@ -25,7 +25,7 @@ Nous allons ici commencer à étudier de vraies bases de données. Pour te faire
 
 Comme tu l'as compris, une base de données permet de stocker facilement de la donnée et d'y avoir accès. On peut se représenter une base de données comme un ensemble de gros tableurs Excel, avec des lignes et des colonnes, qu'on appellerait des tables.
 
-> Techniquement, une base de données n'est que votre ensemble de données. Le système de gestion de base de données (SGBD) est le logiciel que vous utilisez pour structurer et gérer ces données. Le simple terme de « base de données » est couramment utilisé pour désigner un SGBD. Cet abus de langage est assez répandu et permet d'éviter les phrases interminables. 
+> Techniquement, une base de données n'est que ton ensemble de données. Le système de gestion de base de données (SGBD) est le logiciel qu'on utilise pour structurer et gérer ces données. Le simple terme de « base de données » est couramment utilisé pour désigner un SGBD. Cet abus de langage est assez répandu et permet d'éviter les phrases interminables. 
 
 Le SGBD est donc un outil logiciel assurant l'interface Utilisateur/Base de données. Parmi les logiciels de base de données les plus célèbres, on peut citer : MySQL, PostgreSQL, SQL Server, Oracle, SQLite, etc.
 
@@ -40,24 +40,28 @@ ___
 
 ### 3.2. Le modèle relationnel 
 
-Pour bien comprendre les concepts fondamentaux du modèle relationnel, nous te demandons de suivre le cours OpenClassrooms [Initiez-vous à l'algèbre relationnelle avec le langage SQL](https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql). Commence par faire les deux premiers chapitres. Ils pourront te paraître théoriques mais ils constitueront un très bon socle de connaissances pour appréhender ensuite la pratique de SQL et de Python. Le cours est très bien fait et surtout il est vraiment réalisé pour des futurs Data Analysts. 
+Pour bien comprendre les concepts fondamentaux du modèle relationnel, nous te demandons de suivre le cours OpenClassrooms [Initiez-vous à l'algèbre relationnelle avec le langage SQL](https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql). Commence par faire les deux premiers chapitres. Ils pourront te paraître théoriques mais ils constituent un très bon socle de connaissances pour appréhender ensuite la pratique de SQL, et même de Python. Le cours est très bien fait et surtout il est vraiment réalisé pour des futurs Data Analysts. 
 
-Une fois les deux premiers chapitres réalisés (jusqu'au Quizz "xxxx), tu pourras lire ce récapitulatif de toute la terminologie du monde relationnel : 
+Une fois les deux premiers chapitres réalisés (jusqu'au Quiz "L'algèbre relationnelle"), tu peux lire ce récapitulatif de  la terminologie du monde relationnel : 
 
-copier-coller cours GK ...
+- Un **SGBDR** est un logiciel pouvant gérer plusieurs bases de données dans une entreprise. Il permet de construire une base, d'assurer son intégrité et ses sauvegardes, de stocker les données de cette base, de manipuler les données et ce via le langage **SQL** (Structured Query Language). Il s'agit donc d'une interface entre l'homme et la machine.
+- La structure qui permet de stocker les données se nomme une **table**. Une table contient des **colonnes** et des **lignes**. Une tables a toujours une **clé**, que l'on nomme clé primaire. Elle peut avoir plusieurs index. 
+- Un **index** est un ensemble de pointeurs, permettant de récupérer les données plus rapidement que s'il fallait lire séquentiellement toutes les lignes d'une table. Il pointe vers une ligne en particulier.
+- Les tables peuvent être reliées entre elles par des **contraintes**, dites contraintes d'intégrité référentielle. Quand le concepteur crée une table, il définit son nom, ses colonnes, sa clé. Le SGBDR crée la structure demandée, ainsi qu'une contraine sur la colonne clé (pour éviter les clés en double), plus un index sur cette colonne clé.
+- Enfin, lorsque le concepteur créer une nouvelle base, le SGBDR crée un **journal** pour mémoriser toutes les actions effectuées sur cette base. L'administrateur de la base pourra définir quel **utilisateur** est habilité à manipuler les données de l'entreprise.
 
-
-Voir si on laisse ça : 
-Il existe trois types de relations entre les tables d'une base de données :
-Relation 1-1 : Assez rare, elle sert à modéliser l'exclusivité. Par exemple : dans une hypothétique base de données "session THP en cours", un moussaillon a un unique ordinateur et chaque ordinateur appartient à un moussaillon. Bref, c'est du 1-1 entre 2 tables cabin_boys et computers.
-Relation 1-N : Très courante, elle sert à modéliser une appartenance. Par exemple : dans une hypothétique base de données "France", chaque habitant vit dans une ville unique mais chaque ville a plusieurs habitants. C'est du 1-N entre la table cities et la table people.
-Relation N-N : Très courante aussi, elle permet de modéliser un lien mais sans aucune unicité. Par exemple : un docteur a plusieurs patients et un patient peut avoir plusieurs docteurs. C'est du N-N entre la table doctors et la table patients.
-
-Dans cette vidéo de O'Reilly, tu pourras comprendre ce qu'est qu'une base de données relationnelle.
 
 ### 3.3. SQL
 
-2 autre chapitres OC 
+SQL est donc le langage adapté aux bases de données relationnelles.
+
+Pour que tu maîtrises les requêtes principales de ce langage, nous te demandons de faire les deux derniers chapitres du cours OpenClassrooms. Ils commencent [ici](https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql/4538696-comprenez-les-bases-de-donnees-sql).
+
+Télécharge la base de données, ainsi que le logiciel SQLiteStudio, et réalise le projet fil rouge autour des Panama Papers 👁👁.
+
+> Tu te demandes pourquoi tu ne vois qu'une partie du langage SQL (LMD, et plus particulièrement la partie lecture des données) ? En fait, c'est l'action principale qui te seront demandées en tant que Data Analyst : interroger la base de données pour en tirer des informations actualisées. Mais ne t'inquiète pas, on te détaillera les autres tâches dans la journée de demain 😏😏.
+
+
 
 
 
