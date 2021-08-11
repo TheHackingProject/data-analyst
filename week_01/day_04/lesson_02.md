@@ -90,4 +90,6 @@ WHERE cities.name = 'Paris';
 ```
 
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+- Pour approfondir la modélisation de bases de données, cf. le cours [Modélisez et implémentez une base de données relationnelle avec UML](https://openclassrooms.com/fr/courses/4055451-modelisez-et-implementez-une-base-de-donnees-relationnelle-avec-uml)
+- Pour approfondir la gestion de bases de données, cf. le cours [Administrez vos bases de données avec MySQL](https://openclassrooms.com/fr/courses/1959476-administrez-vos-bases-de-donnees-avec-mysql)
+
