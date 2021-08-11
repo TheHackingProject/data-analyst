@@ -32,8 +32,8 @@ Cette phase de réflexion doit être menée en équipe et sans ordinateur. Plusi
 - En faisant un gros diagramme sur une feuille A4 avec un bon vieux stylo ;
 
 N'hésite pas à utiliser un logiciel d'ERD (*Entity Relation Diagram*) pour t'aider. Voici une liste :
-[LucidChart](https://www.lucidchart.com/)
-[VisualParadigm Online](https://online.visual-paradigm.com/fr/)
+[LucidChart](https://www.lucidchart.com/),
+[VisualParadigm Online](https://online.visual-paradigm.com/fr/),
 [DB Diagram.io](https://dbdiagram.io/d).
 
 Entraîne-toi ! Imagine des idées de startup puis fais un diagramme via un *ERD*.
