@@ -17,7 +17,7 @@ En 1962, dans *The future of Data Analysis*, John W. Tukey, pourtant un statisti
 ![texte](https://slideplayer.com/slide/14842537/90/images/3/In+Tukey%E2%80%99s+%281962%29+work+done+for+the+Army+Research+Office+titled%2C+The+Future+of+Data+Analysis%2C+John+Tukey+foreshadowed+the+emergence+of+Data+Science..jpg)
 
 Ensuite, en 1970, comme vu hier, Edgar F. Codd inventait les premières bases de données relationnelles.
-Mais il faut préciser qu'à la fin des années 1970 et dans les années 1980, l’informatisation des entreprises se concentrait sous l’angle de la production : saisies et calculs pour la comptabilité, la paie, les stocks, les factures… Des systèmes non conçus pour lancer des requêtes d’analyse.
+A la fin des années 1970 et dans les années 1980, l’informatisation des entreprises se concentrait sous l’angle de la production : saisies et calculs pour la comptabilité, la paie, les stocks, les factures… Des systèmes non conçus pour lancer des requêtes d’analyse.
 
 C’est en 1989 qu’Howard Dresner (futur analyste de la société Gartner) reprend le terme de **Business intelligence** inventé par Luhn et en définit le cadre moderne : des concepts et méthodes pour améliorer la prise de décision grâce à des systèmes d’analyse de données factuelles. Dotée d’une structure et d’un vocabulaire commun, et portée par l’avènement des ordinateurs, l’informatique décisionnelle se normalise enfin.
 
@@ -25,7 +25,7 @@ A l’orée du XXIe siècle, la business intelligence est devenue rigoureuse et 
 
 
 ## 3. La ressource
-Voyons maintenant les différentes tâches existantes pour faire fonctionner les bases de données, le sujet qui nous intéresse en ce moment. Plutôt que métiers, on parlera de tâches car comme on le disait dans l'introduction, les frontières entre les différents métiers de la data sont assez floues. Même si, pour que tu comprennes, on te précisera qui, de manière générale, est en charge de réaliser la tâche.
+Voyons maintenant les différentes tâches existantes pour faire fonctionner les bases de données, le sujet qui nous intéresse en ce moment. Plutôt que de métiers, on parlera de tâches car comme on le disait dans l'introduction, les frontières entre les différents métiers de la data sont assez floues. Même si, pour que tu comprennes, on te précisera qui, de manière générale, est en charge de réaliser la tâche.
 
 ### 3.1. Créer et administrer la base de données
 Avant de stocker ses données dans une base, il faut concevoir cette base (voir quel modèle utiliser, se projeter en intégrant tous les éléments), la créer (choisir le logiciel le plus adapté et rendre fonctionnelle la base) et l'administrer (décider des droits d'accès). 
