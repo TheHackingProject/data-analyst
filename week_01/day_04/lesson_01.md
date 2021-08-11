@@ -5,7 +5,7 @@ Pendant 3 jours, on a laissé le suspense en mode "ba ouais Data Analyst, c'est 
 
 Maintenant que tu fais partie de ce monde (tu maîtrises déjà Python et SQL), on peut te dire la vérité : personne n'est d'accord sur la définition du métier de **Data Analyst**. 
 
-En gros, c'est un métier récent qui prend différentes facettes (mais vraiment beaucoup de facettes différentes, crois-moi) selon l'entreprise concernée. C'est pourquoi, pendant cette formation Data, on va te présenter le maximum de concepts et d'outils pour que tu puisses ensuite exercer le métier de Data Analyst dans des environnements très différents. Mais que tu deviennes vraiment un bon couteau-suisse comme on dit 🔪🔎🔦🔬 🔨...
+En gros, c'est un métier récent qui prend différentes facettes (mais vraiment beaucoup de facettes différentes, crois-moi) selon l'entreprise concernée. C'est pourquoi, pendant cette formation Data, on va te présenter le maximum de concepts et d'outils pour que tu puisses ensuite exercer le métier de Data Analyst dans des environnements très différents. Et que tu deviennes un super couteau-suisse comme on dit 🔪🔎🔦🔬 🔨...
 
 ## 2.Historique et contexte
 Cette partie peut être plus ou moins longue. Elle explique l'histoire ou le contexte sur la notion que l'on veut enseigner.
