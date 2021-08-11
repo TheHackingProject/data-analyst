@@ -3,7 +3,7 @@
 ## 1. Introduction
 Avant de foncer tête baissée dans le codage d'une BDD, il est important de bien la modéliser pour voir les différents éléments qui vont la composer. Sans une vision globale et un dessin de ta BDD entière, tu vas forcément oublier quelque chose et t'en mordre les doigts plus tard.
 
-## 2.Historique et contexte
+## 2. Historique et contexte
 Peter Chen a développé les modèles **entité-association** pour la conception de bases de données dans les années 1970. Alors qu'il travaillait comme professeur assistant à la Sloan School of Management du MIT, il a publié en 1976 un article précurseur intitulé « The Entity-Relationship Model: Toward a Unified View of Data » (Le modèle entité-association : vers une vision unifiée des données).
 
 **Merise** est une méthode d’analyse et de conception de systèmes élaborée par un collectif en 1979. Elle a fourni un cadre méthodologique et un langage commun et rigoureux à une génération d'informaticiens français.
@@ -18,9 +18,9 @@ Finalement, Merise et UML se basent sur un schéma Entité-Relation. En fait, ce
 
 En fait, la modélisation permet avant tout d'avoir un langage commun. 
 
-Un diagramme entité-association est un type d'organigramme illustrant la façon dont des « entités » telles que des personnes, objets ou concepts sont liées les unes aux autres au sein d'un système. Les diagrammes entité-association sont généralement utilisés pour concevoir des bases de données relationnelles. Appelés *ERD* en anglais, ils utilisent une série de symboles prédéfinis tels que des rectangles, losanges et ovales reliés par des lignes pour décrire les interconnexions entre les entités, leurs relations et leurs attributs. Ils imitent une structure grammaticale, où les entités sont des noms et les relations des verbes.
+Un diagramme entité-association est un type d'organigramme illustrant la façon dont des « entités » telles que des personnes, objets ou concepts sont liées les unes aux autres au sein d'un système. Les diagrammes entité-association sont généralement utilisés pour concevoir des bases de données relationnelles. Appelés *ERD* en anglais, ils utilisent une série de symboles prédéfinis tels que des rectangles, losanges et ovales reliés par des lignes pour décrire les interconnexions entre les entités, leurs relations et leurs attributs. Ils imitent une structure grammaticale, où les entités sont des noms et les relations des verbes. Voici un exemple de diagramme entité-association :
 
-
+![ex](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/i18n/fr/ER-diagram-images/Exemple-de-diagramme-entite-association-de-base-dedonnees.png)
 
 Voici les 3 éléments que tu vas devoir lister pour modéliser ta BDD à tête reposée :
 - Les tables : ce sont les tableaux qui composeront ta base de données. C'est ce qui demande le plus de réflexion mais qui t'aidera à poser des concepts concrets sur des thèmes abstraits. Tu verras plus tard qu'au final, une table (SQL) et un objet (Python) sont très liés... Exemples de tables : users, orders, cities, articles, etc.
@@ -67,23 +67,23 @@ CREATE TABLE `doctors` (
 INSERT INTO doctors (name, age, specialty) VALUES ('Dr. Dolladille', 45, 'Dentist');
 ```
 
-Lire des éléments (avec ou sans critère de sélection) :
+- Lire des éléments (avec ou sans critère de sélection) :
 ```
 SELECT * FROM doctors;
 SELECT * FROM doctors WHERE age = 45;
 ```
 
-Mettre à jour une entrée :
+- Mettre à jour une entrée :
 ```
 UPDATE doctors SET age = 40, name = 'John Smith' WHERE id = 3;
 ```
 
-Supprimer une entrée :
+- Supprimer une entrée :
 ```
 DELETE FROM doctors WHERE id= 3;
 ```
 
-Lire les éléments d'une table selon un critère d'une table liée :
+- Lire les éléments d'une table selon un critère d'une table liée :
 ```SELECT * FROM inhabitants
 JOIN cities ON cities.id = inhabitants.city_id
 WHERE cities.name = 'Paris';
