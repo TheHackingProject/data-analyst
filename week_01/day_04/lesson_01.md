@@ -28,16 +28,32 @@ A l’orée du XXIe siècle, la business intelligence est devenue rigoureuse et 
 Voyons maintenant les différentes tâches existantes pour faire fonctionner les bases de données, le sujet qui nous intéresse en ce moment. Plutôt que métiers, on parlera de tâches car comme on le disait dans l'introduction, les frontières entre les différents métiers de la data sont assez floues. Même si, pour que tu comprennes, on te précisera qui, de manière générale, est en charge de réaliser la tâche.
 
 ### 3.1. Créer et administrer la base de données
-blabla
+Avant de stocker ses données dans une base, il faut concevoir cette base (voir quel modèle utiliser, se projeter en intégrant tous les éléments), la créer (choisir le logiciel le plus adapté et rendre fonctionnelle la base) et l'administrer (décider des droits d'accès). 
+
+Il s'agit avant tout d'un travail de développeur informatique. C'est pourquoi nous n'avons pas étudié ces aspects-là lors de la journée d'hier. 
+
+> Le développeur base de données (ou Data Engineer) est un spécialiste informatique qui conçoit et déploie une ou plusieurs bases de données dont il est le garant de la cohérence et de l'accessibilité permanente des informations. Il gère les projets de développement liés au système d'information de l'entreprise qui requièrent le déploiement des bases de données. Le concepteur de bases de données doit être capable de comprendre les besoins des utilisateurs, en plus de maintenir l'accessibilité à la base de données, ainsi que sa sécurité. Il doit surveiller les performances de la base de données afin de vérifier si elle gère correctement les paramètres.
+
+Depuis l'arrivée du Big Data, ces profils sont extrêmement recherchés car certains ont les compétences pour concevoir des bases de données NoSQL. Tu vas voir dans l'autre ressource ce que c'est mais je te spoile juste un peu : le NoSQL permet de passer à l'échelle et de gérer d'énormes bases de données.
 
 ### 3.2. Requêter et faire évoluer la base de données
-blabla
+Une fois que la base de données est créée, un autre profil intervient : l'analyste.
 
-### 3.3. Requêter et faire évoluer la base de données
-blabla
+> Le métier de data analyst consiste à traiter les différentes données issues des clients, des produits ou des performances de l’entreprise afin de dégager des indicateurs utiles aux décideurs. 
+
+Tu vois, la définition est assez vague. C'est pourquoi tu devras savoir faire plein de choses, maîtriser plein d'outils et surtout, être très adaptable.
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+L'analyse des données est devenue très complexe depuis une dizaine d'années. C'est pourquoi de nouveaux métiers sont apparus, avec des frontières encore en évolution. 
+
+En théorie : 
+Pour créer des bases de données, il faut être un bon développeur informatique. 
+Pour analyser des bases de données, il faut avoir un esprit analytique, orienté business. 
+
+En pratique : 
+Ce sont parfois les mêmes personnes qui réalisent ces deux tâches. En tout cas, ces deux types de profils régulièrement travaillent ensemble et parlent, en partie, les mêmes langages. C'est pourquoi il est important que chacun des deux ait une bonne vision de ce que fait l'autre. D'où l'intérêt de la journée d'aujourd'hui pour vous moussaillons qui avez plutôt opté pour la partie analytique vs le dev pur : vous allez plongé dans l'univers du développement de bases de données 🙈🙈.
 
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+Les 2 autres ressources de la journée vont te permettre d'en savoir plus sur les tâches quotidiennes des Data Engineers.
+
+Et pour comprendre mieux tout ce qu'on a dit dans cette ressource, je t'invite, plusieurs fois par semaine, à faire de la veille sur les offres d'emploi autour de la data. En plus des fameux Linkedin, Indeed, Apec, tu peux consulter [Welcome to the jungle](https://www.welcometothejungle.com/fr) : la plupart des entreprises de la Tech postent leurs annonces sur ce site. Tu peux également aller faire un tour sur les plateformes de free-lance comme [Malt](https://www.malt.fr/) et voir les expériences des experts de la data. Ces recherches t'aideront à voir tant la diversité de missions que les constantes qu'on retrouve dans les métiers de la data.
