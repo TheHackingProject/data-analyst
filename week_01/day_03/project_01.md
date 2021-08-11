@@ -1,12 +1,14 @@
-# 
+# La musique dans la peau
 
 ## 1. Introduction
-Introduction qui leur explique dans les grandes lignes le projet.
+Dans les deux projets du jour, tu vas pratiquer à fond le langage SQL, une compétence souvent indispensable pour devenir Data Aanalyst.
 
 ## 2. Le projet
 Suite à THP, une startup trop cool spécialisée dans la musique veut te recruter pour tes compétences de Data Analyst. C'est la fête. Comme cette startup existe déjà depuis plusieurs années, ils ont une base de données existante, et vont te demander de travailler dessus.
 
-Dans cet exercice, nous allons te demander de récupérer une base de données existante, et de faire des requêtes SQL dedans, afin de récupérer les datas qui t'intéressent, et qui feront de toi une star de la musique. Nous allons travailler sur le fichier suivant, qui contient la BDD complète pour faire les requêtes.
+Dans cet exercice, on te demande donc de récupérer une base de données existante, et de faire des requêtes SQL dedans, afin de récupérer les datas qui t'intéressent, et qui feront de toi une star de la musique. 
+
+Nous allons travailler sur le fichier suivant, qui contient la BDD complète pour faire les requêtes.
 
 Je vais te demander de retrouver les informations suivantes dans la BDD que tu as téléchargée. Tu devras rédiger les requêtes en langage SQL sur ton terminal avec la gem SQLite3. Certaines requêtes avec des jointures ne seront pas faciles au premier abord, donc nous t'invitons à bien décortiquer les ressources que nous t'avons données 😉
 
