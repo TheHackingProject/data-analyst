@@ -60,23 +60,32 @@ Avant de coder une BDD, il faut se poser pour établir toutes les tables, les re
 Voici une sélection de commandes classiques en SQL :
 
 - Créer une table :
-```CREATE TABLE `doctors` (
+```
+CREATE TABLE `doctors` (
 `id` INTEGER PRIMARY KEY AUTOINCREMENT, `name` TEXT,
 `age` INTEGER,
 `specialty` TEXT
 );
-``
+```
 
 - Créer une entrée dans une table :
-```INSERT INTO doctors (name, age, specialty) VALUES ('Dr. Dolladille', 45, 'Dentist');
+```
+INSERT INTO doctors (name, age, specialty) VALUES ('Dr. Dolladille', 45, 'Dentist');
+```
+
 Lire des éléments (avec ou sans critère de sélection) :
+```
 SELECT * FROM doctors;
 SELECT * FROM doctors WHERE age = 45;
 ```
 
 Mettre à jour une entrée :
-```UPDATE doctors SET age = 40, name = 'John Smith' WHERE id = 3;
+```
+UPDATE doctors SET age = 40, name = 'John Smith' WHERE id = 3;
+```
+
 Supprimer une entrée :
+```
 DELETE FROM doctors WHERE id= 3;
 ```
 
