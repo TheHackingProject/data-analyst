@@ -1,8 +1,19 @@
-# Modéliser une base de données relationnelle
+# Modéliser et créer une BDD relationnelle
 
-
-3.1.3. Penser une base de données
+## 1. Introduction
 Avant de foncer tête baissée dans le codage d'une BDD, il est important de bien la modéliser pour voir les différents éléments qui vont la composer. Sans une vision globale et un dessin de ta BDD entière, tu vas forcément oublier quelque chose et t'en mordre les doigts plus tard.
+
+## 2.Historique et contexte
+**Merise** est une méthode d’analyse et de conception de systèmes élaborée par un collectif en 1979. Cette méthode s’est rapidement imposée comme un standard dans les projets informatiques. Elle a fourni un cadre méthodologique et un langage commun et rigoureux à une génération d'informaticiens français.
+
+Par la suite, le monde a changé et un autre standard s’est imposé. Au milieu des années 90, les *Three Amigos* (Grady Booch, Ivar Jacobson and James Rumbaug), se sont associés pour apporter plus de clarté aux programmeurs en créant de nouvelles normes. Les efforts de ces penseurs ont abouti à la création en 1996 d'**UML**, un langage de modélisation commun.
+
+Néanmoins, l'héritage Merise est très important notamment en ce qui concerne l'importance de la modélisation, principe d'abstraction.
+
+
+## 3. La ressource
+
+
 Voici les 3 éléments que tu vas devoir lister pour modéliser ta BDD à tête reposée :
 
 Les tables : ce sont les tableaux qui composeront ta base de données. C'est ce qui demande le plus de réflexion mais qui t'aidera à poser des concepts concrets sur des thèmes abstraits. Tu verras plus tard qu'au final, une table (SQL) et un objet (Ruby) sont très liés... Exemples de tables : users, orders, cities, articles, etc.
@@ -24,14 +35,7 @@ Entraîne-toi ! Imagine des idées de startup puis fais un diagramme via un ERD.
 
 
 
-## 1. Introduction
-Une introduction sur la ressource.
 
-## 2.Historique et contexte
-Cette partie peut être plus ou moins longue. Elle explique l'histoire ou le contexte sur la notion que l'on veut enseigner.
-
-## 3. La ressource
-Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
 
 
 La modélisation permet d'avoir un langage commun. 
@@ -44,12 +48,6 @@ Expliquer les 3 types de modélisation
 
 https://odile-papini.pedaweb.univ-amu.fr/sources/BD/cours-BD-2.pdf
 
-
-### 3.1. Première sous partie
-blabla
-
-### 3.2. Deuxième sous partie
-blabla
 
 ## 4. Points importants à retenir
 La ressource en quelques points importants.
