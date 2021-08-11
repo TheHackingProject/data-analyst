@@ -1,4 +1,4 @@
-# Comprendre qui fait quoi : dev vs data
+# Comprendre qui fait quoi : dev ou data ?
 
 ## 1. Introduction
 Pendant 3 jours, on a laissé le suspense en mode "ba ouais Data Analyst, c'est évident comme job, tout le monde connaît". Mais en fait non, si on n'a pas tranché la question direct, c'est qu'on n'a pas la réponse 😐😐
