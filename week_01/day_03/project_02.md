@@ -10,6 +10,8 @@ Le secrétaire de rédaction t'a retoqué hier ton article car selon lui, "il ma
 Voici la liste de questions auxquelles tu dois répondre : 
 
 - Combien la base de données contient-elle de sociétés offshores différentes dont la source est "Panama Papers" ?
+- Quel intermédiaire a créé le plus de sociétés offshores ? A-t-on son adresse et son pays ?
+- Combien la base contient-elle de bénéficiaires avec un nom unique ? Quel est le bénéficiaire dont le nom revient le plus souvent ? 
 - 
 
 ## 3. Rendu attendu
