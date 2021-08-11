@@ -7,8 +7,13 @@ Maintenant que tu fais partie de ce monde (tu maîtrises déjà Python et SQL), 
 
 En gros, c'est un métier récent qui prend différentes facettes (mais vraiment beaucoup de facettes différentes, crois-moi) selon l'entreprise concernée. C'est pourquoi, pendant cette formation Data, on va te présenter le maximum de concepts et d'outils pour que tu puisses ensuite travailler la data dans des environnements très différents. Et que tu deviennes un super couteau-suisse comme on dit 🔪🔎🔦🔬 🔨...
 
-## 2.Historique et contexte
-Cette partie peut être plus ou moins longue. Elle explique l'histoire ou le contexte sur la notion que l'on veut enseigner.
+## 2. Historique et contexte
+La data au sens large a fait son apparition il n'y a qu'une dizaine d'années. Pourtant, les métiers qu'elles englobent ne datent pas d'hier. Remontons un peu l'histoire pour mieux comprendre cela 📜
+
+En 1962, dans *The future of Data Analysis*, John W. Tukey, pourtant un statisticien de renom — on lui doit notamment le terme de « bit » ou encore les diagrammes « boîte à moustaches » —, dit préférer le terme de « data analysis » à celui de statistique. Pour lui cette façon de tirer d’un grand nombre de donnés des tendances relevait plus d’une science empirique que des mathématiques pures, d’où cette différenciation qu’il va être le premier à suggérer.
+
+![https://datascientest.com/wp-content/uploads/2020/07/data-science-nyt-inaugural-data-science-initiative-lecture-20-638.jpg.webp](gougou)
+
 
 ## 3. La ressource
 Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
