@@ -26,7 +26,7 @@ Concrètement, une source de données peut être :
 Voici un exemple d’une source de données en action. Imaginez une marque de mode qui vend des produits en ligne. Pour indiquer qu’un article est en rupture de stock, le site web collecte des informations dans une base de données d’inventaire. Dans ce cas de figure, les tableaux d’inventaire sont une source de données, à laquelle accède l’application web pour afficher le site web aux clients.
 
 
-### 3.2. Comment accéder à ces sources via Python
+### 3.2. Comment accéder à ces sources de données via Python
 
 #### 3.2.1 Accéder à des données dans un fichier 
 Comme nous l'avons déjà vu, la bibliothèque Pandas de Python permet de récupérer des données depuis quasiment tous les types de fichiers (CSV, JSON, Excel ...). Cf. la [doc](https://pandas.pydata.org/pandas-docs/dev/user_guide/io.html) pour voir tous les types d'inputs qui peuvent être traités. 
@@ -39,11 +39,40 @@ Pour lire un fichier CSV par exemple et obtenir un DataFrame, il faudra faire ce
 ```
 
 #### 3.2.2 Accéder à des données dans une base de données
-Lors des journées de mercredi et jeudi, vous avez interrogé une base de données en dialoguant avec un SGBD. Mais cela ne va pas . En pratique, l’utilisateur final se trouve devant un programme, qui peut être par exemple une application standard ou une page web, qui sert d’intermédiaire entre l’utilisateur et le SGBD :
+Lors des journées de mercredi et jeudi, vous avez interrogé une base de données en dialoguant avec un SGBD. Mais cela ne se passe pas toujours comme ça. 
 
-- accéder à des données sur le web
-- accéder à une bases de données
-- accéder via une API
+___
+
+💡💡  LUMIERE 💡💡
+
+Dans la plupart des cas auxquels tu es habitué, l’utilisateur final se trouve devant un programme, qui peut être par exemple une application standard ou une page web, qui sert d’intermédiaire entre l’utilisateur et le SGBD. L’utilisateur n’interagit donc pas directement avec le SGBD, mais avec l’application intermédiaire. Selon les interactions avec l’utilisateur, l’application se charge de construire des requêtes au SGBD et de renvoyer le résultat à l’utilisateur de manière conviviale.
+
+À titre d’exemple, considérons une application fictive de recherche d’horaires de train. Voici un scénario possible de fonctionnement de cette application :
+1. L’application demande à l’utilisateur : « Quelle est la ville de départ ? ».
+2. L’utilisateur répond « Caussade ».
+3. L’application demande à l’utilisateur : « Quelle est la ville d’arrivée ? ».
+4. L’utilisateur répond « Brive-la-Gaillarde ».
+5. L’application envoie au SGBD la requête SQL :
+```
+SELECT heureDep, heureArr FROM trains
+WHERE villeDep = ’Caussade’ AND villeArr = ’Brive-la-Gaillarde’;
+```
+6. Le SGBD répond au programme en envoyant l’ensemble de tuples {(15h47, 17h22); (18h21, 19h58)}
+7. Le programme affiche à l’utilisateur :
+Résultats pour le trajet Caussade -> Brive-la-Gaillarde
+Premier train : 15h47 -> 17h22
+Second train : 18h21 -> 19h58
+
+___
+
+Dans notre cas précis, c’est un programme Python qui peut jouer le rôle d’application intermédiaire. Le dialogue se fera avec le SGBD SQLite3 par exemple. La plupart des langages de programmation ont des bibliothèques permettant à un programme de dialoguer avec la plupart des SGBD existants. Le couple Python-SQLite3 ne déroge pas à la règle, et c’est le
+module sqlite3 qu'il faut utiliser.
+
+
+#### 3.2.3 Accéder à des données en scrapant le web
+
+#### 3.2.4 Accéder à des données via une API
+
 
 ## 4. Points importants à retenir
 La ressource en quelques points importants.
