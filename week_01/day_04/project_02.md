@@ -17,12 +17,32 @@ Avec MongoDB Atlas, tu vas pouvoir créer un cluster MongoDB auprès de tout fou
 - Ensuite, tu te connectes, tu crée un cluster et tu lui donnes un nom. Choisis la version Free.
 - Puis, tu crées un utilisateur de base de données.
 - Tu ajoutes les adresses IP qui peuvent se connecter à ta base de donnée. Choisis que le serveur est accessible partout.
+- Tu connectes le cluster à MongoDB Compass.
 
 
 ### 2.2. Télécharger MongoDB Compass
-Ici expliquer la seconde étape du projet.
+- Télécharge l'outil graphique [MongoDB Compass](https://www.mongodb.com/try/download/compass), tu l'ouvres et tu connectes à ton cluster en collant l'url de connexion obtenu précédemment (en changeant 'password' par le mot-clé qui avait été saisi lors de la création de l'utilisateur.
+- Crée une base de données 'demo' et une collection 'publis'.
+- Télécharge les données disponibles [ici](http://b3d.bdpedia.fr/files/dblp/json.zip). Il s'agit d'un extrait de la base de données DBLP (*Digital Bibliography & Library Project*), un catalogue de bibliographies en informatique disponible en ligne.
+- Dézippe le fichier et importe le à ta base de données.
 
-etc..
+### 2.3. Requêter la base de données
+Ca y est tu as maintenant une base de données disponible sur MongoDB. A toi de faire les requêtes suivantes : 
+- Vérifier le nombre de documents importés.
+- Prévisualiser les 20 premiers documents.
+- Lister tous les livres (type 'Book').
+- Lister les publications depuis 2011.
+- Lister toutes les publications de 2011 et 2013.
+- Lister toutes les publications de 2011 ou 2013.
+- Lister les publications ayant 3 auteurs.
+- Lister les livres publiés depuis 2014.
+- Lister les publications de l'auteur "Toru Ishida".
+- Lister tous les éditeurs (type 'publisher') distincts.
+- Listes tous les auteurs distincts.
+- Trier les publications de 'Toru Ishida' par titre de livre et par page de début.
+- Compter le nombre de ses publications.
+- Compter le nombre de publications depuis 2011 et par type.
+- Compter le nombre de publications par auteur et trier le résultat par ordre croissant.
 
 ## 3. Rendu attendu
-Un fichier qui donne l'ensemble des requêtes pour obtenir les réponses.
+Un fichier texte qui donne l'ensemble des requêtes pour obtenir les réponses.
