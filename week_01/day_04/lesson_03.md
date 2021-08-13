@@ -50,7 +50,7 @@ Un nouveau concept opposé à ACID est apparu, le concept BASE :
 - Soft state : l'état de la base de données n'est pas garanti à un instant t.
 - Eventually consistent : la cohérence des données à un instant t n'est pas primordiale.
 
-En fait, la plupart des SGBD NoSQL relâchent les contraintes ACID, ou même ne proposent pas de gestion des transactions. Ils privilégient la Disponibilité à la Cohérénce des données. 
+En fait, la plupart des SGBD NoSQL relâchent les contraintes ACID, ou même ne proposent pas de gestion des transactions. Ils privilégient la Disponibilité à la Cohérence des données. 
 
 ___
 
@@ -59,23 +59,22 @@ ___
 Bien qu’il n’existe aucune règlementation uniforme, les différentes approches NoSQL peuvent être divisées en quatre catégories principales. 
 
 - **Bases de données clé-valeur** : elles enregistrent les données sous forme de paires clé/valeur. Ceci permet la prise en charge de larges volumes de données et de charges lourdes. Les données sont entreposées dans un tableau de ”hash” au sein duquel chaque clé est unique. Ce type de base de données est le plus basique. Il permet au développeur de stocker plus facilement des données sans schéma. Par exemple : Redis, Dynamo.
-- **Bases de données orientées documents** : les données sont directement enregistrées dans des documents de diverses longueurs. Des attributs ou « Tags » divers leurs sont affectés. Les contenus du document peuvent alors être recherchés sur cette base. Les bases de données NoSQL documentaires sont particulièrement adaptées aux systèmes de gestion de contenu et aux blogs. JSON (JavaScript Object Notation) constitue aujourd’hui un format de données permettant l’échange de données rapide entre applications. Par exemple : CouchDB, MongoDB.
 - **Bases de données colonnes** : elles enregistrent les jeux de données par colonne plutôt que par ligne. Cela accélère les processus de lecture des données et augmente les performances. Ce modèle NoSQL est avant tout utilisé pour les programmes d’exploration et d’analyse des données. Par exemple : Apache Cassandra.
+- **Bases de données orientées documents** : les données sont directement enregistrées dans des documents de diverses longueurs. Des attributs ou « Tags » divers leurs sont affectés. Les contenus du document peuvent alors être recherchés sur cette base. Les bases de données NoSQL documentaires sont particulièrement adaptées aux systèmes de gestion de contenu et aux blogs. JSON (JavaScript Object Notation) constitue aujourd’hui un format de données permettant l’échange de données rapide entre applications. Par exemple : CouchDB, MongoDB.
 - **Bases de données graphes** : composées de nœuds, elles créent des relations en utilisant des arêtes. Elles sont principalement utilisées dans le domaine des réseaux sociaux, pour représenter, par exemple, les relations entre les abonnés sur Twitter ou Instagram. Par exemple : Oracle NoSQL, Neo4J.
 
 Toutefois aucun de ces quatre types de bases de données ne permet de résoudre n’importe quel problème. Il est nécessaire de choisir la base de données adéquate en fonction du cas d’usage.
 
 
 ## 4. Points importants à retenir
+[schema](https://phoenixnap.com/kb/wp-content/uploads/2021/04/database-types.jpg)
 
-
+Enfin, la raison principale de l'émergence et de l'adoption des SGBD NoSQL serait le développement des centres de données et la nécessité de posséder un paradigme de bases de données adapté à ce modèle d'infrastructure matérielle3.L'architecture machine en clusters induit une structure logicielle distribuée fonctionnant avec des agrégats répartis sur différents serveurs permettant des accès et modifications concurrentes mais imposant également de remettre en cause de nombreux fondements de l'architecture SGBD relationnelle traditionnelle, notamment les propriétés ACID. Bienvenue dans le monde du Big Data ! C'est parfois compliqué mais ça vaut la peine de s'accrocher pour comprendre les évolutions à venir 💻💻.
 
 
 ## 5. Pour aller plus loin
-Tu peux faire le cours OpenClassrooms [Maîtrisez les bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql) qui fait normalement partie de la formation *Data Architect*. Cela te donnera un aperçu de ce métier et t'aidera beaucoup pour réaliser un des projets de cet après-midi.
+Tu peux faire le cours OpenClassrooms [Maîtrisez les bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql) qui fait normalement partie de la formation *Data Architect*. Cela te donnera un aperçu du métier d'architecte des données et t'aidera beaucoup pour réaliser un des projets de cet après-midi.
 
 
 
-La raison principale de l'émergence et de l'adoption des SGBD NoSQL serait le développement des centres de données et la nécessité de posséder un paradigme de bases de données adapté à ce modèle d'infrastructure matérielle3. 
 
-L'architecture machine en clusters induit une structure logicielle distribuée fonctionnant avec des agrégats répartis sur différents serveurs permettant des accès et modifications concurrentes mais imposant également de remettre en cause de nombreux fondements de l'architecture SGBD relationnelle traditionnelle, notamment les propriétés ACID.
