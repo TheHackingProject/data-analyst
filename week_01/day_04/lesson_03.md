@@ -67,7 +67,7 @@ Toutefois aucun de ces quatre types de bases de données ne permet de résoudre 
 
 
 ## 4. Points importants à retenir
-[schema](https://phoenixnap.com/kb/wp-content/uploads/2021/04/database-types.jpg)
+![schema](https://phoenixnap.com/kb/wp-content/uploads/2021/04/database-types.jpg)
 
 Enfin, la raison principale de l'émergence et de l'adoption des SGBD NoSQL serait le développement des centres de données et la nécessité de posséder un paradigme de bases de données adapté à ce modèle d'infrastructure matérielle3.L'architecture machine en clusters induit une structure logicielle distribuée fonctionnant avec des agrégats répartis sur différents serveurs permettant des accès et modifications concurrentes mais imposant également de remettre en cause de nombreux fondements de l'architecture SGBD relationnelle traditionnelle, notamment les propriétés ACID. Bienvenue dans le monde du Big Data ! C'est parfois compliqué mais ça vaut la peine de s'accrocher pour comprendre les évolutions à venir 💻💻.
 
