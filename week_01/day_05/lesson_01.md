@@ -1,4 +1,4 @@
-# Première étape : obtenir des données
+# Première étape : la collecte des données
 Commençons par le commencement : comment obtient-on des données dans la pratique ?
 
 ## 1. Introduction
@@ -9,7 +9,7 @@ Pendant des siècles, l’humanité a stocké ses données dans les livres 📝.
 
 Plus précisément, environ 2,5 trillions d'octets de données sont produits chaque jour. Ce sont des informations provenant de sources divers : messages, vidéos, informations climatiques, signaux GPS, transactions etc. Sur Facebook seulement, nous envoyons 10 milliards de messages par jour. La quantité de données digitales produites double tous les 2 ans. En d'autres termes, on a produit autant de données digitales ces 2 dernières années que tout ce qui a été produit auparavant. 
 
-Maintenant que l'on sait que toutes ces données existent, nous allons voir comment on récupère ces données, pour ensuite les traiter ⭐️⭐️.
+Maintenant que l'on sait que toutes ces données existent, nous allons voir comment on récupère ces données ⭐️⭐️.
 
 ## 3. La ressource
 
