@@ -1,9 +1,10 @@
-Comprendre la collecte de données
+# Obtenir des données
+Commençons par le commencement : comment obtient-on des données dans la pratique ?
 
 ## 1. Introduction
-Une introduction sur la ressource.
+Maintenant que l'on a vu les lanages indispensables à un bon Data Analyst, il faut que tu comprennes les différentes étapes de la donnée dans lesquelles tu vas pouvoir intervenir. La première étape est sans aucun doute l'obtention des données. Pour tout projet, l'entreprise doit en premier lieu identifier la ou les sources de données intéressantes puis voir comment exploiter ces sources.
 
-## 2.Historique et contexte
+## 2. Historique et contexte
 Cette partie peut être plus ou moins longue. Elle explique l'histoire ou le contexte sur la notion que l'on veut enseigner.
 
 ## 3. La ressource
