@@ -23,7 +23,7 @@ NoSQL correspond à « **not only SQL** » et c’est en effet ce que ce modèle
 
 Les systèmes NoSQL sont souvent décrits comme des mémoires structurées de stockage de données, ce qui met en évidence leur différence significative avec les bases de données SQL : contrairement à ces dernières, **les bases de données NoSQL n’exploitent pas de schéma de tableau fixe dans lequel les données doivent être définies avant l’enregistrement**. Elles utilisent des méthodes plus flexibles leur permettant d’enregistrer facilement de nouveaux jeux de données et d’assurer leur mise à jour en continu au sein de l’application. Les solutions NoSQL sont également adaptées au traitement de données non structurées ou inconnues, ce qui serait totalement impossible avec une base de données relationnelle.
 
-> Finalement, la définition exacte de la famille du NoSQL reste sujette à débat. Le terme se rattache autant à des caractéristiques techniques qu'à une génération historique de SGBD qui a émergé autour dans les années 2000. 
+> Finalement, la définition exacte de la famille du NoSQL reste sujette à débat. Le terme se rattache autant à des caractéristiques techniques qu'à une génération historique de SGBD qui a émergé dans les années 2000. 
 
 ### 3.2. Les caractéristiques de NoSQL
 
