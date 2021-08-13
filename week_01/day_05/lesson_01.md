@@ -14,11 +14,33 @@ Maintenant que l'on sait que toutes ces données existent, nous allons voir comm
 ## 3. La ressource
 
 ### 3.1. Les sources de données
-blabla
+Une source de données est l’endroit d’où proviennent les données utilisées. Elle peut être l’endroit où les données ont été créées ou celui où les informations physiques ont été numérisées. 
+
+Concrètement, une source de données peut être : 
+- un fichier plat, 
+- une base de données, 
+- des mesures provenant directement d’appareils physiques, 
+- des données obtenues par web scraping ou 
+- l’une des nombreux services de données en streaming qui abondent sur Internet (analyse du parcours de navigation des internautes, jeux en ligne, e-commerce etc.).
+
+Voici un exemple d’une source de données en action. Imaginez une marque de mode qui vend des produits en ligne. Pour indiquer qu’un article est en rupture de stock, le site web collecte des informations dans une base de données d’inventaire. Dans ce cas de figure, les tableaux d’inventaire sont une source de données, à laquelle accède l’application web pour afficher le site web aux clients.
+
 
 ### 3.2. Comment accéder à ces sources via Python
 
-- accéder à un fichier 
+#### 3.2.1 Accéder à des données dans un fichier 
+Comme nous l'avons déjà vu, la bibliothèque Pandas de Python permet de récupérer des données depuis quasiment tous les types de fichiers (CSV, JSON, Excel ...). Cf. la [doc](https://pandas.pydata.org/pandas-docs/dev/user_guide/io.html) pour voir tous les types d'inputs qui peuvent être traités. 
+
+Pour lire un fichier CSV par exemple et obtenir un DataFrame, il faudra faire ceci : 
+```
+>>> import pandas as pd
+>>> filename = 'chemin/vers/fichier.csv'
+>>> df = pd.read_csv(filename)
+```
+
+#### 3.2.2 Accéder à des données dans une base de données
+Lors des journées de mercredi et jeudi, vous avez interrogé une base de données en dialoguant avec un SGBD. Mais cela ne va pas . En pratique, l’utilisateur final se trouve devant un programme, qui peut être par exemple une application standard ou une page web, qui sert d’intermédiaire entre l’utilisateur et le SGBD :
+
 - accéder à des données sur le web
 - accéder à une bases de données
 - accéder via une API
