@@ -33,7 +33,7 @@ Les systèmes NoSQL sont souvent décrits comme des mémoires structurées de st
 
 - Les bases de données non relationnelles se distinguent aussi par une interface simple d’utilisation pour le stockage et la requête de données. Des APIs permettent de manipuler les données avec diverses méthodes de sélection. Les protocoles, basés sur le texte, reposent principalement sur HTTP REST avec JSON. On utilise en général un langage de requête NoSQL.
 
-- La dernière caractéristique d’une base de données NoSQL est d’être distribuée. De multiples bases NoSQL peuvent être exécutées de façon distribuée, offrant des capacités d’auto-scaling et de fail-over. L'approche ACID des BDD relationnelles peut être délaissé au profit de l’élasticité et des performances 🔆🔆.
+- La dernière caractéristique d’une base de données NoSQL est d’être distribuée. De multiples bases NoSQL peuvent être exécutées de façon distribuée, offrant des capacités d’auto-scaling et de fail-over. L'approche ACID des BDD relationnelles peut être délaissée au profit de l’élasticité et des performances 🔆🔆.
 
 ___
 
@@ -51,6 +51,8 @@ Un nouveau concept opposé à ACID est apparu, le concept BASE :
 - Soft state : l'état de la base de données n'est pas garanti à un instant t.
 - Eventually consistent : la cohérence des données à un instant t n'est pas primordiale.
 
+En fait, la plupart des SGBD NoSQL relâchent les contraintes ACID, ou même ne proposent pas de gestion des transactions.
+
 ___
 
 
@@ -59,11 +61,14 @@ ___
 
 
 ## 4. Points importants à retenir
-
 Regarde [cette vidéo](https://youtu.be/0buKQHokLK8) qui synthétise très bien l'utilité des bases de données NoSQL.
 
+
+
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+Tu peux faire le cours OpenClassrooms [Maîtrisez les bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql) qui fait normalement partie de la formation *Data Architect*. Cela te donnera un aperçu de ce métier et t'aidera beaucoup pour réaliser un des projets de cet après-midi.
+
+
 
 La raison principale de l'émergence et de l'adoption des SGBD NoSQL serait le développement des centres de données et la nécessité de posséder un paradigme de bases de données adapté à ce modèle d'infrastructure matérielle3. 
 
