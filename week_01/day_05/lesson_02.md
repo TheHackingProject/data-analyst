@@ -45,4 +45,6 @@ Dans un système OLTP, les données ne sont conservées que sur une courte péri
 
 
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+Si l'univers du Big Data t'intéresse, tu peux lire ces 2 articles de la société Talend, le leader des ETL open source : 
+- [Guide du processus ETL](https://www.talend.com/fr/resources/guide-etl/)
+- [Différences entre lacs de données et entrepôts de données](https://www.talend.com/fr/resources/data-lake-vs-data-warehouse/)
