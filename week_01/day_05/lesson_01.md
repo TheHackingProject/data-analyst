@@ -1,4 +1,4 @@
-# D'où peut venir la donnée ?
+Comprendre la collecte de données
 
 ## 1. Introduction
 Une introduction sur la ressource.
