@@ -37,9 +37,9 @@ Les systèmes NoSQL sont souvent décrits comme des mémoires structurées de st
 
 ___
 
-👾👾 ACID, c'est quoi ? 👾👾
+👾👾 ACID vs BASE 👾👾
 
-Pour garantir l'intégrité, la disponibilité et la sécurité des données, les bases de données relationnelles reposent sur le mécanisme transactionnel. Une transaction est un ensemble de modifications de la base qui forme un tout indivisible. Il faut effectuer ces modifications entièrement ou pas du tout, sous peine de laisser la base dans un état incohérent. Ce mécanisme transactionnel a été construit autour du principe ACID :
+Pour garantir l'intégrité et la sécurité des données, les bases de données relationnelles reposent sur le mécanisme transactionnel. Une transaction est un ensemble de modifications de la base qui forme un tout indivisible. Il faut effectuer ces modifications entièrement ou pas du tout, sous peine de laisser la base dans un état incohérent. On parle du principe ACID :
 - Atomique : tout ou rien, une modification des données doit être réalisée dans son intégralité ou pas du tout.
 - Cohérent : les données doivent toujours être cohérentes entre elles, même en cas d'erreur. Dans ce cas là, on effectuera un RollBack.
 - Isolée : Pas d'interférences entre les transactions. Utilisation des verrous et des points de synchronisation.
@@ -49,13 +49,14 @@ Cependant, avec le développement du Cloud computing et des systèmes distribué
 Un nouveau concept opposé à ACID est apparu, le concept BASE :
 - Basic Availability : le sytème doit toujours être accessible.
 - Soft state : l'état de la base de données n'est pas garanti à un instant t.
-- Eventually Consistent : la cohérence des données à un instant t n'est pas primordiale.
+- Eventually consistent : la cohérence des données à un instant t n'est pas primordiale.
 
 ___
 
 
 ### 3.3. Les différents 
-blabla
+
+
 
 ## 4. Points importants à retenir
 
