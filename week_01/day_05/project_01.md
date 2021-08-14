@@ -1,13 +1,18 @@
-# Récoltons des données
+# Go for Extract 
 
 ## 1. Introduction
-Introduction qui leur explique dans les grandes lignes le projet.
+Dans ce projet, tu vas voir tous les moyens d'extraire des données. Ainsi, tu deviendras le boss de l'étape Extract de l'ETL 👌.
 
 ## 2. Le projet
-### 2.1. Première étape du projet
-Ici expliquer la première étape du projet.
 
-### 2.2. Seconde étape du projet
+### 2.1. Extraction d'un fichier csv
+Tu l'as déjà fait plusieurs fois mais ça vaut le coup de le refaire car c'est très fréquent de devoir travailler sur des fichiers csv déjà existants. 
+
+Le jeu de données qui nous intéresse aujourd'hui met à disposition les comptages de demandes de brevets réparties par domaine technologique entre 2009 et 2015. Tu peux trouver le fichier csv [ici](https://www.data.gouv.fr/fr/datasets/r/85429e87-1f26-4efa-88e4-821d1122ce0f), sur le site de l'open data français. 
+
+Nous te demandons ici d'extraire le fichier csv, de supprimer les colonnes qui comportent des valeurs manquantes, puis de l'afficher.
+
+### 2.2. Extraction d'un fichier json
 Ici expliquer la seconde étape du projet.
 
 etc..
