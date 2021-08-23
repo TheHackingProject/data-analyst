@@ -2,7 +2,7 @@
 Commençons par le commencement : comment obtient-on des données dans la pratique ?
 
 ## 1. Introduction
-Maintenant que tu connais les langages indispensables à un bon Data Analyst, il faut que tu comprennes le processus général d'analyse de données. Ce processus se compose de différentes étapes. La première étape est sans aucun doute l'obtention des données. En effet, pour tout projet, l'entreprise doit en premier lieu identifier la ou les sources de données intéressantes puis voir comment utiliser ces sources.
+Maintenant que tu connais les langages indispensables à un bon Data Analyst, il faut que tu comprennes le processus général d'analyse de données. Ce processus se compose de différentes étapes. La première étape est sans aucun doute l'obtention des données. En effet, pour tout projet, l'entreprise doit en premier lieu identifier la ou les sources de données intéressantes puis voir comment s'approprier ces sources.
 
 ## 2. Historique et contexte
 Pendant des siècles, l’humanité a stocké ses données dans les livres 📝. L’arrivée du digital au XXème siècle a donné une dimension exponentielle et globale à cette pratique. Cette révolution des données, qui n’est encore qu’à ses prémices, est en train de multiplier les sources de données et de nous donner, à chacun, la possibilité d'étudier ces multiples données.
@@ -23,7 +23,7 @@ Concrètement, une source de données peut être :
 - des données obtenues par web scraping ou 
 - l’une des nombreux services de données en streaming qui abondent sur Internet (analyse du parcours de navigation des internautes, jeux en ligne, e-commerce etc.).
 
-Voici un exemple d’une source de données en action. Imaginez une marque de mode qui vend des produits en ligne. Pour indiquer qu’un article est en rupture de stock, le site web collecte des informations dans une base de données d’inventaire. Dans ce cas de figure, les tableaux d’inventaire sont une source de données, à laquelle accède l’application web pour afficher le site web aux clients.
+Voici un exemple d’une source de données en action : une marque de mode qui vend des produits en ligne. Pour indiquer qu’un article est en rupture de stock, le site web collecte des informations dans une base de données d’inventaire. Dans ce cas de figure, les tableaux d’inventaire sont une source de données, à laquelle accède l’application web pour afficher le site web aux clients.
 
 
 ### 3.2. Comment accéder à ces sources de données via Python
@@ -99,8 +99,11 @@ En Python, la librairie la plus utilisée est Requests. Voici un tuto qui t'expl
 
 
 ## 4. Points importants à retenir
-Le processus d'analyse de données (ou *Data Analysis*) peut être décomposé en plusieurs phases. La première étape est la collecte de données, en provenance d’une ou plusieurs sources. 
+Le processus d'analyse de données (ou *Data Analysis*) peut être décomposé en plusieurs phases. La première étape est la collecte de données. Les données sont en provenance d’une ou plusieurs sources. 
+
+Avant de collecter les données, il est primordial de se fixer des objectifs précis pour ensuite faire le bon choix dans les sources de données à utiliser, ainsi que dans les méthodes à employer.
 
 
 ## 5. Pour aller plus loin
-
+Un [article Medium](https://medium.com/@rachidj/collecter-les-donn%C3%A9es-rapidement-et-efficacement-df7dd78b1ac0) d'un data scientist sur la collecte de données. Tu verras comment on peut s'amuser quand on commence à maîtriser les techniques vues aujourd'hui.
+Et tu peux regarder [cette vidéo](https://www.youtube.com/watch?v=HYNZixyYrW4) si ça t'intéresse de savoir comment scraper un profil Instagram 👹👹👹.
