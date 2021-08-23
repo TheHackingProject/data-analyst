@@ -31,7 +31,7 @@ Les qualités développées par la pratique de la programmation sont les suivant
 
 Voilà, pour toutes ses raisons (et bien d'autres encore), la programmation est un super mindset, une activité intelligente et un vrai moyen d'expression 🏹.
 
-### 2.3. Tu as vu à quoi peut servir concrètement la programmation
+### 2.3. Tu as compris à quoi peut servir concrètement la programmation
 
 Créer un bot, scrapper des donner, automatiser des tâches : ce sont des exemples très concrets de choses que l'on peut faire en sachant programmer. 
 
