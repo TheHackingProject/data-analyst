@@ -16,7 +16,7 @@ Avec MongoDB Atlas, tu vas pouvoir créer un cluster MongoDB auprès de tout fou
 - Tout d'abord, tu dois te créer un compte sur [MongoDB Atlas](https://account.mongodb.com/account/register).
 - Ensuite, tu te connectes, tu crée un cluster et tu lui donnes un nom. Choisis la version Free.
 - Puis, tu crées un utilisateur de base de données.
-- Tu ajoutes les adresses IP qui peuvent se connecter à ta base de donnée. Choisis que le serveur est accessible partout.
+- Tu ajoutes les adresses IP qui peuvent se connecter à ta base de données. Choisis que le serveur est accessible partout.
 - Tu connectes le cluster à MongoDB Compass.
 
 
