@@ -69,12 +69,12 @@ On peut schématiser le fonctionnement ainsi :
 ![fonctionnement](https://github.com/TheHackingProject/data-analyst/blob/master/week_01/day_05/Capture%20d%E2%80%99e%CC%81cran%202021-08-23%20a%CC%80%2017.56.06.png)
 
 
-Mais s'il n'y a pas d'application déjà codée comme lorsque tu réserves tes billets de train, c’est un programme Python qui peut jouer le rôle d’application intermédiaire. Le dialogue se fera avec un SGBD, comme le SGBD SQLite3 par exemple. La plupart des langages de programmation ont des bibliothèques permettant à un programme de dialoguer avec la plupart des SGBD existants. Le couple Python-SQLite3 ne déroge pas à la règle, et c’est le module 'sqlite3' qu'il faut utiliser.
+Mais s'il n'y a pas d'application déjà codée comme lorsque tu réserves tes billets de train 😤, c’est un programme Python qui peut jouer le rôle d’application intermédiaire. Le dialogue se fera avec un SGBD, comme le SGBD SQLite3 par exemple. La plupart des langages de programmation ont des bibliothèques permettant à un programme de dialoguer avec la plupart des SGBD existants. Le couple Python-SQLite3 ne déroge pas à la règle, et c’est le module 'sqlite3' qu'il faut utiliser.
 
 Pour interagir avec la base de données via Python, il y a plusieurs étapes et ça peut être fastidieux. 
 Retrouve ces différentes étapes dans [ce cours](https://python.antoinepernot.fr/cours.php?course=chap6). 
 
-Retiens-les 3 étapes principales : 
+Retiens les 3 étapes principales : 
 1) Installer puis importer le connecteur (ex : 'mysql.connector' ou 'sqlite3')
 2) Se connecter à la base de données en inscrivant la bonne configuration
 3) Extraire des données à partir de la base puis fermer la connexion.
