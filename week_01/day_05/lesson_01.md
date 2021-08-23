@@ -65,7 +65,7 @@ Second train : 18h21 -> 19h58
 
 ___
 
-Dans notre cas précis, c’est un programme Python qui peut jouer le rôle d’application intermédiaire. Le dialogue se fera avec le SGBD SQLite3 par exemple. La plupart des langages de programmation ont des bibliothèques permettant à un programme de dialoguer avec la plupart des SGBD existants. Le couple Python-SQLite3 ne déroge pas à la règle, et c’est le
+Mais s'il n'y a pas d'application déjà codée comme lorsque tu réserves tes billets de train, c’est un programme Python qui peut jouer le rôle d’application intermédiaire. Le dialogue se fera avec le SGBD SQLite3 par exemple. La plupart des langages de programmation ont des bibliothèques permettant à un programme de dialoguer avec la plupart des SGBD existants. Le couple Python-SQLite3 ne déroge pas à la règle, et c’est le
 module sqlite3 qu'il faut utiliser.
 
 
