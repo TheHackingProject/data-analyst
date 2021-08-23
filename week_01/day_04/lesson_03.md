@@ -55,7 +55,7 @@ En fait, la plupart des SGBD NoSQL relâchent les contraintes ACID, ou même ne 
 ___
 
 
-### 3.3. Les différents 
+### 3.3. Les différents types de bases de données NoSQL
 Bien qu’il n’existe aucune règlementation uniforme, les différentes approches NoSQL peuvent être divisées en quatre catégories principales. 
 
 - **Bases de données clé-valeur** : elles enregistrent les données sous forme de paires clé/valeur. Ceci permet la prise en charge de larges volumes de données et de charges lourdes. Les données sont entreposées dans un tableau de ”hash” au sein duquel chaque clé est unique. Ce type de base de données est le plus basique. Il permet au développeur de stocker plus facilement des données sans schéma. Par exemple : Redis, Dynamo.
