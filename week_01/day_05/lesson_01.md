@@ -65,20 +65,42 @@ Second train : 18h21 -> 19h58
 
 ___
 
+On peut schématiser le fonctionnement ainsi :
 ![fonctionnement](https://github.com/TheHackingProject/data-analyst/blob/master/week_01/day_05/Capture%20d%E2%80%99e%CC%81cran%202021-08-23%20a%CC%80%2017.56.06.png)
 
 
-Mais s'il n'y a pas d'application déjà codée comme lorsque tu réserves tes billets de train, c’est un programme Python qui peut jouer le rôle d’application intermédiaire. Le dialogue se fera avec le SGBD SQLite3 par exemple. La plupart des langages de programmation ont des bibliothèques permettant à un programme de dialoguer avec la plupart des SGBD existants. Le couple Python-SQLite3 ne déroge pas à la règle, et c’est le
-module sqlite3 qu'il faut utiliser.
+Mais s'il n'y a pas d'application déjà codée comme lorsque tu réserves tes billets de train, c’est un programme Python qui peut jouer le rôle d’application intermédiaire. Le dialogue se fera avec un SGBD, comme le SGBD SQLite3 par exemple. La plupart des langages de programmation ont des bibliothèques permettant à un programme de dialoguer avec la plupart des SGBD existants. Le couple Python-SQLite3 ne déroge pas à la règle, et c’est le module 'sqlite3' qu'il faut utiliser.
+
+Pour interagir avec la base de données via Python, il y a plusieurs étapes et ça peut être fastidieux. 
+Retrouve ces différentes étapes dans [ce cours](https://python.antoinepernot.fr/cours.php?course=chap6). 
+
+Retiens-les 3 étapes principales : 
+1) Installer puis importer le connecteur (ex : 'mysql.connector' ou 'sqlite3')
+2) Se connecter à la base de données en inscrivant la bonne configuration
+3) Extraire des données à partir de la base puis fermer la connexion.
 
 
 #### 3.2.3 Accéder à des données en scrapant le web
 
+Le web scraping est une technique d'extraction des données de site Internet afin de les enregistrer puis de les analyser. En Python, l'extraction des données depuis le web est souvent réalisée à l'aide du module 'BeautifulSoup'.
+
+Pour apprendre à scraper avec Python, je te recommande [cet article](https://medium.com/france-school-of-ai/web-scraping-avec-python-apprenez-%C3%A0-utiliser-beautifulsoup-proxies-et-un-faux-user-agent-d7bfb66b6556) ou cette [vidéo Youtube](https://www.youtube.com/watch?v=Wvc2ZqdIPpk), en fonction du format que tu préfères.
+
+
 #### 3.2.4 Accéder à des données via une API
+
+Même si le web scraping a son utilité, ce n’est pas la méthode à privilégier pour obtenir des données des sites Internet. En effet, il existe souvent une meilleure méthode : de nombreux exploitants de sites Internet mettent à disposition les données dans un format structuré, lisible par une machine. Pour accéder aux données, on utilise alors des interfaces de programmation spéciales, appelées *Application Programming Interfaces* (API).
+
+Les avantages de l’utilisation d’une API sont significatifs :
+- L’API est explicitement mise à disposition par le fournisseur pour accéder aux données : les risques juridiques sont donc plus faibles et le fournisseur est mieux à même de réglementer l’accès aux données. Une clé API peut par exemple être exigée pour accéder aux données. Par ailleurs, le fournisseur peut mettre en place une limitation plus précise du débit.
+- L’API fournit directement les données dans un format lisible par la machine : par conséquent, il n’est pas nécessaire d’extraire les données du code source, une étape fastidieuse dans le web scraping. D’autre part, la structure des données est séparée de la représentation visuelle. La structure est ainsi conservée même si le design du site Internet est modifié.
+
+En Python, la librairie la plus utilisée est Requests. Voici un tuto qui t'explique [comment démarrer avec la librairie Requests en Python](https://www.digitalocean.com/community/tutorials/how-to-get-started-with-the-requests-library-in-python-fr).
 
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+Le processus d'analyse de données (ou *Data Analysis*) peut être décomposé en plusieurs phases. La première étape est la collecte de données, en provenance d’une ou plusieurs sources. 
+
 
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+
