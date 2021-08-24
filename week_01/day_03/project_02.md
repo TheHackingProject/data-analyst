@@ -1,7 +1,7 @@
 # 5 ans après, nouvelle enquête sur les Panama Papers
 
 ## 1. Introduction
-Toujours comme ce matin pendant le cours OpenClassrooms ([à relire](https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql/4539106-explorez-les-panama-papers) si tu as un peu oublié), tu es dans la peau journaliste d'investigation du *Fronde* qui doit ré-enquêter sur les Panama Papers. La revue pense qu'il faut re-sensibiliser le public aux découvertes faites en 2016.
+Toujours comme ce matin pendant le cours OpenClassrooms ([à relire](https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql/4539106-explorez-les-panama-papers) si tu as un peu oublié), tu es dans la peau d'un journaliste d'investigation du *Fronde* qui doit ré-enquêter sur les Panama Papers. La revue pense qu'il faut re-sensibiliser le public aux découvertes faites en 2016.
 
 A ce propos, le secrétaire de rédaction t'a retoqué hier ton article car selon lui, "il manque de données quantitatives et précises". Il te demande d'aller directement à la source de l'information, de reprendre toutes les données qui ont été rendues publiques à l'époque et de répondre à une longue liste de questions que se posent les lecteurs. Ces réponses pourront faire l'objet d'une infographie interactive, ce qui "plaira beaucoup plus aux lecteurs que ton histoire incompréhensible d'argent planqué".
 
