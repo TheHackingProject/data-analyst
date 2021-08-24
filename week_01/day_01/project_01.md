@@ -85,7 +85,7 @@ Après ce petit tour de chauffe, voici un autre exercice sous forme d'initiation
 Le texte chiffré s'obtient en remplaçant chaque lettre du texte clair original par une lettre à distance fixe, toujours du même côté, dans l'ordre de l'alphabet. Si jamais on dépasse la dernière lettre de l'alphabet, on continue à compter depuis le début. Par exemple avec un décalage de 3 vers la droite, A est remplacé par D, B devient E, W devient Z, X devient A, Y devient B, etc.
 Il s'agit d'une permutation circulaire de l'alphabet. La longueur du décalage, 3 dans l'exemple évoqué, constitue la clé du chiffrement qu'il suffit de transmettre au destinataire — s'il sait déjà qu'il s'agit d'un chiffrement de César — pour que celui-ci puisse déchiffrer le message. Dans le cas de l'alphabet latin, le chiffre de César n'a que 26 clés possibles (plus la clé nulle, qui ne modifie pas le texte).
 
-Ta mission : créer une méthode `caesar_cipher` qui prend en paramètres un string et une clé de chiffrement (nombre de lettres à décaler) pour en sortir le string modifié.
+Ta mission : créer une fonction `caesar_cipher` qui prend en paramètres un string et une clé de chiffrement (nombre de lettres à décaler) pour en sortir le string modifié.
 
 ```
 > caesar_cipher("What a string!", 5)
@@ -122,17 +122,12 @@ La fonction devra renvoyer le nombre d'occurrences de chaque mot de la référen
 
 ### 2.7.2. Compter chez Shakespeare 🤓🤓
 
-#### a) Les mots communs
 Google veut savoir combien de fois l'on peut trouver dans l'œuvre intégrale de Shakespeare les mots suivants :
 
 `reference = ["the", "of", "and", "to", "a", "in", "for", "is", "on", "that", "by", "this", "with", "i", "you", "it", "not", "or", "be", "are"]`
 Crée un fichier shakespeare.txt qui reprend [le corpus intégral de l'oeuvre de l'écrivain anglais](https://ocw.mit.edu/ans7870/6/6.006/s08/lecturenotes/files/t8.shakespeare.txt). Ton programme appellera le fichier shakespeare.txt (indice : c'est plus facile s'ils sont dans le même dossier) pour s'en servir comme corpus, pour ensuite compter les occurrences du dictionnaire.
 
-#### b) Les gros mots lol
-Après les mots communs, Google est de plus en plus curieux. Ils voudraient savoir combien de gros mots sont contenus dans l'œuvre de Shakespeare, pour voir si l'auteur anglais était un coquin. Voici une liste de [gros mots](http://www.bannedwordlist.com/lists/swearWords.txt) au format .txt. Télécharge ce fichier, mets-le à côté de Shakespeare.txt. Trouve un moyen pour transformer cette liste de mots au format .txt en une array de string qui te servira de dictionnaire.
-
-
 
 ## 3. Rendu attendu
-Un fichier .ipynb ou un fichier .py qui comprend l'ensemble des scripts demandés. 
+Un fichier .ipynb qui comprend l'ensemble des scripts demandés. Ou plusieurs fichiers .py.
 
