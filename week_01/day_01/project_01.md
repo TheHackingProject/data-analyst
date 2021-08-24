@@ -3,7 +3,7 @@
 C'est parti, tu vas créer ton premier Jupyter Notebook et tes premiers programmes Python. Good luck my friend 🚀
 
 ## 1. Introduction
-Pour ton premier jour de développeur Python 😎😎😎, rien de mieux que de te faire la main avec une série de programmes ... dont certains que tu as déjà faits en Ruby !
+Pour ton premier jour de développeur Python 😎 rien de mieux que de te faire la main avec une série de programmes ... dont certains que tu as déjà faits en Ruby !
 
 ## 2. A toi de jouer !
 La difficulté des exercices est croissante alors pas d'inquiétude si tu as du mal vers la fin du projet.
@@ -57,9 +57,8 @@ Hum, en écrivant ça sur papier, j'ai identifié 2 choses qui vont composer mon
 "à chaque chiffre [mon programme] va tester s'il est multiple de 3 ou 5" => voilà un problème simple et bien défini : être capable d'identifier si un nombre est multiple de 3 ou 5 !
 
 Allez c'est parti, tu peux te lancer maintenant !
-___
 
-🙈🙈 SPOILER ALERT 🙈🙈
+### 2.4.3. La solution
 
 Tu peux voir à la suite deux solutions pour ce programme. Essaye d'abord de faire ta version avant de les regarder. 
 On te montre la solution pour que tu voies qu'on n'est plus exactement dans la même démarche qu'avec Ruby (écrire des méthodes qu'on imbrique entre elles). A partir de maintenant et car précisément tu souhaites te spécialiser dans la donnée, tu peux aller au plus vite et au plus efficace. L'objectif dans l'analyse de données, c'est d'utiliser le code pour obtenir le bon résultat.
@@ -77,8 +76,6 @@ Ou, en version plus condensée, ainsi :
 ```
 > print(sum(i for i in range(1, 1000) if i%3 == 0 or i%5 == 0))
 ```
-
-___
 
 
 ## 2.5. Cryptofolies 💳💳
@@ -98,9 +95,9 @@ Ta mission : créer une méthode `caesar_cipher` qui prend en paramètres un str
 ## 2.6 Jean-Michel Trader 💸💸
 Si tu es arrivé à bout des deux premiers exercices, bien joué ! On continue sur notre lancée.
 
-Après la cybersécurité à la NSA, Lehman Brothers veut te débaucher pour faire de la finance. Hyper cool. Ils te demandent cette fois de coder un programme qui permet, à partir d'un array de prix, de connaître le meilleur jour d'achat et le meilleur jour de revente pour faire le maximum de bénéfices.
+Après la cybersécurité à la NSA, Lehman Brothers veut te débaucher pour faire de la finance. Hyper cool. Ils te demandent cette fois de coder un programme qui permet, à partir d'une liste de prix, de connaître le meilleur jour d'achat et le meilleur jour de revente pour faire le maximum de bénéfices.
 
-Si l'on considère la liste de prix suivant : `[17, 3, 6, 9, 15, 8, 6, 1, 10]`, la fonction `day_trader` doit renvoyer qu'il s'agit du deuxième jour à l'achat et du cinquième jour à la revente.
+Si l'on considère la liste de prix suivante : `[17, 3, 6, 9, 15, 8, 6, 1, 10]`, la fonction `day_trader` doit renvoyer qu'il s'agit du deuxième jour à l'achat et du cinquième jour à la revente.
 
 ```
 > day_trader([17, 3, 6, 9, 15, 8, 6, 1, 10])
