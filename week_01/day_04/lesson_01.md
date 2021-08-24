@@ -47,7 +47,7 @@ Tu vois, la définition est assez vague. C'est pourquoi tu devras savoir faire p
 L'analyse des données est devenue très complexe depuis une dizaine d'années. C'est pourquoi de nouveaux métiers sont apparus, avec des frontières encore en évolution. 
 
 En théorie : 
-Pour créer des bases de données, il faut être un bon développeur informatique. 
+Pour créer des bases de données, il faut être un bon dev informatique. 
 Pour analyser des bases de données, il faut avoir un esprit analytique, orienté business. 
 
 En pratique : 
