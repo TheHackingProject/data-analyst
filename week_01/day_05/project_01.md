@@ -52,10 +52,9 @@ Voici la liste des requêtes que tu dois réaliser sur cette base de données :
 
 ### 2.4. Extraction en scrapant le web
 
-Tu t'es déjà exercé au scraping avec Ruby. 
+Tu t'es déjà exercé au scraping avec Ruby. Essaye maintenant de réaliser le dernier exercice du scrappeur fou avec Python. Voici la consigne au cas où tu aies oublié : 
 
-
-
+Tu dois récupérer la liste complète des députés de France ainsi que leurs adresses e-mail. Cherche par toi-même le site le plus aisé à scrapper et stocke les informations extraites dans le format qui te plaît le plus.
 
 
 ### 2.5. Extraction à partir d'une API
