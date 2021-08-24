@@ -18,7 +18,7 @@ Direction le Suuuuuud 😎.
 Sur [cette page](https://trouver.datasud.fr/dataset/panorama-des-festivals), tu vas trouver le panorama des festivals en PACA. Télécharge le fichier Json et extrais ses données.
 Dis-nous combien il y a de festivals en PACA, quelles sont les 3 villes qui accueillent la majorité des festivals et quel est le mois de l'année le plus chargé en festivals.
 
-### 2.2. Extraction à partir d'une base de données
+### 2.3. Extraction à partir d'une base de données
 Finies les vacances, retour à la vraie vie 💼💼 : tu enfiles ton costume de banquier pour aller requêter une base de données qui contient tous tes clients.
 
 Télécharge la base de données [ici](http://alain.troesch.free.fr/2017/Fichiers/py066-ma_banque.db).
@@ -50,17 +50,24 @@ Voici la liste des requêtes que tu dois réaliser sur cette base de données :
 19. Moyenne par ville des fortunes totales des clients (somme sur tous leurs comptes), classé par valeur croissante.
 
 
-### 2.2. Extraction en scrapant le web
+### 2.4. Extraction en scrapant le web
 
 Tu t'es déjà exercé au scraping avec Ruby. 
 
 
 
-### 2.2. Extraction à partir d'une API
 
-Tu possèdes des clés de l'API Twitter, quelle chance ! On va s'en reservir aujourd'hui car nous allons extraire des infos de la twitosphère
 
+### 2.5. Extraction à partir d'une API
+
+Tu possèdes des clés de l'API Twitter, quelle chance ! On va s'en reservir aujourd'hui : à toi d'extraire des infos de la twitosphère ...
+
+Twitter est une mine d'or de données. Contrairement aux autres plateformes sociales, presque tous les tweets des utilisateurs sont entièrement publics et extractibles. C'est un énorme avantage si tu essayes d'obtenir une grande quantité de données sur lesquelles exécuter des analyses.
+
+Ton défi du jour : extraire l'ensemble des tweets publiés dans la journée en lien avec le "PSG" ou l'"OM", comme tu préfères 🙂🙃. Tu compileras ensuite ces tweets dans un fichier Excel.
+
+Aide [ici](https://www.youtube.com/watch?v=FHV8iQSy_XM).
 
 
 ## 3. Rendu attendu
- Un récapitulatif de ce que nous attendons du projet.
+L'ensemble de tes 5 scripts Python, rangés dans des fichiers py.
