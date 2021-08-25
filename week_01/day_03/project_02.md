@@ -21,7 +21,7 @@ Voici la liste de questions auxquelles tu dois répondre :
 - Donner la liste des intermédiaires qui ont aussi été bénéficiaires, en ajoutant leur nom de bénéficiaire et leur adresse.
 - Donner le top 10 des bénéficiaires qui ont le plus d'identités différentes (similar name and address) et le nombre d'identités correspondants.
 - Donner le top 10 des bénéficiaires qui ont le plus de parts toujours valides dans des entreprises offshores (dont la date de fin n'est pas encore passée).
-- Question bonus : réussir à retrouver dans la base au moins 3 personnalités que tu connais ([indice](https://fr.wikipedia.org/wiki/Liste_des_personnes_cit%C3%A9es_dans_les_Panama_Papers)) 😎😎😎.
+- Question bonus : réussir à retrouver dans la base au moins 3 personnalités que tu connais ([indice](https://fr.wikipedia.org/wiki/Liste_des_personnes_cit%C3%A9es_dans_les_Panama_Papers)) 😎😎😎
 
 ## 3. Rendu attendu
 Un fichier .txt (ou .md) contenant les requêtes SQL qui permettent d'obtenir les infos demandées sur notre BDD.
