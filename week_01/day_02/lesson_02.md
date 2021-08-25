@@ -7,9 +7,9 @@ NumPy est une bibliothèque Python destinée à manipuler des matrices ou tablea
 ## 2.Historique et contexte
 Comme on l'a déjà vu, le langage Python n'a pas été conçu à l'origine pour le calcul numérique. Cependant, il a très tôt attiré l'attention de la communauté scientifique et technique.
 
-En 1995, le groupe d'intérêt spécial (SIG) *Matrix-sig* a été fondé dans le but de créer un paquet de calcul matriciel. Parmi ses membres, Guido van Rossum, concepteur et développeur de Python, a étendu sa syntaxe, et en particulier, la syntaxe d'indexation, afin de faciliter le calcul des tableaux. Une première implémentation d'un paquetage matriciel a été réalisée par Jim Fulton, puis amélioré par Jim Hugunin et appelée Numeric, également connu sous le nom de "Numerical Python extensions" ou "NumPy".
+En 1995, le groupe d'intérêt spécial (SIG) *Matrix-sig* a été fondé dans le but de créer un paquet de calcul matriciel. Parmi ses membres, Guido van Rossum, concepteur et développeur de Python, a étendu sa syntaxe, et en particulier, la syntaxe d'indexation, afin de faciliter le calcul des tableaux. Une première implémentation d'un paquetage matriciel a été réalisée par Jim Fulton, puis améliorée par Jim Hugunin et appelée Numeric, également connue sous le nom de "Numerical Python extensions" ou "NumPy".
 
-NumPy est la base de SciPy, regroupement de bibliothèques Python autour du calcul scientifique 💣💣.
+NumPy est la base de SciPy, regroupement de bibliothèques Python autour du calcul scientifique 💣💣
 
 > Pour info, au cas où tu es largué dans ces histoires de calcul : le calcul scientifique est une discipline aux contours pas toujours franchement définis, mais qui regroupe un ensemble de champs mathématiques et informatiques permettant la simulation numérique des phénomènes de la physique, chimie, biologie, et sciences appliquées en général.
 
