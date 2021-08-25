@@ -34,19 +34,19 @@ Cf. [cette page](https://openclassrooms.com/fr/courses/4452741-decouvrez-les-lib
 ## 4. Points importants à retenir
 La librairie Pandas est très utilisée en data science car elle permet entre autres de : 
 - simplifier les manipulations de données avec les dataframes (valeurs manquantes, colonnes, etc…)
-- permettre d’agréger et fusionner les données très facilement avec grâce aux fonctions `groupby`, `agg` et `merge`
+- permettre d’agréger et fusionner les données très facilement grâce aux fonctions `groupby`, `agg` et `merge`
 - simplifier le calcul de moyenne, médiane, variance ou encore somme
 - bénéficier d’une indexation sophistiquée et simple d’usage.
 
-Au-delà de la simplification d’usages complexes, Pandas est également facile à prendre en main et permet de lire simplement des données sous différents formats : fichiers CSV et texte, Microsoft Excel, bases de données SQL.
-Tu l'as compris, Pandas est très apprécié pour la multitude d’options qu’elle offre mais aussi pour sa prise en main rapide quand on débute. Si tu n'as pas encore tout saisi aux concepts de merge de tables, on va revoir ça demain avec SQL donc tu pourras te remettre dans le bain 🛁🛁
+Au-delà de la simplification d’usages complexes, Pandas est également facile à prendre en main et permet de lire simplement des données sous différents formats : fichiers CSV et texte, Microsoft Excel, bases de données SQL ...
+Tu l'as compris, Pandas est très appréciée pour la multitude d’options qu’elle offre mais aussi pour sa prise en main rapide quand on débute. Si tu n'as pas encore tout saisi aux concepts de merge de tables, on va revoir ça demain avec SQL donc tu pourras te remettre dans le bain 🛁🛁
 
 ## 5. Pour aller plus loin
 Hier, tu as découvert Python. Aujourd'hui, NumPy et Pandas. C'est bon, tu peux donc commencer à te plonger dans des jeux de données comme un vrai Data Analyst 😳😳 
 
 Tu n'es pas sûr d'avoir tout compris ? Ou tu as tout compris mais tu ne sais pas comment mettre ensemble toutes ses connaissances ? 
 
-Pas d'inquiétude, ça va venir naturellement avec la pratique. Avant de te lancer dans le projet, je t'invite à regarder à quoi ressemble une analyse de données. Voici [un exemple d'analyse](https://moncoachdata.com/blog/analyse-de-donnees-sur-le-covid-19/) réalisée sur LA Covid-19 (oui tu nous pardonneras mais c'est très très à la mode en ce moment, impossible d'y échapper 🙄). Prends en de la graine car maintenant, c'est à toi de réaliser les projets ci-dessous 😮
+Pas d'inquiétude, ça va venir naturellement avec la pratique. Avant de te lancer dans le projet, je t'invite à regarder à quoi ressemble une analyse de données. Voici [un exemple d'analyse](https://moncoachdata.com/blog/analyse-de-donnees-sur-le-covid-19/) réalisée sur LA Covid-19 (oui tu nous pardonneras mais c'est très très à la mode en ce moment, impossible d'y échapper 🙄). Prends en de la graine car maintenant, c'est à toi de réaliser les projets du jour 😮
 
 Tu peux aussi jeter un oeil [au Cookbook de la doc de Pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/cookbook.html) si tu veux encore plus d'exemples.
 
