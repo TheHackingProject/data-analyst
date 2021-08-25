@@ -27,7 +27,7 @@ Par définition, un tableau (ou *array*) en anglais est une structure de donnée
 
 ![Un exemple de tableau](https://codeforwin.org/wp-content/uploads/2015/07/array-and-array-index-representation.png)
 
-L’image ci-dessus nous donne un exemple d’un tableau à 1 dimension. Ainsi, on parlera de tableaux multidimensionnels lorsqu’on aura au minimum deux dimensions 🙃. On peut définir la dimension d’un tableau comme le nombre d’indices (d’axes) nécessaires pour spécifier de manière unique un élément dans le tableau. 
+L’image ci-dessus nous donne un exemple d’un tableau à 1 dimension. Ainsi, on parlera de tableaux multidimensionnels lorsqu’on aura au minimum deux dimensions 🙃 On peut définir la dimension d’un tableau comme le nombre d’indices (d’axes) nécessaires pour spécifier de manière unique un élément dans le tableau. 
 
 ![Les dimensions](https://www.w3resource.com/w3r_images/numpy-array-xyz-axis.png)
 
@@ -47,7 +47,7 @@ Mais surtout le plus important est que tu comprennes l'intérêt de NumPy pour l
 
 Les éléments d'un tableau sont stockés dans des emplacements de mémoire contigus. En fait, l’idée de NumPy est de stocker plusieurs éléments du même type ensemble dans le but d’améliorer les performances de calcul.
 
-Cela est très utile car les boucles peuvent êtres lentes en Python. Si vous voulez savoir pourquoi, l'idée principale est la suivante : l'implémentation de référence de Python, encore appelée CPython, est très flexible, mais cette flexibilité l'empêche d'utiliser toutes les optimisations possibles. Avec des boucles, il faudra plusieurs secondes pour accomplir un million d'opérations. Sachant que les processeurs actuels sont capables d'exécuter des milliards d'opérations par seconde, cette durée peut apparaître absurde. Ce délai est dû à toutes les opérations annexes que doit accomplir l'interprète, comme les appels de fonction et vérifications de type. ⏳⏳⏳
+Cela est très utile car les boucles peuvent êtres lentes en Python. Si vous voulez savoir pourquoi, l'idée principale est la suivante : l'implémentation de référence de Python, encore appelée CPython, est très flexible, mais cette flexibilité l'empêche d'utiliser toutes les optimisations possibles. Avec des boucles, il faudra plusieurs secondes pour accomplir un million d'opérations. Sachant que les processeurs actuels sont capables d'exécuter des milliards d'opérations par seconde, cette durée peut apparaître absurde. Ce délai est dû à toutes les opérations annexes que doit accomplir l'interprète, comme les appels de fonction et vérifications de type ⏳⏳⏳
 
 ___
 
