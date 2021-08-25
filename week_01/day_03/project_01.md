@@ -25,4 +25,4 @@ Rédige les requêtes SQL permettant d'obtenir les informations ci-dessous. Cons
 - Créer l'album de ton artiste favori en base, en renseignant correctement les trois tables albums, artists et tracks
 
 ## 3. Rendu attendu
-Un fichier .txt (ou .md) contenant les requêtes SQL qui permettent d'obtenir les infos demandées sur notre BDD musicale 🎶🎶.
+Un fichier .txt (ou .md) contenant les requêtes SQL qui permettent d'obtenir les infos demandées sur notre BDD musicale 🎶🎶
