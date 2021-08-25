@@ -65,7 +65,7 @@ La fonction `type()` détermine le type d'une variable.
 
 Enfin, il y a des variables **immuables**, c'est-à-dire qu'elles ne peuvent pas être modifiées. Les nombres sont des types immuables, tout comme les chaînes de caractères et les tuples.
 Ex : 
-  ```
+  ```python
   x = (3,2)
   x[0] = 1
   TypeError: 'tuple' object does not support item assignment.
