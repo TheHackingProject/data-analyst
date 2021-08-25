@@ -45,9 +45,9 @@ Pour bien comprendre les concepts fondamentaux du modèle relationnel, nous te d
 Une fois les deux premiers chapitres réalisés (jusqu'au Quiz "L'algèbre relationnelle"), tu peux lire ce récapitulatif de  la terminologie du monde relationnel : 
 
 - Un **SGBDR** est un logiciel pouvant gérer plusieurs bases de données dans une entreprise. Il permet de construire une base, d'assurer son intégrité et ses sauvegardes, de stocker les données de cette base, de manipuler les données et ce via le langage **SQL** (Structured Query Language). Il s'agit donc d'une interface entre l'homme et la machine.
-- La structure qui permet de stocker les données se nomme une **table**. Une table contient des **colonnes** et des **lignes**. Une tables a toujours une **clé**, que l'on nomme clé primaire. Elle peut avoir plusieurs index. 
+- La structure qui permet de stocker les données se nomme une **table**. Une table contient des **colonnes** et des **lignes**. Une table a toujours une **clé**, que l'on nomme clé primaire. Elle peut avoir plusieurs index. 
 - Un **index** est un ensemble de pointeurs, permettant de récupérer les données plus rapidement que s'il fallait lire séquentiellement toutes les lignes d'une table. Il pointe vers une ligne en particulier.
-- Les tables peuvent être reliées entre elles par des **contraintes**, dites contraintes d'intégrité référentielle. Quand le concepteur crée une table, il définit son nom, ses colonnes, sa clé. Le SGBDR crée la structure demandée, ainsi qu'une contraine sur la colonne clé (pour éviter les clés en double), plus un index sur cette colonne clé.
+- Les tables peuvent être reliées entre elles par des **contraintes**, dites contraintes d'intégrité référentielle. Quand le concepteur crée une table, il définit son nom, ses colonnes, sa clé. Le SGBDR crée la structure demandée, ainsi qu'une contrainte sur la colonne clé (pour éviter les clés en double), plus un index sur cette colonne clé.
 - Enfin, lorsque le concepteur créer une nouvelle base, le SGBDR crée un **journal** pour mémoriser toutes les actions effectuées sur cette base. L'administrateur de la base pourra définir quel **utilisateur** est habilité à manipuler les données de l'entreprise.
 
 
@@ -61,7 +61,7 @@ Télécharge la base de données, ainsi que le logiciel SQLiteStudio (si vraimen
 
 > Tu te demandes pourquoi tu ne vois qu'une partie du langage SQL (LMD, et plus particulièrement la partie lecture des données) ? En fait, c'est l'action principale qui te sera demandée en tant que Data Analyst : interroger la base de données pour en tirer des informations actualisées. Mais ne t'inquiète pas, on te détaillera les autres tâches dans la journée de demain 😏😏.
 
-A la fin du cours OpenClassrooms, tu auras vu toutes les requêtes principales et tu pourras maintenant pratiquer en pleine autonomie le SQL 😊😊.
+A la fin du cours OpenClassrooms, tu auras vu toutes les requêtes principales et tu pourras maintenant pratiquer en pleine autonomie le SQL 😊😊
 
 
 ## 4. Points importants à retenir
