@@ -24,8 +24,8 @@ Ton manager t'a donné une liste de questions pour te rendre la tâche plus conc
 - Quel est le nombre moyen de musées par ville ?
 - Quel est le nombre médian de musées par ville ?
 - Comment sont répartis les musées par type (en pourcentage) ?
-- Combien y-a-t-il de musée dont le nom commence par "Château" ?
-- De combien de musées dispose-t-on de l'adresse du site web ?
+- Combien y-a-t-il de musées dont le nom commence par "Château" ?
+- Pour combien de musées dispose-t-on de l'adresse du site web ?
 - Quel département français possède le plus de musées sur son territoire ?
 - Quel département français possède le moins de musées sur son territoire ?
 - Combien de musées ont "Napoléon" dans leur nom ?
@@ -33,7 +33,7 @@ Ton manager t'a donné une liste de questions pour te rendre la tâche plus conc
 ### 2.3. Proposer deux axes d'analyse supplémentaires
 Tu rends la réponse aux 10 questions mais ton manager n'est pas totalement satisfait. Il trouve que cela manque encore d'informations vraiment croustillantes pour le grand public.
 
-Il te demande alors un nouveau travail : peux-tu proposer deux sources de données complémentaires qui pourraient enrichir le fichier ? Les développeurs se chargeront de récupérer les données quand tu les auras identifiées. 
+Il te demande alors un nouveau travail : peux-tu proposer deux sources de données complémentaires qui pourraient enrichir le fichier ? Les développeurs se chargeront de récupérer les données quand tu auras identifiées les sources. 
 
 > Par exemple, si tu trouves un site qui donne la fréquentation de tous les musées français, je pense que la responsable de la communication sera contente de pouvoir ajouter dans son article un top 5 des musées les plus fréquentés, ainsi qu'un flop 5 de ceux où personne ne va jamais 👹👹
 
