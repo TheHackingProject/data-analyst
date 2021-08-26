@@ -19,6 +19,7 @@ Les allers-retours entre nettoyage et analyse peuvent commencer. Pour réussir �
 
 Par ailleurs, en parallèle de ce nettoyage, tu vas devoir dégager des axes d'analyse qui te semblent intéressants. 
 De nouveau, la directrice des Etudes te demande de lui envoyer un mail récapitulatif. Cette fois, elle aimerait que tu lui proposes 5 tendances qu'on retrouve dans le jeu de données. Ces 5 tendances pourraient constituer les 5 axes du rapport à publier en janvier. Rappel : l'objectif du rapport est de faire un état des lieux de la situation de l'éducation dans le monde et comment celle-ci devrait évoluer. Elle souhaiterait que tu illustres chaque tendance choisie par une dizaine de chiffres évocateurs.
+Et pour lui faire vraiment plaisir, ajoute 2 box plots à ton mail, elle adore cette façon de lire les données 🤓
 
 
 ## 3. Rendu attendu
