@@ -5,7 +5,7 @@ C'est l’étape la plus importante avant d’analyser ou modéliser des donnée
 
 ## 2. Historique et contexte
 Les volumes de données dont nous disposons ne cessent d’augmenter, de même que les risques d’erreur. Ces données qui présentent des problèmes d’erreur et d’incohérence sont généralement appelées « données sales », et leur impact global n’est pas négligeable. On estime que 3 % seulement des données satisfont aux normes de qualité de base et que les données sales coûtent plus de 3 milliards $USD par an aux entreprises américaines.
-Par conséquent, il faut compter sur le nettoyage des données (aussi appelé *data cleaning*) pour réaliser une analyse cohérente. 
+Par conséquent, il faut compter sur le nettoyage des données (aussi appelé *data cleaning*) pour pouvoir réaliser des analyses cohérentes. 
 
 ## 3. La ressource
 
@@ -17,14 +17,14 @@ Une valeur aberrante ou *outlier* correspond à une valeur éloignée de la dist
 
 Une façon assez simple de détecter ces valeurs est de réaliser un box plot (ou boîte à moustaches) pour chacune des variables. Un box plot est un graphique sous forme de rectangle où sont décrites les statistiques de la variables (les quartiles : Q1, médiane, Q3). Les bornes du graphique délimitent les valeurs selon la distribution de la variable. Au-delà de ces extrémités, ces valeurs sont considérées comme des valeurs aberrantes.
 
-Dans le cadre d’un projet de Machine Learning on fera souvent le choix de supprimer une valeur aberrante. En effet, pour obtenir une meilleure qualité de prédiction il est nécessaire de traiter ces données car un modèle pourra être très sensible aux données extrêmes, ce qui va biaiser les prédictions.
+Dans le cadre d’un projet de Machine Learning, on fera souvent le choix de supprimer une valeur aberrante. En effet, pour obtenir une meilleure qualité de prédiction il est nécessaire de traiter ces données car un modèle pourra être très sensible aux données extrêmes, ce qui va biaiser les prédictions.
 
 ## 4. Points importants à retenir
 - Le nettoyage des données est une étape cruciale pour la réussite de tout projet data.
 
 - Dans la plupart des cas, on est obligés de faire des allers-retours entre la phase de nettoyage et la phase de description (analyse). En phase d'analyse, on trouve souvent de nouvelles erreurs, et il faut revenir au nettoyage. 
 
-- Chaque nettoyage de données est unique : il n'y a pas de règle à proprement parler. L'objectif est de repérer les sources d'erreurs qui pourraient nuire à l'analyse et de trouver le meilleur moyen pour les corriger.
+- Chaque nettoyage de données est unique : il n'y a pas de règle à proprement parler. L'objectif est toujours de repérer les sources d'erreurs qui pourraient nuire à l'analyse et de trouver le meilleur moyen pour les corriger.
 
 ## 5. Pour aller plus loin
-Faire le [chapitre du cours d'OC](https://openclassrooms.com/fr/courses/4525266-decrivez-et-nettoyez-votre-jeu-de-donnees/4928106-reperez-les-differents-types-derreurs) sur le nettoyage des jeux de données. Tu peux aller jusqu'au quiz final.
+La ressource du jour est courte car il s'agit surtout de notions que tu apprendras en pratiquant. Profites-en pour faire le [chapitre du cours d'OC](https://openclassrooms.com/fr/courses/4525266-decrivez-et-nettoyez-votre-jeu-de-donnees/4928106-reperez-les-differents-types-derreurs) sur le nettoyage des jeux de données. Tu peux aller jusqu'au quiz final.
