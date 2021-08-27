@@ -64,7 +64,7 @@ Tu peux voir à la suite deux solutions pour ce programme. Essaye d'abord de fai
 On te montre la solution pour que tu voies qu'on n'est plus exactement dans la même démarche qu'avec Ruby (écrire des méthodes qu'on imbrique entre elles). A partir de maintenant et car précisément tu souhaites te spécialiser dans la donnée, tu peux aller au plus vite et au plus efficace. L'objectif dans l'analyse de données, c'est d'utiliser le code pour obtenir le bon résultat.
 
 Une des solutions peut s'écrire ainsi : 
-```
+```python
 resultat = 0
 for i in range(1, 1000):
     if i%3 == 0 or i%5 == 0:
@@ -73,7 +73,7 @@ print(resultat)
 ```
 
 Ou, en version plus condensée, ainsi :
-```
+```python
 > print(sum(i for i in range(1, 1000) if i%3 == 0 or i%5 == 0))
 ```
 
@@ -87,7 +87,7 @@ Il s'agit d'une permutation circulaire de l'alphabet. La longueur du décalage, 
 
 Ta mission : créer une fonction `caesar_cipher` qui prend en paramètres un string et une clé de chiffrement (nombre de lettres à décaler) pour en sortir le string modifié.
 
-```
+```python
 > caesar_cipher("What a string!", 5)
 => "Bmfy f xywnsl!"
 ```
@@ -99,7 +99,7 @@ Après la cybersécurité à la NSA, Lehman Brothers veut te débaucher pour fai
 
 Si l'on considère la liste de prix suivante : `[17, 3, 6, 9, 15, 8, 6, 1, 10]`, la fonction `day_trader` doit renvoyer qu'il s'agit du deuxième jour à l'achat et du cinquième jour à la revente.
 
-```
+```python
 > day_trader([17, 3, 6, 9, 15, 8, 6, 1, 10])
 => [1,4]  # $15 - $3 == $12
 ```
@@ -112,7 +112,7 @@ Après Lehman Brothers, Google a besoin de toi pour faire de la Data Science. Qu
 - la référence, une liste de mots (strings) qui seront recherchés dans le corpus
 La fonction devra renvoyer le nombre d'occurrences de chaque mot de la référence dans le corpus sous la forme d'un dictionnaire. Ainsi :
 
-```
+```python
 > reference = ["below", "down", "go", "going", "horn", "how", "howdy", "it", "i", "low", "own", "part", "partner", "sit"]
 > word_counter("below", reference)
 => {"below" : 1, "low" : 1}
