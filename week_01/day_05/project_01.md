@@ -1,7 +1,9 @@
-# Décrire un cas d'usage du Big Data
+# Big Data vs ETL
 
 ## 1. Introduction
-Dans ce projet, tu vas voir tous les moyens d'extraire des données. Ainsi, tu deviendras le boss de l'étape Extract de l'ETL 👌.
+Décrire un cas d'usage de chaque technologie : big data. Et ETL.
+
+A la fin, on récupérera l'ensemble des cas d'usage obtenus, on en fera un book et nous vous l'enverrons. 
 
 ## 2. Le projet
 
