@@ -1,17 +1,26 @@
 # Le Big Data
-Commençons par le commencement : comment obtient-on des données dans la pratique ?
+A quoi correspond techniquement cette révolution qu'on appelle "Big Data" et quelles sont ses conséquences sur l'analyse de données ?
 
 ## 1. Introduction
-Maintenant que tu connais les langages indispensables à un bon Data Analyst, il faut que tu comprennes le processus général d'analyse de données. Ce processus se compose de différentes étapes. La première étape est sans aucun doute l'obtention des données. En effet, pour tout projet, l'entreprise doit en premier lieu identifier la ou les sources de données intéressantes puis voir comment s'approprier ces sources.
+Tu viens de voir les deux familles d'outils indispensables à la Data Analyse : les langages de programmation et les bases de données. Il te reste à voir encore deux familles d'outils : les outils d'analyse (que tu verras lors de la troisième semaine de la formation) et les outils Big Data, qu'on va voir aujourd'hui. Les outils Big Data sont apparus récemment et sont souvent gérés par des développeurs vue leur complexité. Mais il est important pour toi de comprendre leur utilité et leur fonctionnement.
 
 ## 2. Historique et contexte
-Pendant des siècles, l’humanité a stocké ses données dans les livres 📝. L’arrivée du digital au XXème siècle a donné une dimension exponentielle et globale à cette pratique. Cette révolution des données, qui n’est encore qu’à ses prémices, est en train de multiplier les sources de données et de nous donner, à chacun, la possibilité d'étudier ces multiples données.
+On peut dater l’acte de naissance du big data en 2001 avec l’invention de la règle des 3V (Volume, Vitesse et Variété). A l’époque, l’expression traduisait une rupture dans le volume des données à traiter. Jusqu’à la fin des années 90, les quantités de données restaient limitées. Puis, on a assisté à une explosion du volume de données avec l’essor de l’e-commerce, des réseaux sociaux, des terminaux mobiles et, plus récemment, de l’internet des objets (IoT). Face à cette avalanche de data, les modèles techniques existants ont montré leurs limites. La base de données parfaite n’existe plus. En fonction du souhait de privilégier la volumétrie, la vitesse ou les capacités de requêtage, on choisira une solution plutôt qu’une autre ou bien une combinaison d’outils.
 
-Plus précisément, environ 2,5 trillions d'octets de données sont produits chaque jour. Ce sont des informations provenant de sources divers : messages, vidéos, informations climatiques, signaux GPS, transactions etc. Sur Facebook seulement, nous envoyons 10 milliards de messages par jour. La quantité de données digitales produites double tous les 2 ans. En d'autres termes, on a produit autant de données digitales ces 2 dernières années que tout ce qui a été produit auparavant. 
-
-Maintenant que l'on sait que toutes ces données existent, nous allons voir comment on récupère ces données ⭐️⭐️.
+Pour leurs propres besoins, les GAFAM ont dû créer des outils pour stocker et traiter à la volée des données à la fois nombreuses et versatiles, leur structuration changeant avec le temps. Facebook est ainsi à l’origine de Cassandra avant de se tourner vers HBase (NoSQL), Google de BigTable et GFS (ancêtre d’HDFS) et plus récemment de TensorFlow (machine learning). Les géants du web ont ensuite versé ces projets en open source, externalisant en quelque sorte leur R&D. Car à leurs yeux, l’or ce sont les données elles-mêmes, pas les technologies. 
+ 
+Finalement, le buzzword "Big Data" fait avant tout référence à un ensemble de technologies comme Hadoop, Spark, Kafka ou les bases de données NoSQL ... que tu vas découvrir aujourd'hui.
 
 ## 3. La ressource
+
+https://matheo.uliege.be/bitstream/2268.2/2562/4/M%C3%A9moire%20Camille%20Marenne.pdf
+
+https://inventiv-it.fr/big-data-devez-apprendre/
+
+https://www.atys-concept.com/blog-de-la-performance/articles-performance-industrielle/differences-entre-data-analytics-data-science-big-data/
+
+https://www.decideo.fr/Les-6-competences-les-plus-recherchees-en-Big-Data_a10051.html
+
 
 ### 3.1. Les sources de données
 Une source de données est l’endroit d’où proviennent les données utilisées. Elle peut être l’endroit où les données ont été créées ou celui où les informations physiques ont été numérisées. 
@@ -26,8 +35,7 @@ Concrètement, une source de données peut être :
 Voici un exemple d’une source de données en action : une marque de mode qui vend des produits en ligne. Pour indiquer qu’un article est en rupture de stock, le site web collecte des informations dans une base de données d’inventaire. Dans ce cas de figure, les tableaux d’inventaire sont une source de données, à laquelle accède l’application web pour afficher le site web aux clients.
 
 
-### 3.2. Comment accéder à ces sources de données via Python
-
+### 3.2. Différences entre Big Data et Business Intelligence ?
 #### 3.2.1 Accéder à des données dans un fichier 
 Comme nous l'avons déjà vu, la bibliothèque Pandas de Python permet de récupérer des données depuis quasiment tous les types de fichiers (CSV, JSON, Excel ...). Cf. la [doc](https://pandas.pydata.org/pandas-docs/dev/user_guide/io.html) pour voir tous les types d'inputs qui peuvent être traités. 
 
