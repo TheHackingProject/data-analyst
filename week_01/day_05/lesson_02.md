@@ -49,6 +49,12 @@ Pour synthétiser, le Big Data c'est non pas 3 mais 5Vs à la fois :
 
 ### 3.2. Différences entre Big Data et Business Intelligence ?
 
+à voir si c'est utile
+
+### 3.3. Les technos Big Data
+
+paragraphe sur Mapreduce : https://inventiv-it.fr/big-data-devez-apprendre/
+
 
 ## 4. Points importants à retenir
 Le processus d'analyse de données (ou *Data Analysis*) peut être décomposé en plusieurs phases. La première étape est la collecte de données. Les données sont en provenance d’une ou plusieurs sources. 
@@ -57,5 +63,6 @@ Avant de collecter les données, il est primordial de se fixer des objectifs pr�
 
 
 ## 5. Pour aller plus loin
-Un [article Medium](https://medium.com/@rachidj/collecter-les-donn%C3%A9es-rapidement-et-efficacement-df7dd78b1ac0) d'un data scientist sur la collecte de données. Tu verras comment on peut s'amuser quand on commence à maîtriser les techniques vues aujourd'hui.
-Et tu peux regarder [cette vidéo](https://www.youtube.com/watch?v=HYNZixyYrW4) si ça t'intéresse de savoir comment scraper un profil Instagram 👹👹👹.
+
+
+peut-être mettre une blague ex : "si tu me crois pas qu'Hadoop est indispensable, cf https://www.decideo.fr/Les-6-competences-les-plus-recherchees-en-Big-Data_a10051.html"
