@@ -1,4 +1,4 @@
-# Première étape : la collecte des données
+# Le Big Data
 Commençons par le commencement : comment obtient-on des données dans la pratique ?
 
 ## 1. Introduction
