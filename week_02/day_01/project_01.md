@@ -1,31 +1,72 @@
-# Incollable sur l'éducation dans le monde
+# Go for Extract 
 
 ## 1. Introduction
-Suite à ton stage à l'Université de Strasbourg, tu es recruté par la Banque Mondiale. Ils doivent sortir pour janvier prochain un gros rapport sur l'état de l'éducation dans le monde. Et à vrai dire, à part mettre toutes les données disponibles dans un fichier csv, pas grand chose n'a été fait 😨
+Dans ce projet, tu vas voir tous les moyens d'extraire des données. Ainsi, tu deviendras le boss de l'étape Extract de l'ETL 👌.
 
 ## 2. Le projet
 
-### 2.1. Etude de la qualité des données
-Lors de ton premier point de prise de poste, on te prévient qu'on ne sait pas vraiment l'étendue de la tâche car personne ne s'est encore vraiment plongé dans le fameux fichier à 887 000 lignes 💩💩 En fait, l’organisme “EdStats All Indicator Query” de la Banque mondiale répertorie 4 000 indicateurs internationaux décrivant l’accès à l’éducation, l’obtention de diplômes et des informations relatives aux professeurs, aux dépenses liées à l’éducation... Les données sont disponibles sur [le site de la Banque Mondiale](https://datacatalog.worldbank.org/dataset/education-statistics).
+### 2.1. Extraction d'un fichier csv
+Tu l'as déjà fait plusieurs fois mais ça vaut le coup de le refaire car c'est très fréquent de devoir travailler sur des fichiers csv déjà existants. 
 
-Là où on a besoin de toi dans un premier temps, c'est d'évaluer la pertinence et l'exhaustivité de ces données (dans le temps, mais aussi géographiquement). 
+Le jeu de données qui nous intéresse aujourd'hui met à disposition les comptages de demandes de brevets réparties par domaine technologique entre 2009 et 2015. Tu peux trouver le fichier csv [ici](https://www.data.gouv.fr/fr/datasets/r/85429e87-1f26-4efa-88e4-821d1122ce0f), sur le site de l'open data français. 
 
-A ce propos, la directrice du département Etudes te demande de lui envoyer un mail récapitulatif quand tu auras fait tes premières analyses et que tu seras en mesure de décrire ce que va pouvoir étudier le rapport. Elle aimerait que tu lui décrives les données dont on dispose et ce qu'on va pouvoir en tirer. Comme elle n'a pas beaucoup de temps, elle te demande que le mail fasse environ une vingtaine de lignes.
+Nous te demandons ici d'extraire le fichier csv, de supprimer les colonnes qui comportent des valeurs manquantes, puis de l'afficher.
 
-### 2.2. Début de l'analyse
-Une fois que tu as réussi à estimer ce que sera l'analyse, tu te lances ! 
+### 2.2. Extraction d'un fichier json
+Direction le Suuuuuud 😎. 
 
-Les allers-retours entre nettoyage et analyse peuvent commencer. Pour réussir à avancer, tes collègues te conseillent de réduire l'immense fichier a un fichier qui contient données les plus utiles. Autrement dit, ils te préconisent de faire un grand nettoyage de données 🧽🧽 A la fin de ce nettoyage, tu auras un fichier beaucoup plus lisible qu'ils aimeraient bien obtenir. Ils te demandent d'ailleurs de leur envoyer ton fichier csv final. Cela leur permettra de regarder à leur tour les données intéressantes sur un support plus agréable.
+Sur [cette page](https://trouver.datasud.fr/dataset/panorama-des-festivals), tu vas trouver le panorama des festivals en PACA. Télécharge le fichier Json et extrais ses données.
+Dis-nous combien il y a de festivals en PACA, quelles sont les 3 villes qui accueillent la majorité des festivals et quel est le mois de l'année le plus chargé en festivals.
 
-Par ailleurs, en parallèle de ce nettoyage, tu vas devoir dégager des axes d'analyse qui te semblent intéressants. 
-De nouveau, la directrice des Etudes te demande de lui envoyer un mail récapitulatif. Cette fois, elle aimerait que tu lui proposes 5 tendances qu'on retrouve dans le jeu de données. Ces 5 tendances pourraient constituer les 5 axes du rapport à publier en janvier. Rappel : l'objectif du rapport est de faire un état des lieux de la situation de l'éducation dans le monde et comment celle-ci devrait évoluer. Elle souhaiterait que tu illustres chaque tendance choisie par une dizaine de chiffres évocateurs.
-Et pour lui faire vraiment plaisir, ajoute 2 box plots à ton mail, elle adore cette façon de lire les données 🤓
+### 2.3. Extraction à partir d'une base de données
+Finies les vacances, retour à la vraie vie 💼💼 : tu enfiles ton costume de banquier pour aller requêter une base de données qui contient tous tes clients.
+
+Télécharge la base de données [ici](http://alain.troesch.free.fr/2017/Fichiers/py066-ma_banque.db).
+
+Puis tu vas devoir manipuler cette base de données via Python. Cela nécessite l’import de la librairie 'sqlite3'. Replonge dans la ressource et suis les étapes nécessaires pour accéder à la base de données. 
+
+Alerte : Les données sont purement fictives, tu pourras même y trouver quelques fantaisies 🙄.
+
+Voici la liste des requêtes que tu dois réaliser sur cette base de données : 
+
+1. Donner le nom et le prénom de tous les clients.
+2. Donner le nom et le prénom des clients habitant à Paris.
+3. Donner les identifiants des comptes de type Livret A.
+4. Donner les identifiants des opérations de débit sur le compte d’identifiant égal à 1.
+5. Donner, sans doublon, les identifiants des propriétaires de livret A, classés par ordre croissant.
+6. Donner l’identifiant des clients n’ayant pas de livret A.
+7. Donner l’identifiant de compte et le type de compte des clients habitant à Paris.
+8. Donner la liste des comptes et les types de compte de Dumbledore.
+9. Donner le nombre de clients par ville, classé par ordre alphabétique de villes.
+10. Donner la ville ayant le plus de clients.
+11. Trouver le nombre d’opérations effectuées sur chaque compte.
+12. Trouver le nombre maximum d’opérations effectuées sur un compte.
+13. Trouver le ou les numéros de compte réalisant le maximum de la question précédente.
+14. Afficher, type par type, la moyenne des soldes des comptes (tous clients confondus) de chaque type (en supposant qu’initialement, les comptes sont tous vides).
+15. Afficher, classé par nom et prénom, le nom, le prénom, le type de compte, et le solde, pour tous les comptes.
+16. Même question, en se limitant aux clients dont le nom commence par K,L,M ou N.
+17. Afficher le nom et le prénom des personnes ayant débité au moins un chèque sur leur compte courant, classé par nom.
+18. Nom, prénom et ville de tous les clients ayant réalisé un nombre maximal d’opérations au guichet.
+19. Moyenne par ville des fortunes totales des clients (somme sur tous leurs comptes), classé par valeur croissante.
+
+
+### 2.4. Extraction en scrapant le web
+
+Tu t'es déjà exercé au scraping avec Ruby. Essaye maintenant de réaliser le dernier exercice du scrappeur fou avec Python. Voici la consigne au cas où tu aies oublié : 
+
+Tu dois récupérer la liste complète des députés de France ainsi que leurs adresses e-mail. Cherche par toi-même le site le plus aisé à scrapper et stocke les informations extraites dans le format qui te plaît le plus.
+
+
+### 2.5. Extraction à partir d'une API
+
+Tu possèdes des clés de l'API Twitter, quelle chance ! On va s'en reservir aujourd'hui : à toi d'extraire des infos de la twitosphère ...
+
+Twitter est une mine d'or de données. Contrairement aux autres plateformes sociales, presque tous les tweets des utilisateurs sont entièrement publics et extractibles. C'est un énorme avantage si tu essayes d'obtenir une grande quantité de données sur lesquelles exécuter des analyses.
+
+Ton défi du jour : extraire l'ensemble des tweets publiés dans la journée en lien avec le "PSG" ou l'"OM", comme tu préfères 🙂🙃. Tu compileras ensuite ces tweets dans un fichier Excel.
+
+Aide [ici](https://www.youtube.com/watch?v=FHV8iQSy_XM).
 
 
 ## 3. Rendu attendu
-Un fichier .ipynb qui contient l'ensemble de tes analyses.
-Un fichier .doc qui contient les deux mails récapitulatifs envoyés à ta directrice.
-Le fichier csv final que tu as envoyé à tes collègues.
-
-PS : ne te fie pas à la taille de l'énoncé et ouvre plutôt d'abord les fichiers csv pour estimer le temps que va te prendre le projet ☠️
-
+L'ensemble de tes 5 scripts Python, rangés dans des fichiers py.
