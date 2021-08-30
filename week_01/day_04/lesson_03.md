@@ -6,7 +6,7 @@ Ou comment faire quand le volume de données devient ingérable et que répondre
 Les exigences de développement d’applications modernes ont connu une profonde révolution ces 15 dernières années. Pour ce qui est de la gestion de gros volumes de données, les bases de données NoSQL ou non relationnelles semblent devenues indispensables 🗣🗣
 
 ## 2. Historique et contexte
-Le terme et le concept NoSQL furent inventés en 1998 par Carl Strozz, afin de désigner sa base de données relationnelle légère et open source. Ce concept a ensuite été adopté et **popularisé par les GAFAM** tels que Google, Facebook ou Amazon confrontés à d’immenses volumes de données. Les bases de données relationnelles étaient devenues trop lentes 🐢🐢.
+Le terme et le concept NoSQL furent inventés en 1998 par Carl Strozz, afin de désigner sa base de données relationnelle légère et open source. Ce concept a ensuite été adopté et **popularisé par les GAFAM** tels que Google, Facebook ou Amazon confrontés à d’immenses volumes de données. Les bases de données relationnelles étaient devenues trop lentes 🐢🐢
 
 Plutôt que de mettre à jour leur équipement informatique pour accroître les performances des SGBD, les géants de la technologie ont choisi de distribuer la charge sur de multiples serveurs hôtes. C’est la méthode dite du ”scaling out“. 
 
@@ -15,11 +15,11 @@ En l’an 2000, la base de données graphique Neo4j fut lancée. Ce fut ensuite 
 Puis, en 2008, Facebook rend open source la base de données non-relationnelle qu’elle utilise en interne : **Cassandra**. Cet outil devient la référence des databases NoSQL, et remet le terme NoSQL sous le feu des projecteurs en lui donnant son sens et sa popularité actuelle.
 
 ## 3. La ressource
-Tu vas découvrir ici les caractéristiques principales des bases de données NoSQL pour que tu saches en parler et que tu ne sois pas désarmé si tu dois en rencontrer ⚔️⚔️.
+Tu vas découvrir ici les caractéristiques principales des bases de données NoSQL pour que tu saches en parler et que tu ne sois pas désarmé si tu dois en rencontrer ⚔️⚔️
 
 ### 3.1. Définition de NoSQL
 
-NoSQL correspond à « **not only SQL** » et c’est en effet ce que ce modèle de base de données veut être : non pas une contrepartie, mais bien un enrichissement et complément utile des bases de données SQL relationnelles traditionnelles. Pour être précis, les bases de données NoSQL dépassent les limites des systèmes relationnels et exploitent un modèle de base de données alternatif. Cela ne veut toutefois pas dire qu’aucun système SQL n’est utilisé. Il existe de nombreuses variantes combinées au sein desquelles les deux solutions peuvent être utilisées et qui restent toutefois englobées sous l’étiquette NoSQL 👐👐.
+NoSQL correspond à « **not only SQL** » et c’est en effet ce que ce modèle de base de données veut être : non pas une contrepartie, mais bien un enrichissement et complément utile des bases de données SQL relationnelles traditionnelles. Pour être précis, les bases de données NoSQL dépassent les limites des systèmes relationnels et exploitent un modèle de base de données alternatif. Cela ne veut toutefois pas dire qu’aucun système SQL n’est utilisé. Il existe de nombreuses variantes combinées au sein desquelles les deux solutions peuvent être utilisées et qui restent toutefois englobées sous l’étiquette NoSQL 👐👐
 
 Les systèmes NoSQL sont souvent décrits comme des mémoires structurées de stockage de données, ce qui met en évidence leur différence significative avec les bases de données SQL : contrairement à ces dernières, **les bases de données NoSQL n’exploitent pas de schéma de tableau fixe dans lequel les données doivent être définies avant l’enregistrement**. Elles utilisent des méthodes plus flexibles leur permettant d’enregistrer facilement de nouveaux jeux de données et d’assurer leur mise à jour en continu au sein de l’application. Les solutions NoSQL sont également adaptées au traitement de données non structurées ou inconnues (ex: données multimédia, commentaires, tweets etc.), ce qui serait totalement impossible avec une base de données relationnelle.
 
@@ -32,7 +32,7 @@ Pour récapituler, les caractéristiques principales des bases de données SQL s
 - elles ne suivent pas le modèle relationnel et ne présentent pas de tableaux sous forme de colonnes fixes.
 - une autre particularité est l’absence ou la flexibilité des schémas. Il n’est pas nécessaire de définir de schéma des données, et les données de différentes structures peuvent donc être regroupées sur un même système.
 - les données peuvent être de structures complexes ou imbriquées. 
-- la dernière caractéristique d’une base de données NoSQL est d’être distribuée. De multiples bases NoSQL peuvent être exécutées de façon distribuée, offrant des capacités d’auto-scaling et de fail-over. L'approche ACID des BDD relationnelles peut être délaissée au profit de l’élasticité et des performances 🔆🔆.
+- la dernière caractéristique d’une base de données NoSQL est d’être distribuée. De multiples bases NoSQL peuvent être exécutées de façon distribuée, offrant des capacités d’auto-scaling et de fail-over. L'approche ACID des BDD relationnelles peut être délaissée au profit de l’élasticité et des performances 🔆🔆
 
 ___
 
@@ -70,7 +70,7 @@ Toutefois aucun de ces quatre types de bases de données ne permet de résoudre 
 - Comprendre les caractéristiques principales des différents types de bases de données
 ![schema](https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2020/12/asesoftware-sql-nosql.png)
 
-- **L'émergence et l'adoption des SGBD NoSQL sont très liés à des changements matériels tels que le développement des centres de données**. L'architecture machine en clusters induit une structure logicielle distribuée fonctionnant avec des agrégats répartis sur différents serveurs permettant des accès et modifications concurrentes mais imposant également de remettre en cause de nombreux fondements de l'architecture SGBD relationnelle traditionnelle, notamment les propriétés ACID. Bienvenue dans le monde du Big Data ! C'est parfois compliqué mais ça vaut la peine de s'accrocher pour comprendre les évolutions à venir 💻💻.
+- **L'émergence et l'adoption des SGBD NoSQL sont très liés à des changements matériels tels que le développement des centres de données**. L'architecture machine en clusters induit une structure logicielle distribuée fonctionnant avec des agrégats répartis sur différents serveurs permettant des accès et modifications concurrentes mais imposant également de remettre en cause de nombreux fondements de l'architecture SGBD relationnelle traditionnelle, notamment les propriétés ACID. Bienvenue dans le monde du Big Data ! C'est parfois compliqué mais ça vaut la peine de s'accrocher pour comprendre les évolutions à venir 💻💻
 
 
 ## 5. Pour aller plus loin
