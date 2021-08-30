@@ -74,5 +74,5 @@ Toutefois aucun de ces quatre types de bases de données ne permet de résoudre 
 
 
 ## 5. Pour aller plus loin
-Tu peux faire le cours OpenClassrooms [Maîtrisez les bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql) qui fait normalement partie de la formation *Data Architect*. Cela te donnera un aperçu du métier d'architecte des données (celui qui conçoit et gère de vastes bases de données) et ça t'aidera aussi pour réaliser un des projets de cet après-midi.
+Tu peux faire le cours OpenClassrooms [Maîtrisez les bases de données NoSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql) qui fait normalement partie de la formation *Data Architect*. Cela te donnera un aperçu du métier d'architecte des données (la personne qui conçoit et gère de vastes bases de données) et ça t'aidera aussi pour réaliser un des projets de cet après-midi.
 
