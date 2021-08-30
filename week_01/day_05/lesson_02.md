@@ -86,7 +86,7 @@ Hadoop fractionne les fichiers en gros blocs et les distribue à travers les nœ
 
 Néanmoins, Hadoop seul ne peut pas venir à bout de toutes les problématiques du Big Data. Sa véritable valeur ajoutée réside dans les technologies qui forment ce qu'on appelle l’écosystème Hadoop. A ce jour, l’écosystème Hadoop est composé d’une centaines de technologies.
 
-[heyo](https://www.data-transitionnumerique.com/wp-content/uploads/2019/09/carte-heuristique-%C3%A9cosyst%C3%A8me-Hadoop.png)
+![heyo](https://www.data-transitionnumerique.com/wp-content/uploads/2019/09/carte-heuristique-%C3%A9cosyst%C3%A8me-Hadoop.png)
 
 
 
