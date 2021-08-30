@@ -54,7 +54,7 @@ Avant de coder une BDD, il faut se poser pour établir toutes les tables, les re
 Voici une sélection de commandes classiques en SQL :
 
 - Créer une table :
-```
+```sql
 CREATE TABLE `doctors` (
 `id` INTEGER PRIMARY KEY AUTOINCREMENT, `name` TEXT,
 `age` INTEGER,
