@@ -5,6 +5,10 @@ Décrire un cas d'usage de chaque technologie : big data. Et ETL.
 
 A la fin, on récupérera l'ensemble des cas d'usage obtenus, on en fera un book et nous vous l'enverrons. 
 
+Parler des cas d'usage de la data
+
+https://www.oracle.com/fr/big-data/what-is-big-data/
+
 ## 2. Le projet
 
 ### 2.1. Extraction d'un fichier csv
