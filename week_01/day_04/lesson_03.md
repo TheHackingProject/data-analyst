@@ -70,7 +70,7 @@ Toutefois aucun de ces quatre types de bases de données ne permet de résoudre 
 - Comprendre les caractéristiques principales des différents types de bases de données
 ![schema](https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2020/12/asesoftware-sql-nosql.png)
 
-- Le NoSQL n’est pas magique : on échange les garanties des BD traditionnelles contre ces avantages. Il faut alors accepter : pas de transaction, perte des garanties de durabilité, et de nombreux autres problèmes (projets immatures, installations parfois très complexes, très peu de support).
+- Le NoSQL n’est pas magique : on échange les garanties des BD traditionnelles contre ses avantages. Il faut alors accepter : pas de transaction, perte des garanties de durabilité, et de nombreux autres problèmes (projets immatures, installations parfois très complexes, très peu de support).
 
 - **L'émergence et l'adoption des SGBD NoSQL sont très liés à des changements matériels tels que le développement des centres de données**. L'architecture machine en clusters induit une structure logicielle distribuée fonctionnant avec des agrégats répartis sur différents serveurs permettant des accès et modifications concurrentes mais imposant également de remettre en cause de nombreux fondements de l'architecture SGBD relationnelle traditionnelle, notamment les propriétés ACID. Bienvenue dans le monde du Big Data ! C'est parfois compliqué mais ça vaut la peine de s'accrocher pour comprendre les évolutions à venir 💻💻
 
