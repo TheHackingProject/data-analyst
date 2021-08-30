@@ -95,9 +95,11 @@ Néanmoins, Hadoop seul ne peut pas venir à bout de toutes les problématiques 
 Même avec Hadoop, il faut quand même un moyen de stocker et d’accéder aux données. C’est typiquement ce à quoi servent des NoSQL database telles que Mongo DB, CouchDG ou Cassandra, spécialisées dans le traitement des données non-structurées ou semi-structurées et distribuées à travers de multiples machines.
 
 
+#### 3.2.5 Quel avenir pour les technos du Big Data ?
 
+L’industrie technologique du big data étant une industrie très récente, les systèmes de traitement des mégadonnées et de stockage sont en perpétuelle croissance. Nous assistons à une apparition et disparition des technologies, à vitesse impressionnante. L’algorithme MapReduce apparut chez Google en 2004 et est largement utilisé aujourd’hui, notamment par Yahoo dans son projet Nutch, il est passé en 2008 sous le drapeau Apache pour créer Hadoop et voit son utilisation délaissée pour des raisons de “lenteur” de traitement, visible même sur des mégadonnées de tailles modestes.
 
-Pour réussir à exploiter les « Big Data » techniquement, l’idée n’est plus de centraliser le stockage et le traitement des données sur un serveur, mais de distribuer leur stockage et de paralléliser leur traitement sur plusieurs ordinateurs
+A partir de la version 2 de Hadoop, l’architecture a été rendue modulaire et permet d’accepter de nouveaux modules de calcul (Hadoop File System – HDFS). Map Reduce est l’un deux. C’est ainsi que Spark, bien plus jeune que MapReduce, reprend peu à peu le flambeau de son aîné, cet outil est aussi développé sous l’écusson de la maison Apache. Spark pouvant être exécuté au-dessus de Hadoop et de nombreuses bases NoSQL. Projet qui a connu ces dernières années un essor rapide et a reçu l’approbation d’une grande partie de la technosphère des développeurs.
 
 
 
@@ -107,9 +109,18 @@ Au-delà des buzz words, l'analyse de données prend différentes formes et peut
 - l'analyse de données au travers de logiciels de *Business Intelligence* qui permet de faire parler les données, le plus souvent déjà collectées et stockées dans l’entreprise.
 - l’analytique Big Data qui nécessite l’intervention de spécialistes et la mise en œuvre d’une architecture informatique et d’outils complexes. 
 
+En fait, la révolution Big Data a modifié le stockage, les algorithmes, les bases de données 
+
 https://www.atys-concept.com/blog-de-la-performance/articles-performance-industrielle/differences-entre-data-analytics-data-science-big-data/
 
 ## 5. Pour aller plus loin
+
+Reste un problème : disposer de quantités massives de données dans des bases NoSQL installées dans des clusters de machines n’est pas très utile tant que vous n’en faites rien.
+C’est là qu’interviennent les analytics de big data.
+
+Des outils tels que  Tableau, Splunk, et Jasper BI permettent de parser ces data pour identifier des patterns, extraire des significations et révéler de nouvelles perspectives. Ce que vous en ferez ensuite dépendra de vos besoins.
+
+Là encore, les compétences dans ces analytics sont particulièrement demandées. Cela fait partie des compétences à acquérir. Noter également que la maîtrise des bases NoSQL semble importante, voire indispensable. Connaître et maîtriser le NoSQL semble donc à ce jour indispensable à l’univers big data. Quoique…dans cet article, vous verrez que SQL revient en force dans l’univers big data. 
 
 
 peut-être mettre une blague ex : "si tu me crois pas qu'Hadoop est indispensable, cf https://www.decideo.fr/Les-6-competences-les-plus-recherchees-en-Big-Data_a10051.html"
