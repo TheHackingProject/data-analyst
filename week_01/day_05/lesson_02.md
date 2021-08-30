@@ -52,8 +52,21 @@ ___
 
 ### 3.2. Les technos du Big Data
 
+Trois grandes évolutions techniques ont permis la création et la croissance du Big Data :
 
-#### 3.2.1 MapReduce - système de fichiers distribués
+- L’évolution du hardware de stockage capable de stocker de plus en plus de données, passant de serveurs physiques internes à l’entreprise à des serveurs dit “cloud” qui ont souvent une capacité de stockage bien supérieure.
+- Le second point est une remise en cause du modèle matériel existant, celui où il fallait acheter le plus gros serveur possible. Aujourd’hui, la nouvelle évolution consiste à mettre en série des petits serveurs remplaçables et de créer un système distribué résistant aux pannes. Ce paradigme a été popularisé par Google au début des années 2000 et est à l’origine de la première version open source du premier framework Big Data sorti il y a 10 ans : Hadoop.
+- La troisième révolution s’est amorcée en 2009 et est l’explosion des outils d’analyse, d’extraction et de traitement des données de manière non structurée que cela soit du NoSQL ou de nouveaux frameworks lié à l’écosystème de Hadoop.
+
+Les bases de données classiques ne permettant plus de gérer de tels volumes, les grands acteurs du web (Facebook, Google, Yahoo, Linkedin, Twitter) ont créé des Framework Big Data permettant de gérer et traiter des grandes quantités de données à travers, par exemple, des lacs de données. Ces données sont ensuite “splittées” ou séparées pour être traitées parallèlement afin d’alléger les processus de calcul (dans l’ancien modèle, les traitements étaient fait les uns après les autres, dans un stack), puis réassemblées pour donner le résultat final. C’est cette technologie qui permet des vitesses de traitement aussi rapides sur de gros volumes de données. Au départ développée par Google, elle est maintenant sous le drapeau Apache et s’appelle Map Reduce.
+
+
+
+
+
+#### 3.2.1 Modèle d'architecture
+
+
 
 
 
@@ -74,57 +87,6 @@ Au départ, il y a eu **MapReduce**, une méthode et une technologie de traiteme
 #### 3.2.5 Les bases de données NoSQL
 
 
-Google est à l’origine des deux percées technologiques qui ont rendu les big data possibles :
-
-Le premier était Hadoop, qui consiste en deux services clés :
-
-    un système de stockage de données, utilisant HDFS (Hadoop Distributed File System)
-    un système de process de données en parallèle, utilisant une technique appelée Map Reduce.
-
-Hadoop fonctionne sur un ensemble de serveurs en architecture shared-nothing. On peut ajouter ou enlever des serveurs à volonté dans un cluster Hadoop. Le système détecte et règle les problème sur chaque serveur. Hadoop, en d’autres termes, « s’auto-guérit ». Il peut donc continuer à délivrer des données et fonctionner à grande échelle en effectuant des tâches exigeant de hautes performances, malgré des changements ou des échecs.
-
-Sa véritable valeur ajoutée est cependant encore ailleurs : elle provient de adds-on et de compléments personnalisables de sa technologie. Hadoop offre ainsi des projets supplémentaires qui ajoutent des fonctionnalités à la plateforme :
-
-    Hadoop Common: il s’agit des outils de base nécessaires aux autres projets Hadoop
-    Chukwa: un système de récupération de données pour gérer les systèmes distribués de grande taille.
-    HBase: une base de données distribuée, scalable qui supporte le stockage de données structurées pour de grandes tables.
-    HDFS: un système distribué qui procure des accès haut débit aux données d’application
-    Hive: une infrastructure de data warehouse qui délivre de la data summarization et un système de requêtes ad hoc.
-    MapReduce: un framework logiciel pour les process distribués de sets de données importants
-    Pig: un langage et un framework permettant l’exécution de process parallèles.
-    ZooKeeper: un service de coordination haute performance pour les applications distribuées.
-
-L’implémentation  d’une plateforme Hadoop comprend forcément quelques un de ces sous-projets.
-
-Par exemple, de nombreuses organisations choisissent d’utiliser HDFS comme système primaire de gestion de fichiers distribués et HBase comme base de données qui peut stocker des milliards de colonnes de données. Et le recours à MapReduce (ou Spark) va s’imposer ensuite presque de soi puisqu’il apporte la vitesse et l’agilité à la plateforme Hadoop.
-
-Avec MapReduce, les développeurs peuvent créer des programmes qui traitent des volumes massifs de données non structurées en parallèle à travers un cluster de processeurs distribués sur des ordinateurs indépendants. Le framework MapReduce est scindé en deux espaces fonctionnels :
-
-    Map, une fonction qui répartit le travail à différents noeuds dans les grappes d’ordinateurs.
-    Reduce, une fonction qui rassemble le travail et résume les résultats dans une valeur simple.
-
-Un des avantages primaires de Map Reduce est qu’il est « fault-tolerant » ou tolérant aux pannes. Comment fait-il ? Il « monitore » chaque noeud (node) du cluster régulièrement. Celui-ci est supposé renvoyer périodiquement un travail complet avec des mises à jour des « status ». Si un noeud reste silencieux plus que nécessaire, un master node le signale et réassigne le travail à d’autres noeuds du cluster.
-
-Construit à l’origine pour indéxer le moteur de recherche Nutch, Hadoop est maintenant utilisé dans tous les grands secteurs d’activité pour quantité de tâches big data.
-
-En d’autres termes, grâce au système d’informatique distribuée HDFS et YARN (Yet Another Resource Negotiator), le logiciel permet à l’utilisateur de traiter des volumes de données gigantesques répartis à travers des milliers d’ordinateurs, exactement comme s’ils étaient une seule et même énorme machine.
-
-Comment adapter cela à votre cas ? L’histoire de ces sauts technologiques s’impose forcément à votre organisation et à vous-même. L’informatique distribuée ne vous est pas suffisamment familière ? Il est urgent de mieux la comprendre et de vous y former, vous ou vos équipes. 
-
-Quant aux outils, l’histoire d’Hadoop montre à quel point sa logique s’impose à l’univers Big Data. Son univers ne doit donc pas vous rester étranger. Songez-y. Mais l’histoire n’est pas finie. 
-
-En 2009, des cherchers de l’Université de Californie à Berkeley ont développé Apache Spark , une alternative à MapReduce. Spark procède à ses calculs en parallèle en utilisant du stokage in-memory, il est jusqu’à 100 fois plus rapide que MapReduce. Spark peut être utilisé seul ou à l’intérieur d’Hadoop.
-
-Même avec Hadoop, il faut quand même un moyen de stocker et d’accéder aux données. C’est typiquement ce à quoi servent des NoSQL database telles que Mongo DB, CouchDG ou Cassandra, spécialisées dans le traitement des données non-structurées ou semi-structurées et distribuées à travers de multiples machines.
-
-A la différence de ce qui se passe dans les data warehouses, où des quantités massives de données sont envoyées vers un format unifié et sont stockées dans un data store unique, ces outils ne changent pas la nature ni la localisation de la donnée d’origine – les emails restent des emails, les données de capteurs restent des données de capteurs- et peuvent être stockés virtuellement n’importe où.
-
-Reste un problème : disposer de quantités massives de données dans des bases NoSQL installées dans des clusters de machines n’est pas très utile tant que vous n’en faites rien.
-C’est là qu’interviennent les analytics de big data.
-
-Des outils tels que  Tableau, Splunk, et Jasper BI permettent de parser ces data pour identifier des patterns, extraire des significations et révéler de nouvelles perspectives. Ce que vous en ferez ensuite dépendra de vos besoins.
-
-Là encore, les compétences dans ces analytics sont particulièrement demandées. Cela fait partie des compétences à acquérir. Noter également que la maîtrise des bases NoSQL semble importante, voire indispensable. Connaître et maîtriser le NoSQL semble donc à ce jour indispensable à l’univers big data. Quoique…dans cet article, vous verrez que SQL revient en force dans l’univers big data. 
 
 
 ## 4. Points importants à retenir
