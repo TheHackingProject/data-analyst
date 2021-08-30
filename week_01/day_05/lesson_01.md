@@ -1,4 +1,4 @@
-# L'informatique décisionnel
+# Data Warehouse et ETL
 Quelques mots anglais qui paraissent barbares mais qui constituent la base de l'informatique décisionnel.
 
 ## 1. Introduction
