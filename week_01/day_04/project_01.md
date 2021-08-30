@@ -5,7 +5,7 @@ Pour concevoir une bonne base de données, il faut bien comprendre le business c
 
 ## 2. Le projet
 ### 2.1. La startup tech du moment
-Ça y est, tu tiens la prochaine licorne française, tu vas conquérir le monde avec une app qui va révolutionner le monde du blogging. Ça va tout déchirer et Mark Zuckerberg va chialer. Avant de faire le code de ton blog, nous allons te demander de concevoir la base de données de ce dernier. Ainsi, tu vas devoir créer, en SQLite les tables qui constitueront ta BDD avec leurs relations et leurs attributs.
+Ça y est, tu tiens la prochaine licorne française, tu vas conquérir le monde avec une app qui va révolutionner le monde du blogging. Ça va tout déchirer et Mark Zuckerberg va chialer. Avant de faire le code de ton blog, nous allons te demander de concevoir la base de données de ce dernier. 3nsuite, tu vas devoir créer, en SQL les tables qui constitueront ta BDD avec leurs relations et leurs attributs.
 
 Voici, sans plus tarder, l'architecture de ton app de blogging :
 
@@ -14,7 +14,7 @@ Voici, sans plus tarder, l'architecture de ton app de blogging :
 - Un `article` peut appartenir à plusieurs `category` et chaque `category` peuvent avoir plusieurs `article`. Chaque `category` a un titre.
 - Une catégorie peut appartenir à plusieurs tag ; chaque `tag` a un titre et une couleur.
 
-Utilise SQLite pour créer cette base de données, ainsi que les tables correspondantes.
+Utilise SQL pour créer cette base de données, ainsi que les tables correspondantes.
 
 A présent, tu vas créer un élément de chaque table : un `user`, un `article`, une `category` et un `tag`.
 
@@ -36,5 +36,5 @@ Tu veux créer un message board à la Hacker News. Les utilisateurs peuvent post
 Tu vas encore faire un site d'éducation en ligne. Dans ce site il y aura des élèves qui peuvent s'inscrire à un seul cours. Un cours pourra avoir plusieurs élèves.
 
 ## 3. Rendu attendu
-- Un fichier .sqlite contenant la BDD de ton appli de blog.
+- Un fichier .sql ontenant la BDD de ton appli de blog.
 - Un fichier .txt (ou .md) ou diagramme ERD avec la structure de chaque BDD (blog, MOOCacademy, Hackinterest, Hacking News, Hacking Class).
