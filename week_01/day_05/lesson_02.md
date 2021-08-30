@@ -15,15 +15,6 @@ Finalement, après avoir été longtemps un buzzword, "Big Data" a repris son se
 
 L'univers du Big Data est complexe et pourrait faire l'objet de plusieurs semaines de formation. Mais dans ton cas de futur Data Analyst, une journée suffira car tu as surtout besoin d'avoir les bases pour pouvoir ensuite naviguer dans un projet Big Data. En fait, ce n'est pas toi qui devras créer les infrastructures Big Data, c'est le rôle du *Data Engineer* ou *Data Architect*. On va donc te livrer ici les notions les plus importantes pour comprendre le Big Data.
 
-https://matheo.uliege.be/bitstream/2268.2/2562/4/M%C3%A9moire%20Camille%20Marenne.pdf
-
-https://inventiv-it.fr/big-data-devez-apprendre/
-
-https://www.atys-concept.com/blog-de-la-performance/articles-performance-industrielle/differences-entre-data-analytics-data-science-big-data/
-
-https://www.decideo.fr/Les-6-competences-les-plus-recherchees-en-Big-Data_a10051.html
-
-
 ### 3.1. Big data is not only big !
 
 On pourrait penser que le Big Data (mégadonnées en français) se résume à des gros volumes de données. Mais sans parler de Big Data, il est aujourd’hui possible de stocker et d’exploiter de très gros volumes de données avec une grande variété de sources dans de grands entrepôts de données (les *Data Warehouses*). En effet, les technologies actuelles permettent de traiter des gros volumes de données selon les méthodes analytiques de Business Intelligence sans avoir recours au Big Data (cf. la ressource précédente).
@@ -56,9 +47,9 @@ Quatre grandes révolutions techniques ont permis la création et la croissance 
 
 - **L’évolution du hardware de stockage**, passant de serveurs physiques internes à l’entreprise à **des serveurs dits “cloud”** qui ont souvent une capacité de stockage bien supérieure. Au début des années 2000, sont apparus des hébergeurs web capables d'héberger des applications dans leurs locaux informatiques. 
 
-- **De nouvelles techniques de calcul**.
+- **De nouvelles techniques de calcul**. Au départ développée par Google, la technologie MapReduce a permis des vitesses de traitement très rapides sur de gros volumes de données.
 
-- **Un nouveau modèle d'architecture**. Ce paradigme a été popularisé par Google au début des années 2000 et est à l’origine de la première version open source du premier framework Big Data : Hadoop.
+- **Un nouveau modèle d'architecture**. Ce paradigme a été popularisé par Google au début des années 2000 et est à l’origine de la première version open source du premier framework Big Data : Hadoop. L’idée n’est plus de centraliser le stockage et le traitement des données sur un serveur, mais de distribuer leur stockage et de paralléliser leur traitement sur plusieurs ordinateurs.
 
 - **Un nouveau type de bases de données : le NoSQL**. 
 
@@ -75,18 +66,17 @@ Le cloud couplé à une architecture sans serveur (serverless) offre de nombreux
 
 #### 3.2.2 Le modèle de programmation MapReduce
 
-Autour de 2003, les chercheurs de Google ont développé MapReduce.
+Développé initialement par Google en 2003 pour analyser ses résultats de recherche, MapReduce a gagné en popularité grâce à sa capacité à diviser et traiter plusieurs téra-octets de données en parallèle et à obtenir ainsi des résultats plus rapides.
 
 Cette technique de programmation simplifie le traitement d’ensembles de données en commençant par réduire les données à des séries de couples « clé/valeur », puis en procédant à des calculs sur les données possédant des clés similaires, afin de tout réduire à une valeur unique. Chaque « gros morceau » de données pouvait ainsi être traité en parallèle sur des centaines voire des milliers de machines peu coûteuses. Cette technique de traitement en parallèle sur des échelles massives a permis à Google de générer des résultats de recherche sur des volumes de données incroyablement plus grands qu’avant, et ce, en allant plus vite.
 
 Le framework MapReduce est scindé en deux espaces fonctionnels :
-
-    Map, une fonction qui répartit le travail à différents noeuds dans les grappes d’ordinateurs.
-    Reduce, une fonction qui rassemble le travail et résume les résultats dans une valeur simple.
+- Map, une fonction qui répartit le travail à différents noeuds dans les grappes d’ordinateurs.
+- Reduce, une fonction qui rassemble le travail et résume les résultats dans une valeur simple.
 
 ![djo](https://www.lebigdata.fr/wp-content/uploads/2017/08/mapreduce-fonctionnement.png)
 
-Un des avantages primaires de Map Reduce est qu’il est « fault-tolerant » ou tolérant aux pannes. Comment fait-il ? Il « monitore » chaque noeud (node) du cluster régulièrement. Celui-ci est supposé renvoyer périodiquement un travail complet avec des mises à jour des « status ». Si un noeud reste silencieux plus que nécessaire, un master node le signale et réassigne le travail à d’autres noeuds du cluster.
+Un des avantages primaires de Map Reduce est qu’il est  tolérant aux pannes. Comment fait-il ? Il « monitore » chaque noeud (node) du cluster régulièrement. Celui-ci est supposé renvoyer périodiquement un travail complet avec des mises à jour des « status ». Si un noeud reste silencieux plus que nécessaire, un master node le signale et réassigne le travail à d’autres noeuds du cluster.
 
 
 #### 3.2.4. Les bases de données NoSQL
@@ -106,6 +96,7 @@ Au-delà des buzz words, l'analyse de données prend différentes formes et peut
 - l'analyse de données au travers de logiciels de *Business Intelligence* qui permet de faire parler les données, le plus souvent déjà collectées et stockées dans l’entreprise.
 - l’analytique Big Data qui nécessite l’intervention de spécialistes et la mise en œuvre d’une architecture informatique et d’outils complexes. 
 
+https://www.atys-concept.com/blog-de-la-performance/articles-performance-industrielle/differences-entre-data-analytics-data-science-big-data/
 
 ## 5. Pour aller plus loin
 
