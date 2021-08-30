@@ -6,7 +6,7 @@ Avant de foncer tête baissée dans le codage d'une BDD, il est important de bie
 ## 2. Historique et contexte
 Peter Chen a développé les modèles **entité-association** pour la conception de bases de données dans les années 1970. Alors qu'il travaillait comme professeur assistant à la Sloan School of Management du MIT, il a publié en 1976 un article précurseur intitulé « The Entity-Relationship Model: Toward a Unified View of Data » (Le modèle entité-association : vers une vision unifiée des données).
 
-**Merise** est une méthode d’analyse et de conception de systèmes élaborée par un collectif en 1979. Elle a fourni un cadre méthodologique et un langage commun et rigoureux à une génération d'informaticiens français.
+Par ailleurs, **Merise** est une méthode d’analyse et de conception de systèmes élaborée par un collectif en 1979. Elle a fourni un cadre méthodologique et un langage commun et rigoureux à une génération d'informaticiens français.
 
 Par la suite, le monde a changé et un autre standard s’est imposé, tout en gardant certains principes de la méthodologie Merise. Au milieu des années 90, les *Three Amigos* (Grady Booch, Ivar Jacobson and James Rumbaug) se sont associés pour apporter plus de clarté aux programmeurs en créant de nouvelles normes. Les efforts de ces penseurs ont abouti à la création en 1996 d'**UML**, un langage de modélisation commun.
 
