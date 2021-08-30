@@ -1,7 +1,7 @@
 # Concevoir des bases de données
 
 ## 1. Introduction
-Pour concevoir une bonne base de données, il faut bien comprendre le business concerné. Donc on fera souvent appel au Data Analyst pour réaliser la modélisation de la base ou pour vérifier que rien n'a été oublié. Avant que ça soit ton tour, profite de ce projet pour t'exercer et devenir un as de la modélisation de bases de données 🦁.
+Pour concevoir une bonne base de données, il faut bien comprendre le business concerné. Donc on fera souvent appel au Data Analyst pour réaliser la modélisation de la base ou pour vérifier que rien n'a été oublié. Avant que ça soit ton tour, profite de ce projet pour t'exercer et devenir un as de la modélisation de bases de données 🦁
 
 ## 2. Le projet
 ### 2.1. La startup tech du moment
