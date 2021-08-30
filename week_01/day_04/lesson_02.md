@@ -23,9 +23,9 @@ Un diagramme entité-association est un type d'organigramme illustrant la façon
 ![ex](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/i18n/fr/ER-diagram-images/Exemple-de-diagramme-entite-association-de-base-dedonnees.png)
 
 Voici les 3 éléments que tu vas devoir lister pour modéliser ta BDD à tête reposée :
-- Les tables : ce sont les tableaux qui composeront ta base de données. C'est ce qui demande le plus de réflexion mais qui t'aidera à poser des concepts concrets sur des thèmes abstraits. Tu verras plus tard qu'au final, une table (SQL) et un objet (Python) sont très liés... Exemples de tables : users, orders, cities, articles, etc.
-- Les relations entre tables : il vous faut établir quelles tables sont liées entre elles et via quelle relation (1-1, 1-N et N-N). En général, cette réflexion vient en même temps que celles où on détermine les tables. Par exemple : relation 1-N entre users et cities (un utilisateur vit dans une ville, une ville peut être lié à plusieurs utilisateurs), relation N-N entre users et les items (un utilisateur peut acheter plusieurs articles et chaque article peut avoir été acheté par plusieurs utilisateurs), etc.
-- Les attributs de chaque table : ce sont en gros les colonnes qui définissent chaque entrée d'une table. Par exemple, dans une table users on aura : first_name, gender, email, phone etc.
+- **Les tables** : ce sont les tableaux qui composeront ta base de données. C'est ce qui demande le plus de réflexion mais qui t'aidera à poser des concepts concrets sur des thèmes abstraits. Tu verras plus tard qu'au final, une table (SQL) et un objet (Python) sont très liés... Exemples de tables : users, orders, cities, articles, etc.
+- **Les relations entre tables** : il vous faut établir quelles tables sont liées entre elles et via quelle relation (1-1, 1-N et N-N). En général, cette réflexion vient en même temps que celles où on détermine les tables. Par exemple : relation 1-N entre users et cities (un utilisateur vit dans une ville, une ville peut être lié à plusieurs utilisateurs), relation N-N entre users et les items (un utilisateur peut acheter plusieurs articles et chaque article peut avoir été acheté par plusieurs utilisateurs), etc.
+- **Les attributs de chaque table** : ce sont en gros les colonnes qui définissent chaque entrée d'une table. Par exemple, dans une table users on aura : first_name, gender, email, phone etc.
 
 Cette phase de réflexion doit être menée en équipe et sans ordinateur. Plusieurs choix :
 - Sur un tableau blanc, éventuellement à l'aide de post-its ;
