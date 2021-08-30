@@ -52,6 +52,12 @@ ___
 
 ### 3.2. Les technos du Big Data
 
+#### 3.2.1 Hadoop
+
+
+#### 3.2.2 MapReduce
+
+#### 3.2.3 Spark 
 
 Google est à l’origine des deux percées technologiques qui ont rendu les big data possibles :
 
