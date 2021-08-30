@@ -9,7 +9,7 @@ On peut dater l’acte de naissance du big data en 2001 avec l’invention de la
 
 Pour leurs propres besoins, les GAFAM ont dû créer des outils pour stocker et traiter à la volée des données à la fois nombreuses et versatiles, leur structuration changeant avec le temps. Facebook est ainsi à l’origine de Cassandra avant de se tourner vers HBase (NoSQL), Google de BigTable et GFS (ancêtre d’HDFS) et plus récemment de TensorFlow (machine learning). Les géants du web ont ensuite versé ces projets en open source, externalisant en quelque sorte leur R&D. Car à leurs yeux, l’or ce sont les données elles-mêmes, pas les technologies. 
  
-Finalement, après avoir été longtemps un buzzword, "Big Data" a repris son sens premier : il fait référence à l'ensemble des technologies comme Hadoop, Spark, Kafka ... que tu vas découvrir aujourd'hui.
+Finalement, après avoir été longtemps un buzzword, "Big Data" a repris son sens premier : il fait référence à l'ensemble des technologies comme Hadoop, Spark, les bases de données NoSQL ... que tu vas découvrir aujourd'hui.
 
 ## 3. La ressource
 
@@ -40,7 +40,7 @@ ___
 
 💡💡 AIDE MNÉMOTECHNIQUE 💡💡
 
-Pour synthétiser, le Big Data c'est non pas 3 mais 5Vs à la fois : 
+Pour synthétiser, le Big Data c'est une famille d'outils qui répondent non pas à 3 mais à 5Vs à la fois : 
 - **Volume** -> des ensembles de données très volumineux 
 - **Vitesse** ou **Vélocité** -> la vitesse à laquelle les données sont générées et à laquelle elles se déplacent
 - **Variété** -> en fait, 80% des données dans le monde ne sont plus structurées et ne peuvent donc pas être facilement mises dans des tables ou des bases de données relationnelles - pense à des photos, des séquences vidéos ou des mises à jour de réseaux sociaux ⌚️📱
@@ -52,12 +52,27 @@ ___
 
 ### 3.2. Les technos du Big Data
 
-#### 3.2.1 Hadoop
+
+#### 3.2.1 MapReduce - système de fichiers distribués
 
 
-#### 3.2.2 MapReduce
+
+
+
+#### 3.2.1 MapReduce - algorithmes distribués
+
+Au départ, il y a eu **MapReduce**, une méthode et une technologie de traitement massivement parallèle issues des laboratoires Google Corp  avec gestion de la tolérance aux pannes et système de gestion de fichiers spécifiques (Google File System). On parle là de traitement sur des milliers de machines réparties en grappes (clusters). 
+
+#### 3.2.2 Hadoop
 
 #### 3.2.3 Spark 
+
+
+
+#### 3.2.4 Le cloud computing
+
+#### 3.2.5 Les bases de données NoSQL
+
 
 Google est à l’origine des deux percées technologiques qui ont rendu les big data possibles :
 
