@@ -52,39 +52,51 @@ ___
 
 ### 3.2. Les technos du Big Data
 
-Trois grandes évolutions techniques ont permis la création et la croissance du Big Data :
+Quatre grandes révolutions techniques ont permis la création et la croissance du Big Data :
 
-- L’évolution du hardware de stockage capable de stocker de plus en plus de données, passant de serveurs physiques internes à l’entreprise à des serveurs dit “cloud” qui ont souvent une capacité de stockage bien supérieure.
-- Le second point est une remise en cause du modèle matériel existant, celui où il fallait acheter le plus gros serveur possible. Aujourd’hui, la nouvelle évolution consiste à mettre en série des petits serveurs remplaçables et de créer un système distribué résistant aux pannes. Ce paradigme a été popularisé par Google au début des années 2000 et est à l’origine de la première version open source du premier framework Big Data sorti il y a 10 ans : Hadoop.
-- La troisième révolution s’est amorcée en 2009 et est l’explosion des outils d’analyse, d’extraction et de traitement des données de manière non structurée que cela soit du NoSQL ou de nouveaux frameworks lié à l’écosystème de Hadoop.
+- **L’évolution du hardware de stockage**, passant de serveurs physiques internes à l’entreprise à **des serveurs dits “cloud”** qui ont souvent une capacité de stockage bien supérieure. Au début des années 2000, sont apparus des hébergeurs web capables d'héberger des applications dans leurs locaux informatiques. 
 
-Les bases de données classiques ne permettant plus de gérer de tels volumes, les grands acteurs du web (Facebook, Google, Yahoo, Linkedin, Twitter) ont créé des Framework Big Data permettant de gérer et traiter des grandes quantités de données à travers, par exemple, des lacs de données. Ces données sont ensuite “splittées” ou séparées pour être traitées parallèlement afin d’alléger les processus de calcul (dans l’ancien modèle, les traitements étaient fait les uns après les autres, dans un stack), puis réassemblées pour donner le résultat final. C’est cette technologie qui permet des vitesses de traitement aussi rapides sur de gros volumes de données. Au départ développée par Google, elle est maintenant sous le drapeau Apache et s’appelle Map Reduce.
+- **De nouvelles techniques de calcul**.
+
+- **Un nouveau modèle d'architecture**. Ce paradigme a été popularisé par Google au début des années 2000 et est à l’origine de la première version open source du premier framework Big Data : Hadoop.
+
+- **Un nouveau type de bases de données : le NoSQL**. 
+
+#### 3.2.1 Le cloud computing
+
+Avant l’arrivée des plateformes informatiques cloud, le stockage et l’utilisation du Big Data étaient effectués sur site. L’introduction des plateformes en cloud computing comme Microsoft Azure, Amazon AWS ou Google BigQuery permet désormais d’effectuer ce processus de management de la donnée à distance.
+
+Le cloud couplé à une architecture sans serveur (serverless) offre de nombreux avantages aux entreprises et organisations tels que :
+
+- Un gain d’efficacité : la couche de stockage et la couche de calcul sont découplées, ce qui permet de conserver la quantité de data dans la couche de stockage pendant le temps nécessaire au calcul
+- Un gain de temps : contrairement au déploiement d’un cluster géré qui peut prendre plusieurs heures voire jours avant d’être abouti, l’installation d’application Big Data sans serveur ne prend que quelques minutes
+- Une tolérance aux pannes : par défaut, l’architecture *serverless* non gérée tolère les éventuelles pannes et incidents. Le contrat de service garantit une disponibilité accrue. Il n’y a donc pas besoin d’un administrateur.
+- Une mise à jour simplifiée et/ou automatique : ees règles définies de mise à jour automatique permettent d’adapter et d’étendre l’application en fonction de la charge de travail réduisant ainsi le coût de traitement de manière considérable.
+
+#### 3.2.2 Le modèle de programmation MapReduce
+
+Autour de 2003, les chercheurs de Google ont développé MapReduce.
+
+Cette technique de programmation simplifie le traitement d’ensembles de données en commençant par réduire les données à des séries de couples « clé/valeur », puis en procédant à des calculs sur les données possédant des clés similaires, afin de tout réduire à une valeur unique. Chaque « gros morceau » de données pouvait ainsi être traité en parallèle sur des centaines voire des milliers de machines peu coûteuses. Cette technique de traitement en parallèle sur des échelles massives a permis à Google de générer des résultats de recherche sur des volumes de données incroyablement plus grands qu’avant, et ce, en allant plus vite.
+
+Le framework MapReduce est scindé en deux espaces fonctionnels :
+
+    Map, une fonction qui répartit le travail à différents noeuds dans les grappes d’ordinateurs.
+    Reduce, une fonction qui rassemble le travail et résume les résultats dans une valeur simple.
+
+![djo](https://www.lebigdata.fr/wp-content/uploads/2017/08/mapreduce-fonctionnement.png)
+
+Un des avantages primaires de Map Reduce est qu’il est « fault-tolerant » ou tolérant aux pannes. Comment fait-il ? Il « monitore » chaque noeud (node) du cluster régulièrement. Celui-ci est supposé renvoyer périodiquement un travail complet avec des mises à jour des « status ». Si un noeud reste silencieux plus que nécessaire, un master node le signale et réassigne le travail à d’autres noeuds du cluster.
+
+
+#### 3.2.4. Les bases de données NoSQL
+
+Même avec Hadoop, il faut quand même un moyen de stocker et d’accéder aux données. C’est typiquement ce à quoi servent des NoSQL database telles que Mongo DB, CouchDG ou Cassandra, spécialisées dans le traitement des données non-structurées ou semi-structurées et distribuées à travers de multiples machines.
 
 
 
 
-
-#### 3.2.1 Modèle d'architecture
-
-
-
-
-
-
-
-#### 3.2.1 MapReduce - algorithmes distribués
-
-Au départ, il y a eu **MapReduce**, une méthode et une technologie de traitement massivement parallèle issues des laboratoires Google Corp  avec gestion de la tolérance aux pannes et système de gestion de fichiers spécifiques (Google File System). On parle là de traitement sur des milliers de machines réparties en grappes (clusters). 
-
-#### 3.2.2 Hadoop
-
-#### 3.2.3 Spark 
-
-
-
-#### 3.2.4 Le cloud computing
-
-#### 3.2.5 Les bases de données NoSQL
+Pour réussir à exploiter les « Big Data » techniquement, l’idée n’est plus de centraliser le stockage et le traitement des données sur un serveur, mais de distribuer leur stockage et de paralléliser leur traitement sur plusieurs ordinateurs
 
 
 
