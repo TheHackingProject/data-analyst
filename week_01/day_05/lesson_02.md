@@ -9,7 +9,7 @@ On peut dater l’acte de naissance du big data en 2001 avec l’invention de la
 
 Pour leurs propres besoins, les GAFAM ont dû créer des outils pour stocker et traiter à la volée des données à la fois nombreuses et versatiles, leur structuration changeant avec le temps. Facebook est ainsi à l’origine de Cassandra avant de se tourner vers HBase (NoSQL), Google de BigTable et GFS (ancêtre d’HDFS) et plus récemment de TensorFlow (machine learning). Les géants du web ont ensuite versé ces projets en open source, externalisant en quelque sorte leur R&D. Car à leurs yeux, l’or ce sont les données elles-mêmes, pas les technologies. 
  
-Finalement, après avoir été longtemps un buzzword, "Big Data" a repris son sens initial : il fait référence à l'ensemble des technologies comme Hadoop, Spark, Kafka ou les bases de données NoSQL ... que tu vas découvrir aujourd'hui.
+Finalement, après avoir été longtemps un buzzword, "Big Data" a repris son sens initial : il fait référence à l'ensemble des technologies comme Hadoop, Spark, Kafka ... que tu vas découvrir aujourd'hui.
 
 ## 3. La ressource
 
