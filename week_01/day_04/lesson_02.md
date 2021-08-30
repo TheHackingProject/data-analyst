@@ -63,28 +63,29 @@ CREATE TABLE `doctors` (
 ```
 
 - Créer une entrée dans une table :
-```
+```sql
 INSERT INTO doctors (name, age, specialty) VALUES ('Dr. Dolladille', 45, 'Dentist');
 ```
 
 - Lire des éléments (avec ou sans critère de sélection) :
-```
+```sql
 SELECT * FROM doctors;
 SELECT * FROM doctors WHERE age = 45;
 ```
 
 - Mettre à jour une entrée :
-```
+```sql
 UPDATE doctors SET age = 40, name = 'John Smith' WHERE id = 3;
 ```
 
 - Supprimer une entrée :
-```
+```sql
 DELETE FROM doctors WHERE id= 3;
 ```
 
 - Lire les éléments d'une table selon un critère d'une table liée :
-```SELECT * FROM inhabitants
+```sql
+SELECT * FROM inhabitants
 JOIN cities ON cities.id = inhabitants.city_id
 WHERE cities.name = 'Paris';
 ```
