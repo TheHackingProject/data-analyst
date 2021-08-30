@@ -46,13 +46,13 @@ Tu vois, la définition est assez vague. C'est pourquoi tu devras savoir faire p
 L'analyse des données est devenue très complexe depuis une dizaine d'années. C'est pourquoi de nouveaux métiers sont apparus, avec des frontières encore en évolution. 
 
 En théorie : 
-Pour créer des bases de données, il faut être un bon dev informatique. 
+Pour créer des bases de données, il faut être dev informatique. 
 Pour analyser des bases de données, il faut avoir un esprit analytique, orienté business. 
 
 En pratique : 
-Ce sont parfois les mêmes personnes qui réalisent ces deux tâches. En tout cas, ces deux types de profils régulièrement travaillent ensemble et parlent, en partie, les mêmes langages. C'est pourquoi il est important que chacun des deux ait une bonne vision de ce que fait l'autre. D'où l'intérêt de la journée d'aujourd'hui pour vous moussaillons qui avez plutôt opté pour la partie analytique vs le dev pur : vous allez plongé dans l'univers du développement de bases de données 🙈🙈.
+Ce sont parfois les mêmes personnes qui réalisent ces deux tâches. En tout cas, ces deux types de profils travaillent régulièrement ensemble et parlent, en partie, les mêmes langages. C'est pourquoi il est important que chacun des deux ait une bonne vision de ce que fait l'autre. D'où l'intérêt de la journée d'aujourd'hui pour vous moussaillons qui avez plutôt opté pour la partie analytique vs le dev pur : vous allez plongé dans l'univers du développement de bases de données 🙈🙈
 
 ## 5. Pour aller plus loin
-Les 2 autres ressources de la journée vont te permettre d'en savoir plus sur les tâches quotidiennes des Data Engineers.
+Les 2 autres ressources de la journée vont te permettre d'en savoir plus sur les tâches quotidiennes des *Data Engineers*.
 
 Et pour comprendre mieux tout ce qu'on a dit dans cette ressource, je t'invite, plusieurs fois par semaine, à faire de la veille sur les offres d'emploi autour de la data. En plus des fameux Linkedin, Indeed, Apec, tu peux consulter [Welcome to the jungle](https://www.welcometothejungle.com/fr) : la plupart des entreprises de la Tech postent leurs annonces sur ce site. Tu peux également aller faire un tour sur les plateformes de free-lance comme [Malt](https://www.malt.fr/) et voir les expériences des experts de la data. Ces recherches t'aideront à voir tant la diversité de missions que les constantes qu'on retrouve dans les métiers de la data.
