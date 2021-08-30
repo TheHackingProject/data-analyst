@@ -57,12 +57,7 @@ Quatre grandes révolutions techniques ont permis la création et la croissance 
 
 Avant l’arrivée des plateformes informatiques cloud, le stockage et l’utilisation du Big Data étaient effectués sur site. L’introduction des plateformes en cloud computing comme Microsoft Azure, Amazon AWS ou Google BigQuery permet désormais d’effectuer ce processus de management de la donnée à distance.
 
-Le cloud couplé à une architecture sans serveur (serverless) offre de nombreux avantages aux entreprises et organisations tels que :
-
-- Un gain d’efficacité : la couche de stockage et la couche de calcul sont découplées, ce qui permet de conserver la quantité de data dans la couche de stockage pendant le temps nécessaire au calcul
-- Un gain de temps : contrairement au déploiement d’un cluster géré qui peut prendre plusieurs heures voire jours avant d’être abouti, l’installation d’application Big Data sans serveur ne prend que quelques minutes
-- Une tolérance aux pannes : par défaut, l’architecture *serverless* non gérée tolère les éventuelles pannes et incidents. Le contrat de service garantit une disponibilité accrue. Il n’y a donc pas besoin d’un administrateur.
-- Une mise à jour simplifiée et/ou automatique : ees règles définies de mise à jour automatique permettent d’adapter et d’étendre l’application en fonction de la charge de travail réduisant ainsi le coût de traitement de manière considérable.
+Ce n’est pas une technologie Big Data pure et dure, mais c’est la méthode de déploiement favorisée pour les technologies Big Data. En effet, celui-ci demande des capacités énormes de stockage et de traitement et le cloud est aujourd’hui le moyen le plus capable de supporter ces volumétries et à moindre coût comparé à une solution classique on-premise.
 
 #### 3.2.2 Le modèle de programmation MapReduce
 
@@ -77,6 +72,22 @@ Le framework MapReduce est scindé en deux espaces fonctionnels :
 ![djo](https://www.lebigdata.fr/wp-content/uploads/2017/08/mapreduce-fonctionnement.png)
 
 Un des avantages primaires de Map Reduce est qu’il est  tolérant aux pannes. Comment fait-il ? Il « monitore » chaque noeud (node) du cluster régulièrement. Celui-ci est supposé renvoyer périodiquement un travail complet avec des mises à jour des « status ». Si un noeud reste silencieux plus que nécessaire, un master node le signale et réassigne le travail à d’autres noeuds du cluster.
+
+
+
+
+
+#### 3.2.3. Le framework Hadoop
+
+Juste après, il y a eu "Hadoop", un framework mis au point afin de mieux généraliser l'usage du stockage et traitement massivement parallèle de Map Reduce et de Google File System. 
+Hadoop est composé de plusieurs éléments : un système de stockage (HDFS), un système de planification des traitements (YARN) et le framework de traitement (MapReduce).
+
+Hadoop fractionne les fichiers en gros blocs et les distribue à travers les nœuds du cluster. Pour traiter les données, il transfère le code à chaque nœud et chaque nœud traite les données dont il dispose. Cela permet de traiter l'ensemble des données plus rapidement et plus efficacement que dans une architecture plus classique. 
+
+Néanmoins, Hadoop seul ne peut pas venir à bout de toutes les problématiques du Big Data. Sa véritable valeur ajoutée réside dans les technologies qui forment ce qu'on appelle l’écosystème Hadoop. A ce jour, l’écosystème Hadoop est composé d’une centaines de technologies.
+
+[heyo](https://www.data-transitionnumerique.com/wp-content/uploads/2019/09/carte-heuristique-%C3%A9cosyst%C3%A8me-Hadoop.png)
+
 
 
 #### 3.2.4. Les bases de données NoSQL
