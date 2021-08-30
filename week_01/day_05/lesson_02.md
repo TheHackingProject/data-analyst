@@ -2,36 +2,36 @@
 A quoi correspond techniquement cette révolution qu'on appelle communément "Big Data" et quelles sont ses conséquences sur l'analyse de données ?
 
 ## 1. Introduction
-Tu viens de voir les deux familles d'outils indispensables à la Data Analyse : les langages de programmation et les bases de données 👏👏 Il te reste à voir encore deux familles d'outils : les outils d'analyse (que tu verras lors de la troisième semaine de la formation) et les outils Big Data, qu'on va voir dans cette ressource. Les outils Big Data sont apparus récemment et sont souvent gérés par des devs vue leur complexité. Mais il est important pour toi de comprendre leur utilité et leur fonctionnement.
+Tu viens de voir les deux familles d'outils indispensables à la Data Analyse : les langages de programmation et les bases de données 👏👏 Il te reste à voir encore deux familles d'outils : les outils d'analyse (que tu verras lors de la troisième semaine de la formation) et **les outils Big Data**, qu'on va voir dans cette ressource. Les outils Big Data sont apparus récemment et sont souvent gérés par des devs vue leur complexité. Mais il est important pour toi de comprendre leur utilité et leur fonctionnement.
 
 ## 2. Historique et contexte
-On peut dater l’acte de naissance du big data en 2001 avec l’invention de la règle des 3V (Volume, Vitesse et Variété). A l’époque, l’expression traduisait une rupture dans le volume des données à traiter. Jusqu’à la fin des années 90, les quantités de données restaient limitées. Puis, on a assisté à une explosion du volume de données avec l’essor de l’e-commerce, des réseaux sociaux, des terminaux mobiles et, plus récemment, de l’internet des objets (IoT). Face à cette avalanche de data, les modèles techniques existants ont montré leurs limites. La base de données parfaite n’existait plus. En fonction du souhait de privilégier la volumétrie, la vitesse ou les capacités de requêtage, on choisira une solution plutôt qu’une autre ou bien une combinaison d’outils.
+On peut dater l’acte de **naissance du big data en 2001** avec l’invention de la règle des 3V (Volume, Vitesse et Variété). A l’époque, l’expression traduisait une rupture dans le volume des données à traiter. Jusqu’à la fin des années 90, les quantités de données restaient limitées. Puis, on a assisté à une explosion du volume de données avec l’essor de l’e-commerce, des réseaux sociaux, des terminaux mobiles et, plus récemment, de l’internet des objets (IoT). Face à cette avalanche de data, les modèles techniques existants ont montré leurs limites. La base de données parfaite n’existait plus. En fonction du souhait de privilégier la volumétrie, la vitesse ou les capacités de requêtage, on choisira une solution plutôt qu’une autre, ou bien une combinaison d’outils.
 
-Pour leurs propres besoins, les GAFAM ont dû créer des outils pour stocker et traiter à la volée des données à la fois nombreuses et versatiles, leur structuration changeant avec le temps. Facebook est ainsi à l’origine de Cassandra avant de se tourner vers HBase (NoSQL), Google de BigTable et GFS (ancêtre d’HDFS) et plus récemment de TensorFlow (machine learning). Les géants du web ont ensuite versé ces projets en open source, externalisant en quelque sorte leur R&D. Car à leurs yeux, l’or ce sont les données elles-mêmes, pas les technologies. 
+Pour leurs propres besoins, **les GAFAM ont dû créer des outils pour stocker et traiter à la volée des données** à la fois nombreuses et versatiles, leur structuration changeant avec le temps. Facebook est ainsi à l’origine de Cassandra avant de se tourner vers HBase (NoSQL), Google de BigTable et GFS (ancêtre d’HDFS) et plus récemment de TensorFlow (machine learning). Les géants du web ont ensuite versé ces projets en open source, externalisant en quelque sorte leur R&D. Car à leurs yeux, l’or ce sont les données elles-mêmes, pas les technologies. 
  
 Finalement, après avoir été longtemps un buzzword, "Big Data" a repris son sens premier : il fait référence à l'ensemble des technologies comme Hadoop, Spark, les bases de données NoSQL ... que tu vas découvrir aujourd'hui.
 
 ## 3. La ressource
 
-L'univers du Big Data est complexe et pourrait faire l'objet de plusieurs semaines de formation. Mais dans ton cas de futur Data Analyst, une journée suffira car tu as surtout besoin d'avoir les bases pour pouvoir ensuite naviguer dans un projet Big Data. En fait, ce n'est pas toi qui devras créer les infrastructures Big Data, c'est le rôle du *Data Engineer* ou *Data Architect*. On va donc te livrer ici les notions les plus importantes pour comprendre le Big Data.
+L'univers du Big Data est complexe et pourrait faire l'objet de plusieurs semaines de formation. Mais dans ton cas de futur Data Analyst, une journée suffira car tu as surtout besoin d'avoir les bases pour pouvoir ensuite naviguer dans un projet Big Data. En fait, ce n'est pas toi qui devras créer les infrastructures Big Data (c'est le rôle du *Data Engineer* ou *Data Architect*). On va donc te livrer ici les notions les plus importantes pour comprendre le Big Data.
 
 ### 3.1. Big data is not only big !
 
-On pourrait penser que le Big Data (mégadonnées en français) se résume à des gros volumes de données. Mais sans parler de Big Data, il est aujourd’hui possible de stocker et d’exploiter de très gros volumes de données avec une grande variété de sources dans de grands entrepôts de données (les *Data Warehouses*). En effet, les technologies actuelles permettent de traiter des gros volumes de données selon les méthodes analytiques de Business Intelligence sans avoir recours au Big Data (cf. la ressource précédente).
+On pourrait penser que le Big Data (mégadonnées en français) se résume à des gros volumes de données. Mais sans parler de Big Data, il est aujourd’hui possible de stocker et d’exploiter de très gros volumes de données avec une grande variété de sources dans de grands entrepôts de données (les *Data Warehouses*). En effet, les technologies actuelles permettent de traiter des gros volumes de données selon les méthodes analytiques de Business Intelligence sans avoir recours au Big Data (on a d'ailleurs vu ça dans la ressource précédente 😅).
 
-Si le Big Data concerne effectivement des gros volumes de données, une de ses spécificités est de s’intéresser aussi bien aux données structurées qu’aux données non structurées. Ce sont les données non structurées que les outils habituels d’analytique ne savent pas traiter. Une autre spécificité est le stockage des données, qui ne sont plus stockées dans des *Data Warehouses* mais dans des *Data Lakes*. Finalement, plus que les volumes, ce qui fait le Big Data est donc la nature des données, la manière dont on les stocke et les techniques d’analyse pratiquées avec des savoir-faire et des technologies propres.
+Si le Big Data concerne effectivement des gros volumes de données, une de ses spécificités est de s’intéresser aussi bien aux données structurées qu’aux données non structurées. Ce sont les données non structurées que les outils habituels d’analytique ne savent pas traiter. Une autre spécificité est le stockage des données, qui ne sont plus stockées dans des *Data Warehouses* mais dans des *Data Lakes*. Finalement, **plus que les volumes, ce qui fait le Big Data est donc la nature des données, la manière dont on les stocke et les techniques d’analyse pratiquées** avec des savoir-faire et des technologies propres.
 
-En fait, au tout début, on a parlé des 3V : volume (grandes quantités), variété (différents types de données) et vélocité (rapidité de traitement). Mais ce que l’acronyme des 3V ne mettait pas en perspective, c’était cette innovation centrale qui veut que **les données n’ont pas besoin d’être systématiquement « transformées » pour être analysées**. Apparaissait donc une nouvelle approche, très différente de l'approche ETL où La donnée est structurée et convertie à des formats précis. 
+Au tout début du Big Data, on a parlé des 3V : volume (grandes quantités), variété (différents types de données) et vélocité (rapidité de traitement). Mais ce que l’acronyme des 3V ne mettait pas en perspective, c’était cette innovation centrale qui veut que **les données n’ont pas besoin d’être systématiquement « transformées » pour être analysées**. Apparaissait donc une nouvelle approche, très différente de l'approche ETL où la donnée est structurée et convertie à des formats précis. 
 
-⚠️⚠️ Ne croyez pas pour autant que les big data rendent les *data warehouses* obsolètes. Les systèmes de big data vous amènent à travailler avec des données non structurées, mais le type de résultats de requêtes que vous obtenez est loin de la sophistication des *data warehouses*. La *data warehouse* est conçue pour une analyse en profondeur de la donnée, et cela est rendu possible précisément parce que la donnée a été transformée et prévue dans un format spécifique.
+⚠️⚠️ Ne croyez pas pour autant que les big data rendent les *data warehouses* obsolètes. Les systèmes de big data amènent à travailler avec des données non structurées, mais le type de résultats de requêtes qu'on obtient est loin de la sophistication des *data warehouses*. Le *data warehouse* est conçu pour une analyse en profondeur de la donnée, et cela est rendu possible précisément parce que la donnée a été transformée et prévue dans un format spécifique.
 
-Le big data permet d’analyser beaucoup plus de données de beaucoup plus de sources, mais avec une résolution moins fine. Pour schématiser, on peut dire que le big data est un monde impressionniste qui aura toujours besoin à ses côtés de l’hyper-réalisme des *data warehouses* 🎨 C’est pour cela que nous sommes condamnés à vivre à la fois avec les *data warehouses* traditionnelles  et ce nouveau style de traitement que sont les big data. Le big data ne consiste donc surtout pas à désapprendre ce que l’on a appris en se formant au *data warehouse*. Le data scientist n’a pas forcément vocation à prendre la place de l’ingénieur en informatique décisionnelle. Il faudra au contraire que l’entreprise se pose la question de comment faire en sorte que les deux s’enrichissent mutuellement. Et c'est aussi ces deux aspects que nous allons t'apprendre dans cette formation.
+ C’est pour cela que nous sommes condamnés à vivre à la fois avec les *data warehouses* traditionnelles  et ce nouveau style de traitement que sont les big data. Le big data ne consiste donc surtout pas à désapprendre ce que l’on a appris en se formant au *data warehouse*. Le data scientist n’a pas forcément vocation à prendre la place de l’ingénieur en informatique décisionnelle. Il faudra au contraire que l’entreprise se pose la question de comment faire en sorte que les deux s’enrichissent mutuellement. Et c'est aussi ces deux aspects que nous allons t'apprendre dans cette formation.
 
 ___
 
 💡💡 AIDE MNÉMOTECHNIQUE 💡💡
 
-Pour synthétiser, le Big Data c'est une famille d'outils qui répondent non pas à 3 mais à 5Vs à la fois : 
+Pour synthétiser, le Big Data c'est une famille d'outils qui répondent, non plus à 3, mais à 5Vs à la fois : 
 - **Volume** -> des ensembles de données très volumineux 
 - **Vitesse** ou **Vélocité** -> la vitesse à laquelle les données sont générées et à laquelle elles se déplacent
 - **Variété** -> en fait, 80% des données dans le monde ne sont plus structurées et ne peuvent donc pas être facilement mises dans des tables ou des bases de données relationnelles - pense à des photos, des séquences vidéos ou des mises à jour de réseaux sociaux ⌚️📱
@@ -57,7 +57,7 @@ Quatre grandes révolutions techniques ont permis la création et la croissance 
 
 Avant l’arrivée des plateformes informatiques cloud, le stockage et l’utilisation du Big Data étaient effectués sur site. L’introduction des plateformes en cloud computing comme Microsoft Azure, Amazon AWS ou Google BigQuery permet désormais d’effectuer ce processus de management de la donnée à distance.
 
-Ce n’est pas une technologie Big Data pure et dure, mais c’est la méthode de déploiement favorisée pour les technologies Big Data. En effet, celui-ci demande des capacités énormes de stockage et de traitement et le cloud est aujourd’hui le moyen le plus capable de supporter ces volumétries et à moindre coût comparé à une solution classique on-premise.
+Le cloud computing n’est pas une technologie Big Data pure et dure, mais c’est la méthode de déploiement favorisée pour les technologies Big Data. En effet, celui-ci demande des capacités énormes de stockage et de traitement et le cloud est aujourd’hui le moyen le plus capable de supporter ces volumétries et à moindre coût comparé à une solution classique on-premise.
 
 #### 3.2.2 Le modèle de programmation MapReduce
 
@@ -71,10 +71,7 @@ Le framework MapReduce est scindé en deux espaces fonctionnels :
 
 ![djo](https://www.lebigdata.fr/wp-content/uploads/2017/08/mapreduce-fonctionnement.png)
 
-Un des avantages primaires de Map Reduce est qu’il est  tolérant aux pannes. Comment fait-il ? Il « monitore » chaque noeud (node) du cluster régulièrement. Celui-ci est supposé renvoyer périodiquement un travail complet avec des mises à jour des « status ». Si un noeud reste silencieux plus que nécessaire, un master node le signale et réassigne le travail à d’autres noeuds du cluster.
-
-
-
+Un des avantages primaires de Map Reduce est qu’il est tolérant aux pannes. Comment fait-il ? Il « monitore » chaque noeud (node) du cluster régulièrement. Celui-ci est supposé renvoyer périodiquement un travail complet avec des mises à jour des « status ». Si un noeud reste silencieux plus que nécessaire, un master node le signale et réassigne le travail à d’autres noeuds du cluster.
 
 
 #### 3.2.3. Le framework Hadoop
@@ -84,24 +81,26 @@ Hadoop est composé de plusieurs éléments : un système de stockage (HDFS), un
 
 Hadoop fractionne les fichiers en gros blocs et les distribue à travers les nœuds du cluster. Pour traiter les données, il transfère le code à chaque nœud et chaque nœud traite les données dont il dispose. Cela permet de traiter l'ensemble des données plus rapidement et plus efficacement que dans une architecture plus classique. 
 
-Néanmoins, Hadoop seul ne peut pas venir à bout de toutes les problématiques du Big Data. Sa véritable valeur ajoutée réside dans les technologies qui forment ce qu'on appelle l’écosystème Hadoop. A ce jour, l’écosystème Hadoop est composé d’une centaines de technologies.
+Néanmoins, Hadoop seul ne peut pas venir à bout de toutes les problématiques du Big Data. Sa véritable valeur ajoutée réside dans les technologies qui forment ce qu'on appelle l’écosystème Hadoop. A ce jour, l’écosystème Hadoop est composé d’une centaines de technologies. Voici un schéma qui synthétise les différentes parties de l'écosystème Hadoop.
 
 ![heyo](https://www.data-transitionnumerique.com/wp-content/uploads/2019/09/carte-heuristique-%C3%A9cosyst%C3%A8me-Hadoop.png)
 
+Ces particularités font d’Hadoop un des frameworks les plus utilisés par les entreprises, notamment en ce qui concerne :
+- Le stockage classique de données transactionnelles.
+- La création de data lakes constituées de données brutes non raffinées à destination des Data scientists.
+- La recherche et l’analyse sur des ensembles de données particulièrement importants.
 
 
 #### 3.2.4. Les bases de données NoSQL
 
-Même avec Hadoop, il faut quand même un moyen de stocker et d’accéder aux données. C’est typiquement ce à quoi servent des NoSQL database telles que Mongo DB, CouchDG ou Cassandra, spécialisées dans le traitement des données non-structurées ou semi-structurées et distribuées à travers de multiples machines.
+Même avec Hadoop, il faut quand même un moyen de stocker et d’accéder aux données. C’est typiquement ce à quoi servent les bases de données NoSQL telles que Mongo DB, CouchDG ou Cassandra, spécialisées dans le traitement des données non-structurées ou semi-structurées et distribuées à travers de multiples machines.
 
 
 #### 3.2.5 Quel avenir pour les technos du Big Data ?
 
-L’industrie technologique du big data étant une industrie très récente, les systèmes de traitement des mégadonnées et de stockage sont en perpétuelle croissance. Nous assistons à une apparition et disparition des technologies, à vitesse impressionnante. L’algorithme MapReduce apparut chez Google en 2004 et est largement utilisé aujourd’hui, notamment par Yahoo dans son projet Nutch, il est passé en 2008 sous le drapeau Apache pour créer Hadoop et voit son utilisation délaissée pour des raisons de “lenteur” de traitement, visible même sur des mégadonnées de tailles modestes.
+L’industrie technologique du big data étant une industrie très récente, les systèmes de traitement des mégadonnées et de stockage sont en perpétuelle croissance. Nous assistons à une apparition et disparition des technologies, à vitesse impressionnante. L’algorithme MapReduce apparu chez Google en 2004 est passé en 2008 sous le drapeau Apache pour créer Hadoop et voit son utilisation délaissée pour des raisons de “lenteur” de traitement, visible même sur des mégadonnées de tailles modestes.
 
-A partir de la version 2 de Hadoop, l’architecture a été rendue modulaire et permet d’accepter de nouveaux modules de calcul (Hadoop File System – HDFS). Map Reduce est l’un deux. C’est ainsi que Spark, bien plus jeune que MapReduce, reprend peu à peu le flambeau de son aîné, cet outil est aussi développé sous l’écusson de la maison Apache. Spark pouvant être exécuté au-dessus de Hadoop et de nombreuses bases NoSQL. Projet qui a connu ces dernières années un essor rapide et a reçu l’approbation d’une grande partie de la technosphère des développeurs.
-
-
+A partir de la version 2 de Hadoop, l’architecture a été rendue modulaire et permet d’accepter de nouveaux modules de calcul (Hadoop File System – HDFS). C’est ainsi que Spark, bien plus jeune que MapReduce, reprend peu à peu le flambeau de son aîné. Cet outil est également un projet open source de la fondation Apache. Spark pouvant être exécuté au-dessus de Hadoop et de nombreuses bases NoSQL, le projet a connu ces dernières années un essor rapide et a reçu l’approbation d’une grande partie de la technosphère des développeurs.
 
 
 ## 4. Points importants à retenir
@@ -109,18 +108,13 @@ Au-delà des buzz words, l'analyse de données prend différentes formes et peut
 - l'analyse de données au travers de logiciels de *Business Intelligence* qui permet de faire parler les données, le plus souvent déjà collectées et stockées dans l’entreprise.
 - l’analytique Big Data qui nécessite l’intervention de spécialistes et la mise en œuvre d’une architecture informatique et d’outils complexes. 
 
-En fait, la révolution Big Data a modifié le stockage, les algorithmes, les bases de données 
-
-https://www.atys-concept.com/blog-de-la-performance/articles-performance-industrielle/differences-entre-data-analytics-data-science-big-data/
+Et pour résumer la ressource sur le Big Data, tu peux retenir que : 
+- les 5Vs du Big Data ont poussé les limites des systèmes traditionnels
+- cela a rendu nécessaire d’opérer les traitements de données sur plusieurs noeuds en parallèle
+- de nouvelles techniques et technologies ont vu le jour : systèmes de fichiers distribués, algorithmes distribués, systèmes de base de données distribués
+- or les systèmes distribués sont complexes et doivent faire des compromis. C'est pourquoi il est important de bien les connaître.
 
 ## 5. Pour aller plus loin
-
-Reste un problème : disposer de quantités massives de données dans des bases NoSQL installées dans des clusters de machines n’est pas très utile tant que vous n’en faites rien.
-C’est là qu’interviennent les analytics de big data.
-
-Des outils tels que  Tableau, Splunk, et Jasper BI permettent de parser ces data pour identifier des patterns, extraire des significations et révéler de nouvelles perspectives. Ce que vous en ferez ensuite dépendra de vos besoins.
-
-Là encore, les compétences dans ces analytics sont particulièrement demandées. Cela fait partie des compétences à acquérir. Noter également que la maîtrise des bases NoSQL semble importante, voire indispensable. Connaître et maîtriser le NoSQL semble donc à ce jour indispensable à l’univers big data. Quoique…dans cet article, vous verrez que SQL revient en force dans l’univers big data. 
-
-
-peut-être mettre une blague ex : "si tu me crois pas qu'Hadoop est indispensable, cf https://www.decideo.fr/Les-6-competences-les-plus-recherchees-en-Big-Data_a10051.html"
+- Lire ce mémoire sur [L'exploitation du Big Data par les start-ups](https://matheo.uliege.be/bitstream/2268.2/2562/4/M%C3%A9moire%20Camille%20Marenne.pdf) pour comprendre ce que "Big Data" signifie en entreprise
+- Te rassurer en lisant quelles sont [les 6 compétences les plus recherchées en Big Data](https://www.decideo.fr/Les-6-competences-les-plus-recherchees-en-Big-Data_a10051.html)
+- Si tu veux vraiment en savoir plus sur le métier de *Data Architect*, tu peux faire les cours OC [Créez votre data lake](https://openclassrooms.com/fr/courses/4467481-creez-votre-data-lake) ou [https://openclassrooms.com/fr/courses/4467491-concevez-des-architectures-big-data](https://openclassrooms.com/fr/courses/4467491-concevez-des-architectures-big-data)
