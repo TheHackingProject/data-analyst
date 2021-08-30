@@ -3,7 +3,7 @@
 Ou comment faire quand le volume de données devient ingérable et que répondre à de simples requêtes prend des heures.
 
 ## 1. Introduction
-Les exigences de développement d’applications moderne ont connu une profonde révolution ces 15 dernières années. Pour ce qui est de la gestion de gros volumes de données, les bases de données NoSQL ou non relationnelles semblent devenues indispensables 🗣🗣.
+Les exigences de développement d’applications modernes ont connu une profonde révolution ces 15 dernières années. Pour ce qui est de la gestion de gros volumes de données, les bases de données NoSQL ou non relationnelles semblent devenues indispensables 🗣🗣
 
 ## 2. Historique et contexte
 Le terme et le concept NoSQL furent inventés en 1998 par Carl Strozz, afin de désigner sa base de données relationnelle légère et open source. Ce concept a ensuite été adopté et **popularisé par les GAFAM** tels que Google, Facebook ou Amazon confrontés à d’immenses volumes de données. Les bases de données relationnelles étaient devenues trop lentes 🐢🐢.
