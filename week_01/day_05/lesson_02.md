@@ -36,9 +36,9 @@ En fait, au tout début, on a parlé des 3V : volume (grandes quantités), vari�
 
 Le big data permet d’analyser beaucoup plus de données de beaucoup plus de sources, mais avec une résolution moins fine. Pour schématiser, on peut dire que le big data est un monde impressionniste qui aura toujours besoin à ses côtés de l’hyper-réalisme des *data warehouses* 🎨 C’est pour cela que nous sommes condamnés à vivre à la fois avec les *data warehouses* traditionnelles  et ce nouveau style de traitement que sont les big data. Le big data ne consiste donc surtout pas à désapprendre ce que l’on a appris en se formant au *data warehouse*. Le data scientist n’a pas forcément vocation à prendre la place de l’ingénieur en informatique décisionnelle. Il faudra au contraire que l’entreprise se pose la question de comment faire en sorte que les deux s’enrichissent mutuellement. Et c'est aussi ces deux aspects que nous allons t'apprendre dans cette formation.
 
-__
+___
 
-AIDE MNÉMOTECHNIQUE
+💡💡 AIDE MNÉMOTECHNIQUE 💡💡
 
 Pour synthétiser, le Big Data c'est non pas 3 mais 5Vs à la fois : 
 - **Volume** -> des ensembles de données très volumineux 
@@ -47,7 +47,7 @@ Pour synthétiser, le Big Data c'est non pas 3 mais 5Vs à la fois :
 - **Véracité** -> les données sont devenues incertaines : il faut gérer la fiabilité de données intrinsèquement imprécises.
 - **Valeur** -> finalement, tous ces volumes de données variées en mouvement rapide et de véracité différente doivent être transformés en valeur ! C'est là l'enjeu majeur du Big Data ⚖️⚖️
 
-__
+___
 
 
 ### 3.2. Différences entre Big Data et Business Intelligence ?
