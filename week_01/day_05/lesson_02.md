@@ -115,6 +115,7 @@ Et pour résumer la ressource sur le Big Data, tu peux retenir que :
 - or les systèmes distribués sont complexes et doivent faire des compromis. C'est pourquoi il est important de bien les connaître.
 
 ## 5. Pour aller plus loin
+La ressource était longue mais sait-on jamais, si tu as toujours de l'énergie, tu peux :
 - Lire ce mémoire sur [L'exploitation du Big Data par les start-ups](https://matheo.uliege.be/bitstream/2268.2/2562/4/M%C3%A9moire%20Camille%20Marenne.pdf) pour comprendre ce que "Big Data" signifie en entreprise
-- Te rassurer en lisant quelles sont [les 6 compétences les plus recherchées en Big Data](https://www.decideo.fr/Les-6-competences-les-plus-recherchees-en-Big-Data_a10051.html)
-- Si tu veux vraiment en savoir plus sur le métier de *Data Architect*, tu peux faire les cours OC [Créez votre data lake](https://openclassrooms.com/fr/courses/4467481-creez-votre-data-lake) ou [https://openclassrooms.com/fr/courses/4467491-concevez-des-architectures-big-data](https://openclassrooms.com/fr/courses/4467491-concevez-des-architectures-big-data)
+- Te rassurer en regardant quelles sont [les 6 compétences les plus recherchées en Big Data](https://www.decideo.fr/Les-6-competences-les-plus-recherchees-en-Big-Data_a10051.html)
+- Chercher à en savoir plus sur le métier de *Data Architect*, en faisant les cours OC [Créez votre data lake](https://openclassrooms.com/fr/courses/4467481-creez-votre-data-lake) ou [https://openclassrooms.com/fr/courses/4467491-concevez-des-architectures-big-data](https://openclassrooms.com/fr/courses/4467491-concevez-des-architectures-big-data)
