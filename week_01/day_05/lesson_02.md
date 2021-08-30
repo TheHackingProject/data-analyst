@@ -50,19 +50,66 @@ Pour synthétiser, le Big Data c'est non pas 3 mais 5Vs à la fois :
 ___
 
 
-### 3.2. Différences entre Big Data et Business Intelligence ?
+### 3.2. Les technos du Big Data
 
-à voir si c'est utile
 
-### 3.3. Les technos Big Data
+Google est à l’origine des deux percées technologiques qui ont rendu les big data possibles :
 
-paragraphe sur Mapreduce : https://inventiv-it.fr/big-data-devez-apprendre/
+Le premier était Hadoop, qui consiste en deux services clés :
+
+    un système de stockage de données, utilisant HDFS (Hadoop Distributed File System)
+    un système de process de données en parallèle, utilisant une technique appelée Map Reduce.
+
+Hadoop fonctionne sur un ensemble de serveurs en architecture shared-nothing. On peut ajouter ou enlever des serveurs à volonté dans un cluster Hadoop. Le système détecte et règle les problème sur chaque serveur. Hadoop, en d’autres termes, « s’auto-guérit ». Il peut donc continuer à délivrer des données et fonctionner à grande échelle en effectuant des tâches exigeant de hautes performances, malgré des changements ou des échecs.
+
+Sa véritable valeur ajoutée est cependant encore ailleurs : elle provient de adds-on et de compléments personnalisables de sa technologie. Hadoop offre ainsi des projets supplémentaires qui ajoutent des fonctionnalités à la plateforme :
+
+    Hadoop Common: il s’agit des outils de base nécessaires aux autres projets Hadoop
+    Chukwa: un système de récupération de données pour gérer les systèmes distribués de grande taille.
+    HBase: une base de données distribuée, scalable qui supporte le stockage de données structurées pour de grandes tables.
+    HDFS: un système distribué qui procure des accès haut débit aux données d’application
+    Hive: une infrastructure de data warehouse qui délivre de la data summarization et un système de requêtes ad hoc.
+    MapReduce: un framework logiciel pour les process distribués de sets de données importants
+    Pig: un langage et un framework permettant l’exécution de process parallèles.
+    ZooKeeper: un service de coordination haute performance pour les applications distribuées.
+
+L’implémentation  d’une plateforme Hadoop comprend forcément quelques un de ces sous-projets.
+
+Par exemple, de nombreuses organisations choisissent d’utiliser HDFS comme système primaire de gestion de fichiers distribués et HBase comme base de données qui peut stocker des milliards de colonnes de données. Et le recours à MapReduce (ou Spark) va s’imposer ensuite presque de soi puisqu’il apporte la vitesse et l’agilité à la plateforme Hadoop.
+
+Avec MapReduce, les développeurs peuvent créer des programmes qui traitent des volumes massifs de données non structurées en parallèle à travers un cluster de processeurs distribués sur des ordinateurs indépendants. Le framework MapReduce est scindé en deux espaces fonctionnels :
+
+    Map, une fonction qui répartit le travail à différents noeuds dans les grappes d’ordinateurs.
+    Reduce, une fonction qui rassemble le travail et résume les résultats dans une valeur simple.
+
+Un des avantages primaires de Map Reduce est qu’il est « fault-tolerant » ou tolérant aux pannes. Comment fait-il ? Il « monitore » chaque noeud (node) du cluster régulièrement. Celui-ci est supposé renvoyer périodiquement un travail complet avec des mises à jour des « status ». Si un noeud reste silencieux plus que nécessaire, un master node le signale et réassigne le travail à d’autres noeuds du cluster.
+
+Construit à l’origine pour indéxer le moteur de recherche Nutch, Hadoop est maintenant utilisé dans tous les grands secteurs d’activité pour quantité de tâches big data.
+
+En d’autres termes, grâce au système d’informatique distribuée HDFS et YARN (Yet Another Resource Negotiator), le logiciel permet à l’utilisateur de traiter des volumes de données gigantesques répartis à travers des milliers d’ordinateurs, exactement comme s’ils étaient une seule et même énorme machine.
+
+Comment adapter cela à votre cas ? L’histoire de ces sauts technologiques s’impose forcément à votre organisation et à vous-même. L’informatique distribuée ne vous est pas suffisamment familière ? Il est urgent de mieux la comprendre et de vous y former, vous ou vos équipes. 
+
+Quant aux outils, l’histoire d’Hadoop montre à quel point sa logique s’impose à l’univers Big Data. Son univers ne doit donc pas vous rester étranger. Songez-y. Mais l’histoire n’est pas finie. 
+
+En 2009, des cherchers de l’Université de Californie à Berkeley ont développé Apache Spark , une alternative à MapReduce. Spark procède à ses calculs en parallèle en utilisant du stokage in-memory, il est jusqu’à 100 fois plus rapide que MapReduce. Spark peut être utilisé seul ou à l’intérieur d’Hadoop.
+
+Même avec Hadoop, il faut quand même un moyen de stocker et d’accéder aux données. C’est typiquement ce à quoi servent des NoSQL database telles que Mongo DB, CouchDG ou Cassandra, spécialisées dans le traitement des données non-structurées ou semi-structurées et distribuées à travers de multiples machines.
+
+A la différence de ce qui se passe dans les data warehouses, où des quantités massives de données sont envoyées vers un format unifié et sont stockées dans un data store unique, ces outils ne changent pas la nature ni la localisation de la donnée d’origine – les emails restent des emails, les données de capteurs restent des données de capteurs- et peuvent être stockés virtuellement n’importe où.
+
+Reste un problème : disposer de quantités massives de données dans des bases NoSQL installées dans des clusters de machines n’est pas très utile tant que vous n’en faites rien.
+C’est là qu’interviennent les analytics de big data.
+
+Des outils tels que  Tableau, Splunk, et Jasper BI permettent de parser ces data pour identifier des patterns, extraire des significations et révéler de nouvelles perspectives. Ce que vous en ferez ensuite dépendra de vos besoins.
+
+Là encore, les compétences dans ces analytics sont particulièrement demandées. Cela fait partie des compétences à acquérir. Noter également que la maîtrise des bases NoSQL semble importante, voire indispensable. Connaître et maîtriser le NoSQL semble donc à ce jour indispensable à l’univers big data. Quoique…dans cet article, vous verrez que SQL revient en force dans l’univers big data. 
 
 
 ## 4. Points importants à retenir
-Le processus d'analyse de données (ou *Data Analysis*) peut être décomposé en plusieurs phases. La première étape est la collecte de données. Les données sont en provenance d’une ou plusieurs sources. 
-
-Avant de collecter les données, il est primordial de se fixer des objectifs précis pour ensuite faire le bon choix dans les sources de données à utiliser, ainsi que dans les méthodes à employer.
+Au-delà des buzz words, l'analyse de données prend différentes formes et peut se réaliser à différents niveaux. On peut distinguer deux types d'analyses : 
+- l'analyse de données au travers de logiciels de *Business Intelligence* qui permet de faire parler les données, le plus souvent déjà collectées et stockées dans l’entreprise.
+- l’analytique Big Data qui nécessite l’intervention de spécialistes et la mise en œuvre d’une architecture informatique et d’outils complexes. 
 
 
 ## 5. Pour aller plus loin
