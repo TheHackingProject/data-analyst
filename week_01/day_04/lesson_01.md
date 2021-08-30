@@ -1,18 +1,18 @@
 # Comprendre qui fait quoi : dev ou data ?
 
 ## 1. Introduction
-Pendant 3 jours, on a laissé le suspense en mode "ba ouais Data Analyst, c'est évident comme job, tout le monde connaît". Mais en fait non, si on n'a pas tranché la question direct, c'est qu'on n'a pas la réponse 😐😐
+Pendant 3 jours, on a laissé le suspense en mode "ba ouais Data Analyst, c'est évident comme job, tout le monde connaît". Mais en fait non, si on n'a pas tranché la question directement, c'est qu'on n'a pas la réponse 😐😐
 
 Maintenant que tu fais partie de ce monde (tu maîtrises déjà Python et SQL), on peut te dire la vérité : personne n'est d'accord sur la définition du métier de **Data Analyst**. 
 
-En gros, c'est un métier récent qui prend différentes facettes (mais vraiment beaucoup de facettes différentes, crois-moi) selon l'entreprise concernée. C'est pourquoi, pendant cette formation Data, on va te présenter le maximum de concepts et d'outils pour que tu puisses ensuite travailler la data dans des environnements très divers. Et que tu deviennes un super couteau-suisse comme on dit 🔪🔎🔦🔬🔨 ...
+En gros, c'est un métier récent qui prend différentes facettes (mais vraiment beaucoup de facettes différentes, crois-moi) selon l'entreprise concernée. C'est pourquoi, pendant cette formation Data, on va te présenter le maximum de concepts et d'outils pour que tu puisses ensuite travailler la data dans des environnements très divers. Et que tu deviennes un super couteau-suisse comme on dit 🔪🔎🔦🔬🔨 
 
 Enfin, malgré tout ce flou, on va essayer dans cette ressource de t'expliquer qui fait quoi, et quelles sont les frontières entre développement et data. 
 
 ## 2. Historique et contexte
-La data et tous les métiers qu'elles englobent ont fait leur apparition dans le vocabulaire courant il n'y a qu'une dizaine d'années. Pourtant, ces métiers ne datent pas d'hier. Remontons un peu l'histoire pour mieux comprendre cela 📜
+La data et tous les métiers qu'elle englobe ont fait leur apparition dans le vocabulaire courant il n'y a qu'une dizaine d'années. Pourtant, ces métiers ne datent pas d'hier. Remontons un peu l'histoire pour mieux comprendre cela 📜
 
-En 1962, dans *The future of Data Analysis*, John W. Tukey, pourtant un statisticien de renom — on lui doit notamment le terme de « bit » ou encore les diagrammes « boîte à moustaches » —, dit préférer le terme de « data analysis » à celui de statistique. Pour lui cette façon de tirer d’un grand nombre de donnés des tendances relevait plus d’une science empirique que des mathématiques pures, d’où cette différenciation qu’il va être le premier à suggérer.
+En 1962, dans *The future of Data Analysis*, John W. Tukey, pourtant un statisticien de renom — on lui doit notamment le terme de « bit » ou encore les diagrammes « boîte à moustache » —, dit préférer le terme de « data analysis » à celui de statistique. Pour lui cette façon de tirer d’un grand nombre de données des tendances relevait plus d’une science empirique que des mathématiques pures, d’où cette différenciation qu’il va être le premier à suggérer.
 
 ![texte](https://slideplayer.com/slide/14842537/90/images/3/In+Tukey%E2%80%99s+%281962%29+work+done+for+the+Army+Research+Office+titled%2C+The+Future+of+Data+Analysis%2C+John+Tukey+foreshadowed+the+emergence+of+Data+Science..jpg)
 
@@ -23,7 +23,6 @@ C’est en 1989 qu’Howard Dresner (futur analyste de la société Gartner) rep
 
 A l’orée du XXIe siècle, la business intelligence est devenue rigoureuse et a conquis sa place dans le process de prise de décision. C'est son entrée dans l’ère du tout digital qui va la faire basculer dans une autre dimension. Depuis une vingtaine d'années et les débuts du Big Data, de nombreux acteurs de la technologie s'attachent à rajeunir la BI en la rebaptisant Data Discovery (Qliktech), Data Exploration (SAS), Analytics (Tableau, IBM, Oracle), Data Stories (Jolicharts), etc. Les terminologies et les acteurs sont nombreux. Ce qu'il faut retenir c'est qu'**on parle désormais de data pour désigner un ensemble très vaste de technologies qui permettent de traiter les données à très grande échelle**. 
 
-
 ## 3. La ressource
 Voyons maintenant les différentes tâches existantes pour faire fonctionner les bases de données, le sujet qui nous intéresse en ce moment. Plutôt que de métiers, on parlera de tâches car comme on le disait dans l'introduction, les frontières entre les différents métiers de la data sont assez floues. Même si, pour que tu comprennes, on te précisera qui, de manière générale, est en charge de réaliser la tâche.
 
@@ -32,14 +31,14 @@ Avant de stocker ses données dans une base, il faut concevoir cette base (voir 
 
 Il s'agit avant tout d'un travail de développeur informatique. C'est pourquoi nous n'avons pas étudié ces aspects-là lors de la journée d'hier. 
 
-> Le développeur base de données (ou Data Engineer) est un spécialiste informatique qui conçoit et déploie une ou plusieurs bases de données dont il est le garant de la cohérence et de l'accessibilité permanente des informations. Il gère les projets de développement liés au système d'information de l'entreprise qui requièrent le déploiement des bases de données. Le concepteur de bases de données doit être capable de comprendre les besoins des utilisateurs, en plus de maintenir l'accessibilité à la base de données, ainsi que sa sécurité. Il doit surveiller les performances de la base de données afin de vérifier si elle gère correctement les paramètres.
+> Etre développeur base de données (ou *Data Engineer*) c'est être un spécialiste informatique qui conçoit et déploie une ou plusieurs bases de données. Cette personne est  garante de la cohérence et de l'accessibilité permanente des informations. Elle gère les projets de développement liés au système d'information de l'entreprise qui requièrent le déploiement des bases de données. Elle doit surveiller les performances de la base de données afin de vérifier si elle gère correctement les paramètres.
 
-Depuis l'arrivée du Big Data, ces profils sont extrêmement recherchés car certains ont les compétences pour concevoir des bases de données NoSQL. Tu vas voir dans l'autre ressource ce que c'est mais je te spoile juste un peu : le NoSQL permet de passer à l'échelle et de gérer d'énormes bases de données.
+Depuis l'arrivée du Big Data, ces profils sont extrêmement recherchés car certains ont les compétences pour concevoir des bases de données NoSQL. Tu vas voir dans l'autre ressource ce que c'est.
 
 ### 3.2. Requêter et faire évoluer la base de données
 Une fois que la base de données est créée, un autre profil intervient : l'analyste.
 
-> Le métier de data analyst consiste à traiter les différentes données issues des clients, des produits ou des performances de l’entreprise afin de dégager des indicateurs utiles aux décideurs. 
+> Le métier de *Data Analyst* consiste à traiter les différentes données issues des clients, des produits ou des performances de l’entreprise afin de dégager des indicateurs utiles aux décideurs. 
 
 Tu vois, la définition est assez vague. C'est pourquoi tu devras savoir faire plein de choses, maîtriser plein d'outils et surtout, être très adaptable.
 
