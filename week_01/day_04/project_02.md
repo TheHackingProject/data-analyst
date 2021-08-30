@@ -38,7 +38,7 @@ Ca y est tu as maintenant une base de données disponible sur MongoDB. A toi de 
 - Lister les livres publiés depuis 2014.
 - Lister les publications de l'auteur "Toru Ishida".
 - Lister tous les éditeurs (type 'publisher') distincts.
-- Listes tous les auteurs distincts.
+- Lister tous les auteurs distincts.
 - Trier les publications de 'Toru Ishida' par titre de livre et par page de début.
 - Compter le nombre de ses publications.
 - Compter le nombre de publications depuis 2011 et par type.
