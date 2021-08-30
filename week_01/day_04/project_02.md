@@ -1,8 +1,8 @@
 # Jouer avec une base NoSQL
-Ca c'est vraiment la classe 🔮🔮.
+Ca c'est vraiment la classe 🔮🔮
 
 ## 1. Introduction
-Dans ce projet, tu vas utiliser MongoDB 🎉🎉. Développé en 2007, MongoDB est depuis devenu un des SGBD les plus utilisés. Selon le classement *DB-Engines Ranking*, MongoDB se classe en cinquième position des serveurs de données les plus populaires au niveau mondial. Première technologie NoSQL de ce palmarès, l'infrastructure open source de MongoDB se hisse juste derrière les principaux systèmes-phares de base relationnelle : Oracle Database, MySQL, SQL Server et PostgreSQL - avec lequel elle est au coude-à-coude.
+Dans ce projet, tu vas utiliser MongoDB 🎉🎉 Développé en 2007, MongoDB est depuis devenu un des SGBD les plus utilisés. Selon le classement *DB-Engines Ranking*, MongoDB se classe en cinquième position des serveurs de données les plus populaires au niveau mondial. Première technologie NoSQL de ce palmarès, l'infrastructure open source de MongoDB se hisse juste derrière les principaux systèmes phares de base relationnelle : Oracle Database, MySQL, SQL Server et PostgreSQL - avec lequel elle est au coude-à-coude.
 
 ![ranking](https://lh3.googleusercontent.com/hK6ISsEifSkk4fUl7V5lVvc87Bpce-q45uzX68S6fNwoW9__ysAflqBHFFZ5UcCP3K-uNlaqx9nL_0DsYFetgqcMhVAui7M0oDlkBRRgEs52EqtkTfATf1ZdetFYtKZbCYQVg8yO)
 
@@ -21,7 +21,7 @@ Avec MongoDB Atlas, tu vas pouvoir créer un cluster MongoDB auprès de tout fou
 
 
 ### 2.2. Télécharger MongoDB Compass
-- Télécharge l'outil graphique [MongoDB Compass](https://www.mongodb.com/try/download/compass), tu l'ouvres et tu connectes à ton cluster en collant l'url de connexion obtenu précédemment (en changeant 'password' par le mot-clé qui avait été saisi lors de la création de l'utilisateur.
+- Télécharge l'outil graphique [MongoDB Compass](https://www.mongodb.com/try/download/compass), tu l'ouvres et tu le connectes à ton cluster en collant l'url de connexion obtenu précédemment (en changeant 'password' par le mot-clé qui avait été saisi lors de la création de l'utilisateur.
 - Crée une base de données 'demo' et une collection 'publis'.
 - Télécharge les données disponibles [ici](http://b3d.bdpedia.fr/files/dblp/json.zip). Il s'agit d'un extrait de la base de données DBLP (*Digital Bibliography & Library Project*), un catalogue de bibliographies en informatique disponible en ligne.
 - Dézippe le fichier et importe le à ta base de données.
@@ -43,6 +43,8 @@ Ca y est tu as maintenant une base de données disponible sur MongoDB. A toi de 
 - Compter le nombre de ses publications.
 - Compter le nombre de publications depuis 2011 et par type.
 - Compter le nombre de publications par auteur et trier le résultat par ordre croissant.
+
+Aide [ici](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4474606-interrogez-vos-donnees-avec-mongodb).
 
 ## 3. Rendu attendu
 Un fichier texte qui donne l'ensemble des requêtes pour obtenir les réponses.
