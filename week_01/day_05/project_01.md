@@ -15,33 +15,46 @@ ___
 
 ## 2. Le projet
 
-Chaque moussaillon doit choisir 2 cas d'usage : un des cas d'usage devra porter sur l'approche traditionnelle de Business Intelligence et l'autre devra s'intéresser à l'approche Big Data. 
+🌞🌞 Le projet est un projet de groupe : il n'y aura qu'un rendu pour toute la promotion. 
+
+Chaque moussaillon doit choisir 2 cas d'usage : un des cas d'usage devra porter sur l'approche traditionnelle de *Business Intelligence* et l'autre devra s'intéresser à l'approche Big Data. 
 
 Exemples : 
 - pour l'approche traditionnelle de Business Intelligence, vous pourriez parler de la Poste qui a transformé la BI de sa branche services-courrier-colis. En savoir plus [ici](https://www.lemagit.fr/etude/La-Poste-transforme-la-BI-de-sa-branche-services-courrier-colis).
 - pour l'approche Big Data, les cas d'usage de manquent pas : maintenance prédictive, amélioration de l'expérience client, lutte contre la fraude, efficacité opérationnelle ... A toi d'être inventif et de trouver des cas originaux et intéresants !
 
-### 2.1. Trouver 2 cas d'usage uniques
+### 2.1. Trouver 2 cas d'usage uniques par personne
 
-Vérifiez avec l'ensemble de la promo, vers midi, que chacun d'entre vous part sur des cas d'usage distincts. On peut tolérer la même entreprise si le cas d'usage décrit est vraiment différent.
+Le plus simple pour trouver ces cas d'usage semble de fouiller le web avec les bons mots clés. Vous trouverez plusieurs types de sources : des médias spécialisés dans le digital, des entreprises qui vendent des logiciels et se doivent de montrer les cas d'usage de leurs clients pour faire leur promotion, des entreprises qui racontent les chantiers récémment mis en place ...
 
-### 2. Trouver 2 cas d'usage uniques
+Vérifiez avec l'ensemble de la promo, vers midi par exemple, que chacun d'entre vous part sur des cas d'usage distincts. On peut tolérer deux fois la même entreprise si le cas d'usage décrit est vraiment différent.
 
-Chaque cas d’usage doit préciser : 
-Le contexte 
+### 2.2. Collecter les informations demandées
+
+Pour chaque cas d’usage, tu dois préciser : 
+Le contexte du projet
 Le projet
 Les données utilisées
 Les outils utilisées
 La méthodologie de réalisation (souvent composée de plusieurs étapes)
-Les bénéfices business
+Les bénéfices business.
+
+Tu devras écrire 6 paragraphes par cas d'usage pour préciser chacun de ses éléments. 
 
 
+### 2.3. Mettre en forme les informations
+
+Chaque cas d'usage doit tenir sur une feuille A4. 
+
+Pour que cela soit agréable à lire, nous vous conseillons de tous suivre le même template graphique. Accordez-vous sur une manière de présenter les informations et chacun  n'aura plus qu'à remplir le template par chacun des paragraphes.
 
 
-A la fin, on récupérera l'ensemble des cas d'usage obtenus, on en fera un book et nous vous l'enverrons. 
+### 2.4. Rassembler tous les cas d'usage
 
+A la fin de la journée, vous devez réunir l'ensemble des cas d'usage dans le même fichier PDF. Votre objectif est d'obtenir un rendu harmonisé et professionnel qui pourrait être communiqué à des communautés data existantes. 
 
+Comme vous l'avez remarqué, le travail d'équipe est un aspect important de ce projet. Nous vous laissons vous débrouiller comme vous le voulez mais n'oubliez pas que la communication et la méthodologie sont indispensables à tout travail de groupe.
 
 
 ## 3. Rendu attendu
-L'ensemble de tes 5 scripts Python, rangés dans des fichiers py.
+A la fin, il faut nous rendre un fichier PDF contenant l'ensemble des cas d'usage proposés par les moussaillons. 
