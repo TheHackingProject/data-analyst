@@ -9,11 +9,19 @@ Cette partie peut être plus ou moins longue. Elle explique l'histoire ou le con
 ## 3. La ressource
 Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
 
-### 3.1. Première sous partie
-blabla
+### 3.1. Statistique Descriptive Multidimensionnelle
 
-### 3.2. Deuxième sous partie
-blabla
+#### 3.1.1. L'analyse des correspondances
+
+#### 3.1.2. La classification hiérarchique
+
+#### 3.1.2. L'analyse discriminante
+
+https://www.math.univ-toulouse.fr/~baccini/zpedago/asdm.pdf
+
+### 3.2. Estimation et tests statistiques
+
+Regarder sur OpenClassrooms ce qui doit être connu
 
 ## 4. Points importants à retenir
 La ressource en quelques points importants.
