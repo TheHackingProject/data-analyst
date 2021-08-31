@@ -3,8 +3,7 @@
 ## 1. Introduction
 Pour la fin de la semaine, on t'a préparé un projet d'un nouveau genre : plus stratégique que technique. En tant que Data Analyst, ça t'arrivera souvent d'avoir des missions de recherche où tu dois recueillir des informations sur une technologie, sur la concurrence ... Dans le milieu, on parle de veille technologique 🧐
 
-Tu viens d'assimiler beaucoup de notions dans les ressources sur l'ETL et le Big Data. Et pour que tu comprennes comment ça se passe dans dans la vie réelle, on va te demander de décrire 2 cas d'usage. 
-
+Tu viens d'assimiler beaucoup de notions dans les ressources sur l'ETL et le Big Data. Pour que tu comprennes comment ça se passe dans dans la vie réelle, on va te demander aujourd'hui de décrire 2 cas d'usage.
 ___
 
 🤖🤖 PAUSE DEFINITION : C'est quoi un cas d'usage ? 🤖🤖
@@ -31,7 +30,7 @@ Vérifiez avec l'ensemble de la promo, vers midi par exemple, que chacun d'entre
 
 ### 2.2. Collecter les informations demandées
 
-Pour chaque cas d’usage, tu dois préciser : 
+Pour chaque cas d’usage, tu devras préciser : 
 Le contexte du projet
 Le projet
 Les données utilisées
