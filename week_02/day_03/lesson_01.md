@@ -67,4 +67,4 @@ Utilisées dans quasiment tous les domaines (biomédical, industriel, bancaire, 
 
 ## 5. Pour aller plus loin
 - Ce [site](http://www.astro.ulg.ac.be/cours/magain/STAT/Stat_Main_Fr/Chapitre1.html) d'introduction aux statistiques, très axé sur la pratique.
-- La chaîne YouTube [StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) et sa partie sur les fondamentaux
+- La chaîne YouTube [StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) et sa partie sur les fondamentaux.
