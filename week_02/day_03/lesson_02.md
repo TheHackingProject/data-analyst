@@ -9,7 +9,7 @@ Cette partie peut être plus ou moins longue. Elle explique l'histoire ou le con
 ## 3. La ressource
 Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
 
-### 3.1. Statistique Descriptive Multidimensionnelle
+### 3.1. Statistique Descriptive Multivariée
 
 #### 3.1.1. L'analyse des correspondances
 
