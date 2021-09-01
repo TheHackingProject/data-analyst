@@ -23,8 +23,26 @@ https://www.math.univ-toulouse.fr/~baccini/zpedago/asdm.pdf
 
 Regarder sur OpenClassrooms ce qui doit être connu
 
+cours OC : https://openclassrooms.com/fr/courses/4525306-initiez-vous-a-la-statistique-inferentielle/4993371-familiarisez-vous-avec-deux-cas-pratiques
+
+
+### 3.3. Régression
+
+cf. chapitre 4 : https://certis.enpc.fr/~dalalyan/Download/Poly2.pdf
+
+cf. chapitre 7 du cours Udemy
+
+### 3.4. Tests d'adéquation
+
+A voir si utile
+
+cf. chapitre 5 : https://certis.enpc.fr/~dalalyan/Download/Poly2.pdf
+
+
 ## 4. Points importants à retenir
 La ressource en quelques points importants.
 
+https://edutechwiki.unige.ch/fr/Principes_de_base_d%27analyse_statistique
+
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+https://moncoachdata.com/blog/6-distributions-de-probabilite-data-science/
