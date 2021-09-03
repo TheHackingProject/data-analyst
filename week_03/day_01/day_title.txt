@@ -1,1 +1,1 @@
-Réaliser des dashboards interactifs
+Mettre en place des dashboards automatisés
