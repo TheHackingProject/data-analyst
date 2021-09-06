@@ -1,17 +1,24 @@
 # Concepts avancés en statistiques
 
 ## 1. Introduction
-Une introduction sur la ressource.
+L'analyste de données apporte avant tout une lecture statistique aux problèmes auxquels est confrontée l'entreprise. Pour cela, il va devoir parfois utiliser des concepts statistiques avancés. On peut lui demander par exemple : de réaliser une analyse multi-variée pour comprendre la corrélation entre des variables ou de réaliser un test statistique afin de vérifier une prédiction, ou encore de réaliser une modélisation statistique à l’aide de méthodes d’apprentissage supervisé et non supervisé. En sachant que les sujets statistiques sont trop variés pour être tous couverts ici, nous verrons dans cette ressource les  méthodes les plus courantes 💆‍♀️💆‍♂️
 
-## 2.Historique et contexte
-Cette partie peut être plus ou moins longue. Elle explique l'histoire ou le contexte sur la notion que l'on veut enseigner.
+## 2. Historique et contexte
+L'avènement de l'informatique dans les années 40 (aux États-Unis), puis en Europe (dans les années 60) permit de traiter un plus grand nombre de données, mais surtout de croiser entre elles des séries de données de types différents. C'est le développement de ce qu'on appelle l'analyse multidimensionnelle : on étudie les relations entre plus de 2 variables à la fois !
+
+Et c’est ici qu’il faudra réveiller votre âme d’explorateur ! En effet, vous partirez à la découverte d'espaces inexplorés, des espaces que le cerveau de l’homme ne peut même pas appréhender, car ce sont des espaces qui possèdent souvent plus de 3 dimensions… 🕵️‍♂️🕵️‍♂️
 
 ## 3. La ressource
-Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
 
 ### 3.1. Statistique Descriptive Multivariée
 
-#### 3.1.1. L'analyse des correspondances
+#### 3.1.1. L'analyse en Composantes Principales (ou ACP)
+
+L'ACP est une notion qui peut être difficile à comprendre théoriquement mais très utile dans la pratique. On t'a trouvé plusieurs ressources aux niveaux différents pour que tu puisses choisir le niveau de difficulté qui te convient le mieux : 
+- cet [article](https://datascientest.com/acp) résume l'intérêt de l'ACP
+- 
+
+##### 3.1.1
 
 #### 3.1.2. La classification hiérarchique
 
