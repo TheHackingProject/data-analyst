@@ -31,7 +31,7 @@ Voici quelques exemples de situations où l’ACP peut être intéressante:
 - analyser les réponses à un questionnaire sur la personnalité.
 ___
 
-##### 3.1.2. L'Analyse Factorielle des Correspondances (AFC) et l'Analyse des Correspondances Multiples (ACM) : pour les variables catégorielles
+#### 3.1.2. L'Analyse Factorielle des Correspondances (AFC) et l'Analyse des Correspondances Multiples (ACM) : pour les variables catégorielles
 
 Au chapitre précédent tu as vu que l’analyse en composantes principales (ACP) pouvait permettre de visualiser, de découvrir une structure ou réduire la dimension d’ensembles de plusieurs variables continues. Dans ce chapitre, tu verras comment il est aussi possible de le faire lorsque les variables sont catégorielles, par exemple des variables rapportées dans des tableaux de contingences ou des réponses à des questionnaires à choix multiples.
 
@@ -41,7 +41,7 @@ L’analyse des correspondances est une méthode d’origine française (vous tr
 
 Tu peux retrouver le même cours que précédemment [ici](https://www.math.univ-toulouse.fr/~baccini/zpedago/asdm.pdf) et suivre les chapitres 2 et 3. Enfin, tu peux confirmer ces connaissances avec une vidéo sur l'[AFC en 6 minutes](https://www.youtube.com/watch?v=tEc5cmlQVdI), ainsi qu'une vidéo sur l'[ACM en 6 minutes](https://www.youtube.com/watch?v=bihScz3OXbw).
 
-#### 3.1.2. Partitionner des données
+#### 3.1.3. Partitionner des données
 
 Pour bien comprendre le partitionnement des données ou *clustering*, vous pouvez réaliser le dernière chapitre du [cours OC](https://openclassrooms.com/fr/courses/4525281-realisez-une-analyse-exploratoire-de-donnees/5254143-recherchez-une-bonne-partition). Et lire [cet article](https://larevueia.fr/clustering-les-3-methodes-a-connaitre/) qui résume les 3 types de méthodes de clustering à connaître.
 
