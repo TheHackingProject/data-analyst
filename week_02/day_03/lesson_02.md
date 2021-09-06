@@ -43,30 +43,22 @@ Tu peux retrouver le même cours que précédemment [ici](https://www.math.univ-
 
 #### 3.1.2. Partitionner des données
 
-
-
-#### 3.1.3. L'analyse discriminante
-
+Pour bien comprendre le partitionnement des données ou *clustering*, vous pouvez réaliser le dernière chapitre du [cours OC](https://openclassrooms.com/fr/courses/4525281-realisez-une-analyse-exploratoire-de-donnees/5254143-recherchez-une-bonne-partition). Et lire [cet article](https://larevueia.fr/clustering-les-3-methodes-a-connaitre/) qui résume les 3 types de méthodes de clustering à connaître.
 
 
 ### 3.2. Estimation et tests statistiques
 
-Regarder sur OpenClassrooms ce qui doit être connu
+Tu devrais l'avoir deviné : on n'est plus dans la statistique descriptive mais on est revenus à la statistique inférentielle.
+La statistique inférentielle est un monde à elle toute seule. Si tu n'as jamais eu de cours de probabilités, tu dois comprendre les notions importantes d'estimateur, proportion, intervalle de confiance etc. Réalise le cours [Initiez-vous à la statistique inférentielle](https://openclassrooms.com/fr/courses/4525306-initiez-vous-a-la-statistique-inferentielle/4993371-familiarisez-vous-avec-deux-cas-pratiques) pour te mettre à niveau sur toutes ces notions.
 
-cours OC : https://openclassrooms.com/fr/courses/4525306-initiez-vous-a-la-statistique-inferentielle/4993371-familiarisez-vous-avec-deux-cas-pratiques
 
+### 3.3. Modélisation de données et régression
 
-### 3.3. Régression
+Idem, les concepts de régression et ANOVA sont complexes. Ils permettent surtout de prédire le futur. Si tu as encore de l'énergie aujourd'hui, tu peux suivre le cours [Réalisez des modélisations de données performantes](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes). Si tu as déjà engrangé trop d'infos, garde le pour un autre jour car ce sont des notions importantes.
 
-cf. chapitre 4 : https://certis.enpc.fr/~dalalyan/Download/Poly2.pdf
-
-cf. chapitre 7 du cours Udemy
-
-### 3.4. Tests d'adéquation
-
-A voir si utile
-
-cf. chapitre 5 : https://certis.enpc.fr/~dalalyan/Download/Poly2.pdf
+Je te mets quand même ici deux cas pratiques de régression linéaires pour voir rapidement de quoi il s'agit : 
+- [un article](https://mrmint.fr/regression-lineaire-python-pratique) sur la régression linéaire avec Python
+- [une vidéo](https://www.linkedin.com/learning/python-l-analyse-de-donnees/mettre-en-application-la-regression-lineaire) qui présente aussi un cas de régression linéaire.
 
 
 ## 4. Points importants à retenir
@@ -76,4 +68,5 @@ https://edutechwiki.unige.ch/fr/Principes_de_base_d%27analyse_statistique
 
 ## 5. Pour aller plus loin
 https://moncoachdata.com/blog/6-distributions-de-probabilite-data-science/
+https://certis.enpc.fr/~dalalyan/Download/Poly2.pdf
 La journée de data science prévue lors de la quatrième semaine vous permettra également de revoir les méthodes d'apprentissage automatique.
