@@ -56,17 +56,20 @@ La statistique inférentielle est un monde à elle toute seule. Si tu n'as jamai
 
 Idem, les concepts de régression et ANOVA sont complexes. Ils permettent surtout de prédire le futur. Si tu as encore de l'énergie aujourd'hui, tu peux suivre le cours [Réalisez des modélisations de données performantes](https://openclassrooms.com/fr/courses/4525326-realisez-des-modelisations-de-donnees-performantes). Si tu as déjà engrangé trop d'infos, garde le pour un autre jour car ce sont des notions importantes.
 
-Je te mets quand même ici deux cas pratiques de régression linéaires pour voir rapidement de quoi il s'agit : 
+Je te mets quand même ici deux cas pratiques de régression linéaires pour que tu voies rapidement de quoi il s'agit : 
 - [un article](https://mrmint.fr/regression-lineaire-python-pratique) sur la régression linéaire avec Python
 - [une vidéo](https://www.linkedin.com/learning/python-l-analyse-de-donnees/mettre-en-application-la-regression-lineaire) qui présente aussi un cas de régression linéaire.
 
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+La ressource d'aujourd'hui abordait beaucoup de points techniques. Si tu n'es pas fan de maths et de théorie, ce n'était probablement pas la journée la plus fun 🤕🤕 Mais ne t'inquiète pas, dans la pratique, tu pourras reprendre du temps sur chaque notion : tu n'auras pas à maîtriser toutes ces techniques en une fois. Prend ton temps pour digérer tout cela et n'hésite pas à te challenger régulièrement sur l'un de ces points pour que les outils statistiques deviennent tes meilleurs amis 🥰
 
-https://edutechwiki.unige.ch/fr/Principes_de_base_d%27analyse_statistique
+Allez comme on est sympas, on te donne un résumé des [Principes de base de l'analyse statistique](https://edutechwiki.unige.ch/fr/Principes_de_base_d%27analyse_statistique).
 
 ## 5. Pour aller plus loin
-https://moncoachdata.com/blog/6-distributions-de-probabilite-data-science/
-https://certis.enpc.fr/~dalalyan/Download/Poly2.pdf
-La journée de data science prévue lors de la quatrième semaine vous permettra également de revoir les méthodes d'apprentissage automatique.
+- La journée de data science prévue lors de la quatrième semaine te permettra d'approfondir les méthodes d'apprentissage automatique, et certains autres concepts vus aujourd'hui. 
+- Dans [ce cours](https://certis.enpc.fr/~dalalyan/Download/Poly2.pdf), tu peux revoir tous les concepts importants à connaître en statistiques. 
+- Les ressources données aussi dans la précédente ressource.
+
+
+
