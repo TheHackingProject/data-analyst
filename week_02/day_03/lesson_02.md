@@ -10,21 +10,44 @@ Et c’est ici qu’il faudra réveiller votre âme d’explorateur ! En effet, 
 
 ## 3. La ressource
 
-### 3.1. Statistique Descriptive Multivariée
+### 3.1. Manipuler des données dans un espace multidimensionnel
 
-#### 3.1.1. L'analyse en Composantes Principales (ou ACP)
+#### 3.1.1. L'Analyse en Composantes Principales (ou ACP) : pour les variables quantitatives continues
 
 L'ACP est une notion qui peut être difficile à comprendre théoriquement mais très utile dans la pratique. On t'a trouvé plusieurs ressources aux niveaux différents pour que tu puisses choisir le niveau de difficulté qui te convient le mieux : 
 - cet [article](https://datascientest.com/acp) résume l'intérêt de l'ACP
-- 
+- ce [cours chapitre 1](https://www.math.univ-toulouse.fr/~baccini/zpedago/asdm.pdf) explique bien l'ACP sans rentrer dans trop de détails mathématiques
+- le [cours d'OC](https://openclassrooms.com/fr/courses/4525281-realisez-une-analyse-exploratoire-de-donnees/5280368-comprenez-lenjeu-de-lanalyse-en-composantes-principales) si tu veux avoir les détails mathématiques.
 
-##### 3.1.1
+___
 
-#### 3.1.2. La classification hiérarchique
+👽👽 A quoi ça sert concrètement ? 👽👽
 
-#### 3.1.2. L'analyse discriminante
+Voici quelques exemples de situations où l’ACP peut être intéressante:
+- comparer des équipes de hockey sur la base de 6 statistiques de fin de saison;
+- comparer la criminalité entre états sur la base des taux de 7 types de crimes différents;
+- compresser des images formées de 1084×1084 pixels;
+- identifier le nombre de variantes d’un type de tumeur à partir du degré d’expression de millions de gènes;
+- analyser les réponses à un questionnaire sur la personnalité.
+___
 
-https://www.math.univ-toulouse.fr/~baccini/zpedago/asdm.pdf
+##### 3.1.2. L'Analyse Factorielle des Correspondances (AFC) et l'Analyse des Correspondances Multiples (ACM) : pour les variables catégorielles
+
+Au chapitre précédent tu as vu que l’analyse en composantes principales (ACP) pouvait permettre de visualiser, de découvrir une structure ou réduire la dimension d’ensembles de plusieurs variables continues. Dans ce chapitre, tu verras comment il est aussi possible de le faire lorsque les variables sont catégorielles, par exemple des variables rapportées dans des tableaux de contingences ou des réponses à des questionnaires à choix multiples.
+
+L’analyse des correspondances est une méthode d’origine française (vous trouverez beaucoup de documentation en français!). Elle permet de représenter graphiquement des **tableaux de fréquences**. On verra deux familles de méthodes:
+- analyse des correspondances binaires: pour des tableaux de fréquences croisant deux variables;
+- analyse des correspondances multiples: pour des tableaux faisant intervenir trois variables ou plus.
+
+Tu peux retrouver le même cours que précédemment [ici](https://www.math.univ-toulouse.fr/~baccini/zpedago/asdm.pdf) et suivre les chapitres 2 et 3. Enfin, tu peux confirmer ces connaissances avec une vidéo sur l'[AFC en 6 minutes](https://www.youtube.com/watch?v=tEc5cmlQVdI), ainsi qu'une vidéo sur l'[ACM en 6 minutes](https://www.youtube.com/watch?v=bihScz3OXbw).
+
+#### 3.1.2. Partitionner des données
+
+
+
+#### 3.1.3. L'analyse discriminante
+
+
 
 ### 3.2. Estimation et tests statistiques
 
@@ -53,3 +76,4 @@ https://edutechwiki.unige.ch/fr/Principes_de_base_d%27analyse_statistique
 
 ## 5. Pour aller plus loin
 https://moncoachdata.com/blog/6-distributions-de-probabilite-data-science/
+La journée de data science prévue lors de la quatrième semaine vous permettra également de revoir les méthodes d'apprentissage automatique.
