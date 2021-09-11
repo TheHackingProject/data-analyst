@@ -7,6 +7,7 @@ La gestion de projet est un sujet très vaste. Car elle concerne tous les types 
 A l’origine de la notion de projet, on retrouve Filippo Brunelleschi (1377-1446), l’architecte du dôme de la cathédrale de Florence. L’histoire le présente comme le premier à **séparer conception et exécution**, mettant ainsi en place un mode de management, qui reste encore appliqué aujourd’hui. Pendant des années et à travers le monde, les projets principaux étaient alors architecturaux : uniques et complexes, tous plus grandioses les uns que les autres.
 
 À fin du 19ème siècle, aux États-Unis, des projets gouvernementaux à grande échelle tels que la ligne de chemin de fer transcontinentale fournirent l’impulsion pour ébaucher des méthodologies de management de projet. Soudain, les dirigeants d’entreprise se sont trouvés face à la tâche intimidante d’**organiser le travail manuel de milliers d’ouvriers** et l’assemblage de quantités de matières premières.
+![lkl](https://dantotsupm.files.wordpress.com/2011/08/teamwork.jpg)
 
 Frederick Taylor, ingénieur américain né en 1856, a inventé l'Organisation Scientifique du Travail (OST) dont la préoccupation était la rationalisation de la production dans les ateliers. L’associé de Taylor, Henry Gantt, a étudié en détail l’ordonnancement des opérations dans le travail et est célèbre pour avoir développé **le Diagramme de Gantt** dans les années 1910 : cet outil, toujours utilisé aujourd'hui, facilite la planification en représentant les tâches d'un projet par des barres horizontales sur un graphique. 
 
