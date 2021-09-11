@@ -10,7 +10,7 @@ A l’origine de la notion de projet, on retrouve Filippo Brunelleschi (1377-144
 
 Frederick Taylor, ingénieur américain né en 1856, a inventé l'Organisation Scientifique du Travail (OST) dont la préoccupation était la rationalisation de la production dans les ateliers. L’associé de Taylor, Henry Gantt, a étudié en détail l’ordonnancement des opérations dans le travail et est célèbre pour avoir développé le Diagramme de Gantt dans les années 1910 : cet outil, toujours utilisé aujourd'hui, facilite la planification en représentant les tâches d'un projet par des barres horizontales sur un graphique. 
 
-!(lkl)[https://fr.projectpro.eu/files/2011/10/gantt.png]
+![lkl](https://fr.projectpro.eu/files/2011/10/gantt.png)
 
 
 ## 3. La ressource
