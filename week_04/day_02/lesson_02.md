@@ -1,4 +1,4 @@
-# Etre chef de projet dans la Data
+# Etre Chef de projet dans la Data
 
 ## 1. Introduction
 Une introduction sur la ressource.
