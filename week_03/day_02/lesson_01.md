@@ -19,28 +19,26 @@ En tant que Data Analyst, tu dois comprendre les enjeux principaux des différen
 
 #### 3.1.1. Le CRM, c'est quoi ?
 
-La force d’une solution CRM, c’est sa capacité d’adaptation à vos processus et d’intégration au cœur de votre système d’information. Le CRM fluidifie la diffusion et l’échange d’informations, favorise la collaboration entre l’ensemble de vos services et développe des synergies. 
-
-Le CRM (*Customer Relationship Management*) ou GRC en français (*Gestion de la relation client*) c’est l’art de créer, développer et entretenir une relation privilégiée avec chacun de vos contacts.
+Le CRM (*Customer Relationship Management*) ou GRC en français (*Gestion de la relation client*) c’est l’art de créer, développer et entretenir une relation privilégiée avec chacun des contacts de l'entreprise.
 Par abus de langage, on parle souvent de "CRM" pour désigner la solution CRM choisie par l'entreprise, cad le système utilisé pour la gestion de la relation avec les clients et les prospects (prospect = client potentiel dans le sens où ses besoins correspondent aux services proposés par l'entreprise). Soit le logiciel utilisé par les équipes commerciales pour centraliser, stocker, organiser et consulter les informations clients.
 
 La force d’une solution CRM, c’est sa capacité d’intégration au système d’information. **Le CRM fluidifie la diffusion et l’échange d’informations**, favorise la collaboration entre l’ensemble de vos services et développe des synergies. Si t'as bien suivi, on est en plein dans la data 🤤🤤
 
 #### 3.1.2. "Un CRM sans BI, c'est comme un marteau sans tête"
 
-Qu'est-ce que cette phrase doit bien pouvoir dire ?? En fait, le CRM est un outil opérationnel mais dont l’intérêt réside avant tout dans les tableaux de bord associés. Ces tableaux de bord fournissent une visibilité sur la Data et une puissance d’analyse qui forment le réel ROI du CRM pour les différents acteurs de l’entreprise.
+Qu'est-ce que cette phrase doit bien pouvoir dire ?? En fait, le CRM est un outil opérationnel mais dont l’intérêt réside avant tout dans les tableaux de bord associés. Ces tableaux de bord fournissent une puissance d’analyse qui forment le réel ROI du CRM pour les différents acteurs de l’entreprise.
 
-C’est par exemple à partir des données stockées dans son CRM, qu’un manager ou commercial va pouvoir identifier les clients à recontacter, les cycles de vente courts/longs, les leviers d’amélioration ou de formation de ses commerciaux, et les potentiels de développement. Les plans d’actions et ciblages seront ainsi plus efficaces car établis non sur la base de son intuition mais en s’appuyant sur des KPI bien précis 👌
+C’est par exemple à partir des données stockées dans son CRM, qu’un manager ou commercial va pouvoir identifier les clients à recontacter, les cycles de vente courts/longs, les leviers d’amélioration ou de formation de ses commerciaux, et les potentiels de développement. Les plans d’actions et ciblages seront ainsi plus efficaces car établis non sur la base de l'intuition mais en s’appuyant sur des KPI bien précis 👌
 
 Seulement voilà ! Faire parler les données brutes n’est pas un exercice simple. Le succès d’un projet CRM se mesure notamment à son adoption, c’est-à-dire à la capacité pour les directions marketing et commerciales à rendre son usage incontournable, sans oublier le point le plus important : faciliter son alimentation en données. Dans les entreprises, on va voir différents niveaux d'adoption du CRM : 
-- niveau 1 : **utiliser l'outil CRM sans aucun reporting associé**. Les commerciaux ont l’impression de perdre leur temps car ils saisissent des informations dans le CRM dont ils ne tirent aucun bénéfice. Or une application CRM devient rapidement obsolète si la donnée n’est pas entretenue et enrichie pour contribuer à l’action efficace de chaque utilisateur.
+- niveau 1 : **utiliser l'outil CRM sans aucun reporting associé**. Les commerciaux ont l’impression de perdre leur temps car ils saisissent des informations dans le CRM dont ils ne tirent aucun bénéfice. En plus, une application CRM devient rapidement obsolète si la donnée n’est pas entretenue et enrichie pour contribuer à l’action efficace de chaque utilisateur.
 - niveau 2 : **avoir un reporting interne dans son CRM**. A ce niveau, disposer d’un reporting interne apporte des avantages mais cela peut aussi aboutir à différentes limites observées par les métiers de la Relation Client en recherche de plus grande efficacité ou pertinence dans leur analyse des données de vente (limites ergonomiques des outils, limites dans la gestion d'historique, limites dans la construction de certains KPIs etc.).
 - niveau 3 : **relier votre CRM à l'outil de BI externe**. L’ajout d’un outil de reporting externe au CRM apporte des améliorations ergonomiques et augmente les possibilités en terme de reporting mais il reste cependant des limites (évolution de la modélisation compliquée, fédaration des données difficile).
 - niveau 4 : **ajout d'un datawarehouse à son CRM**. Une telle centralisation des données de l’entreprise, structurées et qualitatives ouvre également la voie à de l’analyse prédictive (machine learning, intelligence artificielle) et permet ainsi de passer à un niveau supérieur dans l’exploitation et la valorisation des données.
 
 ___
 
-😰😰 On devrait tous être au niveau 4 ? 😰😰
+😰😰 Toute entreprise devrait être au niveau 4 ? 😰😰
 
 Il est clair que le niveau à atteindre va dépendre de la maturité de l'entreprise. Mais dans tous les cas, les aspects suivants sont à prendre en compte dans un projet CRM : 
 - Si la complexité d’utilisation est parfois citée comme un frein à son utilisation, **l’efficacité d’un CRM dépend** avant toute chose d’un facteur essentiel : la qualité **de la data qui l’alimente**. ⚠️ *Aujourd’hui, seulement 23 % des entreprises considèrent que la data des CRM est de bonne ou de très bonne qualité.*
