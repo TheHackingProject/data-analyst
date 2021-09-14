@@ -1,7 +1,7 @@
 # La data au service du Business
 
 ## 1. Introduction
-Si la data c'est si utile qu'on le dit, c'est forcément que ça doit aider le Business. Tu vas découvrir aujourd'hui comment la data peut améliorer le business. Autrement dit, ce que tu devras fournir aux équipes Business pour essayer de les rendre plus performantes 👫👫
+Tu vas découvrir aujourd'hui comment la data peut améliorer le business. Autrement dit, ce que tu devras fournir aux équipes Business pour essayer de les rendre plus performantes 👫👫
 
 ## 2. Historique et contexte
 Lors de la première semaine (journée de jeudi), on a parlé de *Business Intelligence* ... C'est forcément lié au sujet d'aujourd'hui tu dois te dire ! Tout à fait, on va même reprendre ici l'historique de la BI pour que tu aies les idées au clair 😇
