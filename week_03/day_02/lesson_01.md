@@ -94,7 +94,7 @@ En résumé :
 - Il ne faut pas dénigrer l’approche traditionnelle. Les deux sont complémentaires et n’ont pas la même fonction. L’approche traditionnelle permet de prendre de la hauteur et de faire évoluer la stratégie globale de l’entreprise grâce à une meilleure compréhension de son activité. Malgré tout, l’un des intérêts de l’approche opérationnelle, c’est qu’elle permet de mettre l’accent sur cette idée clé : la donnée client n’a d’intérêt que si elle est actionnée ! Collecter de la donnée pour collecter ne sert à rien. Créer des tableaux de bord n’a pas d’intérêt s’ils ne sont pas exploités pour prendre des décisions. Lorsque l’on se plonge dans cette nouvelle approche « opérationnelle » de l’analytics, on se reconnecte avec cette réalité très concrète !
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+Toutes les équipes de l'entreprise liées au Business ont un besoin très fort d'obtenir et de traiter les données clients. Cela est vrai avant, pendant et après la relation client. Face à cela, le Data Analyst doit bien comprendre les problématiques et les outils de ces équipes pour pouvoir leur venir en aide et les conseiller à tout moment 🤠🤠 
 
 ## 5. Pour aller plus loin
 - Pour creuser le sujet de Data et Sales, voici [un super article d'Hubspot](https://blog.hubspot.com/sales/data-in-sales) et [un super article de McKinsey](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/unlocking-the-power-of-data-in-sales), les deux en anglais 🚆
