@@ -4,7 +4,24 @@
 Dans la plupart des entreprises, on retrouve, en plus des équipes Business (dont le rôle est de maximiser le chiffre d'affaires de l'entreprise), des équipes Produit : leur rôle est de créer la meilleure expérience utilisateur possible. De la même manière que les équipes Business, les équipes Produit vont s'aider fortement de la data : nous allons voir ici comment.
 
 ## 2. Historique et contexte
-Cette partie peut être plus ou moins longue. Elle explique l'histoire ou le contexte sur la notion que l'on veut enseigner.
+
+Les origines du Product Management remontent à 1930 chez Procter et Gamble (P&G). Un des produits de P&G se vendait mal et un manager décida alors de dédier une personne à celui-ci, pour maximiser les ventes du produit. Cette personne fut appelée le «brand man». Le rôle du «brand man» a grandement participé à la définition des missions du product manager. 
+
+Puis dans les années 60, on Le marketing mix se fondait essentiellement selon Jerome McCarthy (1960), largement vulgarisé par Philip Kotler sur la règle dite des 4P, ces quatre politiques définissent le produit au sens large et ses implications commerciales au plan :
+
+    Product : la politique de produit (choix de la gamme de produits : profondeur de gamme, largeur de gamme, etc.). Le mot produit est employé au sens générique et comprend les prestations liées aux produits (emballage, aide à l'utilisation, maintenance...) mais aussi tout le secteur des services en général qui, dans la société post-industrielle, représentent une part de plus en plus grande des offres marketing.
+    Price : la politique de prix (ex. : écrémage, pénétration, prix d'acceptabilité, rentabilité, etc.)
+    Place : la politique de distribution (choix du réseau et des canaux de distribution, force de vente, etc.). La distribution inclut également le commerce électronique.
+    Promotion : la politique de communication (choix du type publicité, promotion, marketing direct, relations publiques, etc.).
+    
+    
+, le product management est souvent partagé entre la direction technique, la direction marketing, la direction commerciale, la direction client etc. Chaque partie prenante utilise son influence pour faire évoluer le produit dans son sens, l’orientation du produit manque alors d’objectivité et d’équilibre et les clients sont souvent oubliés. C’est régulièrement la course à la nouvelle fonctionnalité, il est difficile de savoir ce qui est en cours et ce qui arrivera dans les prochaines semaines (effet «tunnel») et les priorités changent constamment. Il n’y a pas de réelle stratégie produit et généralement l’expérience utilisateur est mauvaise puisque le produit est l’accumulation de toutes les demandes mises bout à bout.
+
+Depuis une vingtaine d'années, les organisations les plus innovantes cherchent à offrir une expérience numérique différenciante. Cette exigence pousse à placer davantage le “Produit numérique” au coeur des organisations, et à rendre celles-ci plus agiles, dans l’idée d’améliorer les Produits de manière plus fréquente et plus à l’écoute des utilisateurs. L'idée finalement est de créer une réelle stratégie Produit.
+
+
+
+ 
 
 ## 3. La ressource
 Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
