@@ -83,4 +83,4 @@ La ressource en quelques points importants.
 
 ## 5. Pour aller plus loin
 - Pour creuser le sujet de Data et Sales, voici [un super article d'Hubspot](https://blog.hubspot.com/sales/data-in-sales) et [un super article de McKinsey](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/unlocking-the-power-of-data-in-sales), les deux en anglais 🚆
-- 
+- Pour creuser le sujet du Big Data Marketing, tu peux lire cet [article de Talend)(https://www.talend.com/fr/resources/big-data-marketing/)
