@@ -30,7 +30,7 @@ La force d’une solution CRM, c’est sa capacité d’intégration au système
 
 #### 3.1.2. "Un CRM sans BI, c'est comme un marteau sans tête"
 
-Qu'est-ce que cette phrase veut bien pouvoir dire ?? En fait, le CRM est un outil opérationnel mais dont l’intérêt réside avant tout dans les tableaux de bord associés. Ces tableaux de bord fournissent une visibilité sur la Data et une puissance d’analyse qui forment le réel ROI du CRM pour les différents acteurs de l’entreprise.
+Qu'est-ce que cette phrase doit bien pouvoir dire ?? En fait, le CRM est un outil opérationnel mais dont l’intérêt réside avant tout dans les tableaux de bord associés. Ces tableaux de bord fournissent une visibilité sur la Data et une puissance d’analyse qui forment le réel ROI du CRM pour les différents acteurs de l’entreprise.
 
 C’est par exemple à partir des données stockées dans son CRM, qu’un manager ou commercial va pouvoir identifier les clients à recontacter, les cycles de vente courts/longs, les leviers d’amélioration ou de formation de ses commerciaux, et les potentiels de développement. Les plans d’actions et ciblages seront ainsi plus efficaces car établis non sur la base de son intuition mais en s’appuyant sur des KPI bien précis 👌
 
