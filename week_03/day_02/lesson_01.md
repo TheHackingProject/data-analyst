@@ -40,10 +40,16 @@ Seulement voilà ! Faire parler les données brutes n’est pas un exercice simp
 - niveau 3 : **relier votre CRM à l'outil de BI externe**. L’ajout d’un outil de reporting externe au CRM apporte des améliorations ergonomiques et augmente les possibilités en terme de reporting mais il reste cependant des limites (évolution de la modélisation compliquée, fédaration des données difficile).
 - niveau 4 : **ajout d'un datawarehouse à son CRM**. Une telle centralisation des données de l’entreprise, structurées et qualitatives ouvre également la voie à de l’analyse prédictive (machine learning, intelligence artificielle) et permet ainsi de passer à un niveau supérieur dans l’exploitation et la valorisation des données.
 
+___
+
+😰😰 On devrait tous être au niveau 4 ? 😰😰
+
 Il est clair que le niveau à atteindre va dépendre de la maturité de l'entreprise. Mais dans tous les cas, les aspects suivants sont à prendre en compte dans un projet CRM : 
 - Si la complexité d’utilisation est parfois citée comme un frein à son utilisation, **l’efficacité d’un CRM dépend** avant toute chose d’un facteur essentiel : la qualité **de la data qui l’alimente**. ⚠️ *Aujourd’hui, seulement 23 % des entreprises considèrent que la data des CRM est de bonne ou de très bonne qualité.*
 - **Maintenir de la donnée a un coût**. Il faut choisir avec soin les informations stockées dans le CRM : ni trop, ni peu, afin qu’elles soient utiles aux utilisateurs et exploitables dans un reporting pertinent.
 - Finalement, **la data doit être au cœur de toutes les stratégies commerciales et marketings**. Car c’est bien l’analyse des données, et de la performance qui en découle, qui doit définir les actions en la matière. Sans data, il est impossible de définir puis de piloter vos stratégies tactiques et opérationnelles 🚫🚫
+
+___
 
 
 ### 3.2. Data et Marketing : marketing analytics
