@@ -71,7 +71,7 @@ Les outils de marketing digital à connaître et sur lesquels on pourra te deman
 - des outils d'emailing et de marketing automation : SendinBlue, MailChimp, Hubspot etc.
 - des outils pour les réseaux sociaux : les plateformes (Facebook, Instagram, LinkedIn, TikTok etc.) et des outils pour les gérer (Hootsuite, Creator Studio ou Buffer) ...
 
-Ca en fait des outils mais ne t'inquiète pas, tu n'as pas besoin de tous les connaître. Tu verras aussi que c'est souvent les mêmes qui reviennent et au pire, ils se ressemblent quand même beaucoup 🙄🙄
+Ca en fait des outils mais ne t'inquiète pas, tu n'as pas besoin de tous les connaître. Tu verras aussi que c'est souvent les mêmes qui reviennent et au pire, ils se ressemblent quand même beaucoup quand il s'agit d'analyser leurs données 🙄🙄
 
 
 ### 3.2. Data et Opérations : support client
