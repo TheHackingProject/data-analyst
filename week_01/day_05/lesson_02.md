@@ -110,7 +110,7 @@ Au-delà des buzz words, l'analyse de données prend différentes formes et peut
 - l’analytique Big Data qui nécessite l’intervention de spécialistes et la mise en œuvre d’une architecture informatique et d’outils complexes. 
 
 Et pour résumer la ressource sur le Big Data, tu peux retenir que : 
-- les 5Vs du Big Data ont poussé les limites des systèmes traditionnels
+- les 6Vs du Big Data ont poussé les limites des systèmes traditionnels
 - cela a rendu nécessaire d’opérer les traitements de données sur plusieurs noeuds en parallèle
 - de nouvelles techniques et technologies ont vu le jour : systèmes de fichiers distribués, algorithmes distribués, systèmes de base de données distribués
 - or les systèmes distribués sont complexes et doivent faire des compromis. C'est pourquoi il est important de bien les connaître.
