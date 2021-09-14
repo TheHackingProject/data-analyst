@@ -31,10 +31,11 @@ ___
 
 💡💡 AIDE MNÉMOTECHNIQUE 💡💡
 
-Pour synthétiser, le Big Data c'est une famille d'outils qui répondent, non plus à 3, mais à 5Vs à la fois : 
+Pour synthétiser, le Big Data c'est une famille d'outils qui répondent, non plus à 3, mais à 6Vs à la fois : 
 - **Volume** -> des ensembles de données très volumineux 
 - **Vitesse** ou **Vélocité** -> la vitesse à laquelle les données sont générées et à laquelle elles se déplacent
 - **Variété** -> en fait, 80% des données dans le monde ne sont plus structurées et ne peuvent donc pas être facilement mises dans des tables ou des bases de données relationnelles - pense à des photos, des séquences vidéos ou des mises à jour de réseaux sociaux ⌚️📱
+- **Variabilité** -> les données changent constamment, ce qui est vrai pour une donnée hier ne le sera plus forcément demain.
 - **Véracité** -> les données sont devenues incertaines : il faut gérer la fiabilité de données intrinsèquement imprécises.
 - **Valeur** -> finalement, tous ces volumes de données variées en mouvement rapide et de véracité différente doivent être transformés en valeur ! C'est là l'enjeu majeur du Big Data ⚖️⚖️
 
