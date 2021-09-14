@@ -15,15 +15,9 @@ Puis dans les années 60, Jerome McCarthy, professeur de marketing américain, �
     
 Pendant longtemps donc, le P du product n'a été qu'une des 4 dimensions du marketing mix. Le product management est alors souvent partagé entre la direction technique, la direction marketing, la direction commerciale, la direction client etc. Chaque partie prenante utilise son influence pour faire évoluer le produit dans son sens : l’orientation du produit manque alors d’objectivité et d’équilibre et les clients sont souvent oubliés. C’est régulièrement la course à la nouvelle fonctionnalité, il est difficile de savoir ce qui est en cours et ce qui arrivera dans les prochaines semaines (effet «tunnel») et les priorités changent constamment. Il n’y a pas de réelle stratégie produit et généralement l’expérience utilisateur est mauvaise puisque le produit est l’accumulation de toutes les demandes mises bout à bout.
 
-Or, pour aller contre cette tendance, depuis une vingtaine d'années, les organisations les plus innovantes cherchent à offrir une expérience numérique différenciante et très proche des besoins du client. Cette exigence pousse à placer davantage le “Produit numérique” au coeur des organisations, et à rendre celles-ci plus agiles, dans l’idée d’améliorer les Produits de manière plus fréquente et plus à l’écoute des utilisateurs.
+Or, pour aller contre cette tendance, depuis une vingtaine d'années, **les organisations les plus innovantes cherchent à offrir une expérience numérique différenciante et très proche des besoins du client**. Cette exigence pousse à placer davantage le “Produit numérique” au coeur des organisations, et à rendre celles-ci plus agiles, dans l’idée d’améliorer les Produits de manière plus fréquente et plus à l’écoute des utilisateurs.
 
-Dans plusieurs entreprises, on retrouve désormais une direction produit au même titre que les autres directions. On 
-
-La fonction est très répandue aux US et en Angleterre que ce soit chez les annonceurs ou chez les éditeurs de solution et elle se développe de plus en plus dans le reste de l’Europe. 
-
-
-
- 
+Dans plusieurs entreprises, on retrouve désormais une direction produit au même titre que les autres directions. Cette direction produit est incarnée par le Product Manager. Il fait le lien entre les besoins des utilisateurs et la force opérationnelle de l’équipe technique. La fonction est très répandue aux US et en Angleterre et elle se développe de plus en plus dans le reste de l’Europe. 
 
 ## 3. La ressource
 Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
