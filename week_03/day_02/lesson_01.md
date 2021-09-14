@@ -8,7 +8,7 @@ Lors de la première semaine (journée de jeudi), on a parlé de *Business Intel
 
 **Le terme de *Business Intelligence* apparaît en 1958** lorsqu’un informaticien allemand, Hans Peter Luhn, s’est servi de solutions informatiques dans le but d’exploiter les différentes données d’une entreprise, son but étant alors d’accélérer la prise de décision. Mais au début, la BI représentait un risque important de fuite de l'information car les systèmes envoyaient les informations sur des serveurs de production.
 
-Une révolution s’opère en 1989 lorsqu’Howard Dresner (futur analyste de la société Gartner) porte au goût du jour cette notion de *Business Intelligence*. Ainsi, **des Datawarehouses sont mis en place** afin de récupérer les informations provenant des différents services d’une entreprise et permettant ainsi la collecte d’informations. Le but est de stocker des données afin d’améliorer les capacités d’analyse de chaque acteur de l’entreprise.
+Une révolution s’opère en 1989 lorsqu’Howard Dresner (futur analyste de la société Gartner) remet au goût du jour cette notion de *Business Intelligence*. Ainsi, **des Datawarehouses sont mis en place** afin de récupérer les informations provenant des différents services d’une entreprise et permettant ainsi la collecte d’informations. Le but est de stocker des données afin d’améliorer les capacités d’analyse de chaque acteur de l’entreprise.
 
 En fait, l’informatique décisionnelle représente le poste de pilotage de l’entreprise. Ou, plus précisément, le tableau de bord qui fait face au pilote et qui lui permet de garder le bon cap, même par temps d’orage ou en cas de faible visibilité.
 
