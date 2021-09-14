@@ -4,7 +4,7 @@
 Si la data c'est si utile qu'on le dit, c'est forcément que ça doit aider le Business. Tu vas découvrir aujourd'hui comment la data peut améliorer le business. Autrement dit, ce que tu devras fournir aux équipes Business pour essayer de les rendre plus performantes 👫👫
 
 ## 2. Historique et contexte
-Lors de la première semaine (journée 4), on a parlé de *Business Intelligence* ... C'est forcément lié au sujet d'aujourd'hui tu dois te dire ! Tout à fait, on va même reprendre ici l'historique de la BI pour que tu aies les idées au clair 😇
+Lors de la première semaine (journée de jeudi), on a parlé de *Business Intelligence* ... C'est forcément lié au sujet d'aujourd'hui tu dois te dire ! Tout à fait, on va même reprendre ici l'historique de la BI pour que tu aies les idées au clair 😇
 
 **Le terme de *Business Intelligence* apparaît en 1958** lorsqu’un informaticien allemand, Hans Peter Luhn, s’est servi de solutions informatiques dans le but d’exploiter les différentes données d’une entreprise, son but étant alors d’accélérer la prise de décision. Mais au début, la BI représentait un risque important de fuite de l'information car les systèmes envoyaient les informations sur des serveurs de production.
 
