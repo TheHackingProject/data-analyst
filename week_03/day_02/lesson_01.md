@@ -17,7 +17,7 @@ Depuis le big bang informatique des années 2000, la puissance des ordinateurs e
 ## 3. La ressource
 En tant que Data Analyst, tu dois comprendre les enjeux principaux des différentes équipes Business. Ainsi, tu pourras les aider sur leurs problématiques principales 🤝🤝
 
-### 3.1. Data et Sales : Big Data et CRM
+### 3.1. Data et Sales : le CRM
 
 #### 3.1.1. Le CRM, c'est quoi ?
 
