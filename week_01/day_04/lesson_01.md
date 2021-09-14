@@ -47,7 +47,7 @@ L'analyse des données est devenue très complexe depuis une dizaine d'années. 
 
 En théorie : 
 Pour créer des bases de données, il faut être dev informatique. 
-Pour analyser des bases de données, il faut avoir un esprit analytique, orienté business. 
+Pour analyser des bases de données, il faut avoir un esprit analytique, orienté business et connaître les bases des statistiques. 
 
 En pratique : 
 Ce sont parfois les mêmes personnes qui réalisent ces deux tâches. En tout cas, ces deux types de profils travaillent régulièrement ensemble et parlent, en partie, les mêmes langages. C'est pourquoi il est important que chacun des deux ait une bonne vision de ce que fait l'autre. D'où l'intérêt de la journée d'aujourd'hui pour vous moussaillons qui avez plutôt opté pour la partie analytique vs le dev pur : vous allez plongé dans l'univers du développement de bases de données 🙈🙈
