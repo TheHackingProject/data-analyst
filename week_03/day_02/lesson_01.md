@@ -4,7 +4,7 @@
 Si la data c'est si utile qu'on le dit, c'est forcément que ça doit aider le Business. Tu vas découvrir aujourd'hui comment la data peut améliorer le business. Autrement dit, ce que tu devras fournir aux équipes Business pour essayer de les rendre plus performantes 👫👫
 
 ## 2. Historique et contexte
-Lors de la première semaine (journée 4), on a parlé de *Business Intelligence* ... C'est forcément lié au sujet d'aujourd'hui tu dois te dire ! Tout à fait, on va même reprendre ce concept pour que tu aies les idées au clair.
+Lors de la première semaine (journée 4), on a parlé de *Business Intelligence* ... C'est forcément lié au sujet d'aujourd'hui tu dois te dire ! Tout à fait, on va même reprendre ici l'historique de la BI pour que tu aies les idées au clair 😇
 
 Le terme de *Business Intelligence* apparaît en 1958 lorsqu’un informaticien allemand, Hans Peter Luhn, s’est servi de solutions informatiques dans le but d’exploiter les différentes données d’une entreprise, son but étant alors d’accélérer la prise de décision. Mais au début, la BI représentait un risque important de fuite de l'information car les systèmes envoyaient les informations sur des serveurs de production.
 
@@ -47,7 +47,12 @@ Il est clair que le niveau à atteindre va dépendre de la maturité de l'entrep
 
 
 ### 3.2. Data et Marketing : marketing analytics
-blabla
+
+Pour un dirigeant, le marketing est vital pour la croissance de son entreprise. Un des plus grands problèmes du marketing d’aujourd’hui est d’attirer l’attention des clients. Au vu de l’afflux d’information dans notre société, les clients ont tendance à être plus distraits que jamais et ont un large panel de choix quand il s’agit d’acheter un produit ou de s’offrir un service dont ils ont besoin. Attirer l’attention est donc crucial pour le succès d’une campagne.
+
+Un des meilleurs moyens de capter un client est de faire de la publicité sur les besoins réels d’un client. C’est là où le Big Data peut avoir un avantage considérable pour le métier. Grâce aux données et surtout leur analyse, les publicités sont aujourd’hui davantage personnalisées afin d’atteindre la bonne personne, au bon moment et surtout avec le bon message. 
+
+
 
 ### 3.2. Data et Opérations : support client
 blabla
