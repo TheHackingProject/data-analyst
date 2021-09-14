@@ -62,7 +62,7 @@ Par la suite, la data permet de mettre en place des opérations marketing à dif
 - **le marketing automation**. Cela désigne au sens large l’automatisation de campagnes marketing déclenchées par un ensemble de conditions prédéfinies et en fonction du comportement de l’utilisateur. Il est possible d’automatiser l’envoi d’emails, de sms, la segmentation de contacts, le lead scoring (echnique de notation des prospects afin de détecter ceux les plus avancés dans leur cycle d’achat) ou encore le lead nurturing (une procédure qui consiste à maintenir ou renforcer une relation marketing avec des prospects qui ne sont pas encore mûrs pour une action de vente).
 - **l'analyse prédictive**. Les modèles d’analyse prédictive permettent d’anticiper les besoins des clients. En proposant une offre adaptée, l’entreprise démontre alors qu’elle maitrise les problématiques de ses clients.
 
-Les outils de marketing digital à connaître et sur lesquels on pourra vous demander de faire des analyses sont : 
+Les outils de marketing digital à connaître et sur lesquels on pourra te demander de faire des analyses sont : 
 - des outils de marketing analytics : Google Analytics est le véritable leader 
 - des outils de référencement payant ou SEA : Google Ads est le véritable leader
 - des outils de référencement naturel ou SEO : SEMRush ou Screaming Frog
