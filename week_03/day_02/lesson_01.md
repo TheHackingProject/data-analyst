@@ -73,14 +73,29 @@ Ca en fait des outils mais ne t'inquiète pas, tu n'as pas besoin de tous les co
 
 
 ### 3.2. Data et Opérations : support client
-blabla
 
-### 3.2. Data et Finance : automatisation
-blabla
+Optimiser la data dans les Opérations courantes de votre entreprise n'est pas toujours le plus intuitif alors que cela se révèle très souvent payant. Il s'agit de dire que les données ne doivent pas seulement servir à comprendre votre business : elles peuvent aussi être exploitées pour améliorer les actions de vos équipes en temps réel.
+
+À la différence de l’approche classique qui consiste à produire des tableaux de bord et des reportings, l’**operational analytics** est l’art d’actionner directement vos données en les poussant dans les outils métiers au bon moment et bon endroit. On cherche à faire parvenir aux équipes métiers (sales, marketing, support, customer success) les données dont elles ont besoin pour prendre leurs décisions. 
+
+Prenons un exemple concret pour bien comprendre la différence d’approche. Prenons l’équipe Customer Success d’une startup en pleine croissance. Cette équipe va utiliser **l’analytics traditionnel pour mesurer la performance de l’activité et planifier les prochaines actions à déployer dans le futur**. Le responsable de l’équipe aura besoin d’un tableau de bord de BI pour, par exemple, connaître le temps moyen de résolution d’un ticket client. C’est une métrique importante pour mesurer les performances passées. Elle fournit aussi une indication approximative pour évaluer la charge de travail future des CS. Les enseignements tirés des tableaux de bord aideront à prendre les décisions en matière de staffing et d’amélioration des process … mais ils ne seront d’aucune utilité pour les collaborateurs de l’équipe. Cela ne les aidera pas à résoudre plus de tickets dans l’heure qui vient.
+
+Pour résoudre plus de tickets dans l’heure qui vient, le Customer Success Manager peut avoir besoin de prioriser les tickets. C’est là qu’intervient **l’operational analytics**. Cette approche **va permettre de prioriser les tickets à partir de quelques caractéristiques clés**, en allant chercher des informations dans la base de données : le client est-il membre du programme VIP ? A-t-il manifesté un risque d’attrition ? Est-il ouvert à de l’upsell ?
+
+Pour un CSM, l’operational analytics se traduira certainement par l’ajout de quelques champs dans les tickets, mais la liste des tickets sera automatiquement classée par ordre d’importance. Il n’aura plus à se demander quel ticket prioriser. 
+
+Il s’agit bien entendu d’un des nombreux cas d’usage de l’operational analytics. Cette approche est aussi celle qui permet par exemple :
+- De pousser dans Salesforce la liste mise à jour en temps réel des clients ayant la plus haute lifetime value (ou bien les clients qui achètent pour plus de XX€ / mois).
+- De pousser dans Intercom les données d’usage du produit pour enrichir les interactions clients en personnalisant les messages avec des métriques d’usage etc.
+
+En résumé :
+- L’approche traditionnelle se focalise sur la compréhension du business à moyen et long termes.
+- L’operational analytics vise l’amélioration de la performance opérationnelle de vos équipes.
+- Il ne faut pas dénigrer l’approche traditionnelle. Les deux sont complémentaires et n’ont pas la même fonction. L’approche traditionnelle permet de prendre de la hauteur et de faire évoluer la stratégie globale de l’entreprise grâce à une meilleure compréhension de son activité. Malgré tout, l’un des intérêts de l’approche opérationnelle, c’est qu’elle permet de mettre l’accent sur cette idée clé : la donnée client n’a d’intérêt que si elle est actionnée ! Collecter de la donnée pour collecter ne sert à rien. Créer des tableaux de bord n’a pas d’intérêt s’ils ne sont pas exploités pour prendre des décisions. Lorsque l’on se plonge dans cette nouvelle approche « opérationnelle » de l’analytics, on se reconnecte avec cette réalité très concrète !
 
 ## 4. Points importants à retenir
 La ressource en quelques points importants.
 
 ## 5. Pour aller plus loin
 - Pour creuser le sujet de Data et Sales, voici [un super article d'Hubspot](https://blog.hubspot.com/sales/data-in-sales) et [un super article de McKinsey](https://www.mckinsey.com/business-functions/marketing-and-sales/our-insights/unlocking-the-power-of-data-in-sales), les deux en anglais 🚆
-- Pour creuser le sujet du Big Data Marketing, tu peux lire cet [article de Talend)(https://www.talend.com/fr/resources/big-data-marketing/)
+- Pour creuser le sujet du Big Data Marketing, tu peux lire cet [article de Talend](https://www.talend.com/fr/resources/big-data-marketing/)
