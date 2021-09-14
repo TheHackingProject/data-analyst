@@ -22,10 +22,10 @@ Dans plusieurs entreprises, on retrouve désormais une direction produit au mêm
 ## 3. La ressource
 Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
 
-### 3.1. Première sous partie
+### 3.1. Qui fait partie de l'équipe Produit ?
 blabla
 
-### 3.2. Deuxième sous partie
+### 3.2.  De quels types de data a besoin le Produit ?
 blabla
 
 ## 4. Points importants à retenir
