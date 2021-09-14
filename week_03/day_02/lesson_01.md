@@ -26,7 +26,7 @@ La force d’une solution CRM, c’est sa capacité d’adaptation à vos proces
 Le CRM (*Customer Relationship Management*) ou GRC en français (*Gestion de la relation client*) c’est l’art de créer, développer et entretenir une relation privilégiée avec chacun de vos contacts.
 Par abus de langage, on parle souvent de "CRM" pour désigner la solution CRM choisie par l'entreprise, cad le système utilisé pour la gestion de la relation avec les clients et les prospects (prospect = client potentiel dans le sens où ses besoins correspondent aux services proposés par l'entreprise). Soit le logiciel utilisé par les équipes commerciales pour centraliser, stocker, organiser et consulter les informations clients.
 
-La force d’une solution CRM, c’est sa capacité d’intégration au système d’information. **Le CRM fluidifie la diffusion et l’échange d’informations**, favorise la collaboration entre l’ensemble de vos services et développe des synergies. Si t'as bien suivi, on est donc en plein dans la data 🤤🤤
+La force d’une solution CRM, c’est sa capacité d’intégration au système d’information. **Le CRM fluidifie la diffusion et l’échange d’informations**, favorise la collaboration entre l’ensemble de vos services et développe des synergies. Si t'as bien suivi, on est en plein dans la data 🤤🤤
 
 #### 3.1.2. "Un CRM sans BI, c'est comme un marteau sans tête"
 
