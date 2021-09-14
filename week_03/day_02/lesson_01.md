@@ -74,7 +74,7 @@ Les outils de marketing digital à connaître et sur lesquels on pourra te deman
 Ca en fait des outils mais ne t'inquiète pas, tu n'as pas besoin de tous les connaître. Tu verras aussi que c'est souvent les mêmes qui reviennent et au pire, ils se ressemblent quand même beaucoup quand il s'agit d'analyser leurs données 🙄🙄
 
 
-### 3.2. Data et Opérations : support client
+### 3.3. Data et Opérations : support client
 
 Optimiser la data dans les Opérations courantes de votre entreprise n'est pas toujours le plus intuitif alors que cela se révèle très souvent payant. Il s'agit de dire que les données ne doivent pas seulement servir à comprendre votre business : elles peuvent aussi être exploitées pour améliorer les actions de vos équipes en temps réel.
 
