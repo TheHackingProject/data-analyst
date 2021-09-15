@@ -19,11 +19,17 @@ Comme vu dans la ressource précédente, la redécouverte de tableau de bord et 
 
 ## 3. La ressource
 
-### 3.1. Recueillir les besoins et concevoir un dashboard
+### 3.1. Concevoir un dashboard
+
+Il y a plusieurs étapes à respecter pour bien concevoir un tableau de bord, et tout ceci avant de se lancer dans la création du tableau :
+- **Définir l’objectif du tableau de bord avec votre client**. Un tableau de bord peut servir au pilotage, au reporting ou bien à la communication : il est important de bien préciser dans quel cas vous vous situez.
+- **Définir les bons indicateurs avec votre client**. Cf. ressource précédente sur les KPI 🤗
+- **Recueillir tous les besoins de votre client**. Si tu cherches à savoir comment cette étape se passe dans la pratique, je t'invite à suivre toutes les vidéos d'échange entre Luc et Thomas dans [ce cours OpenClassrooms](https://openclassrooms.com/fr/courses/4525361-realisez-un-dashboard-avec-tableau/5728791-participez-a-une-reunion-d-analyse-de-besoins). Tu peux aller jusqu'à réaliser le *Quiz : Réalisez les étapes de création d'un dashboard* pour voir si tu as bien assimilé l'essentiel.
+
+### 3.2. Les logiciels de visualisation de données
 blabla
 
-### 3.2. Deuxième sous partie
-blabla
+### 3.3. Zoom sur le logiciel Tableau 
 
 ## 4. Points importants à retenir
 La ressource en quelques points importants.
