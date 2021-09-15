@@ -23,7 +23,7 @@ Cependant, vers la fin des années 80, la naissance d’un environnement économ
 Remontés et analysés sur une base hebdomadaire, mensuelle ou trimestrielle, les KPI s'inscrivent dans une démarche de progrès et permettent le pilotage et le suivi de l'activité. Comme ils découlent de la stratégie de l'entreprise, les KPI permettent d'étudier les écarts et d'ajuster les processus ou les ressources pour atteindre les objectifs.
 
 On peut énoncer 3 différentes raisons qui font des KPI un outil indispensable : 
-- **Evaluer les objectifs stratégiques**. Grâcce aux KPI, vous prenez la température en permanence et mettez effectivement en pratique votre stratégie d’entreprise, ainsi que votre vision et votre mission. Sans indicateurs clefs de performance, votre plan d’approche aurait de grandes chances de ne rester qu’une page blanche. Ainsi, l'ensemble de votre entreprise est tourné vers l'avenir.
+- **Evaluer les objectifs stratégiques**. Grâce aux KPI, vous prenez la température en permanence et mettez effectivement en pratique votre stratégie d’entreprise, ainsi que votre vision et votre mission. Sans indicateurs clefs de performance, votre plan d’approche aurait de grandes chances de ne rester qu’une page blanche. Ainsi, l'ensemble de votre entreprise est tourné vers l'avenir.
 - **Rationaliser la gestion opérationnelle**. Il s'agit ici davantage de court-terme.  Afin de vérifier que vos départements opérationnels travaillent comme il se doit et que vos efforts portent bel et bien leurs fruits, vous ne pouvez pas vous passer des KPI. Ils indiquent par exemple le nombre de demandes de contact, d’offres, de produits achetés ou l’augmentation du chiffre d’affaires.
 - **Se positionner par rapport à la concurrence**. Les KPI vous offrent un aperçu du nombre de clients gagnés et perdus, du nombre d’achats et de leur valeur. Vous parvenez ainsi à observer les performances de votre entreprise dans leur ensemble et vous pouvez vous positionner stratégiquement par rapport à vos concurrents.
 
@@ -38,15 +38,15 @@ On parle des critères "SMART" pour établir un bon KPI :
 - Réaliste : il doit tenir compte des contraintes de l'entreprise
 - Temporel : il a un point de départ et un point d'arrivée planifiés à l'avance.
 
-
-
+Pour avoir un exemple de KPI spécifique à une industrie (le transport aérien en l'ocurrence), regarde [cette vidéo](https://www.xerficanal.com/strategie-management/emission/Philippe-Gattet-Comprendre-les-KPI-;-les-indicateurs-cles-de-performance_3707.html). Tu verras alors quels sont les travers à éviter lorsqu'on met en place des KPI.
 
 ### 3.3. KPI vs OKR
 
 Les OKR, ou *Objectives and Key Results*, représentent des objectifs agressifs, parfois très ambitieux, qui permettent à une entreprise de définir les étapes mesurables qui permettront d'atteindre cet objectif. Généralement assignés pour une période donnée (une semaine, une mois voire un trimestre), ils ont été popularisés par des sociétés de la Silicon Valley comme Google. Un OKR se distingue donc d'un KPI par l'intention qui le caractérise. Le premier, plus agressif, sert de cap. Le second, plus mesuré, doit lui être atteint plus facilement.
 
 ## 4. Points importants à retenir
-
+- Chaque organisation doit choisir ses propres indicateurs clés de performance en fonction de sa stratégie et de son environnement. 
+- Cet exercice peut être fastidieux mais il apporte beaucoup pour le suivi de l'activité. C'est pourquoi l'apport du Data Analyst, notamment en termes de méthodologie (ex : objectifs SMART, écueils à éviter) peut être très utile à l'organisation.
 
 ## 5. Pour aller plus loin
-Si vous souhaitez en savoir plus sur la méthode OKR, vous pouvez lire (cet article)[https://www.1min30.com/definitions-marketing/la-methode-okr-1287488895]
+Si vous souhaitez en savoir plus sur la méthode OKR, vous pouvez lire [cet article](https://www.1min30.com/definitions-marketing/la-methode-okr-1287488895)
