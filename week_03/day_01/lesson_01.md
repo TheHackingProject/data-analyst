@@ -38,7 +38,7 @@ On parle des critères "SMART" pour établir un bon KPI :
 - **Réaliste** : il doit tenir compte des contraintes de l'entreprise
 - **Temporel** : il a un point de départ et un point d'arrivée planifiés à l'avance.
 
-Pour avoir un exemple de KPI spécifique à une industrie (le transport aérien en l'ocurrence), regarde [cette vidéo](https://www.xerficanal.com/strategie-management/emission/Philippe-Gattet-Comprendre-les-KPI-;-les-indicateurs-cles-de-performance_3707.html). Tu verras alors quels sont les travers à éviter lorsqu'on met en place des KPI.
+Pour avoir un exemple de KPI spécifique à une industrie (le transport aérien en l'ocurrence), regarde [cette vidéo](https://www.xerficanal.com/strategie-management/emission/Philippe-Gattet-Comprendre-les-KPI-;-les-indicateurs-cles-de-performance_3707.html). Tu verras alors quels sont les travers à éviter lorsqu'on met en place des KPI ☠️
 
 ### 3.3. KPI vs OKR
 
