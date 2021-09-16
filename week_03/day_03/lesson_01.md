@@ -27,7 +27,7 @@ Pour remédier à cela, je te conseille très fortement de faire le cours OpenCl
 Ce qu'il faut retenir du cours peut se résumer avec cette citation de Garr Reynolds, expert dans l'art de la présentation : 
 > L'intérêt de l'aspect technique des logiciels de présentation est marginal. La difficulté n'est pas d'en apprendre plus, mais, au contraire, d'en ignorer et d'en oublier plus. L'art de la présentation transcende la technique et vous permet d'abattre les cloisons pour passer un message à un auditoire ou pour le convaincre par une prestation originale et éloquente.
 
-Et pour réussir tes présentations de Data Analyse, un seul mot d'ordre : des graphes, des graphes, des graphes 📊📈📉. **Mets dans tes slides le plus de visualisations possibles**. On est tous sensible à un type de graphe particulier. Donc plus tu mets de graphes, plus tu vas intéresser du monde et plus ton propos va être compris. 
+Et pour réussir tes présentations de Data Analyse, un seul mot d'ordre : des graphes, des graphes, des graphes 📊📈📉 **Mets dans tes slides le plus de visualisations possibles**. On est tous sensible à un type de graphe particulier. Donc plus tu mets de graphes, plus tu vas intéresser du monde et plus ton propos va être compris. 
 
 
 ### 3.2. Le discours
