@@ -5,24 +5,33 @@ C'est une mission qui apparaît souvent dans les offres d'emploi mais on sent qu
 
 ## 2. Historique et contexte
 
-Avant l'arrivée de l'architecture SOA à la fin des années 1990, il était difficile de connecter une application à des services hébergés par un autre système. Cela nécessitait une intégration point à point poussée (connectivité, routage, traduction des modèles de données, etc.), que les développeurs devaient ensuite reproduire pour chaque nouveau projet. Ce modèle était appelé « monolithique », car tout le code de l'application tenait dans un déploiement unique. Si l'un des éléments de l'application ne fonctionnait pas correctement, il fallait mettre hors ligne l'application entière pour résoudre le problème avant de déployer une autre version. 
+Avant les années 2000, **le modèle d'architecture était appelé « monolithique »**, car tout le code de l'application tenait dans un déploiement unique. Si l'un des éléments de l'application ne fonctionnait pas correctement, il fallait mettre hors ligne l'application entière pour résoudre le problème avant de déployer une autre version. Cela posait notamment le problème de l'interopérabilité des systèmes d'information, particulièrement complexe lors de la fusion ou de l'acquisition d'entreprise. 
 
-En exposant des services via des protocoles réseau standards (comme SOAP, JSON, ActiveMQ ou Apache Thrift) pour envoyer des requêtes ou accéder aux données, l'architecture SOA évite aux développeurs de devoir réaliser une intégration de A à Z. À la place, ils peuvent utiliser des modèles appelés ESB pour réaliser l'intégration entre un composant centralisé et les systèmes back-end, puis les rendre disponibles en tant qu'interfaces de services.Les développeurs peuvent également réutiliser des fonctions existantes au lieu de les recréer.
+**Le modèle de SOA** (SOA pour *Service Oriented Architecture* en anglais ou architecture orientée services) est devenu populaire au début des années 2000 et est devenu un des modèles d’architectures dominants aujourd’hui. C'est un modèle de conception qui permet à des composants logiciels déployés et gérés séparément de communiquer et de fonctionner ensemble sous la forme d'applications logicielles communes à différents systèmes.
 
-Au sein d'une architecture orientée services, les services communiquent via un système de « couplage faible ». Les composants (aussi appelés « éléments ») sont interconnectés dans un système ou réseau, ce qui leur permet de transmettre des informations ou de coordonner un processus métier, en réduisant la dépendance entre eux.Dans les faits, cela aboutit à la création d'une application.
+Alors que le SOA était uniquement liés à des applications web spécifiques à ses débuts, ses cas possibles d’utilisation sont démultipliés et peuvent même s’adapter au cloud ou aux microservices.
 
 Littéralement une stack signifie une pile ou un empilement de quelque chose, donc pour l’IT une stack veut dire pile ou empilement de technologies. Ce terme a émergé avec la nécessité de mettre en place des architectures web orientés « services » c’est à dire interconnectées.
-
-En effet, depuis quelques années, le web a gagné en maturité avec l’utilisation de web-services (ou API) qui permettent de connecter un ensemble d’applications et d’utiliser les meilleures solutions technologiques pour chaque projet.
 
 ## 3. La ressource
 Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
 
-### 3.1. Première sous partie
-blabla
+### 3.1. C'est quoi une stack technique ?
 
-### 3.2. Deuxième sous partie
-blabla
+https://www.zdnet.fr/actualites/ce-que-full-stack-signifie-et-son-importance-pour-le-cloud-39833740.htm
+
+https://www.agilap.com/choisir-la-meilleure-stack-technique/
+
+https://mixpanel.com/fr/topics/what-is-a-technology-stack/
+
+### 3.2. Comment améliorer sa stack data ?
+
+C'est quoi une stack data ? https://www.followtribes.io/data-startup/
+
+Comment choisir sa stack data ? https://www.followtribes.io/gouvernance-stack-data-analytics/
+
+https://chartio.com/learn/data-analytics/analytics-data-stack-overview/
+
 
 ## 4. Points importants à retenir
 La ressource en quelques points importants.
