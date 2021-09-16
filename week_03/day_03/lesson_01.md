@@ -8,7 +8,7 @@ Revenons sur l'histoire de PowerPoint, le programme de présentation le plus uti
 **Forethought a créé PowerPoint 1.0 en avril 1987 pour le Macintosh d’Apple**. C’était au début un programme en noir et blanc, générant des pages mêlant textes et graphiques qu’on présente avec rétroprojecteur. 
 Mais peu après une nouvelle version sortit, en couleur cette fois, juste après la sortie commerciale du premier Macintosh couleurs.
 
-Microsoft Corporation racheta Forethought et ses produits logiciels PowerPoint pour la somme de 14M$ le 31 juillet 1987 et ce n’est qu’en 1990 que vient la première version compatible Windows, développée pour Windows 3.0. Depuis 1990, PowerPoint est introduit dans la suite d’applications Microsoft Office (sauf dans les versions de base de la suite).
+Microsoft Corporation racheta Forethought et ses produits logiciels PowerPoint pour la somme de 14M$ le 31 juillet 1987, soit trois mois après son lancement. Mais ce n’est qu’en 1990 que vient la première version compatible Windows, développée pour Windows 3.0. Depuis 1990, PowerPoint est introduit dans la suite d’applications Microsoft Office (sauf dans les versions de base de la suite).
 
 La part de marché de PowerPoint était très faible au début, avant l’introduction d’une version pour Microsoft Windows, mais elle a augmenté rapidement avec la croissance de Windows et d’Office. Depuis la fin des années 1990, **la part du marché mondial des logiciels de présentation de PowerPoint a été estimée à 95 %** 😮
 
@@ -27,16 +27,23 @@ Pour remédier à cela, je te conseille très fortement de faire le cours OpenCl
 Ce qu'il faut retenir du cours peut se résumer avec cette citation de Garr Reynolds, expert dans l'art de la présentation : 
 > L'intérêt de l'aspect technique des logiciels de présentation est marginal. La difficulté n'est pas d'en apprendre plus, mais, au contraire, d'en ignorer et d'en oublier plus. L'art de la présentation transcende la technique et vous permet d'abattre les cloisons pour passer un message à un auditoire ou pour le convaincre par une prestation originale et éloquente.
 
+Et pour réussir tes présentations de Data Analyse, un seul mot d'ordre : des graphes, des graphes, des graphes 📊📈📉. **Mets dans tes slides le plus de visualisations possibles**. On est tous sensible à un type de graphe particulier. Donc plus tu mets de graphes, plus tu vas intéresser du monde et plus ton propos va être compris. 
+
 
 ### 3.2. Le discours
 
+En plus du visuel, le discours, c'est-à-dire ce que tu choisis de dire, est très important. 
 
+Comme tes sujets seront souvent techniques, n'oublie pas de **te mettre au niveau de ton interlocuteur**. Vulgarise au maximum ce que tu es en train de dire. Dis toi que tu ne paraitras jamais "trop pédagogue" alors qu'en revanche, le risque d'être incompris, trop technique, trop abstrait est très vite arrivé.
 
+Enfin, comme pour la plupart des présentations, on te conseille d'utiliser toutes les techniques existantes pour capter son auditoire. Tu as vu dans le cours OpenClassrooms l'intérêt du storytelling (ou raconter des histoires, des anecdotes). Et il y a tout un tas d'autres techniques. Par exemple, Forbes liste [8 trucs infaillibles pour capter votre auditoire](https://www.forbes.fr/management/8-trucs-infaillibles-pour-captiver-votre-auditoire/), Maddyness donne [10 conseils pour captiver votre audience](https://www.maddyness.com/2019/11/01/captiver-audience-oral/). Vous en trouverez encore bien d'autres lors de vos expériences. 
 
+Le plus important est de s'approprier certaines de ces techniques et ensuite de les mettre en pratique. Rappelez-vous surtout qu'en faisant l'effort de ne pas faire de présentation classique et barbante, vous rendez service à tous les gens qui sont là et n'ont pas d'autre choix que de vous écouter 🗣
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+Faire de bonnes présentations, ça s'apprend. Déjà par la théorie : garde en mémoire tous les tips que tu as vus aujourd'hui. Et surtout par la pratique : saisis toutes les opportunités que tu as pour faire des présentations et t'essayer à cet exercice plus difficile qu'il n'en a l'air.
 
 ## 5. Pour aller plus loin
 - Un autre cours OpenClassrooms pour ceux qui n'ont pas l'habitude de créer des présentations : [Réalisez un diaporama pour accompagner votre présentation](https://openclassrooms.com/fr/courses/5870121-realisez-un-diaporama-pour-accompagner-votre-presentation)
-- [Un article](https://keyvox.fr/lart-de-la-presentation-zen-par-garr-reynolds/), sur l'art de la "présentation Zen" de Garr Reynolds
+- [Un article](https://keyvox.fr/lart-de-la-presentation-zen-par-garr-reynolds/) sur l'art de la "présentation Zen" de Garr Reynolds
+- Regarder les [TED Talks](https://www.ted.com/talks?language=fr) sur les sujets qui t'intéressent 
