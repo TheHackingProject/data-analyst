@@ -46,4 +46,4 @@ Faire de bonnes présentations, ça s'apprend. Déjà par la théorie : garde en
 ## 5. Pour aller plus loin
 - Un autre cours OpenClassrooms pour si tu n'as pas l'habitude de créer des présentations : [Réalisez un diaporama pour accompagner votre présentation](https://openclassrooms.com/fr/courses/5870121-realisez-un-diaporama-pour-accompagner-votre-presentation)
 - [Un article](https://keyvox.fr/lart-de-la-presentation-zen-par-garr-reynolds/) sur l'art de la "présentation Zen" de Garr Reynolds
-- Regarde les [TED Talks](https://www.ted.com/talks?language=fr) sur les sujets qui t'intéressent. Ce sont des conférences réalisées (la plupart du temps) par des gens qui aiment parler en public 🥶🥶
+- Regarde les [TED Talks](https://www.ted.com/talks?language=fr) sur les sujets qui t'intéressent. Ce sont des conférences réalisées (la plupart du temps) par des gens qui adorent parler en public 🤢
