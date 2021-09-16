@@ -1,0 +1,25 @@
+Quelle type de missions ? 
+
+Mettre en place des KPIS, les monitorer
+Mener des études exploratoire autour de la Data afin de contribuer toujours plus à l’amélioration de notre performance. 
+
+2 – Pilotage de la captation des données : prestataires et qualité
+• Collecte des CA en lien avec l’équipe des Directeurs de centre
+• Suivi des systèmes de comptage visiteurs
+• Suivi des systèmes de comptage véhicules et pilotage du reporting
+• Contrôle de la qualité des données
+• Interface entre les prestataires et les interlocuteurs internes qui sont destinataires / utilisateurs des données
+
+3 – Participer en lien avec l’équipe IT à l’optimisation des outils
+• Accompagner les expressions de besoin
+• Participer, le cas échéant, au développement des outils (support de l’équipe IT sur les sujets études) et notamment prise en main des outils de datavisualisation
+
+Build and improve the data analytics stack: You will develop sources of truth (data model), design the best metrics for our key business drivers and promote self-service. 
+
+
+Ici faire de la veille 
+
+5 – Veille concurrentielle
+
+Afin de contextualiser les analyses de l’activité, suivi de la conjoncture économique et de la conjoncture sectorielle
+Veille et benchmark sur le marché de l’immobilier commercial.
