@@ -38,7 +38,7 @@ Comme tes sujets seront souvent techniques, n'oublie pas de **te mettre au nivea
 
 Enfin, comme pour la plupart des présentations, on te conseille d'utiliser toutes les techniques existantes pour capter son auditoire. Tu as vu dans le cours OpenClassrooms l'intérêt du storytelling (ou raconter des histoires, des anecdotes). Et il y a tout un tas d'autres techniques. Par exemple, Forbes liste [8 trucs infaillibles pour capter votre auditoire](https://www.forbes.fr/management/8-trucs-infaillibles-pour-captiver-votre-auditoire/), Maddyness donne [10 conseils pour captiver votre audience](https://www.maddyness.com/2019/11/01/captiver-audience-oral/). Vous en trouverez encore bien d'autres lors de vos expériences. 
 
-Le plus important est de s'approprier certaines de ces techniques et ensuite de les mettre en pratique. Rappelle-toi surtout qu'en faisant l'effort de ne pas faire de présentation classique et barbante, tu rends service à tous les gens qui sont là et n'ont pas d'autre choix que de t'écouter 🗣
+Le plus important est de t'approprier certaines de ces techniques et ensuite de les mettre en pratique. Rappelle-toi surtout qu'en faisant l'effort de ne pas faire de présentation classique et barbante, tu rends service à tous les gens qui sont là et n'ont pas d'autre choix que de t'écouter 🗣
 
 ## 4. Points importants à retenir
 Faire de bonnes présentations, ça s'apprend. Déjà par la théorie : garde en mémoire tous les tips que tu as vus aujourd'hui. Et surtout par la pratique : saisis toutes les opportunités que tu as pour faire des présentations et t'essayer à cet exercice plus difficile qu'il n'en a l'air.
