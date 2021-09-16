@@ -1,7 +1,7 @@
-# Réussir ses présentations avec des supports
+# Réussir ses présentations avec des supports percutants
 
 ## 1. Introduction
-Un Data Analyst est très souvent amené à présenter ses résultats. C'est pourquoi nous allons voir ici comment améliorer ses présentations (tant sur l'écrit que sur l'oral).
+Un Data Analyst est très souvent amené à présenter ses résultats. C'est pourquoi nous allons voir ici comment améliorer tes présentations (tant sur l'écrit que sur l'oral).
 
 ## 2. Historique et contexte
 Revenons sur l'histoire de PowerPoint, le programme de présentation le plus utilisé dans le monde. Il a été développé à l’origine par Robert Gaskins et le programmeur Dennis Austins sous le nom de Presenter pour la société Forethought. 
@@ -20,12 +20,16 @@ Utiliser un logiciel de présentation (Powerpoint mais aussi Google Slides, Prez
 
 Mais ce qu'on dit moins, c'est que rares sont ceux qui utilisent bien leurs slides, cad qui réussissent à s'en servir comme un support au service d'un message. Dos quasi tourné à la salle, la personne regarde sa slide, attend quelques secondes et finit par lire tout ce qu'il y a écrit dessus pour ensuite faire pareil avec la slide d'après, et celle d'encore après ... Tu as déjà dû vivre ce moment qui paraît infini 😴😴😴
 
-Pas la peine d'en vouloir à PowerPoint, ni à Microsoft, ni même aux autres logiciels de présentation. Le problème vient du fait que la plupart des gens n'ont pas été formés à l'utilisation des logiciels de présentation donc ils tombent dans la plupart des pièges à éviter.
+Pas la peine d'en vouloir à PowerPoint, ni aux autres logiciels de présentation. Le problème vient du fait que la plupart des gens n'ont pas été formés à l'utilisation des logiciels de présentation donc ils tombent dans la plupart des pièges à éviter.
 
-Pour remédier à cela, je te conseille très fortement de faire le cours OpenClassrooms [Améliorez l'impact de vos présentations](https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations). C'est possible que certains des enseignements te paraissent évidents mais je te promets que ça fait du bien de les revoir pour les fixer définitivement dans sa tête. Ce cours est vraiment très bien fait, normalement à la fin tu devrais toi aussi penser qu'on devrait l'imposer à toute personne qui travaille en entreprise 🥴
+Pour remédier à cela, je te conseille très fortement de faire le cours OpenClassrooms [Améliorez l'impact de vos présentations](https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations). C'est possible que certains des enseignements te paraissent évidents mais je te promets que ça fait du bien de les revoir pour les fixer définitivement dans sa tête. Ce cours est vraiment très bien fait, normalement à la fin tu devrais penser qu'on devrait l'imposer à toute personne qui travaille en entreprise 🥴
+
+> L'intérêt de l'aspect technique des logiciels de présentation est marginal. La difficulté n'est pas d'en apprendre plus, mais, au contraire, d'en ignorer et d'en oublier plus. L'art de la présentation transcende la technique et vous permet d'abattre les cloisons pour passer un message à un auditoire ou pour le convaincre par une prestation originale et éloquente.
+
 
 
 ### 3.2. Le discours
+
 
 
 
