@@ -39,4 +39,4 @@ La ressource en quelques points importants.
 
 ## 5. Pour aller plus loin
 - Un autre cours OpenClassrooms pour ceux qui n'ont pas l'habitude de créer des présentations : [Réalisez un diaporama pour accompagner votre présentation](https://openclassrooms.com/fr/courses/5870121-realisez-un-diaporama-pour-accompagner-votre-presentation)
-- [L'art de la présentation zen](https://keyvox.fr/lart-de-la-presentation-zen-par-garr-reynolds/), par Garr Reynolds
+- [Un article](https://keyvox.fr/lart-de-la-presentation-zen-par-garr-reynolds/), sur l'art de la "présentation Zen" de Garr Reynolds
