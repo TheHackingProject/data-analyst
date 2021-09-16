@@ -8,7 +8,7 @@ Revenons sur l'histoire de PowerPoint, le programme de présentation le plus uti
 **Forethought a créé PowerPoint 1.0 en avril 1987 pour le Macintosh d’Apple**. C’était au début un programme en noir et blanc, générant des pages mêlant textes et graphiques qu’on présente avec rétroprojecteur. 
 Mais peu après une nouvelle version sortit, en couleur cette fois, juste après la sortie commerciale du premier Macintosh couleurs.
 
-Microsoft Corporation racheta Forethought et ses produits logiciels PowerPoint pour la somme de 14M$ le 31 juillet 1987, soit trois mois après son lancement. Mais ce n’est qu’en 1990 que vient la première version compatible Windows, développée pour Windows 3.0. Depuis 1990, PowerPoint est introduit dans la suite d’applications Microsoft Office (sauf dans les versions de base de la suite).
+Microsoft Corporation racheta Forethought et ses produits logiciels PowerPoint pour la somme de 14M$ le 31 juillet 1987, soit trois mois après leur lancement. Mais ce n’est qu’en 1990 que vient la première version compatible Windows, développée pour Windows 3.0. Depuis 1990, PowerPoint est introduit dans la suite d’applications Microsoft Office (sauf dans les versions de base de la suite).
 
 La part de marché de PowerPoint était très faible au début, avant l’introduction d’une version pour Microsoft Windows, mais elle a augmenté rapidement avec la croissance de Windows et d’Office. Depuis la fin des années 1990, **la part du marché mondial des logiciels de présentation de PowerPoint a été estimée à 95 %** 😮
 
