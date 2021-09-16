@@ -22,10 +22,10 @@ Mais ce qu'on dit moins, c'est que rares sont ceux qui utilisent bien leurs slid
 
 Pas la peine d'en vouloir à PowerPoint, ni aux autres logiciels de présentation. Le problème vient du fait que la plupart des gens n'ont pas été formés à l'utilisation des logiciels de présentation donc ils tombent dans la plupart des pièges à éviter.
 
-Pour remédier à cela, je te conseille très fortement de faire le cours OpenClassrooms [Améliorez l'impact de vos présentations](https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations). C'est possible que certains des enseignements te paraissent évidents mais je te promets que ça fait du bien de les revoir pour les fixer définitivement dans sa tête. Ce cours est vraiment très bien fait, normalement à la fin tu devrais penser qu'on devrait l'imposer à toute personne qui travaille en entreprise 🥴
+Pour remédier à cela, je te conseille très fortement de faire le cours OpenClassrooms [Améliorez l'impact de vos présentations](https://openclassrooms.com/fr/courses/3013891-ameliorez-limpact-de-vos-presentations). C'est possible que certains des enseignements te paraissent évidents mais je te promets que ça fait du bien de les revoir pour les fixer définitivement dans sa tête. Ce cours est vraiment très bien fait, normalement à la fin tu te diras qu'on devrait l'imposer à toute personne qui travaille en entreprise 🥴
 
+Ce qu'il faut retenir du cours peut se résumer avec cette citation de Garr Reynolds, expert dans l'art de la présentation : 
 > L'intérêt de l'aspect technique des logiciels de présentation est marginal. La difficulté n'est pas d'en apprendre plus, mais, au contraire, d'en ignorer et d'en oublier plus. L'art de la présentation transcende la technique et vous permet d'abattre les cloisons pour passer un message à un auditoire ou pour le convaincre par une prestation originale et éloquente.
-
 
 
 ### 3.2. Le discours
@@ -39,3 +39,4 @@ La ressource en quelques points importants.
 
 ## 5. Pour aller plus loin
 - Un autre cours OpenClassrooms pour ceux qui n'ont pas l'habitude de créer des présentations : [Réalisez un diaporama pour accompagner votre présentation](https://openclassrooms.com/fr/courses/5870121-realisez-un-diaporama-pour-accompagner-votre-presentation)
+- [L'art de la présentation zen](https://keyvox.fr/lart-de-la-presentation-zen-par-garr-reynolds/), par Garr Reynolds
