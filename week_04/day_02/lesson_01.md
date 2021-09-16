@@ -31,7 +31,12 @@ expliquer le cahier des charges
 blabla
 
 ### 3.3. Certains frameworks agiles à connaître
-blabla
+
+SCRUM
+https://www.youtube.com/watch?v=anZcEIQlpoY
+
+https://hubvisory.com/blog/les-differents-roles-d-une-equipe-produit-sous-scrum/
+
 
 ## 4. Points importants à retenir
 La ressource en quelques points importants.
