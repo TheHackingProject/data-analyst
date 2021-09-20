@@ -27,7 +27,7 @@ Enfin, les stacks techniques sont toutes différentes. Les équipes décident de
 
 Ceci dit, si tu n'as pas oublié les 3 semaines d'introduction, tu sais que toutes les stacks techniques sont divisées entre la partie « back-end » et la partie « front-end ». On peut également parler de « côté serveur » ou de « côté client ».
 
-!(https://svsg.co/wp-content/uploads/2015/09/tech-stack-setup.jpg)
+![miam](https://svsg.co/wp-content/uploads/2015/09/tech-stack-setup.jpg)
 
 ### 3.2. Comment améliorer sa stack data ?
 
