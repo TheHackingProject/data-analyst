@@ -5,24 +5,29 @@ C'est une mission qui apparaît souvent dans les offres d'emploi mais on sent qu
 
 ## 2. Historique et contexte
 
-Avant les années 2000, **le modèle d'architecture était appelé « monolithique »**, car tout le code de l'application tenait dans un déploiement unique. Si l'un des éléments de l'application ne fonctionnait pas correctement, il fallait mettre hors ligne l'application entière pour résoudre le problème avant de déployer une autre version. Cela posait notamment le problème de l'interopérabilité des systèmes d'information, particulièrement complexe lors de la fusion ou de l'acquisition d'entreprise. 
+Avant les années 2000, **le modèle d'architecture était appelé « monolithique »**, car tout le code de l'application tenait dans un déploiement unique. Si l'un des éléments de l'application ne fonctionnait pas correctement, il fallait mettre hors ligne l'application entière pour résoudre le problème avant de déployer une autre version. Cela posait notamment le problème de l'interopérabilité des systèmes d'information, particulièrement complexe lors de la fusion ou de l'acquisition d'entreprises. 
 
-**Le modèle de SOA** (SOA pour *Service Oriented Architecture* en anglais ou architecture orientée services) est devenu populaire au début des années 2000 et est devenu un des modèles d’architectures dominants aujourd’hui. C'est un modèle de conception qui permet à des composants logiciels déployés et gérés séparément de communiquer et de fonctionner ensemble sous la forme d'applications logicielles communes à différents systèmes.
+Puis, **le modèle de SOA** (SOA pour *Service Oriented Architecture* en anglais ou architecture orientée services) est devenu populaire au début des années 2000 et c'est aujourd'hui un des modèles d’architectures dominants. Ce modèle de conception permet à des composants logiciels déployés et gérés séparément de communiquer et de fonctionner ensemble sous la forme d'applications logicielles communes à différents systèmes.
 
 Alors que le SOA était uniquement liés à des applications web spécifiques à ses débuts, ses cas possibles d’utilisation sont démultipliés et peuvent même s’adapter au cloud ou aux microservices.
 
 Littéralement une stack signifie une pile ou un empilement de quelque chose, donc pour l’IT une stack veut dire pile ou empilement de technologies. Ce terme a émergé avec la nécessité de mettre en place des architectures web orientés « services » c’est à dire interconnectées.
 
 ## 3. La ressource
-Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
 
 ### 3.1. C'est quoi une stack technique ?
 
-https://www.zdnet.fr/actualites/ce-que-full-stack-signifie-et-son-importance-pour-le-cloud-39833740.htm
+Une stack technique, en anglais « technology stack », « pile de technologies » ou « écosystème de données », est **une liste de tous les outils technologiques utilisés pour développer et faire fonctionner un programme**. Le site de Facebook, par exemple, est construit à partir d’une combinaison de frameworks de codes et de langages tels que JavaScript, HTML, CSS, PHP, et ReactJS. C’est la « stack technique » de Facebook. 
 
-https://www.agilap.com/choisir-la-meilleure-stack-technique/
+Une stack technique résume de façon limpide les langages de programmation, les frameworks et les outils dont un développeur aura besoin pour interagir avec une application. La plupart des langages de programmation ayant des qualités et des limites bien connues, la stack technique permet de donner une idée des forces et des faiblesses d’un programme dans sa globalité. Si un programmeur sait qu’un logiciel est construit en PHP, par exemple, il sait que sa base de code est probablement large et difficile à déboguer. PHP est un langage de programmation à l’inefficacité tristement célèbre, et il est pourtant utilisé dans la plupart des applications web populaires 🥴 Si un programmeur sait qu’une application a été construite avec Ruby on Rails, il sait qu’il va devoir apprendre le langage de programmation Ruby s’il veut y apporter des modifications. 
 
-https://mixpanel.com/fr/topics/what-is-a-technology-stack/
+Aussi, les stacks techniques sont particulièrement utiles dans le processus de recrutement de développeurs. Si un candidat n’est pas familier avec les frameworks et les langages de la stack technique, ou s’il n’a pas la volonté de s’y familiariser, cela pourra constituer un frein à son embauche.
+
+Enfin, les stacks techniques sont toutes différentes. Les équipes décident des technologies qu’elles veulent utiliser et construisent ensuite à partir d’un langage de base, puis ajoutent d’autres outils et services au fur et à mesure du développement. 
+
+Ceci dit, si tu n'as pas oublié les 3 semaines d'introduction, tu sais que toutes les stacks techniques sont divisées entre la partie « back-end » et la partie « front-end ». On peut également parler de « côté serveur » ou de « côté client ».
+
+!(https://svsg.co/wp-content/uploads/2015/09/tech-stack-setup.jpg)
 
 ### 3.2. Comment améliorer sa stack data ?
 
