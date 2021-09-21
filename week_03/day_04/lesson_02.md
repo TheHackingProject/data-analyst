@@ -11,10 +11,26 @@ Chaque fois qu’un aspect est important, tu dois le documenter. Si ton équipe 
 ## 3. La ressource
 
 ### 3.1. Modéliser la base de données
-blabla
+Pour documenter la data d'une entreprise, il est courant qu'on te demande de modéliser la base de données. Celle-ci est déjà opérationnelle mais personne n'a encore réalisé de schéma pour expliquer comment elle fonctionne. Rappelle-toi, on avait eu cela lors du jeudi de la première semaine. 
+
+On ne va pas trop se relancer là-dedans mais sache que : 
+- une base de donnés relationnelles se modélise grâce à un diagramme Entité-Relation (cf. le [tutoriel de Grafikart](https://grafikart.fr/tutoriels/modeliser-base-de-donnee-75) si tu veux en savoir plus)
+- les bases de données NoSQL étant très récentes, aujourd'hui il n'existe pas réellement de méthodes permettant de les modéliser. Une solution pour modéliser une base de données document est d'écrire du JSON. 
 
 ### 3.2. Cartographier les données
-blabla
+Une représentation visuelle de l'architecture de la donnée, de la collecte à son exploitation, est très utile. Elle permet d’identifier les intégrations existantes ou manquantes et de définir une stratégie globale. En effet, les sources sont multiples et il est probable que vous soyez confrontés à des silos. Par exemple, une start up peut se retrouver avec de la donnée concernant ses utilisateurs dans Google Analytics, Hubspot, Wootric pour le NPS et JIRA. Avant de regrouper, **une vue d’ensemble est nécessaire**.
+
+Cartographier l’organisation des données d’une entreprise consiste à faire deux choses :
+- **Recenser tous les lieux de stockage** des données clients : bases, outils, applications … Il s’agit de répondre à la question : « Où y a-t-il de la donnée ? »
+- **Recenser tous les flux entre ces lieux de stockage**. Les flux – qui peuvent être entrants ou sortants – permettent à la donnée de circuler d’un système à l’autre. La question est donc : « Comment circule la donnée entre les systèmes ? ».
+
+Le travail de cartographie peut sembler relativement simple à première vue, mais dans la pratique les silos de données ne sont pas toujours aussi apparents qu’on pourrait le penser. Ils peuvent se trouver dans des endroits non évidents comme : dans des smartphones, sur des fiches papiers, voire dans la tête de vos collaborateurs.
+
+Il n'y a pas de modèle de cartographie type, l'important étant de reproduire visuellement la réalité. Mais voici deux exemples de cartographie de données bien différentes : 
+
+![ami](https://www.custup.com/wp-content/webp-express/webp-images/uploads/2019/01/cartographie-donnees.png.webp)
+![djay](https://www.followtribes.io/wp-content/uploads/2021/03/image-1.png)
+
 
 ### 3.2. Faire un audit
 
