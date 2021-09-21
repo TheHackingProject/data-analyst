@@ -33,7 +33,7 @@ Un dernier exemple qui t'arrivera **FORCEMENT** et qui peut dans certains cas ê
 
 
 ## 4. Points importants à retenir
-- Le nettoyage des données est une étape cruciale pour la réussite de tout projet data. Il y a 2 étapes dans le nettoyage des données : la gestion des données manquantes et la gestion des valeurs aberrantes.
+- Le nettoyage des données est une étape cruciale pour la réussite de tout projet data. Il y a 3 étapes dans le nettoyage des données : la gestion des données manquantes, la gestion des valeurs aberrantes, et la gestion du mauvais format.
 
 - Dans la plupart des cas, on est obligés de faire des allers-retours entre la phase de nettoyage et la phase de description (analyse). En phase d'analyse, on trouve souvent de nouvelles erreurs, et il faut revenir au nettoyage. 
 
