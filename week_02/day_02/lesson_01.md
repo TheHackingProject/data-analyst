@@ -22,8 +22,10 @@ Dans le cadre d’un projet de Machine Learning, on fera souvent le choix de sup
 ### 3.3. Mauvais format
 La valeur de la donnée peut se retrouver avec un mauvais **formatage**. Un exemple simple est la gestion des float. En fonction de la source de données, les décimales peuvent être séparées par des virgule ',' ou bien par des points '.'. Lors du premiers cas, l'extraction en CSV peut poser problème car le CSV délimite ses données par... une virgule.
 2 solutions s'offrent alors à toi :
-- Gérer le problème à la source : 
-- Gérér le problème lors du traitement :
+- Gérer le problème à la source (10% du temps) : Contacter le client qui provisionne les données, Gérer le problème de format directement à la source (Database),...
+- Gérér le problème lors du traitement (90% du temps): Trouver des solutions ingénieuse afin de reformatter les données
+
+Un autre exemple de mauvais formattage est l'utilision c'est Y/N ou d'un O/N (varchar) à la place d'un True/False(Booléen). Dans ce cas ci, une simple recherche dans votre mémoire (ou sur une documentation appropriée) vous donnera la solution.
 
 ## 4. Points importants à retenir
 - Le nettoyage des données est une étape cruciale pour la réussite de tout projet data. Il y a 2 étapes dans le nettoyage des données : la gestion des données manquantes et la gestion des valeurs aberrantes.
