@@ -25,7 +25,12 @@ La valeur de la donnée peut se retrouver avec un mauvais **formatage**. Un exem
 - Gérer le problème à la source (10% du temps) : Contacter le client qui provisionne les données, Gérer le problème de format directement à la source (Database),...
 - Gérér le problème lors du traitement (90% du temps): Trouver des solutions ingénieuse afin de reformatter les données
 
-Un autre exemple de mauvais formattage est l'utilision c'est Y/N ou d'un O/N (varchar) à la place d'un True/False(Booléen). Dans ce cas ci, une simple recherche dans votre mémoire (ou sur une documentation appropriée) vous donnera la solution.
+Un autre exemple de mauvais formattage est l'utilision c'est Y/N ou d'un O/N (varchar) à la place d'un True/False(Booléen). Dans ce cas ci, une simple recherche dans ta mémoire (ou sur une documentation appropriée) te donnera la solution.
+
+Un dernier exemple qui t'arrivera **FORCEMENT** et qui peut dans certains cas être difficile à relever est l'utilisation d'espace dans les données de textes. Quoi de plus rageant que de ne pas réussir à trouver le texte `"CoeurSurFéfé"` lorsque la donnée originale est en réalité `"CoeurSurFéfé `. Plusieurs options s'offrent encore une fois à toi :
+- "rogner" les données textuelles (trim in English)
+- Utiliser les [RegEx](https://www.w3schools.com/python/python_regex.asp)
+
 
 ## 4. Points importants à retenir
 - Le nettoyage des données est une étape cruciale pour la réussite de tout projet data. Il y a 2 étapes dans le nettoyage des données : la gestion des données manquantes et la gestion des valeurs aberrantes.
