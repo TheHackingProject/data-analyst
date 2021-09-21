@@ -60,5 +60,5 @@ Par exemple, si tu dois trouver un outil de visualisation pour ton entreprise, o
 En tant que Data Analyst, tu seras souvent amené à réfléchir sur comment améliorer la performance data de l'entreprise. Contrairement à ce qu'on pourrait penser, ce n'est pas une tâche méditative 🙏 Au contraire, il s'agit plutôt de produire des livrables sur la base desquels les décisions pourront ensuite être prises. C'est vraiment ta production (schéma, mapping, audit, benchmark etc.) qui permettra aux décideurs d'y voir plus clair sur les datas et d'éventuellement accepter des changements dans la stratégie.
 
 ## 5. Pour aller plus loin
-On reprendra ces concepts la semaine prochaine, quand on étudiera l'intérêt du Data Management. 
+On reprendra ces concepts la semaine prochaine, quand on étudiera les rôles de Data Manager et Data Consultant.
 
