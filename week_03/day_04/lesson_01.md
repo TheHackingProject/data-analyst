@@ -46,7 +46,7 @@ J'aurais bien aimé te faire une ressource détaillée sur comment bien gérer s
 
 
 ## 4. Points importants à retenir
-Les technologies modernes ont rendu beaucoup plus rapide, simple et accessible la création d’une Stack Data Moderne (“Modern Data Stack”) et il est donc possible de créer une architecture Data basique en quelques jours. Attention néanmoins car cela peut avoir un coùt important. Il est donc nécessaire de s'interroger en amont sur le retour sur investissement espéré.
+Les technologies modernes ont rendu beaucoup plus rapide, simple et accessible la création d’une Stack Data Moderne (“Modern Data Stack”) et il est donc possible de créer une architecture Data basique en quelques jours. Attention néanmoins car cela peut avoir un coût important. Il est donc nécessaire de s'interroger en amont sur le retour sur investissement espéré.
 
 ## 5. Pour aller plus loin
 - [Un article](https://www.followtribes.io/gouvernance-stack-data-analytics/) sur : "Comment choisir sa gouvernance et sa stack de data-analytics ?"
