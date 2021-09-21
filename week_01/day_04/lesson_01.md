@@ -29,7 +29,7 @@ Voyons maintenant les différentes tâches existantes pour faire fonctionner les
 ### 3.1. Créer et administrer la base de données
 Avant de stocker ses données dans une base, il faut concevoir cette base (voir quel modèle utiliser, se projeter en intégrant tous les éléments), la créer (choisir le logiciel le plus adapté et rendre fonctionnelle la base) et l'administrer (décider des droits d'accès). 
 
-Il s'agit avant tout d'un travail de développeur informatique. C'est pourquoi nous n'avons pas étudié ces aspects-là lors de la journée d'hier. 
+Il s'agit plutôt d'un travail de développeur informatique.
 
 > Etre développeur base de données (ou *Data Engineer*) c'est être un spécialiste informatique qui conçoit et déploie une ou plusieurs bases de données. Cette personne est  garante de la cohérence et de l'accessibilité permanente des informations. Elle gère les projets de développement liés au système d'information de l'entreprise qui requièrent le déploiement des bases de données. Elle doit surveiller les performances de la base de données afin de vérifier si la base gère correctement les paramètres. Dans les entreprises plus traditionnelles (industries manufacturières, grands groupes), tu entendras parler "d'Administrateur Base de Données" ou "DB Administrator".
 
