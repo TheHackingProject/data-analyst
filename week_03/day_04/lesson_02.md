@@ -15,7 +15,7 @@ Pour documenter la data d'une entreprise, il est courant qu'on te demande de mod
 
 On ne va pas trop se relancer là-dedans mais sache que : 
 - une base de donnés relationnelles se modélise grâce à un diagramme Entité-Relation (cf. le [tutoriel de Grafikart](https://grafikart.fr/tutoriels/modeliser-base-de-donnee-75) si tu veux en savoir plus)
-- les bases de données NoSQL étant très récentes, aujourd'hui il n'existe pas réellement de méthodes permettant de les modéliser. Une solution pour modéliser une base de données document est d'écrire du JSON. 
+- les bases de données NoSQL étant très récentes, aujourd'hui il n'existe pas réellement de méthode permettant de les modéliser. Une solution pour modéliser une base de données document est d'écrire du JSON. Tu peux voir des exemples d'illustration [ici](https://stph.scenari-community.org/bdd/0/co/nos03.html).
 
 ### 3.2. Cartographier les données
 Une représentation visuelle de l'architecture de la donnée, de la collecte à son exploitation, est très utile. Elle permet d’identifier les intégrations existantes ou manquantes et de définir une stratégie globale. En effet, les sources sont multiples et il est probable que vous soyez confrontés à des silos. Par exemple, une start up peut se retrouver avec de la donnée concernant ses utilisateurs dans Google Analytics, Hubspot, Wootric pour le NPS et JIRA. Avant de regrouper, **une vue d’ensemble est nécessaire**.
