@@ -30,20 +30,35 @@ En fait, cartographier l’organisation des données d’une entreprise consiste
 
 Le travail de cartographie peut sembler relativement simple à première vue, mais dans la pratique les silos de données ne sont pas toujours aussi apparents qu’on pourrait le penser. Ils peuvent se trouver dans des endroits non évidents comme : dans des smartphones, sur des fiches papiers, voire dans la tête de vos collaborateurs.
 
-Enfin, il n'y a pas de modèle de cartographie type, l'important étant de reproduire visuellement la réalité. Voici un dernière exemple de cartographie de données pour la route :
+Enfin, il n'y a pas de modèle de cartographie type, l'important étant de reproduire visuellement la réalité. Voici un dernier exemple de cartographie d'un SI qui semble bien complexe : 
 
 ![ami](https://www.custup.com/wp-content/webp-express/webp-images/uploads/2019/01/cartographie-donnees.png.webp)
 
 
+### 3.3. Faire un audit
+Un audit de la qualité des données permet de n'exploiter que les données qui ont du sens. Or, sélectionner les données à exploiter peut être un choix cornélien face à une telle profusion !
 
-### 3.2. Faire un audit
+Sur les sites e-commerce par exemple, on comptabilise chaque jour des milliers de pages vues. Ce n'est pas pertinent de tout stocker pour chercher ensuite à tout exploiter. 
 
-### 3.2. Faire un benchmark
+Pour faire un audit des données de façon intelligente, une solution est de reprendre les 5V que l'on a étudiés avec le Big Data : 
+- **Le volume**. Quelle masse de données est concernée ?
+- **La véracité** de la donnée. Par exemple, des transactions d’achat doivent être corrigées à cause de régularisations ou des retours de produits.
+- **La vitesse** à laquelle la donnée circule. Ce qui pose encore une fois la question de la véracité : plus la donnée circule vite, plus elle risque d'être erronnée.
+- **La variété** de la donnée parce qu’elle provient de systèmes totalement hétérogènes et il faut être capable d'aller la capter partout. C'est un vrai défi.
+- **La valeur** : c’est tout l’enjeu de la donnée ! Elle doit remplir les objectifs de l'entreprise et être créatrice de valeur pour la marque et pour les clients.
 
+Finalement, la question à laquelle doit répondre un audit est : quelles données je peux et je souhaite exploiter ? Pour quels coûts/bénéfices ? 
 
+### 3.4. Faire un benchmark
+Enfin, comme on l'a vu ce matin, l'analyse des données d'une entreprise se fait souvent à travers un empilement d'outils. Pour faire les bons choix d'outils, une méthode est imparable : **le benchmark**. Ce mot est souvent employé à tort et à travers mais il désigne en réalité "étude comparative". 
+
+Il consiste à mesurer les performances d'une entreprise par rapport à celles de ses concurrents. Cette approche méthodologique incontournable permet de mieux atteindre vos objectifs.
+
+Par exemple, si tu dois trouver un outil de visualisation pour ton entreprise, on te demandera probablement (ou tu pourras réaliser par toi-même) cette fameuse étude comparative. Ce travail consistera à étudier les opportunités de souscrire à un nouveau logiciel, à présenter les différents logiciels et enfin à faire des recommandations sur la solution qui paraît la mieux adaptée aux besoins de l'entreprise.
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+En tant que Data Analyst, tu seras souvent amené à réfléchir sur comment améliorer la performance data de l'entreprise. Contrairement à ce qu'on pourrait penser, ce n'est pas une tâche méditative 🙏 Au contraire, il s'agit plutôt de produire des livrables sur la base desquels les décisions pourront ensuite être prises. C'est vraiment ta production (schéma, mapping, audit, benchmark etc.) qui permettra aux décideurs d'y voir plus clair sur les datas et d'éventuellement accepter des changements dans la stratégie.
 
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+On reprendra ces concepts la semaine prochaine, quand on étudiera l'intérêt du Data Management. 
+
