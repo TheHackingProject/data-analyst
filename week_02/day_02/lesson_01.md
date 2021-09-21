@@ -20,7 +20,10 @@ Une façon assez simple de détecter ces valeurs est de réaliser un box plot (o
 Dans le cadre d’un projet de Machine Learning, on fera souvent le choix de supprimer une valeur aberrante. En effet, pour obtenir une meilleure qualité de prédiction il est nécessaire de traiter ces données car un modèle pourra être très sensible aux données extrêmes, ce qui va biaiser les prédictions.
 
 ### 3.3. Mauvais format
-La valeur de la donnée peut se retrouver avec un mauvais **formatage**. Un exemple simple est la gestion des float. En fonction de la source de données, les décimales peuvent être séparées par des virgule ',' ou bien par des points '.'. Lors du premiers cas, l'etraction en CSV peut poser problème car le CSV délimite ses données par.. une virgule.
+La valeur de la donnée peut se retrouver avec un mauvais **formatage**. Un exemple simple est la gestion des float. En fonction de la source de données, les décimales peuvent être séparées par des virgule ',' ou bien par des points '.'. Lors du premiers cas, l'extraction en CSV peut poser problème car le CSV délimite ses données par... une virgule.
+2 solutions s'offrent alors à toi :
+- Gérer le problème à la source : 
+- Gérér le problème lors du traitement :
 
 ## 4. Points importants à retenir
 - Le nettoyage des données est une étape cruciale pour la réussite de tout projet data. Il y a 2 étapes dans le nettoyage des données : la gestion des données manquantes et la gestion des valeurs aberrantes.
