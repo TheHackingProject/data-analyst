@@ -22,7 +22,7 @@ Une représentation visuelle de l'architecture de la donnée, de la collecte à 
 
 Ce matin, si tu as bien lu le super article que je t'ai conseillé, tu as dû voir passer un exemple déjà de cartographie des données. Je te le remets ici au cas où 😴
 
-![djay]https://www.followtribes.io/wp-content/uploads/2021/03/image-1.png
+![djay](https://www.followtribes.io/wp-content/uploads/2021/03/image-1.png)
 
 Cartographier l’organisation des données d’une entreprise consiste à faire deux choses :
 - **Recenser tous les lieux de stockage** des données clients : bases, outils, applications … Il s’agit de répondre à la question : « Où y a-t-il de la donnée ? »
