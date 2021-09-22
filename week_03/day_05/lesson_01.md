@@ -18,7 +18,7 @@ Nous allons voir ici 3 différents types d'action, qui correspondent à différe
 
 ### 3.1. Rendre disponible le savoir
 
-En tant que garant de la suppression des silos, tu te dois d'être exemplaire et de t'appliquer cette règle à toi-même 👮‍♂️ Concrètement, tu as interdiction de faire de la rétention d'informations. Au contraire, tu dois PARTAGER tout ce que tu sais.
+En tant que garant de la suppression des silos, tu te dois d'être exemplaire et de t'appliquer cette règle à toi-même 👮‍♂️ Concrètement, tu as interdiction de faire de la rétention d'informations. Au contraire, **tu dois PARTAGER tout ce que tu sais**.
 
 Comment faire cela ? Tu as tout un tas de manières : organiser des workshops (ateliers où tu invites tes collègues à participer), organiser des conférences, partager des articles ... Exemple le plus classique : un atelier de 2 heures pour se former à Google Analytics et faire découvrir à qui le souhaitent comment analyser les données des utilisateurs. Finalement, il s'agit de créer une culture data dans ton entreprise. Tu mets à disposition et en profite qui veut 😇
 
@@ -28,16 +28,28 @@ Car ça ne va pas intéresser tout le monde. Disons qu'une partie seulement de t
 
 ### 3.2. Collaborer et proposer des coups de main
 
-2ème objectif une fois que tu as mis à disposition ton savoir : **aller à la rencontre des personnes**. Tu cherches à atteindre à ce moment-là la plupart de tes collaborateurs : ceux qui n'ont pas de temps supplémentaire à consacrer, ceux qui ne se sentent pas autorisés/légitimes pour faire autre chose que leurs missions.
+2ème objectif une fois que tu as mis à disposition ton savoir : **aller à la rencontre des personnes**. Tu cherches à atteindre à ce moment-là la plupart de tes collaborateurs : ceux qui n'ont pas de temps supplémentaire à consacrer, ceux qui ne se sentent pas autorisés/légitimes pour faire autre chose que leurs missions personnelles etc. 
 
-L'idée ici est de sortir des grands discours (qui étaient de rigueur à l'étape précédente) et de passer à la pratique. Pour cela, tu peux organiser des entretiens individuels avec les personnes qui te semblent pouvoir améliorer leurs process data. Tu te proposes de regarder comment ils travaillent aujourd'hui pour voir si cela peut être amélioré via la data. Une bonne méthode aussi pour cela est ce que l'on appelle le *shadowing*. Désolée pour l'anglicisme, le shadowing (ou la filature en français) est une des méthodes d’observation les plus courantes en design. Cette méthode consiste à devenir littéralement l’ombre de quelqu’un durant une période déterminée afin d’observer son comportement et ses interactions avec un produit ou un service dans son environnement naturel. 
+L'idée ici est de sortir des grands discours (qui étaient de rigueur à l'étape précédente) et de **passer à la pratique**. Pour cela, tu peux organiser des entretiens individuels avec les personnes qui te semblent avoir besoin de plus de données. Pour cela, tu peux leur proposer de regarder comment ils travaillent aujourd'hui pour voir si cela peut être amélioré via la data. 
+
+Une bonne méthode aussi pour cela est ce que l'on appelle le *shadowing*. Désolée pour l'anglicisme, le *shadowing* (ou filature en français) est une des méthodes d’observation les plus courantes. Cette méthode consiste à **devenir littéralement l’ombre de quelqu’un durant une période déterminée** afin d’observer son comportement et ses interactions dans son environnement naturel. Cela va te permettre de repérer les tâches qui pourraient être automatisées ou optimisées, grâce à un meilleur usage de la data.
+
+Suite à cela, tu peux passer à la discussion pour essayer de préciser le besoin de la personne. L'interroger sur les outils qu'elle utilise au quotidien, ce qui lui fait perdre du temps. Et lui proposer ensuite des débuts de solution pour essayer de répondre à son besoin. Ces débuts de solution, encore une fois, seront très différents en fonction du problème : 
+- tu peux lui dire que sur ce sujet précis, tu n'es pas expert mais que tu reviendras vers elle dans quelques jours une fois que tu auras creusé le sujet de ton côté
+- tu peux lui montrer ce que tu peux faire avec des outils déjà en place et lui demander si ça l'intéresse
+- tu peux lui proposer une session pendant laquelle tu lui expliqueras le fonctionnement d'un outil
+- tu peux l'inviter à un meeting sur le sujet pour qu'elle comprenne les problèmatiques actuelles ...
+
+Il y a presque autant de solutions que de problèmes. L'important est de réussir à embarquer le plus de monde car l'objectif est collectif : casser les silos !
 
 ### 3.3. Montrer les résultats obtenus
 
-Aller à la rencontre de ceux réfractaires. 
+Enfin, tu feras face à un troisième type de personnes : les personnes plutôt réfractaires au changement. En général, elles ont des habitudes bien ancrées et sont sceptiques quand on leur demande de les changer. Ces personnes se méfient de la nouveauté, souvent à juste titre, car elles ont déjà expérimenté beaucoup de projets qu'on leur présentait comme révolutionnaires et qui n'ont apporté aucun bénéfice 🙃 Inutile donc de juger ce troisième type de personnes, elles ont tout aussi raison que les deux types. 
 
-Approche pragmatique
-blabla
+Ton rôle est de s'adapter à leur ressenti. Pour cela, tu vas devoir une approche plus pragmatique. Ce qu'elles veulent, c'est du concret, des résultats. Tu peux donc attendre d'avoir obtenu des résultats positifs avant de t'intéresser à cette cible. 
+
+Une fois que tu as les résultats en revanche, saisis l'occasion pour les embarquer. Choisis un langage accessible, adopte une posture empathique et prépare toi à l'adversité. 
+Tu peux reprendre les techniques vus dans les étapes précédentes. L'essentiel est de montrer que ça fonctionne et que ceux qui décident de ne pas embarquer dans les projets data se rendent la tâche plus compliquée 🤔
 
 ## 4. Points importants à retenir
 La ressource en quelques points importants.
