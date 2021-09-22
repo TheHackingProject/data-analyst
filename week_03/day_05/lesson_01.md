@@ -9,9 +9,9 @@ Depuis une dizaine d’années, on a assisté à un changement de paradigme : la
 
 Ce qui a changé aujourd’hui, c’est que la data va bien au-delà de ces applications : elle doit infuser l’ensemble de la chaîne de valeur. L’enjeu pour l’entreprise est de transformer son modèle opérationnel et **devenir data-centric**. 
 
-En fait **l'objectif avec la data, c’est de supprimer tous les silos**. Cependant, réussir à faire en sorte que tout le monde parle le langage data, c'est un process complexe qui demande du temps. C'est pour cela que les entreprises recrutent des équipes spécialisées data : elles espèrent vraiment qu'à terme, tous leurs collaborateurs deviendront data-driven.
+En fait **l'objectif avec la data, c’est de supprimer tous les silos**. Cependant, réussir à faire en sorte que tout le monde parle le langage data, c'est un process complexe qui demande du temps. C'est pour cela que les entreprises recrutent des équipes spécialisées en data : elles espèrent vraiment qu'à terme, tous leurs collaborateurs deviendront *data-driven*, c'est-à-dire capables de s'aider de la data pour prendre des décisions.
 
-C'est donc parfaitement ton rôle, en tant que Data Analyst, que d'évangéliser tes collègues et de leur transmettre toutes tes connaissances/compétences. Facile à dire mais pas facile à faire. On va voir dans les ressources du jour des tips pour réussir à devenir un vrai gourou de la data 🗣
+C'est donc parfaitement ton rôle, en tant que Data Analyst, d'évangéliser tes collègues et de leur transmettre toutes tes connaissances/compétences. Facile à dire mais pas facile à faire. On va voir dans les ressources du jour des tips pour réussir à devenir un vrai gourou de la data 🗣
 
 ## 3. La ressource
 Nous allons voir ici 3 différents types d'action, qui correspondent aux différents types d'attitude que tu pourras rencontrer face au changement. C'est volontairement schématisé, en espérant que tu comprennes surtout la posture à développer 👂
