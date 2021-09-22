@@ -56,4 +56,4 @@ Tu l'as compris, être expert data c'est réussir à conduire le changement dans
 
 ## 5. Pour aller plus loin
 - Un [cours article](https://isarta.fr/infos/les-4-lecons-de-mckinsey-pour-adopter-une-culture-data-dans-son-entreprise/) qui détaille "Les 4 leçons de McKinsey pour adopter une culture data dans son entreprise"
-- Un [webinaire](https://www.youtube.com/watch?v=59bXTxsGaZ4) (plus long cette fois, 45 minutes), organisé par Opendatasoft sur la thématique "Conduite du changement : toi, moi et les data" avec deux témoignages : la Caisse des dépôts et le département de l'ISère
+- Un [webinaire](https://www.youtube.com/watch?v=59bXTxsGaZ4) (plus long cette fois, 45 minutes), organisé par Opendatasoft sur la thématique "Conduite du changement : toi, moi et les data" avec deux témoignages : la Caisse des dépôts et le département de l'Isère
