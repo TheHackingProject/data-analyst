@@ -10,7 +10,7 @@ Aujourd’hui, l'usage de l'automatisation est visible partout. Elle nous permet
 
 Sur un autre registre, l’étape la plus importante dans l’histoire de l’automatisation reste l’informatique. Elle désigne le traitement automatique de l’information par un système concret (machine) ou abstrait. Ce domaine évolue en permanence et de manière constante.
 
-Mais maintenant que les données sont disponibles partout, le challenge premier est de réussir à gagner plus de temps qu'à en perdre. Il y a 50 ans, quand tu cherchais le meilleur hôtel pour résider à Paris, tu appelais ton cousin parisien et il te répondait avec un numéro. En 5 minutes, c'était plié. Aujourd'hui, le risque est que tu te perdes sur le web pendant 3 heures et qu'à la fin, tu finisses par aller dans l'hôtel que te conseille ton cousin car tu as oublié l'objectif initial de ta recherche 🤕
+Mais maintenant que les données sont disponibles partout, le challenge premier est de réussir à gagner plus de temps qu'à en perdre. Il y a 50 ans, quand tu cherchais le meilleur hôtel pour résider à Paris, tu appelais ton cousin parisien et il te répondait en te donnant un numéro pour réserver. En 5 minutes, c'était plié. Aujourd'hui, le risque est que tu te perdes sur le web pendant 3 heures et qu'à la fin, tu finisses par aller dans l'hôtel que te conseille ton cousin car tu as oublié l'objectif initial de ta recherche 🤕
 
 C'est pourquoi l'automatisation du traitement de données peut faire gagner beaucoup de temps et beaucoup d'efficacité (la machine ne se laisse pas distraire) à l'entreprise et à tous ses collaborateurs.
 
