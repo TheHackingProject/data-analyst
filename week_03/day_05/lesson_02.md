@@ -15,12 +15,11 @@ Mais maintenant que les données sont disponibles partout, le challenge premier 
 C'est pourquoi l'automatisation du traitement de données peut faire gagner beaucoup de temps et beaucoup d'efficacité (la machine ne se laisse pas distraire) à l'entreprise et à tous ses collaborateurs.
 
 ## 3. La ressource
-Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
 
-### 3.1. Première sous partie
+### 3.1. Mettre en place une veille technologique efficace
 blabla
 
-### 3.2. Deuxième sous partie
+### 3.2. Réussis à automatiser certaines étapes
 blabla
 
 ## 4. Points importants à retenir
