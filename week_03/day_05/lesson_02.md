@@ -60,7 +60,7 @@ Mais la question la plus importante que tu dois te poser depuis le début de la 
 3) Il existe **des outils no-code** qui sont très performants. Voici [un classement des 3 meilleurs outils d'automatisation](https://atelierdulead.com/meilleurs-outils-automatisation/). Pour comprendre comment ça fonctionne avec des exemples, regarde [cette vidéo](https://www.youtube.com/watch?v=rct1-_UCs10) de 11 minutes.
 
 ## 4. Points importants à retenir
-Automatiser les tâches qui se répètent est indispensable aujourd'hui. Ce n'est pas réservé exclusivement aux équipes Data mais tu seras d'autant plus concerné car des process automatisés riment avec des datas plus complètes. Donc en tant que Data Analyst, tu pourras (parfois accompagné d'un Growth Hacker) proposer tes services de pro de l'automatisation pour soulager tes collègues et améliorer leur performance 😎
+Automatiser les tâches qui se répètent est indispensable aujourd'hui. Tu peux chercher à automatiser ta veille et celle de ton entreptise, et plus globalement toute tâche répétitive. L'automatisation n'est pas réservée aux équipes Data mais tu es d'autant plus concerné car des process automatisés riment avec des datas plus complètes. Donc en tant que Data Analyst, tu pourras (parfois accompagné d'un Growth Hacker) proposer tes services de pro de l'automatisation pour soulager tes collègues et améliorer leur performance 😎
 
 ## 5. Pour aller plus loin
 Les ressources sont très nombreuses sur le net : voici un exemple d'[un article](https://deux.io/automatisations-zapier/) qui te donne 47 automatisations possibles avec Zapier. Mais n'hésite pas à rechercher les contenus qui t'intéressent sur ce sujet 🚀🚀
