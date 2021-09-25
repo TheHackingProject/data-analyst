@@ -4,7 +4,7 @@
 On a vu dans la ressource précédente l'attitude à avoir pour partager de la connaissance data à ses collègues. On va voir ici les connaissances techniques qu'il peut être utiles de partager.
 
 ## 2. Historique et contexte
-L’automatisation trouve ses origines les plus lointaines dans la construction d’automates, dont les premiers modèles remontent à l’Antiquité. Cette méthode a depuis, pris une autre dimension, notamment durant le siècle dernier avec, par exemple, l’industrie automobile et les usines de Ford aux Etats-Unis, qui appliquaient les enseignements du taylorisme. Les machines exécutent des tâches répétitives, l’automatisation augmente la production et réduit considérablement la pénibilité du travail et le nombre d’heures effectuées.
+L’automatisation trouve ses origines les plus lointaines dans la construction d’automates, dont les premiers modèles remontent à l’Antiquité. Cette méthode a depuis, pris une autre dimension, notamment durant le siècle dernier avec, par exemple, l’industrie automobile et les usines de Ford aux Etats-Unis, qui appliquaient les enseignements du taylorisme. Les machines exécutent des tâches répétitives, l’automatisation augmente la production et réduit considérablement la pénibilité du travail et le nombre d’heures effectuées 🏭🏭
 
 Aujourd’hui, **l'usage de l'automatisation est visible partout**. Elle nous permet de laver nos vêtements, faire le café, etc. et facilite l’accès à l’information en temps réel aux quatre coins de la planète. 
 
@@ -31,9 +31,9 @@ Quelques configurations intéressantes permettent de gagner en efficacité et d'
 - **les abonnements sur les réseaux sociaux**, pour être notifié de l’activité des personnalités et comptes suivis.
 - **la souscription à des logiciels de veille marketing**, qui aident dans la collecte d’informations, mais aussi dans l’analyse et l’exploitation des données.
 
-Pour que la veille technologique soit pertinente, il ne suffit pas de récolter des informations en grand nombre, fiables et à jour. Il est essentiel de les trier, de les stocker et de les organiser afin de les rendre exploitables pour votre service et/ou votre entreprise. **L’analyse des informations et leur synthèse** permettront de leur donner un sens afin qu’elles soient utilisées à des fins stratégiques.
+Pour que la veille technologique soit pertinente, il ne suffit pas de récolter des informations en grand nombre, fiables et à jour. Il est essentiel de les trier, de les stocker et de les organiser afin de les rendre exploitables pour votre service et/ou votre entreprise. **L’analyse des informations et leur synthèse** permettront de leur donner un sens afin qu’elles soient utilisées à des fins stratégiques 🧐
 
-Une fois les analyses réalisées, il est important d’en **divulguer les résultats au sein de l’entreprise**, et cela de manière pérenne. Les informations de veille peuvent être transmises :
+Une fois les analyses réalisées, il est important d’en **divulguer les résultats au sein de l’entreprise**, et cela de manière pérenne 🗣 Les informations de veille peuvent être transmises :
 - lors de réunions informatives avec les services concernés,
 - lors de présentations en présence des décideurs,
 - à l’aide d’une synthèse rédigée et communiquée à l’ensemble de l’entreprise,
@@ -44,18 +44,25 @@ Le plus efficace, encore une fois, est d'automatiser ces process. Et nous allons
 
 ### 3.2. Réussir à automatiser certaines étapes
 
+**L’automatisation des entreprises consiste à confier un maximum de tâches répétitives et de peu de valeur ajoutée à des systèmes informatiques** plutôt qu’à des ressources humaines. L’objectif est d’améliorer la productivité, réduire les coûts, réduire les formalités et permettre aux équipes de dégager du temps pour se focaliser sur des tâches à valeur ajoutée telle que la relation client ou le suivi des situations complexes.
 
+Par ailleurs, l’automatisation aide les entreprises pour simplifier la progression des tâches complexes mais également réduire leurs coûts, fluidifier le transfert d’informations, mettre de l’ordre dans les différents processus, surveiller la progression en temps réel et allouer les ressources avec pertinence. Les avantages à long terme de l’utilisation des outils d’automatisation sont une amélioration de l’efficacité, de la stabilité et de la productivité. Les petites et moyennes entreprises ont, dans un premier temps, été majoritairement écartées des prémices de l’intelligence artificielle ou encore de l’automatisation car ayant un trop faible pouvoir d’achat pour ces systèmes très onéreux. Cependant, la situation a largement évolué et aujourd’hui la majorité des systèmes d’automatisation sont à la portée des plus petites structures 😅
 
-https://ressources.contournement.io/episode-5-focus-sur-zapier-et-lautomatisation-avec-thomas-jeanneau/
+Les critères permettant de décider quand utiliser l’automatisation des flux de travail sont les suivants :
+- La tâche est répétitive.
+- La tâche doit être accomplie avec précision, sans risque d’erreur humaine.
+- Une série de tâches simples peuvent être rendues plus efficaces lorsqu’elles sont automatisées.
 
-https://actualiteinformatique.fr/non-classe/lautomatisation-du-workflow
+Mais la question la plus importante que tu dois te poser depuis le début de la ressource : quels outils permettent d'automatiser son workflow et sont-ils faciles à prendre en main ?
 
-
+1) Rappelle-toi les premières semaines de ta formation : le code est ton meilleur allié donc si tu te sens, tu peux toujours **coder un script** avec Ruby ou Python. 
+2) Google a créé son langage de programmation qui sert à automatiser des scripts : **Apps Script**. Il n'a pas de version gratuite donc on ne te le recommande pas forcément au début.
+3) Il existe **des outils no-code** qui sont très performants. Voici [un classement des 3 meilleurs outils d'automatisation](https://atelierdulead.com/meilleurs-outils-automatisation/). Pour comprendre comment ça fonctionne avec des exemples, regarde [cette vidéo](https://www.youtube.com/watch?v=rct1-_UCs10) de 11 minutes.
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+Automatiser les tâches qui se répètent est indispensable aujourd'hui. Ce n'est pas réservé exclusivement aux équipes Data mais tu seras d'autant plus concerné car des process automatisés riment avec des datas plus complètes. Donc en tant que Data Analyst, tu pourras (parfois accompagné d'un Growth Hacker) proposer tes services de pro de l'automatisation pour soulager tes collègues et améliorer leur performance 😎
 
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+Les ressources sont très nombreuses sur le net : voici un exemple d'[un article](https://deux.io/automatisations-zapier/) qui te donne 47 automatisations possibles avec Zapier. Mais n'hésite pas à rechercher les contenus qui t'intéressent sur ce sujet 🚀🚀
 
 
