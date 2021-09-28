@@ -65,7 +65,7 @@ A la fin du cours OpenClassrooms, tu auras vu toutes les requêtes principales e
 
 
 ## 4. Points importants à retenir
-- Un modèle relationnel n'est rien de plus qu'une représentation de la réalité. Un non-codeur doit pouvoir comprendre ton schéma relationnel, demande à ton petit cousin de 12 ans ou [regarde quelle alternative Feynman avait trouvée](https://www.mieuxpenser.com/articles/la-meilleure-maniere-dapprendre-la-methode-feynman) 
+- Un modèle relationnel n'est rien de plus qu'une représentation de la réalité. Un non-codeur doit pouvoir comprendre ton schéma relationnel, demande à ton petit cousin de 12 ans ou [regarde la méthode qu'utilisait Feynman](https://www.mieuxpenser.com/articles/la-meilleure-maniere-dapprendre-la-methode-feynman) pour expliquer les concepts compliqués
 - Savoir pratiquer SQL. Une "cheet sheet" est toujours utile pour se rappeler de la syntaxe.
 
 ![ee](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-Cheet-Sheet-1.png)
