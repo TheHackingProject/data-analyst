@@ -20,14 +20,14 @@ Une façon assez simple de détecter ces valeurs est de réaliser un box plot (o
 Dans le cadre d’un projet de Machine Learning, on fera souvent le choix de supprimer une valeur aberrante. En effet, pour obtenir une meilleure qualité de prédiction il est nécessaire de traiter ces données car un modèle pourra être très sensible aux données extrêmes, ce qui va biaiser les prédictions.
 
 ### 3.3. Mauvais format
-La valeur de la donnée peut se retrouver avec un mauvais **formatage**. Un exemple simple est la gestion des `float`. En fonction de la source de données, les décimales peuvent être séparées par des virgule `,` ou bien par des points `.`. Lors du premiers cas, l'extraction en CSV peut poser problème car le CSV délimite ses données par une virgule.
+La valeur de la donnée peut se retrouver avec un mauvais **formatage**. Un exemple simple est la gestion des `float`. En fonction de la source de données, les décimales peuvent être séparées par des virgule `,` ou bien par des points `.`. Lors du premier cas, l'extraction en CSV peut poser problème car le CSV délimite ses données par une virgule.
 2 solutions s'offrent alors à toi :
-- Gérer le problème à la source (10% du temps) : contacter le client qui provisionne les données (Database).
-- Gérér le problème lors du traitement (90% du temps): trouver des solutions ingénieuses afin de reformater les données.
+- gérer le problème à la source (10% du temps) : contacter le client qui provisionne les données (Database)
+- gérer le problème lors du traitement (90% du temps): trouver des solutions ingénieuses afin de reformater les données.
 
-Un autre exemple de mauvais formatage est l'utilisation d'un Y/N ou d'un O/N (varchar) à la place d'un True/False(Booléen). Dans ce cas-ci, une simple recherche dans ta mémoire (ou sur une documentation appropriée) te donnera la solution.
+Un autre exemple de mauvais formatage est l'utilisation d'un Y/N ou d'un O/N (varchar) à la place d'un True/False (Booléen). Dans ce cas-ci, une simple recherche dans ta mémoire (ou sur une documentation appropriée) te donnera la solution.
 
-Un dernier exemple qui t'arrivera **FORCEMENT** et qui peut dans certains cas être difficile à relever est l'utilisation d'espace dans les données textuelles. Quoi de plus rageant que de ne pas réussir à trouver le texte `CoeurSurFéfé` lorsque la donnée originale est en réalité ` CoeurSurFéfé `. Plusieurs options s'offrent encore une fois à toi :
+Un dernier exemple qui t'arrivera **forcément** et qui peut dans certains cas être difficile à relever est l'utilisation d'espace dans les données textuelles. Quoi de plus rageant que de ne pas réussir à trouver le texte `"CoeurSurFéfé"` lorsque la donnée originale est en réalité `" CoeurSurFéfé "`. Plusieurs options s'offrent encore une fois à toi :
 - "rogner" les données textuelles (trim in English)
 - utiliser les [RegEx](https://www.w3schools.com/python/python_regex.asp).
 
