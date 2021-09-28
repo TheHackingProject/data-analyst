@@ -31,7 +31,7 @@ Avant de stocker ses données dans une base, il faut concevoir cette base (voir 
 
 Il s'agit plutôt d'un travail de développeur informatique.
 
-> Etre développeur base de données (ou *Data Engineer*) c'est être un spécialiste informatique qui conçoit et déploie une ou plusieurs bases de données. Cette personne est  garante de la cohérence et de l'accessibilité permanente des informations. Elle gère les projets de développement liés au système d'information de l'entreprise qui requièrent le déploiement des bases de données. Elle doit surveiller les performances de la base de données afin de vérifier si la base gère correctement les paramètres.
+> Etre développeur base de données (ou *Data Engineer*) c'est être un spécialiste informatique qui conçoit et déploie une ou plusieurs bases de données. Cette personne est  garante de la cohérence et de l'accessibilité permanente des informations. Elle gère les projets de développement liés au système d'information de l'entreprise qui requièrent le déploiement des bases de données. Elle doit surveiller les performances de la base de données afin de vérifier si la base gère correctement les paramètres. Dans les entreprises plus traditionnelles (industries manufacturières, grands groupes), tu entendras parler "d'Administrateur Base de Données" ou "DB Administrator".
 
 Depuis l'arrivée du Big Data, ces profils sont extrêmement recherchés car certains ont les compétences pour concevoir des bases de données NoSQL. Tu vas voir dans l'autre ressource ce que c'est.
 
@@ -47,7 +47,7 @@ L'analyse des données est devenue très complexe depuis une dizaine d'années. 
 
 En théorie : 
 Pour créer des bases de données, il faut être dev informatique. 
-Pour analyser des bases de données, il faut avoir un esprit analytique, orienté business. 
+Pour analyser des bases de données, il faut avoir un esprit analytique, orienté business et connaître les bases des statistiques. 
 
 En pratique : 
 Ce sont parfois les mêmes personnes qui réalisent ces deux tâches. En tout cas, ces deux types de profils travaillent régulièrement ensemble et parlent, en partie, les mêmes langages. C'est pourquoi il est important que chacun des deux ait une bonne vision de ce que fait l'autre. D'où l'intérêt de la journée d'aujourd'hui pour vous moussaillons qui avez plutôt opté pour la partie analytique vs le dev pur : vous allez plongé dans l'univers du développement de bases de données 🙈🙈

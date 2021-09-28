@@ -19,8 +19,21 @@ Une façon assez simple de détecter ces valeurs est de réaliser un box plot (o
 
 Dans le cadre d’un projet de Machine Learning, on fera souvent le choix de supprimer une valeur aberrante. En effet, pour obtenir une meilleure qualité de prédiction il est nécessaire de traiter ces données car un modèle pourra être très sensible aux données extrêmes, ce qui va biaiser les prédictions.
 
+### 3.3. Mauvais format
+La valeur de la donnée peut se retrouver avec un mauvais **formatage**. Un exemple simple est la gestion des float. En fonction de la source de données, les décimales peuvent être séparées par des virgule ',' ou bien par des points '.'. Lors du premiers cas, l'extraction en CSV peut poser problème car le CSV délimite ses données par... une virgule.
+2 solutions s'offrent alors à toi :
+- Gérer le problème à la source (10% du temps) : Contacter le client qui provisionne les données, Gérer le problème de format directement à la source (Database),...
+- Gérér le problème lors du traitement (90% du temps): Trouver des solutions ingénieuse afin de reformatter les données
+
+Un autre exemple de mauvais formattage est l'utilision c'est Y/N ou d'un O/N (varchar) à la place d'un True/False(Booléen). Dans ce cas ci, une simple recherche dans ta mémoire (ou sur une documentation appropriée) te donnera la solution.
+
+Un dernier exemple qui t'arrivera **FORCEMENT** et qui peut dans certains cas être difficile à relever est l'utilisation d'espace dans les données de textes. Quoi de plus rageant que de ne pas réussir à trouver le texte `"CoeurSurFéfé"` lorsque la donnée originale est en réalité `"CoeurSurFéfé `. Plusieurs options s'offrent encore une fois à toi :
+- "rogner" les données textuelles (trim in English)
+- Utiliser les [RegEx](https://www.w3schools.com/python/python_regex.asp)
+
+
 ## 4. Points importants à retenir
-- Le nettoyage des données est une étape cruciale pour la réussite de tout projet data. Il y a 2 étapes dans le nettoyage des données : la gestion des données manquantes et la gestion des valeurs aberrantes.
+- Le nettoyage des données est une étape cruciale pour la réussite de tout projet data. Il y a 3 étapes dans le nettoyage des données : la gestion des données manquantes, la gestion des valeurs aberrantes, et la gestion du mauvais format.
 
 - Dans la plupart des cas, on est obligés de faire des allers-retours entre la phase de nettoyage et la phase de description (analyse). En phase d'analyse, on trouve souvent de nouvelles erreurs, et il faut revenir au nettoyage. 
 
