@@ -29,6 +29,8 @@ https://astrakhan.fr/blog/product-ownership-data/
 ### 3.3. Consultant Data
 blabla
 
+Peut être parler ici de stratégie data - feuille de route
+
 ## 4. Points importants à retenir
 La ressource en quelques points importants.
 
