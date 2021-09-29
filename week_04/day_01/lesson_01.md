@@ -35,12 +35,13 @@ Un projet répond même à un triple objectif (appelé le "triangle magique") : 
 
 ![yo](https://methodo-projet.fr/wp-content/uploads/2018/08/IMG_PPT_0065.jpg)
 
-On trouve 5 étapes dans un projet : 
-- le lancement
-- la planification
+On trouve 4 étapes dans un projet : 
+- le lancement et la planification
 - l'exécution ou déroulement
 - la surveillance et le contrôle
 - la clôture.
+
+![djay](https://cdn.slidesharecdn.com/ss_thumbnails/4-phases-du-management-de-projet-100111152328-phpapp02-thumbnail-4.jpg?cb=1263223412)
 
 ### 3.2. La gestion de projet
 
