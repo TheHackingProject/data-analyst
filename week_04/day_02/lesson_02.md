@@ -1,4 +1,4 @@
-# Les infrastructures, les besoins du Big Data
+# Les infrastructures, le socle du Big Data
 
 ## 1. Introduction
 Une introduction sur la ressource.
