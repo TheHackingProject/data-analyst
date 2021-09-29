@@ -14,6 +14,16 @@ blabla
 
 https://www.blue-search.com/metiers-du-digital/metiers-de-la-data/chef-de-projet-data/?doing_wp_cron=1632835389.7053749561309814453125
 
+https://www.talend.com/fr/resources/what-is-data-management/
+
+
+https://www.axysweb.com/data-management-definition-enjeux-gestion-donnees/
+
+
+
+https://www.lebigdata.fr/data-management
+
+
 
 
 ### 3.2. Chef de produit Data ou Data Product Owner
