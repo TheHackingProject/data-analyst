@@ -23,7 +23,33 @@ Enfin, **les dernières méthodes dites « agiles »** s’appuient sur le Manif
 Nous verrons ici les fondamentaux d'un projet, ainsi que les principales méthodologies de gestion de projet à connaître.
 
 ### 3.1. C'est quoi un projet ?
-Détailler les différentes phases du projet
+On peut définir un projet ainsi : un ensemble d’actions à réaliser pour satisfaire un objectif défini, dans le cadre d’une mission précise, et pour la réalisation desquelles on a identifié un début et une fin. 
+
+**Les projets sont à distinguer des opérations**. Toutes les activités d’une organisation peuvent être divisées en projets et en opérations. Les opérations sont des activités continues, répétitives et répétitives dans toute organisation (ex : la comptabilité, la finance ou la production). A l'inverse, les projets sont des tâches spécifiques qui ont un début et une fin, telles que le développement d'un nouveau produit. 
+
+Une chose qui devient claire avec la définition du projet et des opérations est que contrairement aux projets, dans les opérations, il faut rester fidèle à ses décisions pendant très longtemps. **En gestion de projet, les décisions sont définies en fonction de la taille et de la nature du projet et peuvent également être modifiées entre-temps**. 
+
+Un chef de projet reçoit un budget dans lequel il doit s'acquitter de sa tâche, tandis que dans le cas d'une opération, il est du devoir du chef des opérations d'exécuter les opérations de manière à générer un profit maximal.
+
+Un projet répond même à un triple objectif (appelé le "triangle magique") : de contenu (ou qualité), de délai et de budget. 
+
+On trouve 5 étapes dans un projet : 
+- le lancement
+- la planification
+- l'exécution ou déroulement
+- la surveillance et le contrôle
+- la clôture.
+
+### 3.2. La gestion de projet
+
+La gestion de projet (menée par les chefs de projet) poursuit différentes missions :
+- définir les objectifs
+- améliorer la communication
+- définir et optimiser le planning
+- définir et optimiser l'organisation
+- contrôler le changement
+- définir, améliorer et contrôler la gestion du risque ...
+
 
 expliquer le cahier des charges
 
