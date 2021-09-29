@@ -1,4 +1,4 @@
-# Infrastructures, les besoins matériels du Big Data
+# Les infrastructures, les besoins du Big Data
 
 ## 1. Introduction
 Une introduction sur la ressource.
