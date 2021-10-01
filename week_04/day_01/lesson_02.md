@@ -59,7 +59,7 @@ ___
 
 Il est impossible aujourd’hui de contester l’importance des algorithmes dans le succès des Spotify, Netflix, Uber ou Amazon. Découvrir de nouveaux artistes ou contenus, avoir à tout moment un véhicule à moins de cinq minutes, compléter une liste de courses par des produits complémentaires pertinents, … tout ceci est rendu possible par les nouvelles technologies d’acquisition, de stockage et de traitement des données.
 
-Prenons l'exemple de Viadeo VS LinkedIn : nous avons là deux plateformes au départ assez proches, concentrant des millions de profils professionnels. Alors que Viadeo est restée pendant longtemps une simple base de données de CV, Linkedin a multiplié les fonctionnalités et les opportunités pour ses membres autour du recrutement, de la prospection commerciale, des formations, grâce notamment à ses moteurs de recommandations. En utilisant de façon pertinente les données disponibles, Linkedin génère une valeur supérieure à celle de Viadeo pour les utilisateurs.
+Prenons l'exemple de Viadeo VS Linkedin : nous avons là deux plateformes au départ assez proches, concentrant des millions de profils professionnels. Alors que Viadeo est restée pendant longtemps une simple base de données de CV, Linkedin a multiplié les fonctionnalités et les opportunités pour ses membres autour du recrutement, de la prospection commerciale, des formations, grâce notamment à ses moteurs de recommandations. En utilisant de façon pertinente les données disponibles, Linkedin génère une valeur supérieure à celle de Viadeo pour les utilisateurs.
 
 ___
 
