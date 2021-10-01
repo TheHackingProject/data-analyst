@@ -87,14 +87,25 @@ ___
 
 ### 3.3. Certains frameworks agiles à connaître
 
-SCRUM
-https://www.youtube.com/watch?v=anZcEIQlpoY
+#### 3.3.1 Scrum
 
-https://hubvisory.com/blog/les-differents-roles-d-une-equipe-produit-sous-scrum/
+Scrum est l'un des frameworks Agile les plus connus. Le Guide Scrum définit Scrum comme « un cadre de travail (framework) au sein duquel les acteurs peuvent aborder des problèmes complexes et adaptatifs, en livrant de manière efficace et créative des produits de la plus grande valeur possible ».
 
+Par définition, **Scrum est conçu pour être léger et simple à comprendre**. Certains diront cependant qu'il est difficile à maîtriser. L'élément le plus reconnaissable de Scrum est l'utilisation d'itérations délimitées dans le temps : **les équipes Scrum fonctionnent par périodes de temps déterminées, appelées sprints**, qui durent généralement de deux à quatre semaines.
+
+L'utilisation de sprints permet aux équipes de livrer rapidement et de manière prévisible, tout en conservant l'agilité nécessaire pour changer d'orientation au besoin.
+
+Pour comprendre le framework Scrum en 10 minutes, regarde [cette vidéo](https://www.youtube.com/watch?v=anZcEIQlpoY). Et pour comprendre les différents rôles d'une équipe produit sous Scrum, lis [cet article](https://hubvisory.com/blog/les-differents-roles-d-une-equipe-produit-sous-scrum/).
+
+#### 3.3.2 SAFe
+
+**SAFe est le principal framework de l’agilité à l’échelle**. Imaginez que le nombre de personnes de votre équipe explose, et passe à 100-150 personnes. C’est là que SAFe entre en jeu. Spécifiquement conçu pour coordonner de larges équipes et projets agiles, ce framework agile créé en 2011 a déjà permis à de très grandes entreprises dans le monde de trouver une nouvelle manière de développer des logiciels et créer de la valeur.
+
+SAFe promeut l'alignement, la collaboration et la livraison dans un grand nombre d'équipes Agile. Il repose sur trois ensembles de connaissances principaux : le développement de logiciels Agile, le développement de produits Lean et la pensée systémique.
 
 ## 4. Points importants à retenir
 Etre un bon chef de projet c'est très difficile car cela demande beaucoup de compétences différentes, et surtout une très bonne communication. Les méthodologies de gestion de projet sont là pour vous aider à structurer votre fonctionnement : cherchez à bien les connaître pour pouvoir ensuite réutiliser les aspects qui correspondent au contexte de votre projet 🤘
 
 ## 5. Pour aller plus loin
-
+- Un [cours OC](https://openclassrooms.com/fr/courses/4296701-gerez-un-projet-digital-avec-une-methodologie-en-cascade) sur la méthodologie en cascade et un autre [cours OC](https://openclassrooms.com/fr/courses/4511226-gerez-votre-projet-avec-une-equipe-scrum) sur Scrum
+- Si le sujet t'intéresse, tu peux aussi te renseigner sur les certifications existantes en gestion de projet. Clique [ici](https://blog-gestion-de-projet.com/certifications-en-gestion-de-projet/) pour en savoir plus
