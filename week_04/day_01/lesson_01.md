@@ -31,7 +31,7 @@ Une chose qui devient claire avec la définition du projet et des opérations es
 
 Autre différence : un chef de projet reçoit un budget dans lequel il doit s'acquitter de sa tâche, tandis que dans le cas d'une opération, il est du devoir du chef des opérations d'exécuter les opérations de manière à générer un profit maximal.
 
-Un projet répond même à un triple objectif (appelé le "triangle magique") : de contenu (ou qualité), de délai et de budget. 
+**Un projet répond même à un triple objectif** (appelé le "triangle magique") : **de contenu (ou qualité), de délai et de budget**. 
 
 ![yo](https://methodo-projet.fr/wp-content/uploads/2018/08/IMG_PPT_0065.jpg)
 
@@ -56,25 +56,33 @@ A chaque étape du projet, le rôle du chef de projet va évoluer. Sur l'image s
 
 ![djay](https://cdn.slidesharecdn.com/ss_thumbnails/4-phases-du-management-de-projet-100111152328-phpapp02-thumbnail-4.jpg?cb=1263223412)
 
-En ce qui concerne le développement logiciel, certaines étapes sont incontournables. La compréhension précise du besoin à solutionner par une solution informatique est un des éléments clé dans la réussite d’un projet informatique. Cependant, de nombreux projets continuent à négliger cette étape, entraînant dans la suite du projet des problèmes importants voire désastreux (retard, abandon du projet).
+En ce qui concerne le développement logiciel, certaines étapes sont incontournables. **La compréhension précise du besoin à solutionner** par une solution informatique est un des éléments clé dans la réussite d’un projet informatique. Cependant, de nombreux projets continuent à négliger cette étape, entraînant dans la suite du projet des problèmes importants voire désastreux (retard, abandon du projet).
 
-L’une des étapes primordiales pour aboutir au choix de l’outil informatique répondant au mieux aux besoins des utilisateurs de ce futur outil est **la rédaction du cahier des charges**. Le cahier des charges est le recueil **des exigences fonctionnelles** (ce que le système doit faire) et **non-fonctionnelles** (ce que le système doit être, cad ses qualités désirées telles que sa robustesse, sa performance, sa convivialité etc.), demandées par le donneur d'ordre. 
+Ainsi, l'une des étapes primordiales pour aboutir au choix de l’outil informatique répondant au mieux aux besoins des utilisateurs de ce futur outil est **la rédaction du cahier des charges**. Le cahier des charges est le recueil **des exigences fonctionnelles** (ce que le système doit faire) et **non-fonctionnelles** (ce que le système doit être, cad ses qualités désirées telles que sa robustesse, sa performance, sa convivialité etc.), demandées par le donneur d'ordre. 
 
 Pour en savoir plus sur comment bien rédiger un cahier des charges, tu peux lire [ce chapitre](https://openclassrooms.com/fr/courses/4296701-gerez-un-projet-digital-avec-une-methodologie-en-cascade/4303801-formalisez-votre-projet-dans-un-cahier-des-charges) du cours OpenClassrooms.
 
 ### 3.2. Différences entre les méthodes de gestion de projet traditionnelles et les méthodes agiles
 
-Aujourd’hui, choisir une méthode de gestion est primordial pour structurer un projet. Dans la gestion de projet informatique, on distingue deux approches très importantes et différentes l'une de l'autre :
+Aujourd’hui, **choisir une méthode de gestion est primordial pour structurer un projet**. Dans la gestion de projet informatique, on distingue deux approches très importantes et différentes l'une de l'autre :
 - les méthodes dites traditionnelles
 - les méthodes dites agiles.
 
-Les méthodes traditionnelles appliquent un processus séquentiel et linéaire. Autrement dit, pour passer d’une étape à une autre, il faut valider la précédente. L’ensemble du projet est structuré par une documentation précise et validée dès le début du projet. 
+**Les méthodes traditionnelles appliquent un processus séquentiel et linéaire**. Autrement dit, pour passer d’une étape à une autre, il faut valider la précédente. L’ensemble du projet est structuré par une documentation précise et validée dès le début du projet. 
 
-Dans les méthodes traditionnelles, nous allons retrouver le modèle en cascade, aussi appelé *Waterfall*, ou alors le modèle du cycle en V. Ce management de projet traditionnel est un héritage de l’industrie et de la construction de bâtiments. Il repose sur deux hypothèses : 
+Dans les méthodes traditionnelles, nous allons retrouver le modèle en cascade, aussi appelé *Waterfall*, ou alors le modèle du cycle en V. Le management de projet traditionnel est un héritage de l’industrie et de la construction de bâtiments. 
 
-Pour faire simple, dans les méthodes dites traditionnelles, on va se trouver dans un principe de projet non-itératif. Le client fournira un cahier des charges qui détaille le projet qu'il souhaite mettre en place. Après plusieurs échanges avec le client pour être certain que le besoin est clair, le prestataire va pouvoir intervenir, réaliser le projet et le livrer au client à la toute fin. Et si le besoin du client a changé pendant cette phase de réalisation du projet, c'est compliqué de faire machine arrière : le prestataire s'engage sur un périmètre défini (une liste de fonctionnalités bien détaillée), c'est donc plus difficile quand il s'agit d'enlever une brique complète ou bien de la refaire autrement.
+**Pour les méthodes dites agiles, on va au contraire se trouver dans un principe de projet itératif**, c'est-à-dire qu'on va construire l'application au fur et à mesure et créer des livraisons intermédiaires. Pour ce genre de méthode, il faut évidemment que le client soit bien présent. En travaillant en parallèle avec le prestataire, il aura beaucoup plus de libertés s'il souhaite changer une fonctionnalité ou demander une évolution non pensée au début du projet.
 
-Pour les méthodes dites agiles, on va au contraire se trouver dans un principe de projet itératif, c'est-à-dire qu'on va construire l'application au fur et à mesure et créer des livraisons intermédiaires. Pour ce genre de méthode, il faut évidemment que le client soit bien présent. En travaillant en parallèle avec le prestataire, il aura beaucoup plus de libertés s'il souhaite changer une fonctionnalité ou demander une évolution non pensée au début du projet.
+___ 
+
+😩😩 Quelle méthode dois-je choisir ? 😩😩
+
+Très à la mode en ce moment, les méthodes agiles peuvent paraître plus attractives et efficaces. Néanmoins, les méthodes traditionnelles resistent et peuvent être privilégiées pour certains projets.
+
+Pour résumer, **les méthodes traditionnelles conviennent mieux aux projets sans complexité technologique et pour lesquels le client a une vision très précise de son besoin**. Plus souple, une méthode agile offre de nombreux avantages en termes d'adaptabilité au changement, de gestion des risques et de visibilité sur le produit final. Elle sera privilégiée sur des projets plus complexes, sans documentation détaillée (si les délais sont assez courts par exemple).
+
+___
 
 
 ### 3.3. Certains frameworks agiles à connaître
@@ -86,7 +94,7 @@ https://hubvisory.com/blog/les-differents-roles-d-une-equipe-produit-sous-scrum/
 
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+Etre un bon chef de projet c'est très difficile car cela demande beaucoup de compétences différentes, et surtout une très bonne communication. Les méthodologies de gestion de projet sont là pour vous aider à structurer votre fonctionnement : cherchez à bien les connaître pour pouvoir ensuite réutiliser les aspects qui correspondent au contexte de votre projet 🤘
 
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+
