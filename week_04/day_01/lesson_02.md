@@ -7,7 +7,7 @@ Comme souvent malheureusement avec le titre "chef de projet", on ne comprend pas
 Certes, la Data Science et l’Intelligence Artificielle ont fait des avancées phénoménales, mais elles ont souvent été faites au prix d’investissements colossaux savamment orchestrés par les géants du secteur. Face à cette démonstration de force qui promet de bouleverser tous les domaines, nombre d’entreprises, poussées par un mélange de peur d’être dépassées et d’excitation face à un tel potentiel, se lancent à corps perdu vers ce nouvel eldorado.
 
 Voulant prendre part à cette révolution, de nombreux acteurs se précipitent vers la mise en place d’une solution, consistant principalement à transposer des cas d’usage
-classiques observés ailleurs à leur situation. Cette mécanique fait courir le risque d’apporter une solution à un problème qui n’existe pas au détriment d’une opportunité bien plus pertinente. Par exemple, nous avons vu ces dernières années des initiatives autour des chatbots se multiplier, malgré des résultats mitigés : le nouveau parcours
+classiques observés ailleurs à leur situation. Cette mécanique fait courir **le risque d’apporter une solution à un problème qui n’existe pas au détriment d’une opportunité bien plus pertinente**. Par exemple, nous avons vu ces dernières années des initiatives autour des chatbots se multiplier, malgré des résultats mitigés : le nouveau parcours
 utilisateur est souvent plus complexe et moins intuitif qu’une navigation classique sur le site.
 
 Pour éviter cet écueil, **il faut chercher à cadrer rigoureusement le problème que le projet ou produit data doit résoudre**. Finalement, mettre en place une gestion de projet efficace et adaptée au projet. C'est pourquoi, les entreprises recherchent de plus en plus d'experts en gestion de projet qui, dans le même temps, ont des compétences data qu'ils doivent mettre à profit de l'équipe projet.
@@ -75,7 +75,7 @@ Le point commun entre tous les consultants data, c’est une forte connaissance 
 
 
 ## 4. Points importants à retenir
-La data n'est pas qu'une affaire technique. Bien au contraire, elle devient présente dans tellement de projets et de produits que le poste qui a tendance a le plus augmenté ses dernières années est bien le chef de projet Data. Véritable interface entre la technique et le métier, ce rôle semble indispensable pour garantir l'intérêt des projets data réalisés. 
+**La data n'est pas qu'une affaire technique**. Bien au contraire, elle devient présente dans tellement de projets et de produits que le poste qui a tendance a le plus augmenté ses dernières années est bien le chef de projet Data. Véritable interface entre la technique et le métier, ce rôle semble indispensable pour garantir l'intérêt des projets data réalisés. 
 
 ## 5. Pour aller plus loin
 - Consulter [l'étude](https://datarecrutement.fr/actualites/metiers/le-salaire-du-consultant-data/) sur les salaires des consultants data
