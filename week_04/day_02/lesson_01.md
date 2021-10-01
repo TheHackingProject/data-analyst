@@ -21,6 +21,6 @@ La ressource en quelques points importants.
 ## 5. Pour aller plus loin
 Quelques éléments en ligne pour aller plus loin
 
-
+https://syntec-conseil.fr/wp-content/uploads/2020/09/Syntec-Conseil_Glossaire-des-principaux-m%C3%A9tiers-de-la-Data.pdf
 
 https://corporate.apec.fr/files/live/sites/corporate/files/Nos%20%C3%A9tudes/pdf/Les-metiers-de-la-data.pdf
