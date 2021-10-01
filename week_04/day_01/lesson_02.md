@@ -37,21 +37,21 @@ Au-dessus des Chefs de projet Data ou Data Managers, on parle désormais de *Hea
 **Un produit dit « Data »** est un produit qui peut s’associer à des solutions cloud, à des modèles de Data science ou de Machine Learning, à un Data Hub, ou encore à des reportings client. La définition du produit est donc légèrement différente de ce que nous avons l’habitude de voir (comme un site internet ou une application mobile).
 
 Le Product Owner Data, en plus de garantir la qualité de la solution délivrée et sa conformité avec l’expression des besoins métier, est présent également pour d'autres missions :
-● Maximiser la valeur de la donnée vis-à-vis des fonctionnalités de la plateforme Data
-● Démocratiser l’utilisation de la donnée pour créer de la valeur métier
-● Maintenir une confiance auprès des métiers sur la qualité de la donnée utilisée
-● Maîtriser la sécurisation des données sur les différents domaines métier
-● Faire évoluer l’esprit de l’utilisateur et lui permettre d’acquérir la culture des données  (« Data-Driven »)
+- Maximiser la valeur de la donnée vis-à-vis des fonctionnalités de la plateforme Data
+- Démocratiser l’utilisation de la donnée pour créer de la valeur métier
+- Maintenir une confiance auprès des métiers sur la qualité de la donnée utilisée
+- Maîtriser la sécurisation des données sur les différents domaines métier
+- Faire évoluer l’esprit de l’utilisateur et lui permettre d’acquérir la culture des données  (« Data-Driven »)
 
 Il ne s’agit pas simplement de connaître la donnée mais il faut aussi savoir comment l’utiliser pour maximiser sa valeur. En termes de compétences, le Product Owner Data devra alors, en fonction du produit :
-● Comprendre l’architecture Data présente autour de la donnée (Data Lake, Data-Hub, Data-Lab, Data Warehouse, Pipeline)
-● Connaître les différentes solutions du marché (Cloud, Data Gouvernance, Data virtualisation, ETL …)
-● Appréhender les différents rôles que constitue son équipe Data (Data Analyst, Data Scientist, Data Engineer, …)
-● Pouvoir modéliser et spécifier les dimensions, informations et indicateurs (étoile, flocon, …)
-● Manipuler des outils de Data Visualisation (Kibana, Tableau, Power Bi, Qlik, …)
-● Disposer d’une vision bout en bout du traitement de la donnée
-● Manipuler les langages de programmation SQL, Python, Spark, Scala, R, Pig, …
-● Communiquer avec le client pour comprendre son besoin
+- Comprendre l’architecture Data présente autour de la donnée (Data Lake, Data-Hub, Data-Lab, Data Warehouse, Pipeline)
+- Connaître les différentes solutions du marché (Cloud, Data Gouvernance, Data virtualisation, ETL …)
+- Appréhender les différents rôles que constitue son équipe Data (Data Analyst, Data Scientist, Data Engineer, …)
+- Pouvoir modéliser et spécifier les dimensions, informations et indicateurs (étoile, flocon, …)
+- Manipuler des outils de Data Visualisation (Kibana, Tableau, Power Bi, Qlik, …)
+- Disposer d’une vision bout en bout du traitement de la donnée
+- Manipuler les langages de programmation SQL, Python, Spark, Scala, R, Pig, …
+- Communiquer avec le client pour comprendre son besoin
 
 ___ 
 
