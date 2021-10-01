@@ -1,7 +1,7 @@
 # Les différents types de chefs de projet Data
 
 ## 1. Introduction
-Comme souvent malheureusement avec le titre "chef de projet", on ne comprend pas immédiatement ce qui se cache derrière ce titre. C'est pareil pour un "chef de projet data". C'est pourquoi on va voir aujourd'hui les différentes réalités du métier 💼
+Comme souvent malheureusement avec le titre "chef de projet", on ne comprend pas immédiatement les misions qui se cachent derrière. C'est pareil pour le "chef de projet data". C'est pourquoi on va voir aujourd'hui les différentes réalités du métier 💼
 
 ## 2. Historique et contexte
 Certes, la Data Science et l’Intelligence Artificielle ont fait des avancées phénoménales, mais elles ont souvent été faites au prix d’investissements colossaux savamment orchestrés par les géants du secteur. Face à cette démonstration de force qui promet de bouleverser tous les domaines, nombre d’entreprises, poussées par un mélange de peur d’être dépassées et d’excitation face à un tel potentiel, se lancent à corps perdu vers ce nouvel eldorado.
