@@ -35,7 +35,7 @@ L’une des principales particularités d’un Data Warehouse est que les inform
 
 Les Data Warehouses présentent de nombreux avantages. Pour les responsables informatiques, ils permettent notamment de séparer les processus analytiques des processus d’exploitation pour améliorer les performances dans ces deux domaines.
 
-La leçon d'hier sur le flou potentiellement existant aujourd'hui entre Data Engineer et un Data Analyst fait parfois sens dans certaines entreprises. Si la boîte n'a pas de Data Engineer à sa disposition, le Data Warehouse va plus ressembler à une brocante de village (Redondance d'informations, informations non structurées...)! Ce sera donc au Data Analyst d'aller farfouiller (Extract), remettre en forme (Transform) et mettre à disposition (Load) les données du Data Warehouse. On en revient toujours à la compétence "Couteau-Suisse". 
+La leçon d'hier sur le flou potentiellement existant aujourd'hui entre Data Engineer et un Data Analyst fait parfois sens dans certaines entreprises. Si l'entreprise n'a pas de Data Engineer à sa disposition, le Data Warehouse va plus ressembler à une brocante de village (redondance d'informations, informations non structurées...) ! Ce sera donc au Data Analyst d'aller farfouiller (Extract), remettre en forme (Transform) et mettre à disposition (Load) les données du Data Warehouse. On en revient toujours à la fameuse compétence "couteau-suisse" que doit avoir le Data Analyst 😅
 
 
 ## 4. Points importants à retenir
