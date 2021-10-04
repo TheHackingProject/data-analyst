@@ -4,7 +4,7 @@
 On a déjà vu rapidement lors de la première semaine quel était le rôle du Data Engineer et à quel moment il intervenait par rapport au Data Analyst. Mais comme ces rôles sont très importants, nous allons revoir en détail ces métiers qui gèrent la collecte et le stockage des données.
 
 ## 2. Historique et contexte
-Il est difficile de dater avec précision l’apparition du Data Engineering. C’est dans les années 1980 que le terme  *information engineering* est inventé pour décrire la conception des bases de données et pour inclure l’ingénierie logicielle à l’analyse de données.
+Il est difficile de dater avec précision l’apparition des ingénieurs de la donnée. C’est dans les années 1980 que le terme  *information engineering* est inventé pour décrire la conception des bases de données et pour inclure l’ingénierie logicielle à l’analyse de données.
 
 Mais avec l’essor d’Internet dans les années 1990 et 2000, les administrateurs de bases de données, développeurs SQL et autres professionnels de l’informatique liés à ce domaine n’étaient pas encore considérés comme des "Data Engineers".
 
@@ -24,8 +24,26 @@ Dans cette perspective, **il effectue une veille technologique afin de maîtrise
 
 Les Data Architects sont assez proches d’un autre métier de la data : le Data Engineer. Ce dernier construit et maintient l’architecture informatique liées aux données, soit tous les outils et les fonctionnalités conçus et mis en place par le Data Architect ! **Le Data Architect intervient avant le Data Engineer dans la construction de systèmes d’information liés à la donnée**. Une fois les outils conçus et prêts à être utilisés par les métiers, le Data Engineer prend la relève.
 
-Finalement, le métier de Data Architect n’est pas un emploi de début carrière et nécessite une expérience professionnelle préalable de quelques années, par exemple en tant que Data Engineer, architecte logiciel ou expert en base de données.
+Le métier paraît complexe, non ? En effet, Data Architect n’est pas un emploi de début carrière et nécessite une expérience professionnelle préalable de quelques années (entre 5 et 10 ans), par exemple en tant que Data Engineer, architecte logiciel ou expert en base de données.
 
+A savoir enfin : ce rôle devient de plus en plus clé dans un contexte d’architecture Cloud, ouverte, de temps réel et de contraintes de cyber sécurité et réglementaires 😎😎
+
+___
+
+🤔🤔 Quelles compétences faut-il avoir pour être architecte data ? 🤔🤔
+
+Voici une liste non exhaustive qui t'aidera à y voir plus clair : 
+- Maîtrise de l’environnement Hadoop/Spark/Yarn (que ce soit en local ou sur cloud) 
+- Maîtrise des systèmes d’exploitation (Unix, Windows, etc.) 
+- Maîtrise de langages de programmation (C++, Java, Python, R, Scala, etc.) 
+- Maîtrise en base de données (SQL/NoSQL) et gestion de base de données 
+- Maîtrise d’un outil de gestion de flux (Kafka, Flink, etc.)  
+- Bonne compréhension et connaissance des interfaces réseaux et de l’infrastructure matérielle  
+- Connaissance de la réglementation concernant les données personnelles et des principes de cybersécurité  
+- Connaissance des solutions de manipulation des données ETL/ELT  
+- Bonne compréhension de la stratégie d’entreprise et des besoins business
+
+___
 
 ### 3.2. *Data Engineer* ou ingénieur des données
 blabla
