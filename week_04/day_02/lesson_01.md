@@ -46,14 +46,34 @@ Voici une liste non exhaustive qui t'aidera à y voir plus clair :
 ___
 
 ### 3.2. *Data Engineer* ou ingénieur des données
-blabla
+
+Dans le détail, les responsabilités qui sont confiées au Data Engineer peuvent fortement varier d’une organisation à l’autre. 
+
+Souvent, il doit **développer des pipelines de données pour assembler les données en provenance de multiples systèmes**. Il doit aussi intégrer, consolider, nettoyer et structurer les données pour qu’elles puissent être utilisées dans des applications analytiques individuelles. C’est lui qui se charge de **mettre en place et de maintenir l’infrastructure de données** sur laquelle sont basés les systèmes informatiques et les applications de l’entreprise. Par *data engineering*, on entend qu’ils sont responsables du développement, de la construction, de la maintenance et du test des architectures, telles que les bases de données et les systèmes de traitement.
+
+L’ingénieur des données officie généralement au sein d’une équipe analytique. Son rôle est alors de fournir des données prêtes à l’usage aux Data Scientists, afin qu’ils puissent effectuer des requêtes à des fins d’analyse prédictive, de Machine Learning ou de Data Mining. En effet, pour analyser et exploiter les données, les Data Scientists ont besoin de données de haute qualité. Le rôle des ingénieurs est de collecter et de préparer les données pour qu’elles puissent être utilisées.
+
+Quels sont les compétences du Data Engineer ? 🤠
+
+- **Connaissance approfondie de SQL et autres langages de base de donnée** : le Data Engineer doit maîtriser les outils de gestion des bases de données (BDD) et avoir une bonne connaissance en SGBDR (SQL, DB2…). Une maîtrise d’autres technologies de requêtage telles que Cassandra ou Bigtable, sont intéressantes en fonction des technologies utilisées par l’entreprise, d’autant plus que les grandes entreprises ne se contentent souvent pas d’une seule technologie de requêtage.
+
+- **Stockage de données et outils ETL** : la maîtrise des outils de stockage de données (Hadoop) et des ETL (Talend, Nifi…) du marché est essentielle ;
+
+- **Analyses basées sur Hadoop (Hbase, Hive, etc.)** : une bonne compréhension de l’analyse de donnée basée sur Apache Hadoop est une compétence de plus en plus courante dans le métier de Data Engineer, les connaissances de Hbase ou Hive étant souvent considérées comme un must-have sur les postes de Data Engineer middle & Senior. On en demandera moins aux Data Engineers juniors.
+
+- **Maîtrise du Code** : la connaissance d’une ou plusieurs langues de programmation est un vrai plus et devient même un prérequis. On exigera une familiarité, sinon une expertise dans un des langages suivants : Python, C / C ++, Java, Scala, Perl, ou dans d’autres langues similaires.
+
+- **Machine Learning, Deep Learning et Intelligence Artificielle** : bien que ce soit principalement le domaine de compétences du data scientist, un certain niveau de compréhension sur ces domaines représente évidemment un atout afin de pouvoir travailler en collaboration avec les Data Scientists. Pour cette raison, une certaine connaissance de l’analyse statistique et de la modélisation des données peuvent s’avérer utiles, tout comme des connaissances dans le domaine de l’apprentissage automatique. L’ensemble de ces compétences « bonus » servent aussi à se démarquer, car être capable de « mettre les deux chapeaux » est inestimable pour une entreprise.
+
+- **Divers systèmes d’exploitation** : UNIX, Linux et Solaris.
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+Dans un projet data, on considère souvent que la valeur réside dans l’algorithme permettant de transformer automatiquement et rapidement des données massives en une information non triviale : recommandation de produits, traduction, reconnaissance faciale…, de fait, le data scientist – chargé du développement de cet algorithme – semble être l’acteur essentiel du projet.
+
+C’est partiellement faux, pour une raison très simple : **la valeur ajoutée réside, en majeure partie, dans les données elles-mêmes**. Pour faire simple, le data scientist ne pourra jamais faire mieux que ce que les données lui permettent de faire. C’est pourquoi les profils Data Architect et Data Engineer sont essentiels : c’est eux qui créent, entretiennent et améliorent les systèmes d’information permettant aux autres membres de l’équipe data de faire leur travail. Sans eux, les data scientist passeront probablement plus de temps à administrer les données qu’à les analyser.
 
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
-
-https://syntec-conseil.fr/wp-content/uploads/2020/09/Syntec-Conseil_Glossaire-des-principaux-m%C3%A9tiers-de-la-Data.pdf
-
-https://corporate.apec.fr/files/live/sites/corporate/files/Nos%20%C3%A9tudes/pdf/Les-metiers-de-la-data.pdf
+Pour mieux comprendre l'ensemble des métiers existants dans la data, tu peux attendres les autres jours de la semaine. Mais tu peux aussi consulter ces docs très complètes :
+- [Le glossaire des principaux métiers de la data](https://syntec-conseil.fr/wp-content/uploads/2020/09/Syntec-Conseil_Glossaire-des-principaux-m%C3%A9tiers-de-la-Data.pdf)
+- [Les métiers de la data, par l'APEC](https://corporate.apec.fr/files/live/sites/corporate/files/Nos%20%C3%A9tudes/pdf/Les-metiers-de-la-data.pdf)
+... et toujours bien sûr consulter les offres d'emploi 🙃
