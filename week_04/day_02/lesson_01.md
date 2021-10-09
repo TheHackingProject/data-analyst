@@ -57,7 +57,7 @@ Quels sont les compétences du Data Engineer ? 🤠
 
 - **Connaissance approfondie de SQL et autres langages de base de donnée** : le Data Engineer doit maîtriser les outils de gestion des bases de données (BDD) et avoir une bonne connaissance en SGBDR (SQL, DB2…). Une maîtrise d’autres technologies de requêtage telles que Cassandra ou Bigtable, sont intéressantes en fonction des technologies utilisées par l’entreprise, d’autant plus que les grandes entreprises ne se contentent souvent pas d’une seule technologie de requêtage.
 
-- **Stockage de données et outils ETL** : la maîtrise des outils de stockage de données (Hadoop) et des ETL (Talend, Nifi…) du marché est essentielle ;
+- **Stockage de données et outils ETL** : la maîtrise des outils de stockage de données (Hadoop) et des ETL (Talend, Nifi…) du marché est essentielle.
 
 - **Analyses basées sur Hadoop (Hbase, Hive, etc.)** : une bonne compréhension de l’analyse de donnée basée sur Apache Hadoop est une compétence de plus en plus courante dans le métier de Data Engineer, les connaissances de Hbase ou Hive étant souvent considérées comme un must-have sur les postes de Data Engineer middle & Senior. On en demandera moins aux Data Engineers juniors.
 
