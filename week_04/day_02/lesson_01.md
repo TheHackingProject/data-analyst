@@ -74,6 +74,7 @@ C’est partiellement faux, pour une raison très simple : **la valeur ajoutée 
 
 ## 5. Pour aller plus loin
 Pour mieux comprendre l'ensemble des métiers existants dans la data, tu peux attendres les autres jours de la semaine. Mais tu peux aussi consulter ces docs très complètes :
-- [Le glossaire des principaux métiers de la data](https://syntec-conseil.fr/wp-content/uploads/2020/09/Syntec-Conseil_Glossaire-des-principaux-m%C3%A9tiers-de-la-Data.pdf)
+- [Le glossaire des principaux métiers de la data, par la fédération Syntec](https://syntec-conseil.fr/wp-content/uploads/2020/09/Syntec-Conseil_Glossaire-des-principaux-m%C3%A9tiers-de-la-Data.pdf)
 - [Les métiers de la data, par l'APEC](https://corporate.apec.fr/files/live/sites/corporate/files/Nos%20%C3%A9tudes/pdf/Les-metiers-de-la-data.pdf)
+
 ... et toujours bien sûr consulter les offres d'emploi 🙃
