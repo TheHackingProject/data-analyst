@@ -31,14 +31,14 @@ Vérifiez avec l'ensemble de la promo, vers midi par exemple, que chacun d'entre
 ### 2.2. Collecter les informations demandées
 
 Pour chaque cas d’usage, tu devras préciser : 
-Le contexte du projet
-Le projet
-Les données utilisées
-Les outils utilisées
-La méthodologie de réalisation (souvent composée de plusieurs étapes)
-Les bénéfices business.
+- Le contexte du projet
+- Le projet
+- Les données utilisées
+- Les outils utilisées
+- La méthodologie de réalisation (souvent composée de plusieurs étapes)
+- Les bénéfices business.
 
-Tu devras écrire 6 paragraphes par cas d'usage pour préciser chacun de ses éléments. 
+Tu devras écrire 6 paragraphes par cas d'usage pour préciser chacun de ces éléments. 
 
 
 ### 2.3. Mettre en forme les informations
