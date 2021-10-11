@@ -19,7 +19,7 @@ Voici la liste de questions auxquelles tu dois répondre :
 - Trouver la liste des sociétés dont le pays de l'adresse et le pays de la juridiction sont différents.
 - Trouver la liste des bénéficiaires qui ont des sociétés au même nom et enregistrée à la même date, trier la liste par odre décroissant.
 - Donner la liste des intermédiaires qui ont aussi été bénéficiaires, en ajoutant leur nom de bénéficiaire et leur adresse.
-- Donner le top 10 des bénéficiaires qui ont le plus d'identités différentes (similar name and address) et le nombre d'identités correspondants.
+- Donner le top 10 des bénéficiaires qui ont le plus d'identités différentes (similar name and address) et le nombre d'identités correspondant.
 - Donner le top 10 des bénéficiaires qui ont le plus de parts toujours valides dans des entreprises offshores (dont la date de fin n'est pas encore passée).
 - Question bonus : réussir à retrouver dans la base au moins 3 personnalités que tu connais ([indice](https://fr.wikipedia.org/wiki/Liste_des_personnes_cit%C3%A9es_dans_les_Panama_Papers)) 😎😎😎
 
@@ -27,7 +27,7 @@ Voici la liste de questions auxquelles tu dois répondre :
 Un fichier .txt (ou .md) contenant les requêtes SQL qui permettent d'obtenir les infos demandées sur notre BDD.
 
 ## 4. Aller plus loin
-Alors tu as aimé te prendre pour Sherlock Holmes pendant 3 heures ? Ca t'a plu de travailler sur de vraies données ? A l'époque, c'était assez novateur comme type de journalisme : c'est une des affaires qui a aidé les grandes rédactions à se tourner davantage vers la Tech. 
+Alors tu as aimé te prendre pour Sherlock Holmes pendant 3 heures ? Ca t'a plu de travailler sur de vraies données ? A l'époque, c'était assez novateur comme type de journalisme : c'est une des affaires qui a aidé les grandes rédactions à se tourner davantage vers la Data. 
 Si cela t'intéresse, voici 2 ressources qui t'en diront plus sur comment ça s'est passé dans la vie réelle :
 - un journaliste du Monde qui raconte [les 9 mois passés à travailler sur cette base de données](https://www.lejdd.fr/Medias/Presse-ecrite/Comment-nous-avons-travaille-pendant-9-mois-sur-Panama-Papers-779799)
 - un [long mémoire](https://dumas.ccsd.cnrs.fr/dumas-02996658/document) dont la thématique était "*Les “ Panama Papers ” marquent-ils l’émergence de pratiques professionnelles et journalistiques nouvelles ?*". Tu peux faire des recherchers (Ctrl F) et checker les moments où l'auteur parle de **data** ou **données**. Tu verras que la data analyse n'a malheureusement pas été la compétence la plus répandue dans cette affaire ... En fait, si on avait créé la formation Data 5 ans plus tôt, t'aurais vraiment pu être ce journaliste star 😅😅
