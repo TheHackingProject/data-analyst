@@ -24,7 +24,19 @@ Votre projet data se déroule ici en 5 étapes :
 - **Evaluer le retour sur investissement**. Souvent négligée, cette dernière étape est probablement la plus importante pour une PME. Il est indispensable pour le dirigeant de mettre en relation ce que le projet data coûte à l’entreprise et ce qu’il va lui rapporter dans le temps. Toute présentation de résultats d’analyse de données doit s’accompagner d’un récapitulatif des ressources engagées (investissements et charges) et des espérances de gains directement liés aux analyses produites par ces ressources.
 
 ### 3.2. La posture de "chercheur", ou analyse exploratoire des données 🤠
-Par opposition à l'approche traditionnelle d'un besoin précis exprimé par un demandeur, destinée à vérifier des hypothèses a priori sur les relations entre variables (par exemple, "Est-ce qu'il y a une corrélation positive entre l'âge d'une personne et sa prédisposition à un risque"), l'analyse exploratoire des données (AED) permet d'identifier les relations systématiques entre des variables, lorsqu'il n'existe aucune hypothèse a priori (ou des hypothèses incomplètes) quant à la nature de ces relations. Lors d'une analyse exploratoire typique, le chercheur prend en compte et compare, à l'aide de diverses techniques, de nombreuses variables pour mettre en évidence des structures systématiques. C'est la posture qui va être privilégiée dans les projets de data science.
+Par opposition à l'approche traditionnelle d'un besoin précis exprimé par un demandeur, destinée à vérifier des hypothèses a priori sur les relations entre variables (par exemple, "Est-ce qu'il y a une corrélation positive entre l'âge d'une personne et sa prédisposition à un risque"), **l'analyse exploratoire des données (AED) permet d'identifier les relations systématiques entre des variables, lorsqu'il n'existe aucune hypothèse a priori (ou des hypothèses incomplètes) quant à la nature de ces relations**. Lors d'une analyse exploratoire typique, le chercheur prend en compte et compare, à l'aide de diverses techniques, de nombreuses variables pour mettre en évidence des structures systématiques. C'est la posture qui va être privilégiée dans les projets de data science.
+
+Votre projet data se déroule ici en 5 étapes : 
+
+https://www.linkedin.com/pulse/les-7-%C3%A9tapes-dun-projet-data-science-j%C3%A9r%C3%A9my-bouzidi/?originalSubdomain=fr
+
+https://thinkr.fr/tutoriels-gratuits-pour-apprendre-r/analyse-exploratoire-de-donnees/
+
+https://www.empirik.fr/2019/07/12/la-data-science-expliquee-a-ma-grand-mere-3-5-cycle-de-vie-dun-projet
+
+https://www.youtube.com/watch?v=KDzUozgLyCI
+
+
 
 
 
