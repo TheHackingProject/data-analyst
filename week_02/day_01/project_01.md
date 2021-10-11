@@ -1,7 +1,7 @@
 # Go for Extract 
 
 ## 1. Introduction
-Dans ce projet, tu vas voir tous les moyens d'extraire des données. Ainsi, tu deviendras le boss de l'étape Extract de l'ETL 👌.
+Dans ce projet, tu vas voir tous les moyens d'extraire des données. Ainsi, tu deviendras le boss de l'étape Extract de l'ETL 👌
 
 ## 2. Le projet
 
@@ -13,7 +13,7 @@ Le jeu de données qui nous intéresse aujourd'hui met à disposition les compta
 Nous te demandons ici d'extraire le fichier csv, de supprimer les colonnes qui comportent des valeurs manquantes, puis de l'afficher.
 
 ### 2.2. Extraction d'un fichier json
-Direction le Suuuuuud 😎. 
+Direction le Suuuuuud 😎
 
 Sur [cette page](https://trouver.datasud.fr/dataset/panorama-des-festivals), tu vas trouver le panorama des festivals en PACA. Télécharge le fichier Json et extrais ses données.
 Dis-nous combien il y a de festivals en PACA, quelles sont les 3 villes qui accueillent la majorité des festivals et quel est le mois de l'année le plus chargé en festivals.
