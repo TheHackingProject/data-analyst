@@ -50,3 +50,8 @@ Dans un système OLTP, les données ne sont conservées que sur une courte péri
 Si l'univers du Big Data t'intéresse, tu peux lire ces 2 articles de la société Talend, le leader des ETL open source : 
 - [Guide du processus ETL](https://www.talend.com/fr/resources/guide-etl/)
 - [Différences entre lacs de données et entrepôts de données](https://www.talend.com/fr/resources/data-lake-vs-data-warehouse/)
+
+Et si un jour tu te demandes s'il est temps pour ton entreprise de mettre en place un datawarehouse, voici plusieurs articles qui peuvent t'être utiles : 
+- [Est-il temps de mettre en place un Datawarehouse dans votre entreprise ?](https://www.cartelis.com/blog/datawarehouse-mise-en-place/)
+- [Comment créer son premier Data Warehouse ? Le guide complet pour les analystes débutants](https://www.cartelis.com/blog/creer-datawarehouse/)
+- [Comparatif complet des logiciels ETL : Cloud vs On-premise vs OpenSource](https://www.cartelis.com/blog/comparatif-logiciels-etl/)
