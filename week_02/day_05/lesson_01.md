@@ -13,7 +13,7 @@ L'avènement de l'ordinateur, et surtout du micro-ordinateur, est un saut techno
 ## 3. La ressource
 On peut distinguer 2 types de postures différentes face à un problème d'analyse de données. 
 
-### 3.1. La posture d'analyst, ou réactive 🤝 
+### 3.1. La posture d'analyste, ou réactive 🤝 
 
 Par opposition à l'approche traditionnelle des tests d'hypothèses, destinée à vérifier des hypothèses a priori sur les relations entre variables (par exemple, "Il existe une corrélation positive entre l'ÂGE d'une personne et sa prédisposition à un RISQUE"), l'analyse exploratoire des données (AED) permet d'identifier les relations systématiques entre des variables, lorsqu'il n'existe aucune hypothèse a priori (ou des hypothèses incomplètes) quant à la nature de ces relations. Lors d'une analyse exploratoire typique, le chercheur prend en compte et compare, à l'aide de diverses techniques, de nombreuses variables pour mettre en évidence des structures systématiques.
 
