@@ -20,7 +20,7 @@ Chaque moussaillon doit choisir 2 cas d'usage : un des cas d'usage devra porter 
 
 Exemples : 
 - pour l'approche traditionnelle de Business Intelligence, vous pourriez parler de la Poste qui a transformé la BI de sa branche services-courrier-colis. En savoir plus [ici](https://www.lemagit.fr/etude/La-Poste-transforme-la-BI-de-sa-branche-services-courrier-colis).
-- pour l'approche Big Data, les cas d'usage de manquent pas : maintenance prédictive, amélioration de l'expérience client, lutte contre la fraude, efficacité opérationnelle ... A toi d'être inventif et de trouver des cas originaux et intéresants !
+- pour l'approche Big Data, les cas d'usage de manquent pas : maintenance prédictive, amélioration de l'expérience client, lutte contre la fraude, efficacité opérationnelle ... Par ex, le groupe Crédit Agricole cherche à améliorer la formation de ses salariés en s'essayant à l'adaptive learning : tu peux regarder [ici](https://domoscio.com/fr/client/ifcam/). A toi d'être inventif et de trouver des cas originaux et intéresants !
 
 ### 2.1. Trouver 2 cas d'usage uniques par personne
 
