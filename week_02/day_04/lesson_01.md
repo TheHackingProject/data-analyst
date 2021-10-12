@@ -37,7 +37,7 @@ Voici quelques ressources qui peuvent t'aider à commencer dans la visualisation
 
 Les outils BI sont à la data, ce que le no-code est au développement web. Ce sont des softwares déjà développés qui permettent de glisser et déposer, par un système de drag and drop, un dataset pour visualiser la donnée directement. On dit de ces outils qu’ils sont plus accessibles aux personnes qui n’ont pas ou peu été initiées à la data. Ils sont souvent destinés aux entreprises qui cherchent des résultats rapides et simples à manier. 
 
-Il existe de nombreux outils permettant de créer des visualisations de données. Mais quels sont les outils BI les plus utilisés ?
+Il existe de nombreux outils permettant de créer des visualisations de données. Mais quels sont les outils BI les plus utilisés ? On t'en donne ici 4 mais tu pourras encore en trouver bien d'autres.
 
 1. **Tableau est l’outil BI de référence sur le marché**. Grâce à sa simplicité d’utilisation et à sa capacité à produire des visualisations interactives, ce logiciel compte une très large base de clients. Il se démarque grâce à de nombreuses fonctionnalités et tableaux de bords préconçus qui permettent de mettre en forme très facilement la donnée issue de logiciels CRM comme Salesforce. L'éditeur propose deux applications de bureau gratuites pour Windows et MacOS : [Tableau Public](https://www.tableau.com/fr-fr/community/public) et [Tableau Reader](https://www.tableau.com/fr-fr/products/reader). Le premier permet à la fois ouvrir et créer des analyses qui sont stockées sur un profil public. Le second offre d'ouvrir et d'interagir avec les fichiers de visualisation de données créés dans Tableau Desktop, l'application payante.
 
