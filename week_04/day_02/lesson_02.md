@@ -60,18 +60,18 @@ Pour aider les entreprises à faire face au volume sans cesse croissant des donn
 - **Le stockage logiciel ou SDS** est un système de stockage qui se base sur des serveurs physiques. Cependant, un logiciel de stockage délivre les fonctionnalités d’hébergement. Ainsi, la couche logicielle fonctionne indépendamment du matériel de stockage physique.
 - **Le stockage des données en local ou en réseau**. Une box (serveur de stockage) accueille vos données et applications localement au sein de votre entreprise. Toutes les données à sauvegarder sont collectées sur le réseau puis cryptées et compressées avant d’être stockées sur les disques durs présents dans la box.
 - **Le stockage dans le cloud**. Le stockage dans le cloud est l'organisation des données stockées dans un emplacement accessible depuis Internet par toute personne qui dispose d'une autorisation. Vous n'avez pas besoin de vous connecter à un réseau interne (on parlerait alors de serveur de stockage en réseau) et vous n'accédez pas aux données à partir de matériel directement relié à votre ordinateur. Amazon, Microsoft, Google et IBM sont actuellement les principaux fournisseurs de stockage dans le cloud.
-- **Le stockage des données en hybride**. Les solutions de stockage hybrides stockent les données actives et fréquemment consultées sur du stockage Flash qui peut offrir des performances et une efficacité optimales tout en conservant les données inactives ou moins importantes sur des supports plus économiques. Le stockage hybride permet aux entreprises de gérer des données dans un système de stockage unifié tout en trouvant le juste équilibre entre les performances et les coûts.
+- **Le stockage des données en hybride**. Les solutions de stockage hybrides stockent les données actives et fréquemment consultées sur du stockage Flash (une alternative à l'utilisation des disques durs qui peut offrir des performances et une efficacité optimales) tout en conservant les données inactives ou moins importantes sur des supports plus économiques. Cela permet aux entreprises de gérer des données dans un système de stockage unifié tout en trouvant le juste équilibre entre les performances et les coûts.
 
-### 3.4. Les solutions d"analyse de données
-blabla
-
+### 3.4. Les solutions d'analyse de données
+L’objectif final de cette procédure est la transformation des données en connaissance utilisable. Pour ce faire, l’utilisation d'un langage programmatif ou de plateformes analytiques est incontournable. IBM, Oracle ou encore Google (et bien d'autres fournisseurs) proposent des outils Big Data pour transformer des données brutes en informations. BigQuery (Google) est conçu par exemple pour permettre à toute personne avec un peu de connaissances de traiter de de vastes ensembles de données. Cloudera, HDInsight (Microsoft) et Amazon Web Services sont aussi sur ce créneau. Et de nombreuses startups proposent également des solutions sur ce champs.
 
 ### 3.4. Les solutions de visualisation de données
-blabla
+On a déjà vu les outils de visualisation répandus sur le marché (Tableau, PowerBI, Qlik etc.).
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+Un travail sérieux réalisé sur les quatre étapes du traitement de la donnée permettra à votre entreprise d'obtenir l'infrastructure nécessaire à la réalisation de projets Big Data. N'hésitez pas à vous faire aider d'expert en architecture pour faire les bons choix d'infrastructure.
 
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+- Un article sur [L'infrastructure informatique, vecteur de l'essor de votre entreprise](https://www.appvizer.fr/magazine/services-informatiques/virtualisation/infrastructure-informatique)
+- [Comment bien choisir son Data Warehouse](https://www.lemagit.fr/conseil/Bien-choisir-son-Data-Warehouse-nouvelle-generation)
 
