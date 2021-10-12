@@ -31,25 +31,42 @@ Les infrastructures informatiques sont traditionnelles ou cloud :
 
 Pour comprendre le rôle des composants d'une infrastructure IT, tu peux lire [cette page](https://bluebearsit.com/infrastructure-informatique).
 
-Si maintenant on zoome sur les données, on obtient des définitions plus précises.
+___
 
-L’architecture de données est le processus qui permet de standardiser la façon dont les entreprises collectent, stockent, transforment, distribuent et utilisent les données.
+👽👽 Et pour la data, ça donne quoi ? 👽👽
 
-L'infrastructure data s’appuie sur quatre composantes essentielles qui permettent de collecter, stocker, analyser et enfin, visualiser les données traitées. À travers ces quatre étapes, le système est capable d’assurer la transformation des données stockées par votre entreprise.
+**L’architecture de données** est le processus qui permet de standardiser la façon dont les entreprises collectent, stockent, transforment, distribuent et utilisent les données.
 
+**L'infrastructure data** s’appuie sur quatre composantes essentielles qui permettent de collecter, stocker, analyser et enfin, visualiser les données traitées. À travers ces quatre étapes, le système est capable d’assurer la transformation des données stockées par votre entreprise.
+
+___
 
 ### 3.2. Les solutions de collecte de données
-La collecte de données est un processus visant à rassembler vos données automatiquement sur une plateforme unique. En effet, les données sont souvent éparses et leur collecte manuelle fastidieuse et chronophage. 
+
+Les capteurs des appareils électroniques, des véhicules, des bâtiments, des machines, ou ceux présents sur les emballages des produits permettent de collecter des données. Les applications informatiques sont également sources de données. 
+
+La collecte de données est un processus visant à rassembler vos données sur une plateforme unique. Elle se fait soit de manière automatique (via un outil ETL), soit de manière manuelle, ce qui est souvent fastidieux et chronophage.
+
 
 ### 3.3. Les solutions de stockage de données
+
+Le stockage de données est le processus selon lequel les systèmes informatiques archivent, organisent et partagent les octets qui constituent les éléments qu'on utilise au quotidien, des applications aux protocoles réseau, en passant par les documents, les contenus multimédias, les carnets d'adresses et les préférences utilisateur. 
+
+On pourrait comparer le fonctionnement d'un ordinateur à celui d'un cerveau. Tous deux ont des mémoires à court et long terme. Le cerveau gère la mémoire à court terme dans le cortex préfrontal tandis que l'ordinateur utilise la RAM (Random Access Memory).
+
+Le cerveau et la RAM traitent et retiennent les informations qui leur parviennent durant la phase d'éveil, et finissent par être fatigués. Le cerveau convertit les éléments de mémoire de travail en mémoires à long terme durant la phase de sommeil, tout comme l'ordinateur transfère la mémoire active vers des volumes de stockage lorsqu'il est en veille. 
+
+Pour aider les entreprises à faire face au volume sans cesse croissant des données à stocker, il existe plusieurs types de stockage de données : 
+- **Le stockage logiciel ou SDS** est un système de stockage qui se base sur des serveurs physiques. Cependant, un logiciel de stockage délivre les fonctionnalités d’hébergement. Ainsi, la couche logicielle fonctionne indépendamment du matériel de stockage physique.
+- **Le stockage des données en local ou en réseau**. Une box (serveur de stockage) accueille vos données et applications localement au sein de votre entreprise. Toutes les données à sauvegarder sont collectées sur le réseau puis cryptées et compressées avant d’être stockées sur les disques durs présents dans la box.
+- **Le stockage dans le cloud**. Le stockage dans le cloud est l'organisation des données stockées dans un emplacement accessible depuis Internet par toute personne qui dispose d'une autorisation. Vous n'avez pas besoin de vous connecter à un réseau interne (on parlerait alors de serveur de stockage en réseau) et vous n'accédez pas aux données à partir de matériel directement relié à votre ordinateur. Amazon, Microsoft, Google et IBM sont actuellement les principaux fournisseurs de stockage dans le cloud.
+- **Le stockage des données en hybride**. Les solutions de stockage hybrides stockent les données actives et fréquemment consultées sur du stockage Flash qui peut offrir des performances et une efficacité optimales tout en conservant les données inactives ou moins importantes sur des supports plus économiques. Le stockage hybride permet aux entreprises de gérer des données dans un système de stockage unifié tout en trouvant le juste équilibre entre les performances et les coûts.
+
+### 3.4. Les solutions d"analyse de données
 blabla
 
 
-### 3.4. Les solutions de collecte de données
-blabla
-
-
-### 3.4. Les solutions de collecte de données
+### 3.4. Les solutions de visualisation de données
 blabla
 
 ## 4. Points importants à retenir
