@@ -7,6 +7,8 @@ A ce propos, le secrétaire de rédaction t'a retoqué hier ton article car selo
 
 ## 2. Le projet
 
+Télécharge la base de données [ici](https://offshoreleaks.icij.org/pages/database) et mets-toi dans la peau d'Hercule Poirot  🔎🔎
+
 Voici la liste de questions auxquelles tu dois répondre : 
 
 - Combien la base de données contient-elle de sociétés offshores différentes dont la source est "Panama Papers" ?
