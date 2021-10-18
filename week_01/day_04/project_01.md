@@ -1,10 +1,10 @@
 # Modéliser un système de BI
 
 ## 1. Introduction
-Pour concevoir une bonne base de données, il faut bien comprendre le business concerné. Donc on fera souvent appel au Data Analyst pour réaliser la modélisation de la base ou pour vérifier que rien n'a été oublié. Avant que ça soit ton tour, profite de ce projet pour t'exercer et devenir un as de la modélisation de bases de données analytiques 🦁
+Pour concevoir une bonne base de données, il faut bien comprendre le business concerné. Donc on fera souvent appel au Data Analyst pour réaliser la modélisation de la base ou pour vérifier que rien n'a été oublié. Avant que ça soit ton tour, profite de ce projet pour t'exercer et devenir un as de la modélisation de systèmes d'info décisionnels 🦁
 
 ## 2. Le projet
-### 2.1. Un système décisionnel pour votre université 🎓🎓
+### 2.1. Un système d'info décisionnel pour votre université 🎓🎓
 
 Maintenant que vous savez cruncher les classements mondiaux des universités, vous avez pu transmettre un reporting sur l'évolution des performances de votre Université. Depuis, les équipes veulent améliorer cette performance. Et pour cela, le recteur de l'Université de Strasbourg vous a demandé de mettre en place un système qui lui permettra de prendre des décisions éclairées. 
 
@@ -22,7 +22,6 @@ Pour chaque examen passé, on connaît l’âge et le genre de l’apprenant, le
 
 Pour l'instant, il vous demande de réfléchir à la conception du système. Vos premières missions sont les suivantes : 
 - Donner la table principale de l’entrepôt ainsi que les tables dimensions relatives.
-- Proposez une hiérarchie pour ces dimensions.
 - Tracer le schéma en étoile dimensionnel.
 
 ### 2.2. Un système décisionnel pour étudier vos ventes 💰💰
@@ -41,8 +40,6 @@ Vos missions sont les suivantes :
 - Ajouter deux nouvelles mesures : Total_Sales, Total_Costs
 - Afficher les totaux des ventes par client et par date
 - Visualiser la moyenne des ventes par catégorie de produit.
-
-
 
 ## 3. Rendu attendu
 - Un fichier .pdf contenant les schémas de l'exercice 1. 
