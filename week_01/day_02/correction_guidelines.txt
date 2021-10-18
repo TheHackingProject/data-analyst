@@ -1,15 +1,15 @@
 - Est-ce que le fichier récupéré est un fichier Jupyter Notebook ? 
-- Est-ce qu'il y a du texte dans le Notebook qui explique les différentes actions réalisées ?
+- Est-ce qu'il y a du texte dans le Notebook qui aère le fichier et explique les différentes actions réalisées ?
 - Est-ce que le nombre de musées en France métropolitaine est 3 784 musées ?
 - Est-ce que le nombre médian de musées par ville est 1 et le nombre moyen est 1,65 ?
-- Est-ce que le nombre de musées dont le nom commence par "Château" ?
+- Est-ce que le nombre de musées dont le nom commence par "Château" est 57 ?
 - Est-ce que le département qui a le plus de musées est le 75 et celui qui en a le moins est le 98 ?
-- Est-ce qu'il y a la mention de deux sources de données qui donnent des informations sur les musées en France ?
-- Est-ce qu'on a bien une phrase qui décrit le contenu de chacun des 6 fichiers de manière juste ?
+- Est-ce qu'il y a la mention de deux sources de données qui apportent des informations supplémentaires sur les musées en France ?
+- Est-ce qu'on a bien une phrase qui décrit le contenu de chacun des 6 fichiers de manière exacte ?
 - Est-ce que les infos suivantes sont présentes : le classement CWUR traite de 2012 à 2015 ; le classement Times traite de 2011 à 2016 ; le classement Shanghai traite de 2005 à 2015 ?
 - Est-ce qu'on a les réponses suivantes pour le ranking de l'Université de Strasbourg : 176 en 2014 et 182 en 2015 selon CWUR ; entre 201-225 entre 2012-2015 et entre 301-350 en 2016 selon Times ; 92-96-99 puis entre 101-150 plusieurs années puis 97-95-87 selon Shanghai ? 
 - Est-ce qu'on a la liste du nombre d'universités par pays, triée par ordre décroissant (selon Shanghai 2015) ?
 - Est-ce qu'on a liste du ration Dépenses dans le supérieur / Nb d'universités dans le classement Times 2011, triée par ordre décroissant ?
-- Est-ce qu'on a 5 informations supplémentaires qui ont été obtenues après des analyses sur les fichiers et permettent d'en savoir plus sur l'enseignement supérieur dans le monde ?
+- Est-ce qu'on a 5 informations supplémentaires qui ont été obtenues grâce des analyses sur les fichiers et permettent d'en savoir plus sur l'enseignement supérieur dans le monde ?
 
 
