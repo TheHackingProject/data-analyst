@@ -1,0 +1,5 @@
+- Est-ce que le fichier téléchargé est un fichier Jupyter Notebook ? 
+- Est-ce qu'il y a du texte dans le Notebook qui explique les différentes actions réalisées ?
+- Est-ce que le nombre de musées en France métropolitaine est 3 784 musées ?
+- Est-ce que le nombre de musées dont le nom commence par "Château" ?
+- Est-ce que le nombre médian de musées par ville est 1 et le nombre moyen est 1,65 ?
