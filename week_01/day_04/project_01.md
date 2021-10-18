@@ -5,7 +5,7 @@ Pour concevoir une bonne base de données, il faut bien comprendre le business c
 
 ## 2. Le projet
 ### 2.1. La startup tech du moment
-Ça y est, tu tiens la prochaine licorne française, tu vas conquérir le monde avec une app qui va révolutionner le monde du blogging. Ça va tout déchirer et Mark Zuckerberg va chialer. Avant de faire le code de ton blog, nous allons te demander de concevoir la base de données de ce dernier. 3nsuite, tu vas devoir créer, en SQL les tables qui constitueront ta BDD avec leurs relations et leurs attributs.
+Ça y est, tu tiens la prochaine licorne française, tu vas conquérir le monde avec une app qui va révolutionner le monde du blogging. Ça va tout déchirer et Mark Zuckerberg va chialer. Avant de faire le code de ton blog, nous allons te demander de concevoir la base de données de ce dernier. Ensuite, tu vas devoir créer, en SQL les tables qui constitueront ta BDD avec leurs relations et leurs attributs.
 
 Voici, sans plus tarder, l'architecture de ton app de blogging :
 
