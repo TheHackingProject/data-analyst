@@ -6,7 +6,7 @@ Avant de foncer tête baissée dans le codage d'une BDD, il est important de bie
 ## 2. Historique et contexte
 Peter Chen a développé les modèles **entité-association** pour la conception de bases de données dans les années 1970. Alors qu'il travaillait comme professeur assistant à la Sloan School of Management du MIT, il a publié en 1976 un article précurseur intitulé « The Entity-Relationship Model: Toward a Unified View of Data » (Le modèle entité-association : vers une vision unifiée des données).
 
-Par ailleurs, **Merise** est une méthode d’analyse et de conception de systèmes élaborée par un collectif en 1979. Elle a fourni un cadre méthodologique et un langage commun et rigoureux à une génération d'informaticiens français.
+A la même époque à peu près, la méthode d'analyse et de conception de systèmes **Merise** a été élaborée par un collectif français en 1979. Elle a fourni un cadre méthodologique et un langage commun et rigoureux à une génération d'informaticiens français.
 
 Par la suite, le monde a changé et un autre standard s’est imposé, tout en gardant certains principes de la méthodologie Merise. Au milieu des années 90, les *Three Amigos* (Grady Booch, Ivar Jacobson and James Rumbaug) se sont associés pour apporter plus de clarté aux programmeurs en créant de nouvelles normes. Les efforts de ces penseurs ont abouti à la création en 1996 d'**UML**, un langage de modélisation commun.
 
@@ -36,22 +36,16 @@ N'hésite pas à utiliser un logiciel d'ERD (*Entity Relation Diagram*) pour t'a
 [VisualParadigm Online](https://online.visual-paradigm.com/fr/),
 [DB Diagram.io](https://dbdiagram.io/d).
 
-Entraîne-toi ! Imagine des idées de startup puis fais un diagramme via un *ERD*.
+Entraîne-toi ! Imagine des idées de startup puis fais un diagramme via un *ERD*. En tant que Data Analyst, tu seras amené à relire et comprendre ces schémas de bases de donées. 
 
 
 ### 3.2 Créer une BDD relationnelle
 
 Une fois que tu as modélisé la base, c'est assez simple de la créer, et ça peut être utile (si tu te lances dans l'entrepreneuriat par exemple).
 
-Le premier chapitre du cours OpenClassrooms [Implémentez vos bases de données relationnelles avec SQL](https://openclassrooms.com/fr/courses/6971126-implementez-vos-bases-de-donnees-relationnelles-avec-sql) t'indique comment faire. Va jusqu'au quiz *Créez une base de données avec MySQL*. Si ça t'intéresse, tu peux même regarder les autres chapites et finir le cours, c'est assez rapide.
+Le premier chapitre du cours OpenClassrooms [Implémentez vos bases de données relationnelles avec SQL](https://openclassrooms.com/fr/courses/6971126-implementez-vos-bases-de-donnees-relationnelles-avec-sql) t'indique comment faire. Si ça t'intéresse, va jusqu'au quiz *Créez une base de données avec MySQL*. 
 
-## 4. Points importants à retenir
-
-Les bases de données relationnelles sont la base de la majorité des applications. Pour concevoir une BDD relationnelle, SQL est le langage de prédilection.
-
-Avant de coder une BDD, il faut se poser pour établir toutes les tables, les relations entre elles et leurs attributs.
-
-Voici une sélection de commandes classiques en SQL :
+Et voici une sélection des commandes les plus utiles en SQL :
 
 - Créer une table :
 ```sql
@@ -90,7 +84,31 @@ JOIN cities ON cities.id = inhabitants.city_id
 WHERE cities.name = 'Paris';
 ```
 
+### 3.3 Modéliser un système d'information décisionnel 
+
+Il existe deux types de systèmes : **le système opérationnel et le système décisionnel**. 
+
+Les systèmes « opérationnels » ou « de gestion », également appelés systèmes OLTP (*on-line transaction processing*), sont dédiés aux métiers de l'entreprise pour les assister dans leurs tâches de gestion quotidiennes et donc directement opérationnels.
+
+Les systèmes « décisionnels », également appelés OLAP (*on-line analytical processing*), sont dédiés au management de l'entreprise pour l'aider au pilotage de l'activité. Ils offrent au décideur une vision transversale de l'entreprise.
+
+Bien que les systèmes d'informations OLTP et OLAP aient le point commun de regrouper les données de l'entreprise dans un S.G.B.D. (système de gestion de bases de données) et d'en fournir l'accès aux utilisateurs, ils présentent de profondes différences. Dans un système OLTP, les données ne sont conservées que sur une courte période ; elles sont détaillées, personnelles, identifiées (une facture appartient à une personne précise) et représentent généralement en volume quelques centaines de mégaoctets, voir quelques gigaoctets. En revanche, dans un système OLAP, les données sont historisées et peuvent être agrégées. 
+
+Pour bien comprendre la différence entre base de données classique et datawarehouse (la base de données du système décisionnel), lis [cet article](https://www.oracle.com/fr/database/difference-data-warehouse-base-donnees.html).
+
+Enfin, on ne modélise pas un système décisionnel de la même manière qu'une base de données opérationnelle. Tu peux comprendre la modélisation d'un système décisionnel grâce à [cette vidéo](https://www.youtube.com/watch?v=7vPIo1QI0Ek).
+
+
+
+## 4. Points importants à retenir
+
+Les bases de données relationnelles sont la base de la majorité des applications. Pour concevoir une BDD relationnelle, SQL est le langage de prédilection.
+
+Avant de coder une BDD, il faut se poser pour établir toutes les tables, les relations entre elles et leurs attributs. 
+
+Il faut également se demander s'il s'agit d'une base de données opérationnelle ou alors d'un datawarehouse car la modélisation ne sera pas la même.
+
 ## 5. Pour aller plus loin
 - Pour approfondir la modélisation de bases de données, cf. le cours [Modélisez et implémentez une base de données relationnelle avec UML](https://openclassrooms.com/fr/courses/4055451-modelisez-et-implementez-une-base-de-donnees-relationnelle-avec-uml)
-- Pour approfondir la gestion de bases de données, cf. le cours [Administrez vos bases de données avec MySQL](https://openclassrooms.com/fr/courses/1959476-administrez-vos-bases-de-donnees-avec-mysql)
+- Pour approfondir la notion de système d'information décisionnel, vous pouvez lire [cet article](https://www.decideo.fr/bruley/docs/B374.pdf) qui explique concrètement comment se met en place ce type de systèmme
 
