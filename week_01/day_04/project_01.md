@@ -6,7 +6,7 @@ Pour concevoir une bonne base de données, il faut bien comprendre le business c
 ## 2. Le projet
 ### 2.1. Un système décisionnel pour votre université 🎓🎓
 
-Maintenant que vous savez cruncher les classements mondiaux des universités, vous avez déjà transmis un reporting sur l'évolution des performances de votre Université. Depuis, les équipes veulent améliorer cette performance. Et pour cela, le recteur de l'Université de Strasbourg vous a demandé de mettre en place un système qui lui permettra de prendre des décisions éclairées. 
+Maintenant que vous savez cruncher les classements mondiaux des universités, vous avez pu transmettre un reporting sur l'évolution des performances de votre Université. Depuis, les équipes veulent améliorer cette performance. Et pour cela, le recteur de l'Université de Strasbourg vous a demandé de mettre en place un système qui lui permettra de prendre des décisions éclairées. 
 
 En fait, il cherche à étudier les facteurs influant sur la réussite des candidats aux examens. Pour cela, on vous a chargé de construire un datawarehouse.
 
@@ -31,9 +31,16 @@ Un ami à vous possède une entreprise qui revend du matériel informatique. Il 
 
 La seule chose dont il dispose est d'un fichier Access qui contient sa base de données. 
 
-Pour aider votre ami, vous allez donc utiliser le logiciel PowerBI Desktop (à télécharger [ici](https://powerbi.microsoft.com/fr-fr/downloads/)). 
+Pour aider votre ami, vous allez utiliser le logiciel PowerBI Desktop (à télécharger [ici](https://powerbi.microsoft.com/fr-fr/downloads/)). 
+Vous importez votre fichier [sales.db](https://drive.google.com/file/d/13AZq7xX1JDkCsFjqUVqGTYJQmLkmAykc/view?usp=sharing), vous chargez toutes les tables. 
 
-à poursuivre
+Vos missions sont les suivantes : 
+- Déterminer la table fait et les tables dimensions
+- Créer un modèle relationnel en Etoile
+- Créer un modèle relationnel en Flocon
+- Ajouter deux nouvelles mesures : Total_Sales, Total_Costs
+- Afficher les totaux des ventes par client et par date
+- Visualiser la moyenne des ventes par catégorie de produit.
 
 
 
