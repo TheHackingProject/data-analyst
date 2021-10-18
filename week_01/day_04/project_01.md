@@ -11,19 +11,19 @@ Maintenant que vous savez cruncher les classements mondiaux des universités, vo
 En fait, il cherche à étudier les facteurs influant sur la réussite des candidats aux examens. Pour cela, on vous a chargé de construire un datawarehouse.
 
 Il souhaite pouvoir répondre aux questions suivantes :
-– Quel est le nombre de réussites aux examens par cours, pour l’année 2020 ?
-– Quel est le nombre de réussites aux examens d’un cours obligatoire, pour l’année 2020 ?
-– Quel est le nombre de réussites aux examens par genre (féminin, masculin), entre 2019 et 2020 ?
-– Combien d’apprenants ayant un âge supérieur à 23 ans ont réussi leurs examens de « BI » ?
-– Quel est le nombre de réussites aux examens pendant le semestre d’hiver 2020 ?
+- Quel est le nombre de réussites aux examens par cours, pour l’année 2020 ?
+- Quel est le nombre de réussites aux examens d’un cours obligatoire, pour l’année 2020 ?
+- Quel est le nombre de réussites aux examens par genre (féminin, masculin), entre 2019 et 2020 ?
+- Combien d’apprenants ayant un âge supérieur à 23 ans ont réussi leurs examens de « BI » ?
+- Quel est le nombre de réussites aux examens pendant le semestre d’hiver 2020 ?
 
 Pour cela, vous disposez des données suivantes :
 Pour chaque examen passé, on connaît l’âge et le genre de l’apprenant, le nom du cours (les cours peuvent être regroupés en cours obligatoire et cours à option), la date de l’examen, la note obtenue et si l’examen est réussi ou non.
 
 Pour l'instant, il vous demande de réfléchir à la conception du système. Vos premières missions sont les suivantes : 
-– Donner la table principale de l’entrepôt ainsi que les tables dimensions relatives.
-– Proposez une hiérarchie pour ces dimensions.
-– Tracer le schéma en étoile dimensionnel.
+- Donner la table principale de l’entrepôt ainsi que les tables dimensions relatives.
+- Proposez une hiérarchie pour ces dimensions.
+- Tracer le schéma en étoile dimensionnel.
 
 ### 2.2. Un système décisionnel pour étudier vos ventes 💰💰
 
