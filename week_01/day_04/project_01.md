@@ -1,40 +1,42 @@
-# Concevoir des bases de données
+# Modéliser un système de BI
 
 ## 1. Introduction
-Pour concevoir une bonne base de données, il faut bien comprendre le business concerné. Donc on fera souvent appel au Data Analyst pour réaliser la modélisation de la base ou pour vérifier que rien n'a été oublié. Avant que ça soit ton tour, profite de ce projet pour t'exercer et devenir un as de la modélisation de bases de données 🦁
+Pour concevoir une bonne base de données, il faut bien comprendre le business concerné. Donc on fera souvent appel au Data Analyst pour réaliser la modélisation de la base ou pour vérifier que rien n'a été oublié. Avant que ça soit ton tour, profite de ce projet pour t'exercer et devenir un as de la modélisation de bases de données analytiques 🦁
 
 ## 2. Le projet
-### 2.1. La startup tech du moment
-Ça y est, tu tiens la prochaine licorne française, tu vas conquérir le monde avec une app qui va révolutionner le monde du blogging. Ça va tout déchirer et Mark Zuckerberg va chialer. Avant de faire le code de ton blog, nous allons te demander de concevoir la base de données de ce dernier. Ensuite, tu vas devoir créer, en SQL les tables qui constitueront ta BDD avec leurs relations et leurs attributs.
+### 2.1. Un système décisionnel pour votre université 🎓🎓
 
-Voici, sans plus tarder, l'architecture de ton app de blogging :
+Maintenant que vous savez cruncher les classements mondiaux des universités, vous avez déjà transmis un reporting sur l'évolution des performances de votre Université. Depuis, les équipes veulent améliorer cette performance. Et pour cela, le recteur de l'Université de Strasbourg vous a demandé de mettre en place un système qui lui permettra de prendre des décisions éclairées. 
 
-- L'application va accueillir plusieurs `user` et ils auront tous un nom.
-- Chaque `user` peut créer plusieurs `article` et chaque `article` est forcément créé par un `user`.
-- Un `article` peut appartenir à plusieurs `category` et chaque `category` peuvent avoir plusieurs `article`. Chaque `category` a un titre.
-- Une catégorie peut appartenir à plusieurs tag ; chaque `tag` a un titre et une couleur.
+En fait, il cherche à étudier les facteurs influant sur la réussite des candidats aux examens. Pour cela, on vous a chargé de construire un datawarehouse.
 
-Utilise SQL pour créer cette base de données, ainsi que les tables correspondantes.
+Il souhaite pouvoir répondre aux questions suivantes :
+– Quel est le nombre de réussites aux examens par cours, pour l’année 2020 ?
+– Quel est le nombre de réussites aux examens d’un cours obligatoire, pour l’année 2020 ?
+– Quel est le nombre de réussites aux examens par genre (féminin, masculin), entre 2019 et 2020 ?
+– Combien d’apprenants ayant un âge supérieur à 23 ans ont réussi leurs examens de « BI » ?
+– Quel est le nombre de réussites aux examens pendant le semestre d’hiver 2020 ?
 
-A présent, tu vas créer un élément de chaque table : un `user`, un `article`, une `category` et un `tag`.
+Pour cela, vous disposez des données suivantes :
+Pour chaque examen passé, on connaît l’âge et le genre de l’apprenant, le nom du cours (les cours peuvent être regroupés en cours obligatoire et cours à option), la date de l’examen, la note obtenue et si l’examen est réussi ou non.
 
-### 2.2. Concepts de sites et base de données
-Ce premier exercice sur un blog a permis de bien t'échauffer et de réviser la création de base de données en langage SQL. Mais la partie la plus complexe est de concevoir l'architecture complète de la BDD : en te guidant sur le blog, on t'a évité cette étape.
+Pour l'instant, il vous demande de réfléchir à la conception du système. Vos premières missions sont les suivantes : 
+– Donner la table principale de l’entrepôt ainsi que les tables dimensions relatives.
+– Proposez une hiérarchie pour ces dimensions.
+– Tracer le schéma en étoile dimensionnel.
 
-À présent c'est ton tour ! On va te décrire un concept et c'est à toi de concevoir la BDD de A à Z. Liste (à tête reposée) les différentes tables, attributs, et jointures pour les sites ci-dessous. Tu n'auras pas besoin de les créer en SQL, mais juste de les concevoir, dans un fichier .txt par exemple.
+### 2.2. Un système décisionnel pour étudier vos ventes 💰💰
 
-#### 2.2.1. MOOCademy
-Tu dois créer une plateforme d'apprentissage en ligne. Il y a plein de cours. Chaque cours a un titre et une description. Enfin, chaque cours a plusieurs leçons, qui ont un titre et un body.
+Un ami à vous possède une entreprise qui revend du matériel informatique. Il vous demande de l'aider dans la gestion de ses ventes car il n'arrive pas vraiment à piloter son entreprise pour l'instant. 
 
-#### 2.2.2. The Hacking Pinterest
-Tu veux faire de la concurrence à Pinterest, donc tu voudrais créer un site où les utilisateurs peuvent créer des "pins". Chaque pin contient l'URL d'une image sur le net. Les utilisateurs peuvent commenter les pins, mais ne peuvent pas commenter les commentaires.
+La seule chose dont il dispose est d'un fichier Access qui contient sa base de données. 
 
-#### 2.2.3. The Hacking News
-Tu veux créer un message board à la Hacker News. Les utilisateurs peuvent poster des liens. Les autres utilisateurs peuvent commenter les liens soumis, ou commenter les commentaires (mais on ne peut pas aller plus loin qu'un commentaire de commentaire). Comment faire en sorte qu'un commentaire sache où dans la hiérarchie il se trouve ? 🤔
+Pour aider votre ami, vous allez donc utiliser le logiciel PowerBI Desktop (à télécharger [ici](https://powerbi.microsoft.com/fr-fr/downloads/)). 
 
-#### 2.2.4. The Hacking Class
-Tu vas encore faire un site d'éducation en ligne. Dans ce site il y aura des élèves qui peuvent s'inscrire à un seul cours. Un cours pourra avoir plusieurs élèves.
+à poursuivre
+
+
 
 ## 3. Rendu attendu
-- Un fichier .sql ontenant la BDD de ton appli de blog.
-- Un fichier .txt (ou .md) ou diagramme ERD avec la structure de chaque BDD (blog, MOOCacademy, Hackinterest, Hacking News, Hacking Class).
+- Un fichier .pdf contenant les schémas de l'exercice 1. 
+- Un fichier .pbix contenant le schéma et les ajouts effectués sur vos tables de données.
