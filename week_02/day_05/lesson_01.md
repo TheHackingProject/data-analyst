@@ -28,7 +28,7 @@ Pour certains problèmes, vous pourrez adopter **l'approche traditionnelle, qui 
 
 A l'inverse, dans beaucoup d'autres cas, vous serez amenés à faire ce qu'on appelle **l'analyse exploratoire des données (ou AED)**. Elle permet d'identifier les relations systématiques entre des variables, lorsqu'il n'existe aucune hypothèse a priori (ou des hypothèses incomplètes) quant à la nature de ces relations. C'est la posture qui va être privilégiée dans les projets de data science. 
 
-En fait, **l’analyse exploratoire de données est un cycle itératif qui vous aide à comprendre vos données**. Lorsque vous faites un analyse exploratoire de données, vous :
+En fait, **l’analyse exploratoire de données est un cycle itératif qui vous aide à comprendre vos données**. Lorsque vous faites une analyse exploratoire de données, vous :
 - Générez des questions sur vos données
 - Cherchez des réponses par visualisation, transformation, et/ou modélisation de vos données
 - Utilisez ce que vous avez appris des données pour affiner vos questions ou générer de nouvelles questions.
