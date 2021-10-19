@@ -33,6 +33,8 @@ La seule chose dont il dispose est d'un fichier Access qui contient sa base de d
 Pour aider votre ami, vous allez utiliser le logiciel PowerBI Desktop (à télécharger [ici](https://powerbi.microsoft.com/fr-fr/downloads/)). 
 Vous importez votre fichier [sales.db](https://drive.google.com/file/d/13AZq7xX1JDkCsFjqUVqGTYJQmLkmAykc/view?usp=sharing), vous chargez toutes les tables. 
 
+Pour en savoir plus sur le fonctionnement de PowerBI, vous pouvez regarder [cette vidéo](https://www.youtube.com/watch?v=PwyuzmL0jLU) ou [la doc de Microsoft](https://docs.microsoft.com/fr-fr/power-bi/fundamentals/desktop-getting-started).
+
 Vos missions sont les suivantes : 
 - Déterminer la table fait et les tables dimensions
 - Créer un modèle relationnel en Etoile
@@ -43,4 +45,4 @@ Vos missions sont les suivantes :
 
 ## 3. Rendu attendu
 - Un fichier .pdf contenant les schémas de l'exercice 1. 
-- Un fichier .pbix contenant le schéma et les ajouts effectués sur vos tables de données.
+- Un fichier .pbix contenant le schéma et les ajouts effectués sur vos tables de données pour l'exercice 2. 
