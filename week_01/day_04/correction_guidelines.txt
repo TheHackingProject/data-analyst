@@ -1,5 +1,11 @@
 Est-ce qu'il y a un fichier PDF qui contient un schéma ? 
 Est-ce que la table de fait est une table relative aux évaluations des examents ? 
 Est-ce qu'il y a au moins 5 tables de dimensions dont une qui donne le Temps ?
-Est-ce que le schéma en étoile ressemble à [l'image suivante](www.google.com) ?
+Est-ce que le schéma dessiné est lisible et semble approprié pour le besoin de l'université ?
+Est-ce que tu as bien reçu un fichier .pbix que tu peux ouvrir sur PowerBI ?
+Est-ce que dans la vue Modèle, tu peux consulter un modèle relationnel en étoile ou en flocon ? 
+Est-ce que la personne peut t'expliquer la différence entre les deux ?
+Est-ce que dans la vue Données, sur la table de fait, tu peux observer les deux nouvelles mesures : Total Sales et Total Cost ?
+Est-ce que tu peux lire les totaux des ventes par client et par date ?
+Est-ce que tu peux lire la moyenne des ventes par catégorie de produit ?
 
