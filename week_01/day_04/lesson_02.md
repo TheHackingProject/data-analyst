@@ -96,8 +96,9 @@ Bien que les systèmes d'informations OLTP et OLAP aient le point commun de regr
 
 Pour bien comprendre la différence entre base de données classique et datawarehouse (la base de données du système décisionnel), lis [cet article](https://www.oracle.com/fr/database/difference-data-warehouse-base-donnees.html).
 
-Enfin, on ne modélise pas un système décisionnel de la même manière qu'une base de données opérationnelle. Tu peux comprendre la modélisation d'un système décisionnel grâce à [cette vidéo](https://www.youtube.com/watch?v=7vPIo1QI0Ek).
+Enfin, **on ne modélise pas un système décisionnel de la même manière qu'une base de données opérationnelle**. Pour comprendre la modélisation d'un système décisionnel, regarde [cette vidéo](https://www.youtube.com/watch?v=7vPIo1QI0Ek).
 
+Tu trouveras [ici](https://stph.scenari-community.org/dwh/int/co/intUC032modObj.html) quelques lignes intéressantes sur les objectifs du modèle dimensionnel, ainsi qu'un exemple de modèle en étoile.
 
 
 ## 4. Points importants à retenir
@@ -109,6 +110,6 @@ Avant de coder une BDD, il faut se poser pour établir toutes les tables, les re
 Il faut également se demander s'il s'agit d'une base de données opérationnelle ou alors d'un datawarehouse car la modélisation ne sera pas la même.
 
 ## 5. Pour aller plus loin
-- Pour approfondir la modélisation de bases de données, cf. le cours [Modélisez et implémentez une base de données relationnelle avec UML](https://openclassrooms.com/fr/courses/4055451-modelisez-et-implementez-une-base-de-donnees-relationnelle-avec-uml)
+- Pour approfondir la modélisation de bases de données classique, cf. le cours [Modélisez et implémentez une base de données relationnelle avec UML](https://openclassrooms.com/fr/courses/4055451-modelisez-et-implementez-une-base-de-donnees-relationnelle-avec-uml)
 - Pour approfondir la notion de système d'information décisionnel, vous pouvez lire [cet article](https://www.decideo.fr/bruley/docs/B374.pdf) qui explique concrètement comment se met en place ce type de systèmme
 
