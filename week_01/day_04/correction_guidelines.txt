@@ -8,4 +8,18 @@ Est-ce que la personne peut t'expliquer la différence entre les deux ?
 Est-ce que dans la vue Données, sur la table de fait, tu peux observer les deux nouvelles mesures : Total Sales et Total Cost ?
 Est-ce que tu peux lire les totaux des ventes par client et par date ?
 Est-ce que tu peux lire la moyenne des ventes par catégorie de produit ?
+Est-ce que la base de données a été importée sur MongoDB Atlas ?
+Est-ce que les 5 premières requêtes sont correctes ?
+    1)	Vérifier le nombre de documents importés
+    >db.publis.count()
+    2)	Prévisualiser les 20 premiers documents 
+    >db.publis.find()
+    3)	Liste de tous les livres (type “Book”)
+    >db.publis.find({"type":"Book"})
+    4)	Liste des publications depuis 2011 
+    >db.publis.find({year : {$gt:2011}})
+    5)	Liste de tous les livres de 2011 et 2013 
+    >db.publis.find( { year: { $in: [ 2011, 2013 ] } } )
+Est-ce qu'on a la requête pour compter le nombre de publications par auteur et trier le résultat par ordre croissant ? 
+    >db.publis.aggregate( [ { $unwind : "$authors" }, { $group : { _id : "$authors" ,count:{$sum:1}} },{$sort:{count:-1}} ] )
 
