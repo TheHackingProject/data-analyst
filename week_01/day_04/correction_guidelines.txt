@@ -1,1 +1,4 @@
-
+Est-ce qu'il y a un fichier PDF qui contient un schéma ? 
+Est-ce que la table de fait est une table relative aux évaluations des examents ? 
+Est-ce qu'il y a au moins 5 tables de dimensions dont une qui donne le Temps ?
+Est-ce que le schéma en étoile ressemble à l'image suivante ?
