@@ -47,10 +47,14 @@ Chaque cas d'usage doit tenir sur une feuille A4.
 
 Pour que cela soit agréable à lire, nous vous conseillons de tous suivre le même template graphique. Accordez-vous sur une manière de présenter les informations et chacun  n'aura plus qu'à remplir le template par chacun des paragraphes.
 
+La mise en forme fait clairement partie des compétences à avoir pour un Data Analyst donc si tu te sens l'âme d'un Designer, saisis cette opportunité pour réactiver tes talents en Powerpoint, Canva, Photoshop ou autres outils 🎨
+
 
 ### 2.4. Rassembler tous les cas d'usage
 
 A la fin de la journée, vous devez réunir l'ensemble des cas d'usage dans le même fichier PDF. Votre objectif est d'obtenir un rendu harmonisé et professionnel qui pourrait être communiqué à des communautés data existantes. 
+
+A mon avis, tu es un peu perdu après la lecture de cet énonce. Donc comme on est sympas, je te mets à disposition [un exemple de cas d'usage](https://drive.google.com/file/d/1P7CVWcyA8Yxn5PcP9aQCO-rtHNhRTY_Y/view?usp=sharing) entièrement rédigé 🚴‍♀️
 
 Comme vous l'avez remarqué, le travail d'équipe est un aspect important de ce projet. Nous vous laissons vous débrouiller comme vous le voulez mais n'oubliez pas que la communication et la méthodologie sont indispensables à tout travail de groupe.
 
