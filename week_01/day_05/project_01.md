@@ -54,10 +54,11 @@ La mise en forme fait clairement partie des compétences à avoir pour un Data A
 
 A la fin de la journée, vous devez réunir l'ensemble des cas d'usage dans le même fichier PDF. Votre objectif est d'obtenir un rendu harmonisé et professionnel qui pourrait être communiqué à des communautés data existantes. 
 
-A mon avis, tu es un peu perdu après la lecture de cet énonce. Donc comme on est sympas, je te mets à disposition [un exemple de cas d'usage](https://drive.google.com/file/d/1P7CVWcyA8Yxn5PcP9aQCO-rtHNhRTY_Y/view?usp=sharing) entièrement rédigé 🚴‍♀️
+A mon avis, tu es un peu perdu après la lecture de cet énonce. Donc comme on est sympas, on te met à disposition [un exemple de cas d'usage Big Data](https://drive.google.com/file/d/1P7CVWcyA8Yxn5PcP9aQCO-rtHNhRTY_Y/view?usp=sharing) entièrement rédigé 🚴‍♀️
 
 Comme vous l'avez remarqué, le travail d'équipe est un aspect important de ce projet. Nous vous laissons vous débrouiller comme vous le voulez mais n'oubliez pas que la communication et la méthodologie sont indispensables à tout travail de groupe.
 
 
 ## 3. Rendu attendu
 A la fin, il faut nous rendre un fichier PDF contenant l'ensemble des cas d'usage proposés par les moussaillons. 
+Si tout le monde n'a pas joué le jeu, tant pis, c'est la vie : le book contiendra moins d'exemples pour vous et vos éventuels lecteurs 🦴🍖
