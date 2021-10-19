@@ -1,4 +1,4 @@
-# Data Warehouse et ETL
+# Data Warehouse et ETL : les piliers de la BI
 Quelques mots anglais qui paraissent barbares mais qui constituent la base de l'informatique décisionnel.
 
 ## 1. Introduction
@@ -41,7 +41,7 @@ Rappelle toi ce qu'on disait hier sur le flou potentiellement existant aujourd'h
 ## 4. Points importants à retenir
 - Au-delà des outils qu'il regroupe, l'ETL désigne aussi un processus fondamental dans l'analyse de données. Tu peux consulter [cette page de cours](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python/7296776-extrayez-et-transformez-des-donnees-avec-l-extraction-web) pour comprendre ce que veut dire plus généralement le processus ETL.
 
-- Il faut bien comprendre ce qu'est un **système « opérationnel » ou « de gestion »**, également appelé système OLTP (*on-line transaction processing*). Ces systèmes sont dédiés aux métiers de l'entreprise pour les assister dans leurs tâches de gestion quotidiennes. La tendance est à l'utilisation de P.G.I. (progiciels de gestion intégrée) qui regroupent tous les logiciels de gestion de l'entreprise – finances, ressources humaines, logistique, ventes, etc. – en un unique progiciel paramétrable aux règles de l'entreprise. Qui est à différencier d'un **système « décisionnel »**, également appelés OLAP (*on-line analytical processing*). Ces systèmes sont dédiés au management de l'entreprise pour l'aider au pilotage de l'activité. Ils offrent au décideur une vision transversale de l'entreprise. La tendance pour réaliser un système décisionnel est à la mise en place d'un entrepôt de données, ou data warehouse.
+- Il faut bien comprendre ce qu'on avait vu un peu hier : la définition d'un **système « opérationnel » ou « de gestion »**, également appelé système OLTP (*on-line transaction processing*). Ces systèmes sont dédiés aux métiers de l'entreprise pour les assister dans leurs tâches de gestion quotidiennes. La tendance est à l'utilisation de P.G.I. (progiciels de gestion intégrée) qui regroupent tous les logiciels de gestion de l'entreprise – finances, ressources humaines, logistique, ventes, etc. – en un unique progiciel paramétrable aux règles de l'entreprise. Qui est à différencier d'un **système « décisionnel »**, également appelés OLAP (*on-line analytical processing*). Ces systèmes sont dédiés au management de l'entreprise pour l'aider au pilotage de l'activité. Ils offrent au décideur une vision transversale de l'entreprise. La tendance pour réaliser un système décisionnel est à la mise en place d'un entrepôt de données, ou data warehouse.
 
 Dans un système OLTP, les données ne sont conservées que sur une courte période ; elles sont détaillées, personnelles, identifiées. A l'inverse, dans un système OLAP, les données sont historisées et peuvent être agrégées et anonymes.
 
