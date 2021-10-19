@@ -39,7 +39,7 @@ Vos missions sont les suivantes :
 - Créer un modèle relationnel en Flocon
 - Ajouter deux nouvelles mesures : Total_Sales, Total_Costs
 - Afficher les totaux des ventes par client et par date
-- Visualiser la moyenne des ventes par catégorie de produit.
+- Visualiser la moyenne des ventes par catégorie de produit
 
 ## 3. Rendu attendu
 - Un fichier .pdf contenant les schémas de l'exercice 1. 
