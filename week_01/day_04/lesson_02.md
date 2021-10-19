@@ -96,18 +96,19 @@ Bien que les systèmes d'informations OLTP et OLAP aient le point commun de regr
 
 Pour bien comprendre la différence entre base de données classique et datawarehouse (la base de données du système décisionnel), lis [cet article](https://www.oracle.com/fr/database/difference-data-warehouse-base-donnees.html).
 
-Enfin, **on ne modélise pas un système décisionnel de la même manière qu'une base de données opérationnelle**. Pour comprendre la modélisation d'un système décisionnel, regarde [cette vidéo](https://www.youtube.com/watch?v=7vPIo1QI0Ek).
+Enfin, **on ne modélise pas un système décisionnel de la même manière qu'une base de données opérationnelle**. Pour comprendre la modélisation d'un système décisionnel, regarde [cette vidéo](https://www.youtube.com/watch?v=7vPIo1QI0Ek). Dans un des deux projets du jour, tu vas devoir t'essayer à ce type de modélisation donc pense à bien prendre des notes pour retenir les concepts clés 📝
 
 Tu trouveras [ici](https://stph.scenari-community.org/dwh/int/co/intUC032modObj.html) quelques lignes intéressantes sur les objectifs du modèle dimensionnel, ainsi qu'un exemple de modèle en étoile.
 
 
 ## 4. Points importants à retenir
-
 Les bases de données relationnelles sont la base de la majorité des applications. Pour concevoir une BDD relationnelle, SQL est le langage de prédilection.
 
 Avant de coder une BDD, il faut se poser pour établir toutes les tables, les relations entre elles et leurs attributs. 
 
-Il faut également se demander s'il s'agit d'une base de données opérationnelle ou alors d'un datawarehouse car la modélisation ne sera pas la même.
+Il faut également se demander s'il s'agit d'une base de données opérationnelle ou alors d'un datawarehouse car la modélisation ne sera pas la même. 
+
+Le Data Analyst doit savoir travailler avec les tous les types de bases de données (même si quand le datawarehouse est déjà mis en place, il travaillera principalement sur le système d'info décisionnel). 
 
 ## 5. Pour aller plus loin
 - Pour approfondir la modélisation de bases de données classique, cf. le cours [Modélisez et implémentez une base de données relationnelle avec UML](https://openclassrooms.com/fr/courses/4055451-modelisez-et-implementez-une-base-de-donnees-relationnelle-avec-uml)
