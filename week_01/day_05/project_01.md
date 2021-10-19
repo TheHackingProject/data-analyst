@@ -60,5 +60,5 @@ Comme vous l'avez remarqué, le travail d'équipe est un aspect important de ce 
 
 
 ## 3. Rendu attendu
-A la fin, il faut nous rendre un fichier PDF contenant l'ensemble des cas d'usage proposés par les moussaillons. 
+A la fin, vous aurez un fichier PDF contenant l'ensemble des cas d'usage proposés par les moussaillons. 
 Si tout le monde n'a pas joué le jeu, tant pis, c'est la vie : le book contiendra moins d'exemples pour vous et vos éventuels lecteurs 🦴🍖
