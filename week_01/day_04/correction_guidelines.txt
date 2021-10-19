@@ -3,4 +3,4 @@ Est-ce que la table de fait est une table relative aux évaluations des examents
 Est-ce qu'il y a au moins 5 tables de dimensions dont une qui donne le Temps ?
 Est-ce que le schéma en étoile ressemble à l'image suivante ?
 
-![Le schema](https://github.com/TheHackingProject/data-analyst/blob/master/week_01/day_04/Capture%20d%E2%80%99%C3%A9cran%20(70).png)
+![Le schema](https://github.com/TheHackingProject/data-analyst/blob/master/week_01/day_04/Capture%20d%E2%80%99%C3%A9cran%20(70).png 'titre')
