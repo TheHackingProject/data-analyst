@@ -18,8 +18,9 @@ Une fois que tu as réussi à estimer ce que sera l'analyse, tu te lances !
 Les allers-retours entre nettoyage et analyse peuvent commencer. Pour réussir à avancer, tes collègues te conseillent de réduire l'immense fichier à un fichier qui contient les données les plus utiles. Autrement dit, ils te préconisent de faire un grand nettoyage de données 🧽🧽 A la fin de ce nettoyage, tu auras un fichier beaucoup plus lisible qu'ils aimeraient bien obtenir. Ils te demandent d'ailleurs de leur envoyer ton fichier csv final. Cela leur permettra de regarder à leur tour les données intéressantes sur un support plus agréable.
 
 Par ailleurs, en parallèle de ce nettoyage, tu vas devoir dégager des axes d'analyse qui te semblent intéressants. 
-De nouveau, la directrice des Etudes te demande de lui envoyer un mail récapitulatif. Cette fois, elle aimerait que tu lui proposes 5 tendances qu'on retrouve dans le jeu de données. Ces 5 tendances pourraient constituer les 5 axes du rapport à publier en janvier. Rappel : l'objectif du rapport est de faire un état des lieux de la situation de l'éducation dans le monde et comment celle-ci devrait évoluer. Elle souhaiterait que tu illustres chaque tendance choisie par une dizaine de chiffres évocateurs.
-Et pour lui faire vraiment plaisir, ajoute 2 box plots à ton mail, elle adore cette façon de lire les données 🤓
+De nouveau, la directrice des Etudes te demande de lui envoyer un mail récapitulatif. Cette fois, elle aimerait que tu lui proposes 5 tendances qu'on retrouve dans le jeu de données. Ces 5 tendances pourraient constituer les 5 axes du rapport à publier en janvier. Ce qu'elle appelle tendance, c'est un parti pris sur une évolution constatée dans les données. Ex : la féminisation de l'éducation dans le monde (les femmes ont de plus en plus tendance à aller à l'école dans le monde). 
+
+Rappel : l'objectif du rapport est de faire un état des lieux de la situation de l'éducation dans le monde et comment celle-ci devrait évoluer. Elle souhaiterait que tu illustres chaque tendance choisie par plusieurs chiffres évocateurs 🤓
 
 
 ## 3. Rendu attendu
@@ -27,4 +28,5 @@ Et pour lui faire vraiment plaisir, ajoute 2 box plots à ton mail, elle adore c
 - Un fichier .doc ou.txt qui contient les deux mails récapitulatifs envoyés à ta directrice.
 - Le fichier csv final que tu as envoyé à tes collègues.
 
-PS : ne te fie pas à la taille de l'énoncé et ouvre plutôt d'abord les fichiers csv pour estimer le temps que va te prendre le projet ☠️
+PS1 : ne te fie pas à la taille de l'énoncé et ouvre plutôt d'abord les fichiers csv pour estimer le temps que va te prendre le projet ☠️
+PS2 : si tu te motives à faire un fichier Jupyter nickel, tu pourras présenter ce notebook en disant "voilà c'est un exemple d'analyse que j'ai réalisée en toute autonomie. J'ai essayé d'aller à la source des données de l'éducation dans le monde pour me faire mon propre avis sur la question". Cela fait à la fois très débrouillard et très curieux, deux qualités qui sont très très recherchés en entreprise 😃�
