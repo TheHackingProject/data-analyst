@@ -6,9 +6,9 @@ Suite à ton stage à l'Université de Strasbourg, tu es recruté par la Banque 
 ## 2. Le projet
 
 ### 2.1. Etude de la qualité des données
-Lors de ton premier point de prise de poste, on te prévient qu'on ne sait pas vraiment l'étendue de la tâche car personne ne s'est encore vraiment plongé dans le fameux fichier à 887 000 lignes 💩💩 En fait, l’organisme “EdStats All Indicator Query” de la Banque mondiale répertorie 4 000 indicateurs internationaux décrivant l’accès à l’éducation, l’obtention de diplômes et des informations relatives aux professeurs, aux dépenses liées à l’éducation... Les données sont disponibles sur [le site de la Banque Mondiale](https://datacatalog.worldbank.org/dataset/education-statistics).
+Lors de ton premier point de prise de poste, on te prévient qu'on ne sait pas vraiment l'étendue de la tâche car personne ne s'est encore vraiment plongé dans le fameux fichier à 887 000 lignes 💩💩 En fait, l’organisme “EdStats All Indicator Query” de la Banque mondiale répertorie quasiment 4 000 indicateurs internationaux décrivant l’accès à l’éducation, l’obtention de diplômes et des informations relatives aux professeurs, aux dépenses liées à l’éducation... Les données sont disponibles sur [le site de la Banque Mondiale](https://datacatalog.worldbank.org/dataset/education-statistics).
 
-Là où on a besoin de toi dans un premier temps, c'est d'évaluer la pertinence et l'exhaustivité de ces données (dans le temps, mais aussi géographiquement). 
+Là où on a besoin de toi dans un premier temps, c'est d'évaluer la pertinence et l'exhaustivité de ces données (dans le temps, mais aussi géographiquement). On te confie que les fichiers sont trop complexes pour être évalués directement par un humain. Tous ceux avant toi s'y sont cassés les dents. Pour s'en sortir d'après ce qu'on dit, il faut ruser et faire un premier nettoyage de données.
 
 A ce propos, la directrice du département Etudes te demande de lui envoyer un mail récapitulatif quand tu auras fait tes premières analyses et que tu seras en mesure de décrire ce que va pouvoir étudier le rapport. Elle aimerait que tu lui décrives les données dont on dispose et ce qu'on va pouvoir en tirer. Comme elle n'a pas beaucoup de temps, elle te demande que le mail fasse environ une vingtaine de lignes.
 
@@ -24,7 +24,7 @@ Et pour lui faire vraiment plaisir, ajoute 2 box plots à ton mail, elle adore c
 
 ## 3. Rendu attendu
 Un fichier .ipynb qui contient l'ensemble de tes analyses.
-Un fichier .doc qui contient les deux mails récapitulatifs envoyés à ta directrice.
+Un fichier .doc ou.txt qui contient les deux mails récapitulatifs envoyés à ta directrice.
 Le fichier csv final que tu as envoyé à tes collègues.
 
 PS : ne te fie pas à la taille de l'énoncé et ouvre plutôt d'abord les fichiers csv pour estimer le temps que va te prendre le projet ☠️
