@@ -27,7 +27,7 @@ Puis tu vas devoir manipuler cette base de données via Python. Cela nécessite 
 
 Alerte : Les données sont purement fictives, tu pourras même y trouver quelques fantaisies 🙄.
 
-Voici la liste des requêtes que tu dois réaliser sur cette base de données : 
+Si tu as du temps (tu peux y revenir une fois que tu as testé les 5 manières de collecter de la donnée), voici la liste des requêtes que tu dois réaliser sur cette base de données : 
 
 1. Donner le nom et le prénom de tous les clients.
 2. Donner le nom et le prénom des clients habitant à Paris.
