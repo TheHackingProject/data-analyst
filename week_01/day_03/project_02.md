@@ -7,7 +7,7 @@ A ce propos, le secrétaire de rédaction t'a retoqué hier ton article car selo
 
 ## 2. Le projet
 
-Télécharge la base de données [ici](https://offshoreleaks.icij.org/pages/database) et mets-toi dans la peau d'Hercule Poirot  🔎🔎
+Télécharge la base de données [ici](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/Cours_initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql/database_sqlite3.zip) et mets-toi dans la peau d'Hercule Poirot  🔎🔎
 
 Voici la liste de questions auxquelles tu dois répondre : 
 
