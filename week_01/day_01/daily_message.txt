@@ -1,0 +1,11 @@
+Bonjour tout le monde et bienvenue dans la première journée de la branche Data Analyst de THP @Data Analyse 🎉
+
+Cette branche vous donnera les bases pour faire de l'analyse de données et on espère que cela vous plaira 😊
+
+1️⃣ **CETTE SEMAINE**
+Cette semaine blabla
+
+2️⃣ **AUJOURD'HUI**
+Aujourd'hui nous allons vous montrer Python, LE langage de référence quand on fait de la Data :)
+
+Bonne journée !
