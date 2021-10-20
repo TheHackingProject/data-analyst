@@ -29,4 +29,4 @@ Rappel : l'objectif du rapport est de faire un état des lieux de la situation d
 - Le fichier csv final que tu as envoyé à tes collègues.
 
 PS1 : ne te fie pas à la taille de l'énoncé et ouvre plutôt d'abord les fichiers csv pour estimer le temps que va te prendre le projet ☠️
-PS2 : si tu te motives à faire un fichier Jupyter nickel, tu pourras présenter ce notebook en disant "voilà c'est un exemple d'analyse que j'ai réalisée en toute autonomie. J'ai essayé d'aller à la source des données de l'éducation dans le monde pour me faire mon propre avis sur la question". Cela fait à la fois très débrouillard et très curieux, deux qualités qui sont très très recherchés en entreprise 😃�
+PS2 : si tu te motives à faire un fichier Jupyter nickel, tu pourras présenter ce notebook en disant "voilà c'est un exemple d'analyse que j'ai réalisée en toute autonomie. J'ai essayé d'aller à la source des données de l'éducation dans le monde pour me faire mon propre avis sur la question". Cela fait à la fois très débrouillard et très curieux, deux qualités qui sont très très recherchés en entreprise 😃
