@@ -23,7 +23,7 @@ Avec MongoDB Atlas, tu vas pouvoir créer un cluster MongoDB auprès de tout fou
 ### 2.2. Télécharger MongoDB Compass
 - Télécharge l'outil graphique [MongoDB Compass](https://www.mongodb.com/try/download/compass), tu l'ouvres et tu le connectes à ton cluster en collant l'url de connexion obtenu précédemment (en changeant 'password' par le mot-clé qui avait été saisi lors de la création de l'utilisateur.
 - Crée une base de données 'demo' et une collection 'publis'.
-- Télécharge les données disponibles [ici](http://b3d.bdpedia.fr/files/dblp/json.zip). Il s'agit d'un extrait de la base de données DBLP (*Digital Bibliography & Library Project*), un catalogue de bibliographies en informatique disponible en ligne.
+- Télécharge les données disponibles [ici](https://drive.google.com/file/d/102Ooo-V8H6r5GIl07bcnKXe4N9qHz96s/view?usp=sharing). Il s'agit d'un extrait de la base de données DBLP (*Digital Bibliography & Library Project*), un catalogue de bibliographies en informatique disponible en ligne.
 - Dézippe le fichier et importe le à ta base de données.
 
 ### 2.3. Requêter la base de données
