@@ -8,7 +8,7 @@ ___
 
 🤖🤖 PAUSE DEFINITION : C'est quoi un cas d'usage ? 🤖🤖
 
-Un cas d'utilisation, ou cas d'usage (*use-case* en anglais), définit en génie logiciel et en ingénierie des systèmes une manière d'utiliser un système qui a une valeur ou une utilité pour les acteurs impliqués. Les cas d'utilisation tentent d'éviter tout jargon technique et essayent au contraire d'adopter le langage de l'utilisateur final ou de l'expert du domaine. Plutôt que de rester au niveau généraliste, il s'agit de décrir une application précise d'une technologie réalisée à un certain moment par une certaine entité. Un outil, quel qu’il soit, ne dégage de valeur, que par ce qu’on en fait. Il faut donc prendre grand soin de la définition des cas d’usage. 
+Un cas d'utilisation, ou cas d'usage (*use-case* en anglais), définit en génie logiciel et en ingénierie des systèmes une manière d'utiliser un système qui a une valeur ou une utilité pour les acteurs impliqués. Les cas d'utilisation tentent d'éviter tout jargon technique et essayent au contraire d'adopter le langage de l'utilisateur final ou de l'expert du domaine. Plutôt que de rester au niveau généraliste, il s'agit de décrire une application précise d'une technologie réalisée à un certain moment par une certaine entité. Un outil, quel qu’il soit, ne dégage de valeur, que par ce qu’on en fait. Il faut donc prendre grand soin de la définition des cas d’usage. 
 
 ___
 
