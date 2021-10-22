@@ -8,7 +8,7 @@ Suite à THP, une startup trop cool spécialisée dans la musique te recrute pou
 
 Dans cet exercice, on te demande donc de récupérer une base de données existante, et de faire des requêtes SQL dedans, afin de récupérer les datas qui t'intéressent, et qui feront de toi une star de la musique. 
 
-Nous allons travailler sur le [fichier suivant](http://www.sqlitetutorial.net/wp-content/uploads/2018/03/chinook.zip), qui contient la BDD complète pour faire les requêtes.
+Nous allons travailler sur le [fichier suivant](https://drive.google.com/file/d/1XG-s84jEJINSnLUgw5TYBCFsuyUX_Ll4/view?usp=sharing), qui contient la BDD complète pour faire les requêtes.
 Tu devras rédiger les requêtes en langage SQL sur le SGBD de ton choix (tu peux travailler sur [SQL online compiler](https://sqliteonline.com/) si tu n'as pas de SGBD). Certaines requêtes avec des jointures ne seront pas faciles au premier abord, donc nous t'invitons à bien décortiquer les ressources que nous t'avons données 😉
 
 Rédige les requêtes SQL permettant d'obtenir les informations ci-dessous. Consigne importante : la requête doit se faire en une seule ligne de SQL et ne doit pas s'appuyer sur d'autres requêtes (notamment pas les requêtes précédentes).
