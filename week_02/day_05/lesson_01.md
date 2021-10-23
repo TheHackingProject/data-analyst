@@ -44,4 +44,4 @@ L’analyse exploratoire de données n’est pas un processus formel avec une li
 L'analyse des données est un processus qui contient plusieurs étapes. Pour autant, c'est un processus itératif. Pensez à revenir souvent aux phases initiales, que ce soit préciser le besoin du client ou nettoyer les données. C'est cela qui rendra vos analyses complètes et intéressantes pour le client.
 
 ## 5. Pour aller plus loin
-- Un article qui rappelle [les étapes d'un projet de data science](https://www.empirik.fr/2019/07/12/la-data-science-expliquee-a-ma-grand-mere-3-5-cycle-de-vie-dun-projet).
+- Un article qui rappelle [les étapes d'un projet de data science](https://www.empirik.fr/2019/07/12/la-data-science-expliquee-a-ma-grand-mere-3-5-cycle-de-vie-dun-projet). Cela vaut aussi pour la plupart des projets de Data Analyse.
