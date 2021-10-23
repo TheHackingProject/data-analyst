@@ -31,3 +31,27 @@ Rappel : l'objectif du rapport est de faire un état des lieux de la situation d
 PS1 : ne te fie pas à la taille de l'énoncé et ouvre plutôt d'abord les fichiers csv pour estimer le temps que va te prendre le projet ☠️
 
 PS2 : si tu te motives à faire un fichier Jupyter nickel, tu pourras présenter ce notebook en disant "voilà c'est un exemple d'analyse que j'ai réalisée en toute autonomie. J'ai essayé d'aller à la source des données de l'éducation dans le monde pour me faire mon propre avis sur la question". Cela fait à la fois très débrouillard et très curieux, deux qualités qui sont très très recherchées en entreprise 😃
+
+
+## 4. Auto-évaluation
+
+Voilà tu as fini ton premier projet de Data Analyse de bout en bout, bravo 💥💥💥
+
+Comme le projet n'est pas validant, on t'a préparé une grille d'auto-évaluation pour que tu puisses te situer par rapport à ce qui était attendu : 
+- Est-ce qu'il y a fichier Jupyter qui alterne texte et code ? Et explique la démarche d'analyse qui a été réalisée ?
+- Est-ce qu'il y a un fichier qui donne les deux mails envoyés à la directrice ? 
+- Est-ce qu'il y a un fichier CSV qui compte moins de 800 000 lignes ?
+- Est-ce que la personne a réussi à supprimer les lignes qui ne possèdent que des valeurs manquantes (ex : remplacer les guillemets vides par NaN puis supprimer les lignes avec NA) ?
+- Est-ce que dans le premier mail adressé à la directrice, on apprend qu'on va pouvoir faire des études à différents échelons : au niveau mondial, au niveau des continents ou zones géographiques, au niveau de chaque pays ?
+- Est-ce que dans le premier mail adressé à la directrice, on apprend qu'en réalité il n'y a pas 4 000 indicateurs mais quelques centaines ? Chaque indicateur étant divisé en sous-indicateurs, on peut en fait dire q'il y a moins d'un millier de thématiques qui est traité.
+- Est-ce que dans le premier mail à la directrice, on a des exemples de sujets dont l'évolution peut être décrite à l'échelle mondiale ? 
+- Est-ce que dans le premier mail à la directrice, on a des exemples de sujets dont l'évolution peut être décrite à l'échelle continentale/régionale ? 
+- Est-ce que dans le premier mail à la directrice, on a des exemples de sujets dont l'évolution peut être décrite à l'échelle des pays ?
+- Est-ce que dans le premier mail à la directrice, l'échelle de temps est évoquée ? C'est-à-dire qu'en fonction des indicateurs et des zones concernées, le nombre d'années concernées est très variable. 
+- Est-ce que dans le premier mail à la directrice, on apprend que la base de données n'est pas très récente, cad que les données ne vont jamais au-delà de 2015 (ou alors cas très rares, il s'agit de prévisions) ?
+- Est-ce que dans le deuxième mail à la directrice, on a 5 vraies tendances sur les données, cad 5 renseignements sur l'état de l'éducation dans le monde ? 
+- Est-ce que ces 5 tendances sont étayées par suffisamment de chiffres, de façon à ce que les tendances ne semblent pas questionnables ?
+- Est-ce que le fichier csv reçu peut permettre à des futurs collègues Data Analyst de réaliser leurs propres analyses sur le même sujet, mais en économisant plusieurs étapes de nettoyage ?
+
+
+
