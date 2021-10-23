@@ -52,6 +52,7 @@ Comme le projet n'est pas validant, on t'a préparé une grille d'auto-évaluati
 - Est-ce que dans le deuxième mail à la directrice, on a 5 vraies tendances sur les données, cad 5 renseignements sur l'état de l'éducation dans le monde ? 
 - Est-ce que ces 5 tendances sont étayées par suffisamment de chiffres, de façon à ce que les tendances ne semblent pas questionnables ?
 - Est-ce que le fichier csv reçu peut permettre à des futurs collègues Data Analyst de réaliser leurs propres analyses sur le même sujet, mais en économisant plusieurs étapes de nettoyage ?
+- Est-ce que la directrice dispose d'au moins 5 graphes qui viennent illustrer les tendances choisies ?
 
 
 
