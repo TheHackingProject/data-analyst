@@ -31,5 +31,5 @@ Il vous demande donc de récupérer [ici](https://drive.google.com/file/d/1Xpfme
 
 ## 3. Rendu attendu
 - Un fichier .ipynb qui contient l'ensemble de tes analyses.
-- Le fichier csv final, beaucoup plus clean et exploitable par les équipes de comptabilité. Et si tu as réussi cette étape, celui qui donne la liste des coefficients de variation.
+- Le fichier csv final, beaucoup plus clean et exploitable par les équipes de comptabilité. Et si tu as réussi cette étape, l'autre fichier cv qui donne la liste des coefficients de variation.
 
