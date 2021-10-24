@@ -9,13 +9,15 @@ Ils te préviennent tout de suite que l'enjeu principal n'est pas forcément de 
 
 OpenAQ souhaiterait mettre en ligne sur son site un fichier qui permet de comparer des mesures de l'air récentes partout dans le monde. Pour cela, on te demande de nettoyer les données dont on dispose pour l'instant. 
 
-Tu as reçu un mail qui te dit : "Télécharge [le jeu de données](https://public.opendatasoft.com/explore/dataset/openaq/information/?disjunctive.city&disjunctive.location&disjunctive.measurements_parameter) disponible sur la plateforme Opendatasoft. Et renvoie-moi d'ici la fin de la journée un fichier csv qui ne comporte aucune erreur, ni information non exploitable. Merci et bon courage."
+Tu as reçu un mail de ton manager qui te dit : "Télécharge [le jeu de données](https://public.opendatasoft.com/explore/dataset/openaq/information/?disjunctive.city&disjunctive.location&disjunctive.measurements_parameter) disponible sur la plateforme Opendatasoft. Et renvoie-moi d'ici la fin de la journée un fichier csv qui ne comporte aucune erreur, ni information non exploitable. Merci et bon courage."
 
-Regarde sur l'onglet *Informations* du jeu de données, deux *disclaimers* sont énoncés : 
-"- Some records contain encoding issues on specific characters; those issues are present in the raw API data and were not corrected.
-- Some dates are set in the future: those issues also come from the original data and were not corrected."
+Comme le message est un peu lapidaire, on va te donner quelques informations supplémentaires. Regarde sur l'onglet *Informations* du jeu de données, deux *disclaimers* sont énoncés : 
+- Some records contain encoding issues on specific characters; those issues are present in the raw API data and were not corrected.
+- Some dates are set in the future: those issues also come from the original data and were not corrected.
 
-Cela nous donne une idée de ce qu'il va falloir nettoyer en premier lieu !
+Cela te donne une idée de ce qu'il va falloir nettoyer en premier lieu !
+
+Et si tu souhaites encore plus de précision, voici les
 
 ## 3. Rendu attendu
- Un récapitulatif de ce que nous attendons du projet.
+Le fichier csv qui ne comporte aucune erreur ni information non exploitable. 
