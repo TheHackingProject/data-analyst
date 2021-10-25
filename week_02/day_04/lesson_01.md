@@ -40,7 +40,7 @@ Les outils BI sont à la data ce que le no-code est au développement web. Ce so
 On peut obtenir des résultats similaires en travaillant avec des librairies de dataviz et des outils BI, mais ces deux solutions reposent sur des techniques différentes. Nous verrons quels sont ces outils et comment les utiliser lors de la semaine prochaine. 
 
 ## 4. Points importants à retenir
-La visualisation de données est très utilisée dans tous les secteurs d’activité. Rappelle-toi que **le cerveau humain préfère dans la plupart des cas regarder un graphe que du texte**. Quand tu travailles sur tes jeux de données, fais plaisir à ton cerveau en lui offrant régulièrement la possibilité de voir une représentation graphique. Et surtout, quand tu présentes tes résultats à d'autres personnes, pense toujours à les agrémenter de nombreux graphes 
+La visualisation de données est très utilisée dans tous les secteurs d’activité. Rappelle-toi que **le cerveau humain préfère dans la plupart des cas regarder un graphe que du texte**. Quand tu travailles sur tes jeux de données, fais plaisir à ton cerveau en lui offrant régulièrement la possibilité de voir une représentation graphique. Et surtout, quand tu présentes tes résultats à d'autres personnes, pense toujours à les agrémenter de nombreux graphes 📊📈📉
 
 ## 5. Pour aller plus loin
 Pratiquer sans relâche !
