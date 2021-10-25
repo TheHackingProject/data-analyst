@@ -46,15 +46,25 @@ Mais pour ta culture générale, voici les 3 outils les plus connus sur le march
 
 ___
 
-### 3.3. Zoom sur le logiciel Tableau 
+### 3.3. Les outils pour créer des dashboards visuels
 
-Et dernièrement, la connaissance de Tableau semble être demandée dans la majorité des offres d'emploi de Data Analysts en France. Donc nous te conseillons de t'approprier ce logiciel. Pour cela, tu peux télécharger une version gratuite du logiciel et suivre le chapitre 2 du [cours OpenClassrooms](https://openclassrooms.com/fr/courses/4525361-realisez-un-dashboard-avec-tableau/5741176-selectionnez-votre-outil-de-dashboard).
+Il existe de nombreux outils permettant de créer des visualisations de données. Mais quels sont les outils BI les plus utilisés ? On t'en donne ici 4 mais tu pourras encore en trouver bien d'autres.
+
+1. **Tableau est l’outil BI de référence sur le marché**. Grâce à sa simplicité d’utilisation et à sa capacité à produire des visualisations interactives, ce logiciel compte une très large base de clients. Il se démarque grâce à de nombreuses fonctionnalités et tableaux de bords préconçus qui permettent de mettre en forme très facilement la donnée issue de logiciels CRM comme Salesforce. L'éditeur propose deux applications de bureau gratuites pour Windows et MacOS : [Tableau Public](https://www.tableau.com/fr-fr/community/public) et [Tableau Reader](https://www.tableau.com/fr-fr/products/reader). Le premier permet à la fois ouvrir et créer des analyses qui sont stockées sur un profil public. Le second offre d'ouvrir et d'interagir avec les fichiers de visualisation de données créés dans Tableau Desktop, l'application payante.
+
+2. **Power BI, désormais le principal concurrent de Tableau, est une suite d’outils analytiques, développée par Microsoft**. Power BI est disponible gratuitement en version limitée et permet de suivre toute votre démarche de data analyse, de la préparation de vos données aux bilans d’analyse, en passant par la réalisation de tableaux de bord interactifs. PowerBI propose, comme Tableau, [un service de gallerie](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery) sur lequel on peut trouver de l'inspiration.
+
+3. **Qlikview était le concurrent principal de Tableau avant de connaître une perte de vitesse**. Il témoigne d’un grand nombre de fonctionnalités (data visualisation, business intelligence, analyse et reporting) qui rendent sa configuration très personnalisable. Cependant, la courbe d’apprentissage qui y est liée est non négligeable : pour maîtriser Qlikview, un certain temps est nécessaire !
+
+4. Google Data Studio est un outil de la suite Google Analytics qui transforme vos données provenant de vos comptes Google (Ads, Analytics, Drive, Sheets…) et autres sources (Facebook, YouTube, Twitter, Search console, MySQL...) en rapports à la fois personnalisables et esthétiques, simples à lire et à partager. Même si cet outil est encore récent et qu’il ne permet pas de faire des représentations aussi poussées que Tableau, c’est une solution totalement gratuite, à la fois personnalisable et collaborative, mettant à jour les données en temps réel. 
+
+En effet, dernièrement, la connaissance de Tableau semble être demandée dans la majorité des offres d'emploi de Data Analysts en France. Donc nous te conseillons de t'approprier ce logiciel. Pour cela, tu peux télécharger une version gratuite du logiciel et suivre le chapitre 2 du [cours OpenClassrooms](https://openclassrooms.com/fr/courses/4525361-realisez-un-dashboard-avec-tableau/5741176-selectionnez-votre-outil-de-dashboard).
 
 
 ## 4. Points importants à retenir
 Le "dashboard" ou tableau de bord a pour fonction de permettre la visualisation, le suivi et l'exploitation facile de données pertinentes sous forme de chiffres, ratios et de graphiques. Ces indicateurs (appelés aussi KPI) sont reliés à des objectifs dans le but de prendre des décisions.
 
-Mais il n'est pas question de produire des outils pour rien. Si vous devez construire un tableau de borde, faites en sorte qu'il soit réellement utilisé par ses destinataires, que ce soit vous ou vos collaborateurs ! 
+Mais il n'est pas question de produire des outils pour rien. Si vous devez construire un tableau de bord, faites en sorte qu'il soit réellement utilisé par ses destinataires, que ce soit vous ou vos collaborateurs ! 
 
 ## 5. Pour aller plus loin
 - Les livres blancs produits par Tableau à consulter [ici](https://www.tableau.com/fr-fr/learn/whitepapers)
