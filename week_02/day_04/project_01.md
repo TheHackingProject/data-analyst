@@ -1,3 +1,1 @@
-voir ça : https://www.kaggle.com/olistbr/brazilian-ecommerce
-
-cf. projet OC segmentez des clients (projet 5 ou 6 parcours Data Science)
+Faire plein de petits projets qui permettent de s'entraîner à faire des graphiques
