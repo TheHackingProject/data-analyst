@@ -20,7 +20,7 @@ Il vous demande donc de récupérer [ici](https://drive.google.com/file/d/1Xpfme
 
 ### 2.2. Les tâches
 
-1) Le nom d'une antenne a un format bien précis : il est toujours composé de 4 chiffres et deux lettres. On te demande de retirer tout autre caractère de la colonne "SITE_NAME".
+1) Le nom d'une antenne a un format bien précis : il est toujours composé de 4 chiffres et de deux lettres. On te demande de retirer tout autre caractère de la colonne "SITE_NAME".
 2) On te demande de supprimer la colonne "INVOICE_NAME" qui n'apporte rien aux équipes.
 3) Il y a des antennes pour lesquelles on a des factures mensuelles tandis que pour d'autres, on les reçoit moins régulièrement (trimestre, semestre, année). Ajoute une colonne à ton tableau qui calcule le nombre de jours entre le début de la période de facturation et la fin de la période de facturation.
 4) A partir de cette nouvelle colonne, crée une autre colonne qui nous donne la consommation journalière moyenne de la période.
