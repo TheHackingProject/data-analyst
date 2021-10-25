@@ -26,11 +26,16 @@ Au cours des dernières années, de nombreuses nouvelles librairies de visualisa
 - **Seaborn** exploite la puissance de matplotlib pour créer de belles visualisations en quelques lignes de code. La principale différence réside dans les styles et les palettes de couleurs offerts par Seaborn, qui sont conçus pour être plus esthétiques et modernes.
 - **Plotly** permet la création de graphiques interactifs, mais propose aussi des visualisations difficiles à trouver dans la plupart des bibliothèques, comme les courbes de niveau, les dendrogrammes, les graphiques en 3D…
 
-Pour maîtriser ses librairies, il s'agit avant tout de pratiquer 🤙
-
 Voici quelques ressources qui peuvent t'aider à commencer dans la visualisation avec Python : 
 - [un article](https://moncoachdata.com/blog/visualisation-de-donnees-avec-python/) qui compare les différentes librairies Python
 - [une vidéo](https://www.youtube.com/watch?v=JSnb7HU8Ahs) qui te montre comment utiliser Matplotlib.
+
+Mais pour maîtriser ses librairies, il s'agit avant tout de pratiquer 🤙
+
+Commence le projet du jour et surtout garde à disposition Google ton meilleur ami. Au début, tu vas tâtonner, tenter des trucs. Et ces tentatives vont t'aider à comprendre les éléments essentiels. Pour garder en mémoire les fonctions que tu maîtrises, pense à te créer une *cheat sheet* (aide-mémoire). Si tu es un peu flemmard, beaucoup sont en libre accès sur Internet. Voici une sélection, à toi de garder celles qui te correspondent : 
+- [une](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf) sur Matplotlib
+- [une](https://www.datacamp.com/community/blog/seaborn-cheat-sheet-python) sur Seaborn
+- [une](https://phychim.ac-versailles.fr/IMG/pdf/tuto_python_matplotlib.pdf) en français sur Matlplotlib.
 
 
 ### 3.2. Les outils de dataviz
