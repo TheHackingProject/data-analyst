@@ -1,1 +1,12 @@
+Pour le projet 1, est-ce qu'on a le fichier .ipynb qui contient l'ensemble des analyses ?
+Est-ce que la colonne 1 (SITE_NAME) liste le nom des antennes avec seulement 4 chiffres + 2 lettres pour chaque antenne ?
+Est-ce qu'on a une colonne qui indique le nombre de jours inclus dans la facturation ? Pour cela, est-ce que la personne a réussi à convertir les colonnes BEGIN et END au format Date ?
+Est-ce que la personne a réussi à utiliser la notion de "group_by" pour donner des informations propres à chaque antenne ? 
+Est-ce qu'on a un fichier csv final qui semble plus nettoyé que le fichier initial ? 
+Est-ce qu'on a deuxième fichier csv qui donne, pour chaque antenne, le coefficient de variation ? Est-ce que ce fichier ne contient qu'une ligne par antenne ? 
 
+Pour le projet 2, est-ce qu'on a un fichier csv final qui contient moins de 20 000 lignes ?
+Est-ce que toutes les données qui portaient sur un autre jour que le 6 août 2021 ont été supprimées ?
+Est-ce que toutes les données dont la source était "ChinaAQIData" ont été supprimées (car elles étaient illisibles à cause de problèmes d'encodage) ?
+Est-ce que, pour le polluant SO2, on n'a gardé que les données dont la mesure est "Âµg/mÂ³" ?
+Est-ce qu'on a un fichier texte avec certaines informations utiles sur le jeu de données final (ex : pour le polluant BC, on n'a que des mesures pour la Pologne et les US. / On a de manière exceptionnelle des valeurs négatives, à confirmer avec des experts si c'est possible ou si c'est une erreur. / Certaines valeurs peuvent paraître aberrantes, par ex l'Italie mesure quasi au même endroit, à Catanzaro, à la même heure 57 et 1945 Âµg/mÂ³, à confirmer aussi avec des experts.).
