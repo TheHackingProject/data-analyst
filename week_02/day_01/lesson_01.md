@@ -5,11 +5,11 @@ Commençons par le commencement : comment obtient-on des données dans la pratiq
 Maintenant que tu connais les langages indispensables à un bon Data Analyst, il faut que tu comprennes le processus général d'analyse de données. Ce processus se compose de différentes étapes. La première étape est sans aucun doute l'obtention des données. En effet, pour tout projet, l'entreprise doit en premier lieu identifier la ou les sources de données intéressantes puis voir comment s'approprier ces sources.
 
 ## 2. Historique et contexte
-Pendant des siècles, l’humanité a stocké ses données dans les livres 📝. L’arrivée du digital au XXème siècle a donné une dimension exponentielle et globale à cette pratique. Cette révolution des données, qui n’est encore qu’à ses prémices, est en train de multiplier les sources de données et de nous donner, à chacun, la possibilité d'étudier ces multiples données.
+Pendant des siècles, l’humanité a stocké ses données dans les livres 📝 L’arrivée du digital au XXème siècle a donné une dimension exponentielle et globale à cette pratique. Cette révolution des données, qui n’est encore qu’à ses prémices, est en train de multiplier les sources de données et de nous donner, à chacun, la possibilité d'étudier ces multiples données.
 
 Plus précisément, environ 2,5 trillions d'octets de données sont produits chaque jour. Ce sont des informations provenant de sources divers : messages, vidéos, informations climatiques, signaux GPS, transactions etc. Sur Facebook seulement, nous envoyons 10 milliards de messages par jour. La quantité de données digitales produites double tous les 2 ans. En d'autres termes, on a produit autant de données digitales ces 2 dernières années que tout ce qui a été produit auparavant. 
 
-Maintenant que l'on sait que toutes ces données existent, nous allons voir comment on récupère ces données ⭐️⭐️.
+Maintenant que l'on sait que toutes ces données existent, nous allons voir comment on récupère ces données ⭐️⭐️
 
 ## 3. La ressource
 
@@ -21,7 +21,7 @@ Concrètement, une source de données peut être :
 - une base de données, 
 - des mesures provenant directement d’appareils physiques, 
 - des données obtenues par web scraping ou 
-- l’une des nombreux services de données en streaming qui abondent sur Internet (analyse du parcours de navigation des internautes, jeux en ligne, e-commerce etc.).
+- l’un des nombreux services de données en streaming qui abondent sur Internet (analyse du parcours de navigation des internautes, jeux en ligne, e-commerce etc.).
 
 Voici un exemple d’une source de données en action : une marque de mode qui vend des produits en ligne. Pour indiquer qu’un article est en rupture de stock, le site web collecte des informations dans une base de données d’inventaire. Dans ce cas de figure, les tableaux d’inventaire sont une source de données, à laquelle accède l’application web pour afficher le site web aux clients.
 
@@ -106,4 +106,4 @@ Avant de collecter les données, il est primordial de se fixer des objectifs pr�
 
 ## 5. Pour aller plus loin
 Un [article Medium](https://medium.com/@rachidj/collecter-les-donn%C3%A9es-rapidement-et-efficacement-df7dd78b1ac0) d'un data scientist sur la collecte de données. Tu verras comment on peut s'amuser quand on commence à maîtriser les techniques vues aujourd'hui.
-Et tu peux regarder [cette vidéo](https://www.youtube.com/watch?v=HYNZixyYrW4) si ça t'intéresse de savoir comment scraper un profil Instagram 👹👹👹.
+Et tu peux regarder [cette vidéo](https://www.youtube.com/watch?v=HYNZixyYrW4) si ça t'intéresse de savoir comment scraper un profil Instagram 👹👹👹
