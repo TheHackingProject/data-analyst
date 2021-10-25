@@ -1,7 +1,7 @@
 # Analysons des factures d'énergie 🌠🌠
 
 ## 1. Introduction
-Un des cas d'usage fréquents de l'analyse de données est ce qu'on appelle la détection d'anomalies. Il s'agit en fait de checker, à travers des gros jeux de donnnées, s'il n'y a pas des éléments de notre chaîne de production qui dysfonctionnent. 
+Un des cas d'usage fréquents de l'analyse de données est ce qu'on appelle la détection d'anomalies. Il s'agit en fait de checker, à travers des gros jeux de donnnées, s'il n'y a pas des éléments de la chaîne de production qui dysfonctionnent. 
 
 Le contrôle de la facturation est un cas d'école intéressant. Comme la consommation d'énergie n'est pas facilement interprétable par un humain, il peut être utile de vérifier les factures émises par les fournisseurs d'énergie afin de repérer d'éventuelles erreurs et, le cas échéant, économiser de l'argent 💰💰
 
