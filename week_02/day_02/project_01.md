@@ -15,7 +15,7 @@ En revanche, il a le sentiment (et certains de ses salariés lui ont confirmé c
 
 Il vous demande donc de récupérer [ici](https://drive.google.com/file/d/1Xpfmecb4PmW-CEqFuiLdelZx4jWxZTD-/view?usp=sharing) le fichier qui regroupe toutes les factures pour l'ensemble des antennes de l'opérateur. Et de le nettoyer pour que les équipes terrain puissent l'utiliser régulièrement, dès qu'un besoin de vérification sera remonté.
 
-**Finalement, ton objectif est de transformer le fichier qu'a récupéré la direction en un fichier exploitable**. Pour les équipes de comptabilité, "exploitable" signifie qu'ils n'ont qu'à rechercher le nom d'une antenne en particulier, et ils peuvent obtenir l'historique sa consommation d'énergie, pour vérifier s'il y a des anomalies. Pour que cet historique soit intéressant, ils ont besoin d'avoir la consommation moyenne journalière (comme ça par ex, ils peuvent comparer un mois de Février qui fait 28 jours avec un mois de janvier qui fait 31 jours, sans se dire que la diminution vient de la différence de jours dans un mois).
+**Finalement, ton objectif est de transformer le fichier qu'a récupéré la direction en un fichier exploitable**. Pour les équipes de comptabilité, "exploitable" signifie qu'ils n'ont qu'à rechercher le nom d'une antenne en particulier, et ils peuvent obtenir l'historique de sa consommation d'énergie pour vérifier s'il y a des anomalies. Pour que cet historique soit intéressant, ils ont besoin d'avoir la consommation moyenne journalière (comme ça par ex, ils peuvent comparer un mois de Février qui fait 28 jours avec un mois de janvier qui fait 31 jours, sans se dire que la diminution vient de la différence de jours dans un mois).
 
 
 ### 2.2. Les tâches
