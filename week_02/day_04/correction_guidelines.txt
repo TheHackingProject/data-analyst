@@ -1,1 +1,4 @@
-
+Est-ce que le graphe 1 possède un titre, ainsi que ses deux axes ? 
+Est-ce que si on prend le point de la droite d'abscisse 20, son ordonnée est bien 60 ?
+Est-ce que le graphe 4 est un diagramme en barres ou en bâtons ?
+Est-ce que le graphe 5 est un camembert et le savon représente 40,6% ?
