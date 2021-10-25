@@ -33,7 +33,14 @@ La seule chose dont il dispose est d'un fichier Access qui contient sa base de d
 Pour aider votre ami, vous allez utiliser le logiciel PowerBI Desktop (à télécharger [ici](https://powerbi.microsoft.com/fr-fr/downloads/)). 
 Vous importez votre fichier [sales.db](https://drive.google.com/file/d/13AZq7xX1JDkCsFjqUVqGTYJQmLkmAykc/view?usp=sharing), vous chargez toutes les tables. 
 
-Pour en savoir plus sur le fonctionnement de PowerBI, vous pouvez regarder [cette vidéo](https://www.youtube.com/watch?v=PwyuzmL0jLU) ou [la doc de Microsoft](https://docs.microsoft.com/fr-fr/power-bi/fundamentals/desktop-getting-started).
+___
+
+😩😩 Que faire si j'ai un Mac et que je ne peux pas télécharger Power BI Desktop ?
+
+à compléter ??
+___
+
+Pour en savoir plus sur le fonctionnement de PowerBI, vous pouvez regarder [cette vidéo](https://www.youtube.com/watch?v=PwyuzmL0jLU) ou [la doc de Microsoft](https://docs.microsoft.com/fr-fr/power-bi/fundamentals/desktop-getting-started). 
 
 Vos missions sont les suivantes : 
 - Déterminer la table fait et les tables dimensions
