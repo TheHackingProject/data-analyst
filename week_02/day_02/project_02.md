@@ -25,4 +25,4 @@ Si tu souhaites plus de précision dans les consignes, voici les étapes qu'on t
 
 ## 3. Rendu attendu
 - Le fichier csv qui ne comporte aucune erreur ni information non exploitable. 
-- Un fichier txt qui précise les limitres du fichier final.
+- Un fichier txt qui précise les limites du fichier final.
