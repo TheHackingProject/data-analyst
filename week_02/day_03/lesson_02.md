@@ -69,7 +69,7 @@ Allez comme on est sympas, on te donne un résumé des [Principes de base de l'a
 ## 5. Pour aller plus loin
 - La journée de data science prévue lors de la quatrième semaine te permettra d'approfondir les méthodes d'apprentissage automatique, et certains autres concepts vus aujourd'hui. 
 - Dans [ce cours](https://certis.enpc.fr/~dalalyan/Download/Poly2.pdf), tu peux revoir tous les concepts importants à connaître en statistiques. 
-- Les ressources données aussi dans la précédente ressource.
+- Tu peux t'entraîner en faisant des Katas, tu as même un répertoire intitué [Data and Statistics in Python](https://www.codewars.com/collections/data-and-statistics-in-python).
 
 
 
