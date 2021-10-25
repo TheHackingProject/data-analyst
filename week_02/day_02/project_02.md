@@ -9,7 +9,7 @@ Ils te préviennent tout de suite que l'enjeu principal n'est pas forcément de 
 
 OpenAQ souhaiterait mettre en ligne sur son site un fichier qui permet de comparer des mesures de l'air récentes, relevées sur un jour donné, partout dans le monde. Pour cela, on te demande de nettoyer les données dont on dispose pour l'instant. 
 
-Tu as reçu un mail de ton manager qui te dit : "Télécharge [le jeu de données](https://public.opendatasoft.com/explore/dataset/openaq/information/?disjunctive.city&disjunctive.location&disjunctive.measurements_parameter) disponible sur la plateforme Opendatasoft. Et renvoie-moi d'ici la fin de la journée un fichier csv qui ne comporte aucune erreur, ni information non exploitable. Merci et bon courage."
+Tu as reçu un mail de ton manager qui te dit : "Télécharge [le jeu de données](https://public.opendatasoft.com/explore/dataset/openaq/export/?disjunctive.city&disjunctive.location&disjunctive.measurements_parameter) disponible sur la plateforme Opendatasoft ([ici](https://drive.google.com/file/d/1NnwIVdBng0Ct9rw-WfSEM6fGB9TtYcyv/view?usp=sharing)si le lien n'est plus à jour). Et renvoie-moi d'ici la fin de la journée un fichier csv qui ne comporte aucune erreur, ni information non exploitable. Merci et bon courage."
 
 Comme le message est un peu lapidaire, on va te donner quelques informations supplémentaires. Regarde sur l'onglet *Informations* du jeu de données, deux *disclaimers* sont énoncés : 
 - Some records contain encoding issues on specific characters; those issues are present in the raw API data and were not corrected.
