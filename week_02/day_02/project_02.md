@@ -7,7 +7,7 @@ Ils te préviennent tout de suite que l'enjeu principal n'est pas forcément de 
 
 ## 2. Le projet
 
-OpenAQ souhaiterait mettre en ligne sur son site un fichier qui permet de comparer des mesures de l'air récentes partout dans le monde. Pour cela, on te demande de nettoyer les données dont on dispose pour l'instant. 
+OpenAQ souhaiterait mettre en ligne sur son site un fichier qui permet de comparer des mesures de l'air récentes, relevées sur un jour donné, partout dans le monde. Pour cela, on te demande de nettoyer les données dont on dispose pour l'instant. 
 
 Tu as reçu un mail de ton manager qui te dit : "Télécharge [le jeu de données](https://public.opendatasoft.com/explore/dataset/openaq/information/?disjunctive.city&disjunctive.location&disjunctive.measurements_parameter) disponible sur la plateforme Opendatasoft. Et renvoie-moi d'ici la fin de la journée un fichier csv qui ne comporte aucune erreur, ni information non exploitable. Merci et bon courage."
 
@@ -17,7 +17,12 @@ Comme le message est un peu lapidaire, on va te donner quelques informations sup
 
 Cela te donne une idée de ce qu'il va falloir nettoyer en premier lieu !
 
-Et si tu souhaites encore plus de précision, voici les
+Si tu souhaites plus de précision dans les consignes, voici les étapes qu'on te conseille de suivre pour arriver à tes fins : 
+- Supprimer les données qui ne concernent pas le jour du 06-08-2021
+- Supprimer les données qui sont illisibles et pour lesquelles on ne comprend pas la ville concernée. 
+- Pour chaque polluant, vérifier qu'on n'a qu'une seule mesure utilisée. Autrement, supprimer les données qui correspondent à la mesure minoritaire ou moins cohérente.
+- Regarder s'il y a des valeurs aberrantes ou des problèmes par rapport à notre objectif final (pouvoir comparer des mesures sur un maximum de pays) et noter ces aspects dans un fichier texte.
 
 ## 3. Rendu attendu
-Le fichier csv qui ne comporte aucune erreur ni information non exploitable. 
+- Le fichier csv qui ne comporte aucune erreur ni information non exploitable. 
+- Un fichier txt qui précise les limitres du fichier final
