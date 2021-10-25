@@ -35,20 +35,12 @@ Voici quelques ressources qui peuvent t'aider à commencer dans la visualisation
 
 ### 3.2. Les outils de dataviz
 
-Les outils BI sont à la data, ce que le no-code est au développement web. Ce sont des softwares déjà développés qui permettent de glisser et déposer, par un système de drag and drop, un dataset pour visualiser la donnée directement. On dit de ces outils qu’ils sont plus accessibles aux personnes qui n’ont pas ou peu été initiées à la data. Ils sont souvent destinés aux entreprises qui cherchent des résultats rapides et simples à manier. 
+Les outils BI sont à la data ce que le no-code est au développement web. Ce sont des softwares déjà développés qui permettent de glisser et déposer, par un système de drag and drop, un dataset pour visualiser la donnée directement. On dit de ces outils qu’ils sont plus accessibles aux personnes qui n’ont pas ou peu été initiées à la data. Ils sont souvent destinés aux entreprises qui cherchent des résultats rapides et simples à manier. 
 
-Il existe de nombreux outils permettant de créer des visualisations de données. Mais quels sont les outils BI les plus utilisés ? On t'en donne ici 4 mais tu pourras encore en trouver bien d'autres.
-
-1. **Tableau est l’outil BI de référence sur le marché**. Grâce à sa simplicité d’utilisation et à sa capacité à produire des visualisations interactives, ce logiciel compte une très large base de clients. Il se démarque grâce à de nombreuses fonctionnalités et tableaux de bords préconçus qui permettent de mettre en forme très facilement la donnée issue de logiciels CRM comme Salesforce. L'éditeur propose deux applications de bureau gratuites pour Windows et MacOS : [Tableau Public](https://www.tableau.com/fr-fr/community/public) et [Tableau Reader](https://www.tableau.com/fr-fr/products/reader). Le premier permet à la fois ouvrir et créer des analyses qui sont stockées sur un profil public. Le second offre d'ouvrir et d'interagir avec les fichiers de visualisation de données créés dans Tableau Desktop, l'application payante.
-
-2. **Power BI, désormais le principal concurrent de Tableau, est une suite d’outils analytiques, développée par Microsoft**. Power BI est disponible gratuitement en version limitée et permet de suivre toute votre démarche de data analyse, de la préparation de vos données aux bilans d’analyse, en passant par la réalisation de tableaux de bord interactifs. PowerBI propose, comme Tableau, [un service de gallerie](https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery) sur lequel on peut trouver de l'inspiration.
-
-3. **Qlikview était le concurrent principal de Tableau avant de connaître une perte de vitesse**. Il témoigne d’un grand nombre de fonctionnalités (data visualisation, business intelligence, analyse et reporting) qui rendent sa configuration très personnalisable. Cependant, la courbe d’apprentissage qui y est liée est non négligeable : pour maîtriser Qlikview, un certain temps est nécessaire !
-
-4. Google Data Studio est un outil de la suite Google Analytics qui transforme vos données provenant de vos comptes Google (Ads, Analytics, Drive, Sheets…) et autres sources (Facebook, YouTube, Twitter, Search console, MySQL...) en rapports à la fois personnalisables et esthétiques, simples à lire et à partager. Même si cet outil est encore récent et qu’il ne permet pas de faire des représentations aussi poussées que Tableau, c’est une solution totalement gratuite, à la fois personnalisable et collaborative, mettant à jour les données en temps réel. 
+On peut obtenir des résultats similaires en travaillant avec des librairies de dataviz et des outils BI, mais ces deux solutions reposent sur des techniques différentes. Nous verrons quels sont ces outils et comment les utiliser lors de la semaine prochaine. 
 
 ## 4. Points importants à retenir
-La visualisation de données est très utilisée dans tous les secteurs d’activité. Par conséquent, **maîtriser un outil de dataviz est une compétence précieuse et convoitée**. On peut obtenir des résultats similaires en travaillant avec des librairies de dataviz et des outils BI, mais ces deux solutions reposent sur des techniques différentes.
+La visualisation de données est très utilisée dans tous les secteurs d’activité. Rappelle-toi que **le cerveau humain préfère dans la plupart des cas regarder un graphe que du texte**. Quand tu travailles sur tes jeux de données, fais plaisir à ton cerveau en lui offrant régulièrement la possibilité de voir une représentation graphique. Et surtout, quand tu présentes tes résultats à d'autres personnes, pense toujours à les agrémenter de nombreux graphes 
 
 ## 5. Pour aller plus loin
-Faire de la veille sur les outils de dataviz et pratiquer sans relâche !
+Pratiquer sans relâche !
