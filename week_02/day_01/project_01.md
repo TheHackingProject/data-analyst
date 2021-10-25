@@ -25,7 +25,7 @@ Télécharge la base de données [ici](http://alain.troesch.free.fr/2017/Fichier
 
 Puis tu vas devoir manipuler cette base de données via Python. Cela nécessite l’import de la librairie 'sqlite3'. Replonge dans la ressource et suis les étapes nécessaires pour accéder à la base de données. 
 
-Alerte : Les données sont purement fictives, tu pourras même y trouver quelques fantaisies 🙄.
+Alerte : Les données sont purement fictives, tu pourras même y trouver quelques fantaisies 🙄
 
 Si tu as du temps (tu peux y revenir une fois que tu as testé les 5 manières de collecter de la donnée), voici la liste des requêtes que tu dois réaliser sur cette base de données : 
 
@@ -63,7 +63,7 @@ Tu possèdes des clés de l'API Twitter, quelle chance ! On va s'en reservir auj
 
 Twitter est une mine d'or de données. Contrairement aux autres plateformes sociales, presque tous les tweets des utilisateurs sont entièrement publics et extractibles. C'est un énorme avantage si tu essayes d'obtenir une grande quantité de données sur lesquelles exécuter des analyses.
 
-Ton défi du jour : extraire l'ensemble des tweets publiés dans la journée en lien avec le "PSG" ou l'"OM", comme tu préfères 🙂🙃. Tu compileras ensuite ces tweets dans un fichier Excel.
+Ton défi du jour : extraire l'ensemble des tweets publiés dans la journée en lien avec le "PSG" ou l'"OM", comme tu préfères 🙂🙃 Tu compileras ensuite ces tweets dans un fichier Excel.
 
 Aide [ici](https://www.youtube.com/watch?v=FHV8iQSy_XM).
 
