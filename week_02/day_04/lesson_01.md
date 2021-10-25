@@ -18,7 +18,14 @@ Le 18ème siècle a vu l’apparition de la cartographie thématique. Des tentat
 
 ## 3. La ressource
 
-### 3.1. Dataviz avec Python
+### 3.1. Réussir ses graphiques
+
+Contrairement à ce qu'on pourrait penser, réussir un graphique n'est pas chose aisée. Il faut prendre son temps pour savoir ce qu'on cherche à représenter et ensuite trouver la meilleure représentation. 
+
+Consultez [cet article](https://tssperformance.com/les-4-etapes-essentielles-pour-reussir-son-graphique/) qui rappelle toutes les étapes essentielles à la réussite d'un graphique. Cela peut paraître évident mais vous verrez en pratiquant qu'on est souvent tentés de griller des étapes pour se rendre finalement compte que le graphe choisi n'est pas le bon ou par ex que les axes doivent être intervertis. 
+
+
+### 3.2. Dataviz avec Python
 
 En utilisant Python, il est possible de manipuler, de transformer et de créer des visualisations de données. De nombreux Data Analysts et Scientists se tournent vers cette solution.
 
@@ -32,13 +39,13 @@ Voici quelques ressources qui peuvent t'aider à commencer dans la visualisation
 
 Mais pour maîtriser ses librairies, il s'agit avant tout de pratiquer 🤙
 
-Commence le projet du jour et surtout garde à disposition Google ton meilleur ami. Au début, tu vas tâtonner, tenter des trucs. Et ces tentatives vont t'aider à comprendre les éléments essentiels. Pour garder en mémoire les fonctions que tu maîtrises, pense à te créer une *cheat sheet* (aide-mémoire). Si tu es un peu flemmard, beaucoup sont en libre accès sur Internet. Voici une sélection, à toi de garder celles qui te correspondent : 
+Commence le projet du jour et surtout garde à disposition Google ton meilleur ami. Au début, tu vas tâtonner, tenter des trucs. Et ces tentatives vont t'aider à comprendre le fonctionnement global. Pour garder en mémoire les fonctions que tu maîtrises, pense à te créer une *cheat sheet* (aide-mémoire). Si tu es un peu flemmard, beaucoup sont en libre accès sur Internet. Voici une sélection, à toi de garder celles qui te correspondent : 
 - [une](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf) sur Matplotlib
 - [une](https://www.datacamp.com/community/blog/seaborn-cheat-sheet-python) sur Seaborn
 - [une](https://phychim.ac-versailles.fr/IMG/pdf/tuto_python_matplotlib.pdf) en français sur Matlplotlib.
 
 
-### 3.2. Les outils de dataviz
+### 3.3. Les outils de dataviz
 
 Les outils BI sont à la data ce que le no-code est au développement web. Ce sont des softwares déjà développés qui permettent de glisser et déposer, par un système de drag and drop, un dataset pour visualiser la donnée directement. On dit de ces outils qu’ils sont plus accessibles aux personnes qui n’ont pas ou peu été initiées à la data. Ils sont souvent destinés aux entreprises qui cherchent des résultats rapides et simples à manier. 
 
