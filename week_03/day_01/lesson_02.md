@@ -52,7 +52,9 @@ Et dernièrement, la connaissance de Tableau semble être demandée dans la majo
 
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+Le "dashboard" ou tableau de bord a pour fonction de permettre la visualisation, le suivi et l'exploitation facile de données pertinentes sous forme de chiffres, ratios et de graphiques. Ces indicateurs (appelés aussi KPI) sont reliés à des objectifs dans le but de prendre des décisions.
+
+Mais il n'est pas question de produire des outils pour rien. Si vous devez construire un tableau de borde, faites en sorte qu'il soit réellement utilisé par ses destinataires, que ce soit vous ou vos collaborateurs ! 
 
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+- Les livres blancs produits par Tableau à consulter [ici](https://www.tableau.com/fr-fr/learn/whitepapers)
