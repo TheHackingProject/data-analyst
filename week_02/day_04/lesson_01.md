@@ -49,7 +49,7 @@ Commence le projet du jour et surtout garde à disposition Google ton meilleur a
 
 Les outils BI sont à la data ce que le no-code est au développement web. Ce sont des softwares déjà développés qui permettent de glisser et déposer, par un système de drag and drop, un dataset pour visualiser la donnée directement. On dit de ces outils qu’ils sont plus accessibles aux personnes qui n’ont pas ou peu été initiées à la data. Ils sont souvent destinés aux entreprises qui cherchent des résultats rapides et simples à manier. 
 
-On peut obtenir des résultats similaires en travaillant avec des librairies de dataviz et des outils BI, mais ces deux solutions reposent sur des techniques différentes. Nous verrons quels sont ces outils et comment les utiliser lors de la semaine prochaine. 
+On peut obtenir des résultats similaires en travaillant avec des librairies de dataviz et des outils BI, mais ces deux solutions reposent sur des techniques différentes. Nous verrons quels sont ces outils et comment les utiliser lors de la semaine prochaine. Cette semaine, on se concentre sur les tâches qu'on peut réaliser avec Python.
 
 ## 4. Points importants à retenir
 La visualisation de données est très utilisée dans tous les secteurs d’activité. Rappelle-toi que **le cerveau humain préfère dans la plupart des cas regarder un graphe que du texte**. Quand tu travailles sur tes jeux de données, fais plaisir à ton cerveau en lui offrant régulièrement la possibilité de voir une représentation graphique. Et surtout, quand tu présentes tes résultats à d'autres personnes, pense toujours à les agrémenter de nombreux graphes 📊📈📉
