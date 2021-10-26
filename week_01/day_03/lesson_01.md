@@ -24,20 +24,44 @@ En pratique, c'est assez différent. "Data Analyst" n'est pas une terminologie q
 
 Pourquoi est-ce qu'on n'arrive pas encore à préciser davantage ? La Data Analyse est une discipline encore très récente. Tout est en train de se construire. C'est précisément parce qu'on est encore au début que les entreprises ont besoin de profils très hybrides. En fait, elles ne cherchent pas encore à spécifier davantage leur besoin. Ce qu'elles recherchent pour l'instant, ce sont des personnes qui sont capables de créer du changement grâce à leurs compétences techniques et à leurs compétences comportementales.
 
-Le Data Analyst aujourd'hui est un défricheur de nouvelles technologies, capable d'engranger beaucoup de connaissances et surtout de vulgariser ces connaissances pour pouvoir les rendre accessibles à ces interlocuteurs. 
+Le Data Analyst aujourd'hui est un défricheur de nouvelles technologies, capable d'engranger beaucoup de connaissances et surtout de vulgariser ces connaissances pour pouvoir les rendre accessibles à ces interlocuteurs. L'entreprise a besoin de ce profil pour mettre en place de nouveaux outils et former les salariés à ces nouveaux outils. Il y a vraiment une dimension de "pérenniser la compétence au sein de l'entreprise".
 
 C'est donc quelqu'un qui peut apprendre beaucoup, tout seul, dans un environnement en constante évolution, et qui sait partager le fruit de son apprentissage. Does it ring a bell now 🛎 ? Si non, relis les paragraphes sur la pédagogie THP. 
 
 ### 3.2. Quels débouchés s'offriront à toi après cette formation ? 
-blabla
 
+Maintenant que tu sais quelle posture il faut avoir, tu dois avoir envie de savoir quels métiers (au sens tâches et missions) tu pourras faire une fois la formation terminée.
+
+Les différents types d'analyste de la donnée que tu peux trouver aujourd'hui sont les suivants : 
+- Data Analyst type "pionnier"
+- Data Analyst type "follower"
+- Chef de projet Data
+- Data Analyst spécialisé
+- Data Analyst type "développeur"
+- Data Analyst type "mathématicien"
+- Data Analyst type "designer"
+
+Attention encore une fois, cela peut évoluer très vite mais pour l'instant tu peux te fixer là-dessus.
+
+Et après autre possibilité, très : non spécialiste de la donnée. 
 
 ### 3.3. Comment bien utiliser ce parcours de formation ? 
-blabla
+
+L'objectif que tu dois avoir en tête pendant toute la formation, c'est chercher à savoir ce que tu aimes le plus faire et ce qui t'intéresse le moins dans la data.
+Autrement dit, faire des choix. Tu ne pourras bien entendu pas tout faire. Il y a un tas d'outils, de techniques, de savoirs, de langages qui gravitent autour de la donnée. On va te donner un aperçu d'un maximum d'entre eux. Mais c'est à toi de sélectionner ceux que tu veux creuser. Ou alors de décider de voir tous les concepts plus en surface. 
+
+Cherche vraiment à savoir ce qui correspond le mieux à ton profil. Et si tu n'as pas encore d'idée précise, suis le programme à ton rythme sans te mettre la pression. 
+
+Le programme a été conçu avec l'idée que certains n'auraient aucune connaissance de la data. Il se découpe ainsi : 
+- Semaine 1 : découverte des deux langages principaux de la data (Python et SQL). Et du contexte de l'informatique décisionnelle (ETL - Datawarehouse - Big Data). Cela permet d'avoir une première idée très CONCRETE de l'univers data. 
+- Semaine 2 : approfondissement du traitement de la donnée avec 1 journée = 1 étape. Cela permet de travailler les librairies Data de Python. Et de s'habituer à faire du traitement de données.
+- Semaine 3 : découverte des livrables demandés en entreprise. Immersion dans le monde professionnel. Par rapport aux deux premières semaines, on prend de la hauteur et on s'habitue à livrer des résultats à des interlocuteurs identifiés. 
+- Semaine 4 : 
+- Semaine 5 : réalisation du projet final. 
 
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+Derrière l'intitulé Data Analyst, se cachent des réalités très différentes. A toi de trouver laquelle ou lesquelles te correspondent le mieux pour pouvoir t'épanouir professionnellement.
 
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+Travailler son orientation professionnelle et la connaissance de soi.
