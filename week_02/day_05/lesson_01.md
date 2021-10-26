@@ -42,8 +42,8 @@ L’analyse exploratoire de données n’est pas un processus formel avec une li
 Si vous avez vu cette semaine les 4 étapes du traitement de données (collecte, nettoyage, analyse, visualisation) de manière isolée et successive, c'était purement pour des raisons pédagogiques (pour ne pas que vous ayez trop d'informations en même temps et que vous puissiez concentrer vos efforts sur une étape en particulier). Mais **dans la réalité, ces étapes se réalisent en même temps, au cours d'un processus itératif**. Voici un exemple concret d'un projet de Data Analyst classique :
 - on vous demande d'analyser le fichier clients de l'entreprise
 - vous procédez aux premiers nettoyages
-- ces nettoyages vous permettent de réaliser des premières analyses. Vous sortez quelques graphiques pour mieux vous représenter l'état actuel de vos données.
-- cela vous fait prendre conscience qu'il faut modifier certaines données. 
+- ces nettoyages vous permettent de réaliser des premières analyses. Vous sortez quelques graphiques pour mieux vous représenter l'état actuel de vos données
+- cela vous fait prendre conscience qu'il faut modifier certaines données
 - en même temps, vous pensez à extraire de nouvelles données (ex : un référentiel métiers disponible en open source qui vous permet de trouver le secteur de chacun de vos clients)
 - vous nettoyez ces nouvelles données et obtenez de nouvelles visualisations
 - un collègue vous propose de compléter vos analyses avec un fichier qui donne le nom du signataire de chaque contrat
