@@ -34,32 +34,44 @@ Le Data Analyst aujourd'hui est un défricheur de nouvelles technologies, capabl
 
 Maintenant que tu sais quelle posture il faut avoir, tu dois avoir envie de savoir quels métiers (au sens tâches et missions) tu pourras faire une fois la formation terminée.
 
-Les différents types d'analyste de la donnée que tu peux trouver aujourd'hui sont les suivants : 
-- Data Analyst type "pionnier"
-- Data Analyst type "follower"
-- Chef de projet Data
-- Data Analyst spécialisé
-- Data Analyst type "développeur"
-- Data Analyst type "mathématicien"
-- Data Analyst type "designer"
+Les différents types d'analyste de la donnée que tu peux trouver aujourd'hui sont les suivants (attention encore une fois, cela peut évoluer très vite) : 
 
-Attention encore une fois, cela peut évoluer très vite mais pour l'instant tu peux te fixer là-dessus.
+- **Data Analyst type "pionnier"** : il va être appelé en renfort au début pour tout construire (créer une stack data, recruter une équipe Data, impulser le changement dans l'entreprise). Cette personne peut être employée en CDI dans une start-up ou alors travailler en temps que consultant (en freelance par ex).
 
-Et après autre possibilité, très : non spécialiste de la donnée. 
+- **Data Analyst type "follower"** : il va rejoindre des équipes Data déjà constituées. Sa fiche de poste sera bien plus précise que le premier et il aura moins besoin de savoir travailler en autonomie. Ses missions seront plus techniques. Cette personne peut être employée en CDI dans une scale-up ou en grand groupe ou alors faire partie d'une agence/ESN.
+
+- **Chef de projet Data** : cette personne n'a pas besoin d'avoir des compétences très techniques, elle doit surtout avoir une expérience et/ou une appétence pour les projets ou produits Data. Elle peut travailler dans tout type de structure. Si elle travaille sur du projet, elle implémente des solutions de manière temporaire (ex : mettre en place un datawarehouse). Si elle travaille du produit, elle construit les features du produit qui sont liées à la data. Elle écrit donc les spécifications à destination des développeurs qui doivent ensuite créer le produit. A la différence d'un technicien de la data, on va plutôt rechercher chez cette personne des compétences de gestion de projet et de communication.
+
+- **Data Analyst spécialisé** : cette personne a développé une expertise sur un type de données spécialisée (ex : données de campagnes marketing, ou données Google Analytics, ou données industrielles). Si l'entreprise a un fort besoin sur ce type de données, elle peut vouloir embaucher une personne dédidée à cela. L'intitulé de poste sera souvent "Analyst". Ex : Adops Analyst, Business Analyst, Finance Analyst, Web Analyst
+ 
+- **Data Analyst type "développeur"** : cette personne a de fortes compétences techniques. Elle s'intéresse à tout ce qui est infrastructure et n'a pas d'appétence particulière pour l'analyse. Ce métier est le plus en tension aujourd'hui. On va le découvrir plusieurs fois pendant la formation. Il s'appelle "Data Engineer".
+
+- **Data Analyst type "mathématicien"** : cette personne a de fortes compétences en mathématiques. C'est le métier de "Data Scientist". Elle aime travailler sur des longs projets, dans une logique qui peut s'apparenter à celle de la recherche.
+
+- **Data Analyst type "designer"** : cette personne aime beaucoup la visualisation et l'infographie. Elle va se spécialiser sur certains outils de visualisation (ex: Tableau) et travaillera essentiellement à mettre en forme des jeux de données. On lui demandera beaucoup de créativité.
+
+Et enfin, il y a une autre possibilité qui s'offre à toi : **ne pas être spécialiste de la data et exercer ton métier en utilisant toutes ces compétences data**. Ces compétences sont utiles ajd dans tous les types de métiers (Opérations, RH, Finance, Marketing, Tech etc.). Et beaucoup d'entreprises font le choix ou feront le choix de former la majeure partie de leurs salariés plutôt que de passer par des spécialistes de la donnée.
 
 ### 3.3. Comment bien utiliser ce parcours de formation ? 
 
 L'objectif que tu dois avoir en tête pendant toute la formation, c'est chercher à savoir ce que tu aimes le plus faire et ce qui t'intéresse le moins dans la data.
-Autrement dit, faire des choix. Tu ne pourras bien entendu pas tout faire. Il y a un tas d'outils, de techniques, de savoirs, de langages qui gravitent autour de la donnée. On va te donner un aperçu d'un maximum d'entre eux. Mais c'est à toi de sélectionner ceux que tu veux creuser. Ou alors de décider de voir tous les concepts plus en surface. 
+Autrement dit, **faire des choix**. Tu ne pourras bien entendu pas tout faire. Il y a un tas d'outils, de techniques, de savoirs, de langages qui gravitent autour de la donnée. Le parti pris avec ce parcours est de vouloir te donner un aperçu d'un maximum d'entre eux. Mais c'est à toi de sélectionner ceux que tu veux creuser. Ou alors de décider de voir tous les concepts plus en surface. 
 
-Cherche vraiment à savoir ce qui correspond le mieux à ton profil. Et si tu n'as pas encore d'idée précise, suis le programme à ton rythme sans te mettre la pression. 
+Cherche vraiment à savoir ce qui correspond le mieux à ton profil. Et si tu n'as pas encore d'idée précise, suis le programme à ton rythme sans te mettre la pression pour tout comprendre. 
 
-Le programme a été conçu avec l'idée que certains n'auraient aucune connaissance de la data. Il se découpe ainsi : 
+Le programme a été conçu avec l'ambition de pouvoir rapidement (5 semaines, c'est court) aborder tous les concepts clés de la data . Il se découpe ainsi : 
 - *Semaine 1* : découverte des deux langages principaux de la data (Python et SQL). Et du contexte de l'informatique décisionnelle (ETL - Datawarehouse - Big Data). Cela permet d'avoir une première idée très CONCRETE de l'univers data. 
 - *Semaine 2* : approfondissement du traitement de la donnée avec 1 journée = 1 étape. Cela permet de travailler les librairies Data de Python. Et de s'habituer à faire du traitement de données.
 - *Semaine 3* : découverte des livrables demandés en entreprise. Immersion dans le monde professionnel. Par rapport aux deux premières semaines, on prend de la hauteur et on s'habitue à livrer des résultats à des interlocuteurs identifiés. 
-- *Semaine 4* : 
-- *Semaine 5* : réalisation du projet final. 
+- *Semaine 4* : approfondissement de la chaîne data et de ses différents métiers. Qui fait quoi ? 
+- *Semaine 5* : réalisation du projet final. Mise en application des compétences que veut développer en priorité l'apprenant sur un sujet libre.
+
+Finalement, il faut voir ce programme comme un tronc commun à l'ensemble des métiers de la data. Mais il devra être poursuivi dans certains cas (si tu fais le choix de devenir spécialiste, Engineer ou Scientist) par d'autres formations. 
+
+Et dans tous les cas, il faudra te laisser du temps après les 5 semaines pour continuer à pratiquer les concepts vus et créer des automatismes. 
+
+Au-delà de ça, ce sont surtout les missions qu'on te confiera en entreprise et les projets personnels que tu décideras de mener qui décideront quelles compétences tu dois maîtriser. 
+Inutile pour toi de vouloir tout maîtriser dès les 5 semaines. Au contraire, tu risques de t'épuiser et de ne plus rien maîtriser à la fin. Enfin, ce n'est pas non plus ce qu'on attendra de toi en entretien. On cherchera plutôt à voir si tu te connais et si ta personnalité correspond aux besoins en interne.
 
 
 ## 4. Points importants à retenir
