@@ -20,7 +20,7 @@ Ensuite, nous souhaitons un graphe qui donne la courbe de profit pour chaque pro
 Chaque courbe aura une couleur différente et nous souhaitons une légende qui indique quelle couleur correspond à quel produit.
 
 ### 2.4. Graphe 4
-Nous souhaitons un graphe qui compare, chaque mois, le nombre d'unités vendus pour le shampoing et le savon. A vous de choisir la meilleure représentation pour que le lecteur s'aperçoive en un coup d'oeil du produit le plus vendu. 
+Nous souhaitons un graphe qui compare, chaque mois, le nombre d'unités vendus pour chaque produit. A vous de choisir la meilleure représentation pour connaître le produit le plus vendu par mois.
 
 ### 2.5. Graphe 5
 Nous souhaitons un graphe qui donne la contribution de chaque produit dans le profit total (sur l'année étudiée). Merci d'ajouter le pourcentage pour chaque produit.
