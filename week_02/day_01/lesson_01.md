@@ -66,7 +66,7 @@ Second train : 18h21 -> 19h58
 ___
 
 On peut schématiser le fonctionnement ainsi :
-![fonctionnement](https://github.com/TheHackingProject/data-analyst/blob/master/week_02/day_01/Capture%20d%E2%80%99%C3%A9cran%20(76).png)
+![fonctionnement](https://i.imgur.com/yy645Hj.png)
 
 
 Mais s'il n'y a pas d'application déjà codée comme lorsque tu réserves tes billets de train 😤, c’est un programme Python qui peut jouer le rôle d’application intermédiaire. Le dialogue se fera avec un SGBD, comme le SGBD SQLite3 par exemple. La plupart des langages de programmation ont des bibliothèques permettant à un programme de dialoguer avec la plupart des SGBD existants. Le couple Python-SQLite3 ne déroge pas à la règle, et c’est le module 'sqlite3' qu'il faut utiliser.
