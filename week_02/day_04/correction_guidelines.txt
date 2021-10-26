@@ -1,4 +1,14 @@
 Est-ce que le graphe 1 possède un titre, ainsi que ses deux axes ? 
-Est-ce que si on prend le point de la droite d'abscisse 20, son ordonnée est bien 60 ?
-Est-ce que le graphe 4 est un diagramme en barres ou en bâtons ?
+Est-ce que si on prend le point de la droite d'abscisse 20, son ordonnée est bien 60 ? (Pour réussir, un moyen est d'initialiser les valeurs de la droite ainsi : X = range(1, 50)
+Y = [value * 3 for value in X])
+Est-ce que le graphe 3 possède une légende qui nous indique quelle courbe correspond à quel produit ?
+Est-ce que le graphe 4 est un diagramme en barres ou en bâtons ? Superposer des courbes pourrait marcher mais c'est plus lisible pour avoir la vision mois par mois.
 Est-ce que le graphe 5 est un camembert et le savon représente 40,6% ?
+
+Est-ce que pour le graphe 7, on a bien une représentation de série temporelle (c'est-à-dire un graphique dont l'axe des abscisses représente des dates) ?
+Est-ce que pour le graphe 8, on n'a bien qu'un seul graphe ? Ce graphe doit être filtré par l'élément catégorie.
+Est-ce que le graphe 9 permet de voir rapidement si les hommes contribuent davantage au CA que les femmes ? Et comment cela évolue ? Une bonne représentation peut être des barres empilées. 
+Est-ce que le graphe 10 est un nuage de points ? Vérifier que les catégories d'âge (axe des abscisses) sont correctes. 
+Est-ce que le graphe 11 permet d'en savoir plus sur la relation entre prix et vente ?
+Est-ce que le graphe 12 est un boxplot ? 
+Est-ce que la personne a proposé 3 graphes supplémentaires qui en disent plus sur l'analyse des ventes de la chaîne de librairies ?
