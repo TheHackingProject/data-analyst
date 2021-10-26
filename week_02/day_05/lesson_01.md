@@ -39,9 +39,20 @@ L’analyse exploratoire de données n’est pas un processus formel avec une li
 
 **L’analyse exploratoire de données est, fondamentalement, un processus créatif**. Et comme tout processus créatif, la clé pour se poser de bonnes questions c’est de se poser un grand nombre de questions. Il est difficile de se poser des questions perspicaces au début de votre analyse parce que vous ne savez pas ce qu’il y a dans vos données. Et chaque question que vous allez vous poser va révéler un nouvel aspect de votre jeu de données et augmenter votre chance de découvrir quelque chose. Vous pouvez rapidement creuser dans la partie la plus intéressante de vos données —et développer des questions pertinentes— si vous suivez chaque question avec une nouvelle question basée sur ce que vous avez trouvez.
 
+Si vous avez vu cette semaine les 4 étapes du traitement de données (collecte, nettoyage, analyse, visualisation) de manière isolée et successive, c'était purement pour des raisons pédagogiques (pour ne pas que vous ayez trop d'informations en même temps et que vous puissiez concentrer vos efforts sur une étape en particulier). Mais **dans la réalité, ces étapes se réalisent en même temps, au cours d'un processus itératif**. Voici un exemple concret d'un projet de Data Analyst classique :
+- on vous demande d'analyser le fichier clients de l'entreprise
+- vous procédez aux premiers nettoyages
+- ces nettoyages vous permettent de réaliser des premières analyses. Vous sortez quelques graphiques pour mieux vous représenter l'état actuel de vos données.
+- cela vous fait prendre conscience qu'il faut modifier certaines données. 
+- en même temps, vous pensez à extraire de nouvelles données (ex : un référentiel métiers disponible en open source qui vous permet de trouver le secteur de chacun de vos clients)
+- vous nettoyez ces nouvelles données et obtenez de nouvelles visualisations
+- un collègue vous propose de compléter vos analyses avec un fichier qui donne le nom du signataire de chaque contrat
+- vous proposez d'essayer de scraper l'intitulé de poste sur Linkedin de ces personnes
+- ce qui va vous permettre de tenter de réaliser une ACM etc. etc. 
 
 ## 4. Points importants à retenir
 L'analyse des données est un processus qui contient plusieurs étapes. Pour autant, c'est un processus itératif. Pensez à revenir souvent aux phases initiales, que ce soit préciser le besoin du client ou nettoyer les données. C'est cela qui rendra vos analyses complètes et intéressantes pour le client.
+
 
 ## 5. Pour aller plus loin
 - Un article qui rappelle [les étapes d'un projet de data science](https://www.empirik.fr/2019/07/12/la-data-science-expliquee-a-ma-grand-mere-3-5-cycle-de-vie-dun-projet). Cela vaut aussi pour la plupart des projets de Data Analyse.
