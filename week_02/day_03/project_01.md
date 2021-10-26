@@ -7,7 +7,7 @@ Pour réussir à fournir cette analyse à une entreprise, il est important de bi
 
 ## 2. Le projet
 
-Tu fais partie de ce genre de personnes qui aime autant les chiffres que les lettres. Pour réconcilier ton côté littéraire avec ton côté analytique, tu as décidé de rejoindre une grande chaîne de librairies (le Muret du Nord) en tant que Data Analyst 🤝 Cette chaîne de librairies s'est lancée dernièrement dans la vente en ligne (en plus de ses nombreuses boutiques) et cela a déjà beaucoup de succès.
+Tu fais partie de ce genre de personnes qui aime autant les chiffres que les lettres. Pour réconcilier ton côté littéraire avec ton côté analytique, tu as décidé de rejoindre une chaîne de librairies (le Muret du Nord) en tant que Data Analyst 🤝 
 
 Tu es le premier élément de l'équipe Data donc on attend de toi que tu sois assez autonome. Pour ta première semaine, on t'a envoyé [la base de données des ventes](https://drive.google.com/file/d/1drWOC36nf61q5LAxV5R6j0BHgso6_rs1/view?usp=sharing). Et on attend de toi que tu en ressortes quelques analyses intéressantes.
 
@@ -15,9 +15,9 @@ Tu es le premier élément de l'équipe Data donc on attend de toi que tu sois a
 Depuis hier, tu l'as bien compris : la première étape est quasi toujours le nettoyage de données 🧹 Tout ça n'a plus de secret pour toi donc fais les bons choix pour gérer les valeurs manquantes et les valeurs aberrantes.
 
 ### 2.2. Seconde étape du projet
-On vous attend surtout sur l'analyse. Mais comme personne n'est vraiment expert de la data, on vous fait confiance pour trouver ce qui est pertinent. 
+On t'attend surtout sur l'analyse. Mais comme personne n'est vraiment expert de la data, on te fait confiance pour trouver ce qui est pertinent. 
 
-Voici ce que vous a dit la directrice commerciale de Muret du Nord avec qui vous avez fait une réunion de 30 min :
+Voici ce que t'a dit la directrice commerciale de Muret du Nord avec qui vous tu as fait une réunion de 30 min :
 "J'ai besoin de comprendre en détail les ventes de l'entreprise. Pour cela, j'aimerais obtenir des indicateurs précis de tendance centrale et de dispersion. Donne moi également une idée de la concentration, avec une courbe de Lorenz et un indice de Gini. Enfin, réalise plusieurs analyse bivariées."
 
 ### 2.3. Troisième étape du projet
@@ -27,9 +27,5 @@ A l'équipe marketing, il y a un chargé d'études qui a de bonnes bases de stat
 
 Tu n'es pas obligé de réaliser en entier les tests, il a seulement besoin du calcul des statistiques de test.
 
-### 2.4 Quatrième étape du projet
-
-
-
 ## 3. Rendu attendu
- Un récapitulatif de ce que nous attendons du projet.
+Un fichier .ipynb qui comporte l'ensemble de tes analyses. 
