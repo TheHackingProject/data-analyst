@@ -20,13 +20,15 @@ Mais pourquoi une telle évidence ? C'est ce qu'on va te détailler ici, pour qu
 
 En théorie, c'est devenu dernièrement un métier précis qui figure dans les référentiels de Pôle Emploi, l'APEC, ROME etc. Voilà [le référentiel de compétences](https://www.francecompetences.fr/recherche/rncp/34964/) qu'associe France Compétences à ce métier. A la lecture de celui-là, on voit tout de suite l'étendue des compétences qui est exigée. On se demande tout de suite comment c'est possible de former des personnes à tous ces savoir faire. Et si dans les entreprises, on trouve vraiment des personnes qui font autant de choses différentes à la fois.
 
-En pratique, c'est assez différent. "Data Analyst" n'est pas une terminologie qui veut dire grand chose. Chaque entreprise a sa vision différente du métier et même à l'intérieur d'une même entreprise, on trouve des personnes aux quotidiens très différents dont le poste peut être pareillement intitulé "Data Analyst". Finalement, garde bien en tête que pour l'instant c'est un "mot valise".
+En pratique, c'est assez différent. "Data Analyst" n'est pas une terminologie qui veut dire grand chose. **Chaque entreprise a sa vision différente du métier** et même à l'intérieur d'une même entreprise, on trouve des personnes aux quotidiens très différents dont le poste peut être pareillement intitulé "Data Analyst". Finalement, garde bien en tête que pour l'instant c'est un "mot valise".
 
-Pourquoi est-ce qu'on n'arrive pas encore à préciser davantage ? La Data Analyse est une discipline encore très récente. Tout est en train de se construire. C'est précisément parce qu'on est encore au début que les entreprises ont besoin de profils très hybrides. En fait, elles ne cherchent pas encore à spécifier davantage leur besoin. Ce qu'elles recherchent pour l'instant, ce sont des personnes qui sont capables de créer du changement grâce à leurs compétences techniques et à leurs compétences comportementales.
+Pourquoi est-ce qu'on n'arrive pas encore à préciser davantage ? **La Data Analyse est une discipline encore très récente**. Tout est en train de se construire. C'est précisément parce qu'on est encore au début que les entreprises ont besoin de profils très hybrides. S'il fallait donner une définition qui peut englober toutes les réalités du métier, je dirais qu'**être Data Analyst c'est manier des compétences informatiques, analytiques et comportementales afin d'aider l'entreprise à gagner en efficacité**.
+
+En fait, les entreprises dans l'ensemble ne cherchent pas encore à spécifier davantage leur besoin. Ce qu'elles recherchent pour l'instant, ce sont des personnes qui sont capables de créer du changement grâce à leurs compétences techniques et à leurs soft skills.
 
 Le Data Analyst aujourd'hui est un défricheur de nouvelles technologies, capable d'engranger beaucoup de connaissances et surtout de vulgariser ces connaissances pour pouvoir les rendre accessibles à ces interlocuteurs. L'entreprise a besoin de ce profil pour mettre en place de nouveaux outils et former les salariés à ces nouveaux outils. Il y a vraiment une dimension de "pérenniser la compétence au sein de l'entreprise".
 
-C'est donc quelqu'un qui peut apprendre beaucoup, tout seul, dans un environnement en constante évolution, et qui sait partager le fruit de son apprentissage. Does it ring a bell now 🛎 ? Si non, relis les paragraphes sur la pédagogie THP. 
+**C'est donc quelqu'un qui peut apprendre beaucoup, tout seul, dans un environnement en constante évolution, et qui sait partager le fruit de son apprentissage**. Does it ring a bell now 🛎 ? Si non, relis les paragraphes sur la pédagogie THP. 
 
 ### 3.2. Quels débouchés s'offriront à toi après cette formation ? 
 
@@ -53,11 +55,11 @@ Autrement dit, faire des choix. Tu ne pourras bien entendu pas tout faire. Il y 
 Cherche vraiment à savoir ce qui correspond le mieux à ton profil. Et si tu n'as pas encore d'idée précise, suis le programme à ton rythme sans te mettre la pression. 
 
 Le programme a été conçu avec l'idée que certains n'auraient aucune connaissance de la data. Il se découpe ainsi : 
-- Semaine 1 : découverte des deux langages principaux de la data (Python et SQL). Et du contexte de l'informatique décisionnelle (ETL - Datawarehouse - Big Data). Cela permet d'avoir une première idée très CONCRETE de l'univers data. 
-- Semaine 2 : approfondissement du traitement de la donnée avec 1 journée = 1 étape. Cela permet de travailler les librairies Data de Python. Et de s'habituer à faire du traitement de données.
-- Semaine 3 : découverte des livrables demandés en entreprise. Immersion dans le monde professionnel. Par rapport aux deux premières semaines, on prend de la hauteur et on s'habitue à livrer des résultats à des interlocuteurs identifiés. 
-- Semaine 4 : 
-- Semaine 5 : réalisation du projet final. 
+- *Semaine 1* : découverte des deux langages principaux de la data (Python et SQL). Et du contexte de l'informatique décisionnelle (ETL - Datawarehouse - Big Data). Cela permet d'avoir une première idée très CONCRETE de l'univers data. 
+- *Semaine 2* : approfondissement du traitement de la donnée avec 1 journée = 1 étape. Cela permet de travailler les librairies Data de Python. Et de s'habituer à faire du traitement de données.
+- *Semaine 3* : découverte des livrables demandés en entreprise. Immersion dans le monde professionnel. Par rapport aux deux premières semaines, on prend de la hauteur et on s'habitue à livrer des résultats à des interlocuteurs identifiés. 
+- *Semaine 4* : 
+- *Semaine 5* : réalisation du projet final. 
 
 
 ## 4. Points importants à retenir
