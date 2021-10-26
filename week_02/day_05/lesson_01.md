@@ -26,7 +26,7 @@ Un projet data classique se déroule en 5 étapes :
 
 Pour certains problèmes, vous pourrez adopter **l'approche traditionnelle, qui est destinée à vérifier des hypothèses a priori** sur les relations entre variables. Par exemple, "Est-ce qu'il y a une corrélation positive entre l'âge d'une personne et sa prédisposition à un risque".
 
-A l'inverse, dans beaucoup d'autres cas, vous serez amenés à faire ce qu'on appelle **l'analyse exploratoire des données (ou AED)**. Elle permet d'identifier les relations systématiques entre des variables, lorsqu'il n'existe aucune hypothèse a priori (ou des hypothèses incomplètes) quant à la nature de ces relations. C'est la posture qui va être privilégiée dans les projets de data science. 
+A l'inverse, dans beaucoup d'autres cas, vous serez amenés à faire ce qu'on appelle **l'analyse exploratoire des données (ou AED)**. Elle permet d'identifier les relations systématiques entre des variables, lorsqu'il n'existe aucune hypothèse a priori (ou des hypothèses incomplètes) quant à la nature de ces relations. C'est la posture qui va être privilégiée dans les projets de data science. Et pour beaucoup de projets de Data Analyse, ce cheminement est très valorisé également.
 
 En fait, **l’analyse exploratoire de données est un cycle itératif qui vous aide à comprendre vos données**. Lorsque vous faites une analyse exploratoire de données, vous :
 - Générez des questions sur vos données
