@@ -81,7 +81,7 @@ La ressource est disponible [ici](https://python.antoinepernot.fr/cours.php?cour
 
 ## 4. Points importants à retenir
 - Comprendre les différents types et comment on les reconnaît (parenthèses, crochets etc).
-![Les types sous Python](https://github.com/TheHackingProject/data-analyst/blob/master/week_01/day_01/Capture%20d%E2%80%99e%CC%81cran%20(58).png)
+![Les types sous Python](https://i.imgur.com/ne7Wx2O.png)
 
 - Se familiariser avec les méthodes les plus utilisées sur ces types (accéder à un élément, ajouter un élément, supprimer un élément, modifier un élément, compter le nombre d’éléments stockés etc.).
 
