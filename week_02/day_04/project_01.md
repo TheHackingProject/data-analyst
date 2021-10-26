@@ -26,27 +26,41 @@ Nous souhaitons un graphe qui compare, chaque mois, le nombre d'unités vendus p
 Nous souhaitons un graphe qui donne la contribution de chaque produit dans le profit total (sur l'année étudiée). Merci d'ajouter le pourcentage pour chaque produit.
 
 ### 2.6. Graphe 6
+Maintenant, on va changer de source de données. Et on va revenir au projet d'hier. Demande-toi si hier, tu as pensé à faire des graphes. Si oui, c'est top, ça montre que c'est intuitif de devoir visualiser certaines données. Si non, c'est normal, on n'avait pas encore vu ça dans les ressources. Sache qu'à partir de maintenant, tout va te paraître plus facile car tu penseras toujours faire des représentations graphiques.
 
+Reprend donc les 3 fichiers csv qui donnent les ventes, la liste des clients et la liste des produits.
+
+D'abord, nous souhaitons avoir un graphe pie chart qui donne la répartition des produits par catégorie. Merci d'indiquer le pourcentage par produit (nb de produits de telle catégorie / nb de produits totaux).
 
 
 ### 2.7. Graphe 7
 
+Nous souhaitons un graphe qui donne l'évolution du CA pour chaque catégorie (en fonction du temps).
 
 ### 2.8. Graphe 8
 
+Nous souhaitons un graphe qui donne un boxplot de la répartion des prix d'un produit pour chaque catégorie. En clair, le graphe montre 3 boxplots (un qui correspond à la catégorie 0, un à la catégorie 1 et un à la catégorie 2).
+
 ### 2.9. Graphe 9
+
+Nous souhaitons un graphe qui donne la répartition du CA, pour chaque mois, en fonction du genre du client.
+
 
 ### 2.10. Graphe 10
 
-### 2.11. Graphe 11
-Ici expliquer la seconde étape du projet.
+Nous souhaitons un graphe qui, pour chaque transaction, lie tranche d'âge du client et montant de la transaction.
 
-etc..
+### 2.11. Graphe 11
+
+Nous souhaitons un graphe qui, pour chaque article, lie prix et nombre d'articles vendus pendant la période.
 
 ### 2.12. Graphe 12
-Ici expliquer la seconde étape du projet.
 
-etc..
+Nous souhaitons un graphe qui donne la répartition du panier moyen (à chaque transaction).
+
+### 2.13 Autres graphes
+
+Trouver 3 autres graphes qui peuvent être utiles à la compréhension des ventes de la chaîne de librairies.
 
 ## 3. Rendu attendu
 - Un fichier .ipynb comprenant l'ensemble de vos graphes.
