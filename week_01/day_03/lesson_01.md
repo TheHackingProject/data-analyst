@@ -78,4 +78,4 @@ Derrière l'intitulé Data Analyst, se cachent des réalités très différentes
 
 ## 5. Pour aller plus loin
 Travailler son orientation professionnelle et la connaissance de soi. 
-Les semaines 3 et 4, ainsi que le projet final iront beaucoup dans ce sens.
+Les semaines 3 et 4, ainsi que le projet final iront beaucoup dans ce sens 🤜
