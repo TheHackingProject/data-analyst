@@ -16,7 +16,7 @@ Mais on distingue généralement les statistiques (au pluriel) de la statistique
 
 ### 3.1.1. Quelques rappels
 
-- L’ensemble de personnes ou d’objets équivalents étudié s’appelle la **population**. 
+- L’ensemble de personnes ou d’objets équivalents étudiés s’appelle la **population**. 
 - Chaque objet d’une population s’appelle un **individu** ou une **unité statistique**. 
 - Les caractéristiques que l’on mesure s’appellent des **variables**. Les mesures s’appellent des **observations**. La série d’observations recueillies s’appelle **série statistique**. Elle est généralement retranscrite dans un tableau de données.
 
