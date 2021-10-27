@@ -28,7 +28,9 @@ ___
 
 Comme tu le sais, Michael Scott est vraiment à la ramasse. Autant te dire qu'il n'a jamais identifié de KPIs. 
 
-Pour l'aider à 
+Pour l'aider à s'en sortir, on va commencer par définir des indicateurs qui vont lui permettre de comprendre ses objectifs de performance. Ce sur quoi il doit concentrer ses efforts et les efforts de ses équipes. Pour bien comprendre le business de Dunder Mifflin Paper Company, en théorie, il faudrait que tu passes du temps avec Michael. Mais comme il est incapable de se concentrer sur son travail plus de 10 secondes, on t'évite cette étape. On te recommande de consulter plutôt la bases de données que nous a envoyée Michael : tu peux la télécharger [ici](. 
+
+Pour cette première itération, on t
 
 ### 2.2. Seconde étape du projet : créer un tableau de bord
 Ici expliquer la seconde étape du projet.
