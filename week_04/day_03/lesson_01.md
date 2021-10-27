@@ -1,6 +1,7 @@
 # Data Analyst et Data Scientist
 
 ## 1. Introduction
+Aujourd'hui on entend parler de Data Analyst et de Data Scientist, même les entreprises ont parfois des problèmes à différencier les deux. Essayons donc de différencier ça le plsu simplement possible.
 Une introduction sur la ressource.
 
 ## 2. Historique et contexte
