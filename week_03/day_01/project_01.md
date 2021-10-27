@@ -15,7 +15,7 @@ Si tu n'as jamais entendu parler de la série *The Office*, tu n'as pas dû comp
 - Dunder Mifflin Paper Company est une entreprise américaine spécialisée dans la vente de papier et de fournitures de bureau.
 - Michael Scott est le Directeur régional de Dunder Mifflin, à Scranton. Il est très sympa mais il galère dès qu'on lui demande de faire quelque chose. Voilà à quoi il ressemble :
 
-![michaelscoot](https://i.imgur.com/kjHM3s1.jpg)
+![michaelscott](https://i.imgur.com/kjHM3s1.jpg)
 
 Si tu aimes les séries humoristiques, c'est génial.
 
@@ -23,10 +23,14 @@ ___
 
 
 ## 2. Le projet
-### 2.1. Première étape du projet
-Ici expliquer la première étape du projet.
 
-### 2.2. Seconde étape du projet
+### 2.1. Première étape du projet : identifier des indicateurs de performance
+
+Comme tu le sais, Michael Scott est vraiment à la ramasse. Autant te dire qu'il n'a jamais identifié de KPIs. 
+
+Pour l'aider à 
+
+### 2.2. Seconde étape du projet : créer un tableau de bord
 Ici expliquer la seconde étape du projet.
 
 etc..
