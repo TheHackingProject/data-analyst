@@ -58,7 +58,18 @@ Il existe de nombreux outils permettant de créer des visualisations de données
 
 4. Google Data Studio est un outil de la suite Google Analytics qui transforme vos données provenant de vos comptes Google (Ads, Analytics, Drive, Sheets…) et autres sources (Facebook, YouTube, Twitter, Search console, MySQL...) en rapports à la fois personnalisables et esthétiques, simples à lire et à partager. Même si cet outil est encore récent et qu’il ne permet pas de faire des représentations aussi poussées que Tableau, c’est une solution totalement gratuite, à la fois personnalisable et collaborative, mettant à jour les données en temps réel. 
 
-En effet, dernièrement, la connaissance de Tableau semble être demandée dans la majorité des offres d'emploi de Data Analysts en France. Donc nous te conseillons de t'approprier ce logiciel. Pour cela, tu peux télécharger une version gratuite du logiciel et suivre le chapitre 2 du [cours OpenClassrooms](https://openclassrooms.com/fr/courses/4525361-realisez-un-dashboard-avec-tableau/5741176-selectionnez-votre-outil-de-dashboard).
+### 3.4. Zoom sur l'outil Tableau
+
+En effet, dernièrement, la connaissance de Tableau semble être demandée dans la majorité des offres d'emploi de Data Analysts en France. Donc nous te conseillons de t'approprier ce logiciel. C'est le l'outil que tu vas devoir utiliser dans ton projet aujourd'hui. 
+
+Pour cela, tu peux télécharger une version gratuite du logiciel [ici](https://www.tableau.com/fr-fr/products/desktop/download).
+
+Si tu veux un tutoriel en français, tu peux suivre le chapitre 2 du [cours OpenClassrooms](https://openclassrooms.com/fr/courses/4525361-realisez-un-dashboard-avec-tableau/5741176-selectionnez-votre-outil-de-dashboard).
+
+Et si tu es ok avec le fait de te former en anglais, je t'invite à suivre les tutoriels créées par l'entreprise Tableau :
+- un [tutoriel bac-à-sable](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm), 
+- un tutoriel vidéo en deux parties : [partie 1](https://www.tableau.com/learn/webinars/intro-tableau-desktop-part1-superstore#video) et [partie 2](https://www.tableau.com/learn/webinars/intro-tableau-desktop-part2-superstore). 
+Ils permettent d'entrer tout de suite dans la pratique. Et en plus, tu travailleras sur le même jeu de données dans ton projet. Tu n'es pas obligé de faire les tutoriels en entier. Dès que tu te sens à l'aise, tu peux les arrêter et poursuivre le projet en toute autonomie.
 
 
 ## 4. Points importants à retenir
