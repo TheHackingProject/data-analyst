@@ -7,6 +7,9 @@ C'est donc une compétence de plus en plus recherchée. Tu vas pouvoir découvri
 
 
 ## 2. Le projet
+
+voir si ça vaut le coup de leur faire faire un tracking plan 
+
 ### 2.1. Première étape du projet
 Ici expliquer la première étape du projet.
 
