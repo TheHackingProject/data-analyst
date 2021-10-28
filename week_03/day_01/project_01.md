@@ -43,5 +43,5 @@ Pour montrer à la direction que l'équipe utilise les outils qui sont payés pa
 Grâce à tes visualisations, il doit être aisé de suivre l'évolution des KPIs. Et en plus de celles qui sont liées aux KPIs, crée le plus de visualisations possibles. Cela leur fera croire que Michael a passé beaucoup de temps sur le sujet. Et qu'il va enfin commencer à prendre des décisions fondées sur des données chiffrées. Ne te met aucune limite dans la créativité, c'est cela qui pourra sauver Michael 🤞🤞 
 
 ## 3. Rendu attendu
-- Un fichier PDF qui donne les 6 KPIs choisis et qui peut être envoyée ainsi à la direction (donc rédigé en anglais!).
+- Un fichier PDF qui est issu de ta présentation PPT qui donne les 6 KPIs choisis. Il peut être envoyé ainsi à la direction (donc rédigé en anglais!).
 - Un classeur complet Tableau .twbx
