@@ -30,7 +30,7 @@ Comme tu le sais, Michael Scott est vraiment à la ramasse. Autant te dire qu'il
 
 Pour l'aider à s'en sortir, on va commencer par définir des indicateurs qui vont lui permettre de comprendre ses objectifs de performance. Ce sur quoi il doit concentrer ses efforts et les efforts de ses équipes. Pour bien comprendre le business de Dunder Mifflin Paper Company, en théorie, il faudrait que tu passes du temps avec Michael. Mais comme il est incapable de se concentrer sur son travail plus de 10 secondes, on t'évite cette étape. On te recommande de consulter plutôt la bases de données que nous a envoyée Michael : tu peux la télécharger [ici](https://docs.google.com/spreadsheets/d/1YFdUEZmmlesui9-QfVm2aa8P7SKL5V1i/edit?usp=sharing&ouid=100767761288291012140&rtpof=true&sd=true). 
 
-Pour cette première itération, on te demande d'identifier 6 KPIs. 
+Pour cette première itération, on te demande d'identifier 6 KPIs. Ces KPIs ne sont pas obligés d'être tous liés aux données dont tu disposes (je te donne un exemple factice mais un KPI pourrait être "Baisser la masse salariale de -10% par an". Les données dont tu disposes ne te permettent pas de tracker cela mais pas grave, ce qui compte ici c'est la performance).
 
 Pour trouver les bons KPIs, met toi dans la position de Michael Scott : tu es directeur régional d'une grosse entreprise (2000 salariés). La direction commence à perdre confiance en tes compétences de manager. Tu veux leur montrer que tu es un bon gestionnaire. Mais plutôt que de belles paroles, tu as prévu de montrer des faits. Donc tu fixes 6 KPIs qui prouvent la bonne performance de ta BU et tu t'engages à leur envoyer l'évolution de ces KPIs tous les trimestres.
 
