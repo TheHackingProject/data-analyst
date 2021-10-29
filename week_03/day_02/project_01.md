@@ -39,9 +39,9 @@ Pour réaliser tes analyses, tu peux travailler directement sur l'interface (et 
 
 C'est vraiment comme tu préfères. Ce qu'on regardera c'est ta capacité à rendre un résultat intéressant et visuel 🌈
 
-- Intéressant, c'est-à-dire que tes résultats doivent nous apprendre des choses. Il faut que tu recherches des informations utiles et exploitables dans les données. Ex : les visites sur le site Google Merchandise Store suivent un effet cyclique très important (les gens s'y connectent beaucoup moins le week-end).
+- **Intéressant**, c'est-à-dire que tes résultats doivent nous apprendre des choses. Il faut que tu recherches des informations utiles et exploitables dans les données. Ex : les visites sur le site Google Merchandise Store suivent un effet cyclique très important (les gens s'y connectent beaucoup moins le week-end).
 
-- Visuel car les personnes qui te liront n'auront pas beaucoup de temps à consacrer à la compréhension de ton rapport. Les chiffres choisis et mis en valeur doivent être très explicites. Ton point de vue doit être très limpide et ne pas être sujet à débat. Finalement, tu dois pouvoir leur fournir un support qui détaille le mieux possible la spécificité du business concerné.
+- **Visuel** car les personnes qui te liront n'auront pas beaucoup de temps à consacrer à la compréhension de ton rapport. Les chiffres choisis et mis en valeur doivent être très explicites. Ton point de vue doit être très limpide et ne pas être sujet à débat. Finalement, tu dois pouvoir leur fournir un support qui détaille le mieux possible la spécificité du business concerné.
 
 
 A la fin de tes analyses, pose toi et demande toi si sur la base de ces résultats, les équipes Business et Produit de Google peuvent s'améliorer.
@@ -54,6 +54,7 @@ Sers toi des ressources pour voir quels types de leviers peuvent actionner ces �
 
 ## 3. Rendu attendu
 - Une présentation PPT avec les réponses aux 4 questions principales posées par Google + 2 slides de recommandation.
+ 
  
  
 PS : si tu as un site personnel, tu peux t'entraîner sur GA à fond. Sur la version demo de Google, quelques fonctionnalités sont désactivées. Mais par ex, deux trucs très pratiques qui peuvent être intéressants à utiliser dans la vie réelle : 
