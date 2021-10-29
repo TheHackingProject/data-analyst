@@ -56,8 +56,9 @@ Sers toi des ressources pour voir quels types de leviers peuvent actionner ces �
 - Une présentation PPT avec les réponses aux 4 questions principales posées par Google + 2 slides de recommandation.
  
  
+## 4. En savoir plus
  
-PS : si tu as un site personnel, tu peux t'entraîner sur GA à fond. Sur la version demo de Google, quelques fonctionnalités sont désactivées. Mais par ex, deux trucs très pratiques qui peuvent être intéressants à utiliser dans la vie réelle : 
+Si tu as un site personnel, tu peux t'entraîner sur GA à fond. Sur la version demo de Google, quelques fonctionnalités sont désactivées. Mais par ex, deux trucs très pratiques qui peuvent être intéressants à utiliser dans la vie réelle : 
 - savoir requêter directement l'API de Google Analytics (quand tu veux être plus libre que sur l'interface vue aujourd'hui. Pour cela, tu peux installer cet [add-on](https://workspace.google.com/marketplace/app/google_analytics/477988381226) qui vient se greffer à tes Google Sheets). 
 - savoir importer ses données dans Google Data Studio pour pouvoir faire de la visualisation de données.
 
