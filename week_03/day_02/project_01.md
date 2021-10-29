@@ -15,7 +15,7 @@ Une fois que tu as une adresse Google, c'est très simple d'obtenir accès aux c
 
 Tu dois maintenant avoir accès aux comptes Google Analytics de demo. Celui qui nous intéresse aujourd'hui est le compte "Google Analytics 4 property: Google Merchandise Store (web data)". C'est le compte qui nous donne les performances du [site ecommerce de Google](https://www.googlemerchandisestore.com/) qui vend des articles pour fans de Google 🤤
 
-Choisis Universal Analytics car c'est la version la plus historique de GA, c'est donc celle qui est la plus utilisée encore sur le marché. Google Analytics 4 est la nouvelle version, sortie fin 2020, mais elle n'est pas encore aboutie et certaines fonctionnalités ne sont pas opérationnelles (par ex en ce moment, on ne peut pas changer la date donc ça peut être problématique pour nos analyses). Tu peux choisir la Master view. (Et par curiosité, je t'invite bien sûr à aller regarder comment fonctionne Google Annalytics 4 et les différences qu'il y a entre les deux).
+Choisis Universal Analytics car c'est la version la plus historique de GA, c'est donc celle qui est la plus utilisée encore sur le marché. Google Analytics 4 est la nouvelle version, sortie fin 2020, mais elle n'est pas encore aboutie et certaines fonctionnalités ne sont pas opérationnelles (par ex en ce moment, on ne peut pas changer la date donc c'est problématique pour nos analyses). Tu peux choisir la Master view. (Par curiosité, je t'invite bien sûr à aller regarder comment fonctionne Google Annalytics 4 et les différences qu'il y a entre les deux).
 
 Une fois que tu as réussi à accéder à la page d'accueil de GA, tu dois voir pas mal de données dans tous les sens. Pour comprendre l'essentiel de comment tout ça fonctionne, tu peux lire [cet article](https://imrsiv.fr/methode/google-analytics-un-outil-puissant-pour-analyser-laudience-de-votre-site-internet/).
 
@@ -35,12 +35,25 @@ La période de temps qui les intéresse pour cette analyse est l'année 2021. Tu
 
 ### 2.3. Proposer des résultats
 
+Pour réaliser tes analyses, tu peux travailler directement sur l'interface (et faire des captures d'écran), ou alors travailler sur Excel, Google Sheets, voire même Python (après export csv). 
+
+C'est vraiment comme tu préfères. Ce qu'on regardera c'est ta capacité à rendre un résultat intéressant et visuel 🌈
+
+- Intéressant, c'est-à-dire que tes résultats doivent nous apprendre des choses. Il faut que tu recherches des informations utiles et exploitables dans les données. Ex : les visites sur le site Google Merchandise Store suivent un effet cyclique très important (les gens s'y connectent beaucoup moins le week-end).
+
+- Visuel car les personnes qui te liront n'auront pas beaucoup de temps à consacrer à la compréhension de ton rapport. Les chiffres choisis et mis en valeur doivent être très explicites. Ton point de vue doit être très limpide et ne pas être sujet à débat. Finalement, tu dois pouvoir leur fournir un support qui détaille le mieux possible la spécificité du business concerné.
 
 
+A la fin de tes analyses, pose toi et demande toi si sur la base de ces résultats, les équipes Business et Produit de Google peuvent s'améliorer.
+
+Autrement dit, côté Business, est-ce qu'on peut espérer acquérir plus de clients ? Si oui, quels sont les leviers imaginés ?
+Côté Produit, est-ce qu'on peut améliorer l'expérience utilisateur ? Si oui, quels sont les leviers imaginés ? 
+
+Sers toi des ressources pour voir quels types de leviers peuvent actionner ces équipes là. Et rédige 2 slides qui donnent des recommandations à ces équipes (une pour le Business et une pour le Produit). N'oublie pas que ces recommandations doivent forcément venir de tes analyses data (et non pas de tes intuitions personnelles ou de ton ressenti d'utilisateur du site) 🙈
 
 
 ## 3. Rendu attendu
- Un récapitulatif de ce que nous attendons du projet.
+- Une présentation PPT avec les réponses aux 4 questions principales posées par Google + 2 slides de recommandation.
  
  
 PS : si tu as un site personnel, tu peux t'entraîner sur GA à fond. Sur la version demo de Google, quelques fonctionnalités sont désactivées. Mais par ex, deux trucs très pratiques qui peuvent être intéressants à utiliser dans la vie réelle : 
