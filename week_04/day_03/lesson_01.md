@@ -8,8 +8,8 @@ Aujourd'hui on entend parler de Data Analyst et de Data Scientist, même les ent
 Le Data Analyst tout comme le Data Scientist, proviennent tous les deux originellement du monde des statistiques. Les premières études statistiques étudiaient l'influence d'un petit nombre de facteurs sur un petit nombre d'individus, souvent à travers des [plans d'expériences](https://fr.wikipedia.org/wiki/Plan_d%27exp%C3%A9riences).
 Avec l'essors de l'informatique, la donnée est devenue rapidement plus accessible et plus volumineuse, ce qui a pu conduire à l'augmentation de la disponibilité du nombre de facteurs à étudier.
 
+Suite à cette expansion, un bon nombre de mathématiciens a reconnu l'émergence d'une nouvelle discipline appelée la "Science des Données" (Data Science en Anglais), qui vient mélanger le nombre grandissant de données via les outils informatiques avec des principes avancées de statistiques. C'est ainsi que le métier de Data Scientist a vu le jour.
 
-Cette partie peut être plus ou moins longue. Elle explique l'histoire ou le contexte sur la notion que l'on veut enseigner.
 
 ## 3. La ressource
 
