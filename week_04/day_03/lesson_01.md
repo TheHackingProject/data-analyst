@@ -32,7 +32,12 @@ Mais dis-moi Jamy, l'intelligence artificielle c'est Terminator c'est ça ? Quel
 Le terme intelligence artificielle est une très mauvaise traduction de son anglicisme "Artificial Intelligence". Le terme "Intelligence" signifie plutôt renseignements. Un moyen de s'en souvenir :
 CIA = Central Intelligence Agency, on parle d'agence de renseignement, pas d'Agence d'intelligence!
 
+L'IA est donc un ensemble de modèles mathématiques permettant de prendre en compte un nombre important de facteurs sur un problème et d'en ressortir une solution la plus optimale possible.
+Prenons un exemple concret :
+Tu dois aller faire le plein pour ta voiture. Tu vas prendre en compte le prix de l'essence, la distance qui te sépare de la station d'essence, et surement l'heure à laquelle tu y vas pour éviter les bouchons.
+Un algorithme d'intelligence artificielle, va prendre en compte plus de variables auquel il pourrait avoir accès comme la temparéture extérieure (qui influence sur la densité du carburant), la topologie de la route à prendre (+ de stops = - de bénéfices, + de dénivelé = - de bénéfices), la densité en temps réelle du traffic, la qualité du carburant (un carburant de meilleur qualité sera plus cher, mais sera plus bénéfique pour ton moteur et ta consommation), etc, etc.
 
+Le Data Analyst va donner les principales variables permettant à un humain de prendre une décision par lui-même. Le Data Scientist va créer des modèles mathématiques qui vont prendre plusieurs variables en compte et va pouvoir donner des prédictions sur les décisions qui peuvent être prises.
 
 ## 4. Points importants à retenir
 La ressource en quelques points importants.
