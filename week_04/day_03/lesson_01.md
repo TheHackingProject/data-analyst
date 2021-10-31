@@ -21,7 +21,12 @@ En plus de détails, il est possible de distinguer plusieurs types de data analy
 On retrouve le consultant BI principalement dans les entreprises industrielles. Le consultant BI va être responsable de la mise en place de KPI's demandées par les différents services de l'entreprise.
 Il se doit d'être à l'écoute de ses clients, de comprendre les besoins explicites et implicites de ses commanditaires. Le client doit exprimer quelles informations il souhaiterait voir et le consultant BI doit pouvoir traduire ce besoin en visualisations impactantes. La clef pour la réussite d'un consultant BI sera la même que pour un data analyst : Le story telling!
 
+Le consultant BI peut donc concevoir des solutions permettant d'aider à la prise de décision stratégique ou opérationnelle : 
+- Un rapport sur l'influence d'un nouveau projet sur la productivité globale d'une usine
+- Une visualisation en temps réelle de données provenant de machines permettantx aux opérateurs de détecter au plus tôt une déviation qualité de leur production
+
 #### 3.1.2 L'analyst WEB
+
 
 
 ### 3.2. Data Scientist
