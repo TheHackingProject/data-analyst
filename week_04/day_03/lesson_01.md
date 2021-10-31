@@ -48,7 +48,8 @@ Un algorithme d'intelligence artificielle, va prendre en compte plus de variable
 Le Data Analyst va donner les principales variables permettant à un humain de prendre une décision par lui-même. Le Data Scientist va créer des modèles mathématiques qui vont prendre plusieurs variables en compte et va pouvoir donner des prédictions sur les décisions qui peuvent être prises.
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+- Le Data Analyst est un traducteur entre le monde des données et le monde décisionnel
+- Le Data Scientist utilise les données afin de faire des estimations sur le futur
 
 ## 5. Pour aller plus loin
 Quelques éléments en ligne pour aller plus loin
