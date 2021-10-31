@@ -5,6 +5,9 @@ Aujourd'hui on entend parler de Data Analyst et de Data Scientist, même les ent
 
 ## 2. Historique et contexte
 
+Le Data Analyst tout comme le Data Scientist, proviennent tous les deux originellement du monde des statistiques. Les premières études statistiques étudiaient l'influence d'un petit nombre de facteurs sur un petit nombre d'individus, souvent à travers des [plans d'expériences](https://fr.wikipedia.org/wiki/Plan_d%27exp%C3%A9riences).
+Avec l'essors de l'informatique, la donnée est devenue rapidement plus accessible et plus volumineuse, ce qui a pu conduire à l'augmentation de la disponibilité du nombre de facteurs à étudier.
+
 
 Cette partie peut être plus ou moins longue. Elle explique l'histoire ou le contexte sur la notion que l'on veut enseigner.
 
