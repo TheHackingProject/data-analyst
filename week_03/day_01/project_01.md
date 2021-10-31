@@ -17,7 +17,7 @@ Si tu n'as jamais entendu parler de la série *The Office*, tu n'as pas dû comp
 
 ![michaelscott](https://i.imgur.com/kjHM3s1.jpg)
 
-Si tu aimes les séries humoristiques, c'est génial.
+Si tu aimes les séries humoristiques, regarde direct *The Office* version US.
 
 ___
 
@@ -28,14 +28,20 @@ ___
 
 Comme tu le sais, Michael Scott est vraiment à la ramasse. Autant te dire qu'il n'a jamais identifié de KPIs. 
 
-Pour l'aider à s'en sortir, on va commencer par définir des indicateurs qui vont lui permettre de comprendre ses objectifs de performance. Ce sur quoi il doit concentrer ses efforts et les efforts de ses équipes. Pour bien comprendre le business de Dunder Mifflin Paper Company, en théorie, il faudrait que tu passes du temps avec Michael. Mais comme il est incapable de se concentrer sur son travail plus de 10 secondes, on t'évite cette étape. On te recommande de consulter plutôt la bases de données que nous a envoyée Michael : tu peux la télécharger [ici](. 
+Pour l'aider à s'en sortir, on va commencer par définir des indicateurs qui vont lui permettre de comprendre ses objectifs de performance. Ce sur quoi il doit concentrer ses efforts et les efforts de ses équipes. Pour bien comprendre le business de Dunder Mifflin Paper Company, en théorie, il faudrait que tu passes du temps avec Michael. Mais comme il est incapable de se concentrer sur son travail plus de 10 secondes, on t'évite cette étape. On te recommande de consulter plutôt la bases de données que nous a envoyée Michael : tu peux la télécharger [ici](https://docs.google.com/spreadsheets/d/1YFdUEZmmlesui9-QfVm2aa8P7SKL5V1i/edit?usp=sharing&ouid=100767761288291012140&rtpof=true&sd=true). 
 
-Pour cette première itération, on t
+Pour cette première itération, on te demande d'identifier 6 KPIs. Ces KPIs ne sont pas obligés d'être tous liés aux données dont tu disposes (je te donne un exemple factice mais un KPI pourrait être "Baisser la masse salariale de -10% par an". Les données dont tu disposes ne te permettent pas de tracker cela mais pas grave, ce qui compte ici c'est la performance).
 
-### 2.2. Seconde étape du projet : créer un tableau de bord
-Ici expliquer la seconde étape du projet.
+Pour trouver les bons KPIs, met toi dans la position de Michael Scott : tu es directeur régional d'une grosse entreprise (2000 salariés). La direction commence à perdre confiance en tes compétences de manager. Tu veux leur montrer que tu es un bon gestionnaire. Mais plutôt que de belles paroles, tu as prévu de montrer des faits. Donc tu fixes 6 KPIs qui prouvent la bonne performance de ta BU et tu t'engages à leur envoyer l'évolution de ces KPIs tous les trimestres.
 
-etc..
+Tu détailles ces 6 KPIs dans une belle présentation Powerpoint. Comme ça tu es sûr que même si Michael déconne lors de la réunion, il y aura une trace écrite de son travail (ton travail plutôt mais keep it secret).
+
+### 2.2. Seconde étape du projet : créer des tableaux de bord
+
+Pour montrer à la direction que l'équipe utilise les outils qui sont payés par l'entreprise, tu dois utiliser Tableau pour construire tes tableaux de bord. Essaye encore une fois d'en mettre plein la vue à l'équipe dirigeante. 
+
+Grâce à tes visualisations, il doit être aisé de suivre l'évolution des KPIs. Et en plus de celles qui sont liées aux KPIs, crée le plus de visualisations possibles. Cela leur fera croire que Michael a passé beaucoup de temps sur le sujet. Et qu'il va enfin commencer à prendre des décisions fondées sur des données chiffrées. Ne te met aucune limite dans la créativité, c'est cela qui pourra sauver Michael 🤞🤞 
 
 ## 3. Rendu attendu
- Un récapitulatif de ce que nous attendons du projet.
+- Un fichier PDF qui est issu de ta présentation PPT qui donne les 6 KPIs choisis. Il peut être envoyé ainsi à la direction (donc rédigé en anglais!).
+- Un classeur complet Tableau .twbx

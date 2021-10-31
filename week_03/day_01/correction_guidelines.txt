@@ -1,1 +1,13 @@
+Est-ce que les KPIs proposent un objectif chiffré ? Est-ce qu'on peut dire précisément si oui ou non, l'objectif est atteint ? 
+Est-ce que pour chaque KPI, on a précisé une dimension temporelle ? Par ex, réaliser 100K€ de CA par mois. 
+Est-ce que les KPIs proposés traitent de sujets différents qui ne se recoupent pas ? On ne doit pas pouvoir par ex un KPI qui cherche à "Améliorer les ventes globales de l'entreprise" et un autre qui cherche à "Améliorer les ventes de papier".
+Est-ce que le support qui présente les KPIs est visuel et agréable à parcourir ?
 
+Est-ce que le fichier Tableau comporte des visualisations dans le temps (courbes) ?
+Est-ce que le fichier Tableau comporte des visualisations dans l'espace (carte) ?
+Est-ce que certains graphes sont interactifs (l'utilisateur peut cliquer et cela modifie la visualisation) ?
+Est-ce que les KPIs qui peuvent l'être ont été traduits dans un ou plusieurs graphes ?
+Est-ce qu'il y a au moins 10 propositions différentes de graphes ?
+Est-ce que le Tableau a un sens de lecture ? Il ne doit pas être une simple juxtaposition de graphes.
+Est-ce que le Tableau comporte plusieurs onglets et ces onglets possèdent-ils un titre évocateur ?
+Est-ce que le Tableau permet de comprendre en un coup d'oeil la performance et les données clés de Dunder Mifflin ?

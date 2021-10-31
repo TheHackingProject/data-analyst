@@ -1,1 +1,16 @@
+Est-ce que la personne a respecté le temps de présentation de 10 min (+ ou - 1 min) ?
+Est-ce que le support de présentation contient une slide de début (qui donne les infos essentielles de l'analyse) et une slide de fin (qui remercie le public) ?
+Est-ce que le support de présentation PPT était aéré, cad que les slides ne contenaient pas trop d'infos ? 
+Est-ce qu'au moins 3 graphes différents ont été présentés ? 
+Est-ce que le support de présentation s'inspire des couleurs et de l'univers de l'entreprise Gaumont (ex : les illustrations étaient en rapport avec le cinéma) ? 
+Est-ce que le support de présentation contient un plan ou sommaire qui précise les différents moments de l'intervention ? 
+Est-ce que les infos clés - à retenir par l'auditoire - sont écrits sur le support de présentation ? 
+Est-ce que le support de présentation contient un nombre cohérent de slides sachant le temps autorisé de parole ? (entre 10 et 30 slides)
 
+Est-ce que le ton de la présentation orale était dynamique ? 
+Est-ce que la personne avait préparé un récit pour dérouler sa présentation ? Si vous aviez plutôt l'impression que la personne juxtaposait des informations sans lien entre elles, vous pouvez cochez non.
+Est-ce que la personne qui a présenté s'est adressée au moins une fois à l'auditoire ? Soit de manière directe en posant une question soit de manière indirecte en faisant référence au public. 
+Est-ce que le discours de la personne était accessible à toute personne qui n'a jamais travaillé dans la donnée auparavant ?
+Est-ce que la personne a donné des indications sur le niveau d'importance de l'information ? Ex : ça c'est du détail. Cette information est capitale, vous pouvez ne retenir que ça.
+Est-ce que la personne qui a présenté n'était pas hésitante ? Est-ce qu'on peut dire qu'elle maîtrisait son discours ?
+Est-ce que tu as retenu au mois 2 éléments précis de cette présentation ? 
