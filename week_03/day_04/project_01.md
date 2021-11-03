@@ -1,16 +1,40 @@
-#
+# Crée la stack data de ton entreprise 
 
 ## 1. Introduction
-Introduction qui leur explique dans les grandes lignes le projet.
+Pour beaucoup d’entreprises, l’étape de création d’une infrastructure qui va permettre de faire de la data est cruciale.
+
+Car on peut se le dire : suivre ses KPIs clés sur un Google Sheets rempli à la main, c’est bien mais c’est pas vraiment ce qu’on appelle faire des traitements data. Pour cela, pas besoin de spécialiste data. Et  pas de possibilité d’obtenir des analyses croisées et très précises. 
+
+On peut dire qu’une entreprise commence à devenir data-driven lors qu’elle franchit au moins une de ses 2 étapes : recruter un spécialiste de la data ou mettre en place un data warehouse.
+Souvent, ces 2 étapes sont concomitantes. Et c’est ce qui se passe dans le cas de ce projet !
 
 ## 2. Le projet
-### 2.1. Première étape du projet
-Ici expliquer la première étape du projet.
 
-### 2.2. Seconde étape du projet
-Ici expliquer la seconde étape du projet.
+### 2.1. Contexte de l'entreprise Squadeasy
 
-etc..
+Tu viens d’être recruté par l’entreprise [Squadeasy](https://www.squadeasy.com/) en tant que première personne de l’équipe Data. C’est le CEO qui a géré ton recrutement : il t’a expliqué que la boîte étant en pleine croissance, ils ont besoin de quelqu’un pour structurer leur data. Mais il a aussi tout de suite précisé qu’il n’y a pour l’instant aucune compétence data chez les salariés de l’entreprise. C'est d'ailleurs une experte freelance qui t'a fait passer un entretien technique pour vérifier tes compétences.
+
+Maintenant que tu as été recruté, les dirigeants te font entièrement confiance sur les outils à mettre en place et les process à créer. Même s'ils savent que tu es encore junior dans la data et que tu devras probablement te faire accompagner à certaines étapes (par des freelances par exemple). Ce qui les intéressent en premier lieu c’est que tu sois capable de leur fournir rapidement des informations intéressantes sur leurs clients (Quel type d'organisation est le plus intéressé ? Y-a-t-il des régions à cibler en particulier ? Quel poste dans l'entreprise répond le plus faborablement ? etc.) et sur les comportements de leurs utilisateurs (Quelles features sont le plus apprécié ? Quels thématiques ont le plus de succès ? Qu'est-ce qui crée de l'engagement chez les utilisateurs ? etc.). 
+
+Voici les informations qu’il te donne lors de ton premier jour : le business de Squadeasy c’est de vendre des challenges connectés à des clients B2B. Un challenge connecté c’est une succession d’étapes à réaliser via une application mobile. Pour les participants, le but est de récolter le plus de points car les points récoltés par toute l’équipe seront transformés en dons reversés à des associations partenaires. On peut obtenir des points en cumulant le plus de pas (via un podomètre qui est connecté à l’appli), en répondant à des quizzs et en réalisant des défis. 
+Les challenges peuvent être inter-entreprises (plusieurs entreprises s’affrontent) ou bien intra-entreprise (seuls les salariés de l’entreprise participent au jeu dans ce cas).
+Aujourd’hui, l’entreprise emploie 20 salariés à temps plein.
+
+Il y a déjà plusieurs sources de données dans l'entreprise (dans l'ordre d'importance) : 
+- les données de la base de données de production (Firestore) qui fait tounrner l'application au quotidien. Cette base de données enregistre les actions que réalisent les utilisateurs (ex : faire des pas, valider un quizz, changer d'étape)
+- les données de Google Analytics qui collectent des données sur 2 choses : le site vitrine et sur l'application. Ce sont ici plutôt des données comportementales (nombre de pages vues, nombre de connexions etc.)
+- les données de Hubspot, qui est l'outil CRM de l'entreprise. Il centralise l'ensemble des informations sur les actions commerciales réalisées par l'équipe Sales.
+- le reporting de closing clients réalisé sur un Google Sheets et mis à jour par les cofondateurs chaque semaine
+- les données collectés par l'ensemble des outils utilisés par les équipes (Mailchimp, Instragam, Facebook, Linkedin, Google Ads etc.).
+- les données présents sur le Drive de l'entreprise et accessibles à tous.
+
+### 2.2. Ta mission
+
+Face à toutes ses sources de données, tu es un peu perdu lors de tes premiers jours. Comme un bon élève, tu cherches à réaliser des premières analyses. L'équipe technique t'a envoyé des extracts de la base de données de production mais comme cette base est du NoSQL, tu as beaucoup de mal à tirer des informations utiles de ces extracts. Par ailleurs, leur historique est limité à 30 jours sur cette base de données de production. 
+
+Côté clients, tu as réçu le fameux Google Sheets qui est mis à jour régulièrement par les cofondateurs mais celui-ci doit être complété à la main pour chaque contrat déjà signé. Pour l'instant, tu ne peux pas faire d'analyse poussée car les données n'avaient pas été récoltées dans ce but-là. Tu dois toi-même créer un fichier parallèle et ajouter à la main, pour chaque client, le secteur de l'entreprise, le poste de la personne qui a signé le deal, sa région d'implantation etc. Tu commences mais tu sens que cela va te prendre un temps fou et que ça ne sera même pas réutilisable car non automatisé.
+
+Tu te rappelles alors de tes cours de Data Analyse quand tu apprenais que les entreprises devaient créer un système de BI, parallèle au système de production. Et le mot data warehouse te revient immédiatement en tête 💡
 
 ## 3. Rendu attendu
- Un récapitulatif de ce que nous attendons du projet.
+- Un cahier des charges qui précise ton besoin data actuel. Concernant le format (présentation PPT, template long, document word), tu es libre de choisir ce que tu penses le plus adéquat pour détailler tes arguments.
