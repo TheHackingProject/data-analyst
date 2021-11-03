@@ -22,11 +22,11 @@ Aujourd’hui, l’entreprise emploie 20 salariés à temps plein.
 
 Il y a déjà plusieurs sources de données dans l'entreprise (dans l'ordre d'importance) : 
 - les données de la base de données de production (Firestore) qui fait tourner l'application au quotidien. Cette base de données enregistre les actions que réalisent les utilisateurs (ex : faire des pas, valider un quizz, changer d'étape)
-- les données de Google Analytics qui collectent des données sur 2 choses : le site vitrine et sur l'application. Ce sont ici plutôt des données comportementales (nombre de pages vues, nombre de connexions etc.)
+- les données de Google Analytics qui enregistre des données sur 2 choses : le site vitrine et sur l'application mobile. Ce sont ici plutôt des données comportementales (nombre de pages vues, nombre de connexions etc.)
 - les données de Hubspot, qui est l'outil CRM de l'entreprise. Il centralise l'ensemble des informations sur les actions commerciales réalisées par l'équipe Sales.
 - le reporting de closing clients réalisé sur un Google Sheets et mis à jour par les cofondateurs chaque semaine
-- les données collectés par l'ensemble des outils utilisés par les équipes (Mailchimp, Instragam, Facebook, Linkedin, Google Ads etc.).
-- les données présents sur le Drive de l'entreprise et accessibles à tous.
+- les données collectées par l'ensemble des outils utilisés par les équipes (Mailchimp, Instragam, Facebook, Linkedin, Google Ads etc.).
+- les données présentes sur le Drive de l'entreprise et accessibles à tous (ex : Welcome Pack pour les nouveaux salariés, fichiers importants propres à chaque équipe etc.).
 
 ### 2.2. Ta mission
 
