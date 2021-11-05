@@ -73,7 +73,9 @@ Dans un projet data, on considère souvent que la valeur réside dans l’algori
 C’est partiellement faux, pour une raison très simple : **la valeur ajoutée réside, en majeure partie, dans les données elles-mêmes**. Pour faire simple, le data scientist ne pourra jamais faire mieux que ce que les données lui permettent de faire. C’est pourquoi **les profils Data Architect et Data Engineer sont essentiels : c’est eux qui créent, entretiennent et améliorent les systèmes d’information permettant aux autres membres de l’équipe data de faire leur travail**. Sans eux, les data scientist passeront probablement plus de temps à administrer les données qu’à les analyser.
 
 ## 5. Pour aller plus loin
-Pour mieux comprendre l'ensemble des métiers existants dans la data, tu peux attendres les autres jours de la semaine. Mais tu peux aussi consulter ces docs très complètes :
+Pour mieux comprendre la différence entre Data Engineer et Data Scientist, tu peux lire [cet article](https://www.lemagit.fr/conseil/Data-scientist-et-data-engineer-deux-experts-a-ne-pas-confondre).
+
+Et tu peux aussi consulter ces docs très complètes :
 - [Le glossaire des principaux métiers de la data, par la fédération Syntec](https://syntec-conseil.fr/wp-content/uploads/2020/09/Syntec-Conseil_Glossaire-des-principaux-m%C3%A9tiers-de-la-Data.pdf)
 - [Les métiers de la data, par l'APEC](https://corporate.apec.fr/files/live/sites/corporate/files/Nos%20%C3%A9tudes/pdf/Les-metiers-de-la-data.pdf)
 
