@@ -11,13 +11,13 @@ Mais si tu as appris à requêter des bases de données, le travail en équipe c
 
 Il y a 2 principes de base dans l'organisation de votre petite équipe. Et ils sont TRES simples. C'est :
 
-- Chaque membre doit être motivé. Sans motivation, vous n'irez nulle part : il faut mouiller le maillot pendant 1 semaine ! Levez-vous comme au début de THP, retrouvez-vous à heure fixe pour bosser ensemble, etc. Pas besoin de faire des nocturnes chaque jour : si vous faites un bon 9h-19h quotidien, bien concentrés sur votre boulot, c'est suffisant !
-- Chaque membre doit être responsable. Il faut que chaque membre de l'équipe bosse en autonomie, sans attendre qu'on lui dise quoi faire et sans espérer que quelqu'un d'autre viendra faire le boulot à sa place. Si un membre de l'équipe ne se sent pas responsable des tâches dont il a la charge, il perd son temps en plus de faire perdre aux autres le leur. Ne bossez pas parce qu'on vous l'a demandé : bossez pour vous, pour appliquer ce qu'on vous a appris !
+- **Chaque membre doit être motivé**. Sans motivation, vous n'irez nulle part : il faut mouiller le maillot pendant 1 semaine ! Levez-vous comme au début de THP, retrouvez-vous à heure fixe pour bosser ensemble, etc. Pas besoin de faire des nocturnes chaque jour : si vous faites un bon 9h-19h quotidien, bien concentrés sur votre boulot, c'est suffisant !
+- **Chaque membre doit être responsable**. Il faut que chaque membre de l'équipe bosse en autonomie, sans attendre qu'on lui dise quoi faire et sans espérer que quelqu'un d'autre viendra faire le boulot à sa place. Si un membre de l'équipe ne se sent pas responsable des tâches dont il a la charge, il perd son temps en plus de faire perdre aux autres le leur. Ne bossez pas parce qu'on vous l'a demandé : bossez pour vous, pour appliquer ce qu'on vous a appris !
 
 Ces deux points sont à la base de la méthode agile : il faut une équipe motivée et qui s'approprie le projet. Une fois cela dit, voici quelques astuces pour vous répartir le boulot d'un projet data :
 
 - Il est souvent conseillé d'avoir un "leader". Pas forcément quelqu'un qui va prendre toutes les décisions mais quelqu'un qui a la vision globale du projet et peut répartir les tâches que personne ne prend naturellement en charge. C'est bien si cette personne apprécie la gestion de projet et se sent assertif.
-- Tu vas voir cette semaine tous les rôles d'un projet data : chef de projet, Data Engineer, Data Analyst, Data Scientist. Essaye de voir quels rôles sont nécessaires à ton projet. 
+- Tu vas voir cette semaine tous les rôles d'un projet data : chef de projet, Data Engineer, Data Analyst, Data Scientist. Essaye de voir quels rôles sont nécessaires à ton projet. Et n'hésite pas à recalibrer ton projet en fonction du métier découvert cette semaine.
 
 Bien sûr, pas besoin d'avoir une séparation stricte entre les différents rôles. Faites en fonction des affinités de chacun mais surtout en fonction du besoin ! La distribution des rôles et surtout des tâches permettra de responsabiliser tous les participants. Si vous avez des doublons dans l'équipe (des personnes qui travaillent sur les mêmes tâches), il y a un risque de voir apparaître des comportements de passager clandestin.
 
