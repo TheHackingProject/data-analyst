@@ -1,4 +1,4 @@
-# Data Science et Machine Learning
+# Initiation à la Data Science et au Machine Learning
 
 ## 1. Introduction
 Une introduction sur la ressource.
