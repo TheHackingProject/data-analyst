@@ -1,4 +1,4 @@
-# Modélisation et Machine Learning
+# Data Science et Machine Learning
 
 ## 1. Introduction
 Une introduction sur la ressource.
