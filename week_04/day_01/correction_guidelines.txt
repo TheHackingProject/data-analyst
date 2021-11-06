@@ -1,1 +1,13 @@
-
+Est-ce que le problème à résoudre (ou le besoin métier) est explicité ?
+Est-ce qu'on voit bien 2 niveaux de projet : ce qui va être réalisé pendant les 2 semaines de formation et ce qui est prévu pour les mois suivants ? 
+Est-ce que le niveau du projet proposé pendant 2 semaines semble réaliste (ni trop ambitieux ni pas assez) ?
+Est-ce que le projet fait partie d'une stratégie plus globale ?
+Est-ce que le groupe a réussi à distribuer les rôles aux membres de son équipe ? Est-ce que le rôle de chef de projet a été donné ?
+Est-ce qu'on a une méthodologie de gestion de projet identifiée ? 
+Est-ce que le groupe s'appuie sur un outil visuel pour gérer sa gestion de projet ?
+Est-ce que le groupe s'est accordé sur des rituels pour faciliter le travail de groupe ? 
+Est-ce qu'un cahier des charges a été réalisé ? 
+Est-ce que ce cahier des charges permet bien de comprendre les différents besoins auxquels répondra le projet ? 
+Est-ce que ce cahier des charges est suffisamment détaillé pour être transmis tel quel à une équipe de production et que celle-ci se mette à développer le projet en question ?
+Est-ce que, suite à la présentation orale du groupe, vous aviez l'impression de comprendre l'essentiel du projet de vos collègues ? Ou alors, vous aviez besoin de plus de 3 questions pour être au clair avec la proposition ?
+Est-ce que le projet semble bien cadré ou l'équipe a besoin de passer encore une journée au moins sur la récolte des besoins et le cadrage du projet ?
