@@ -74,4 +74,5 @@ Un travail sérieux réalisé sur les quatre étapes du traitement de la donnée
 ## 5. Pour aller plus loin
 - Un article sur [L'infrastructure informatique, vecteur de l'essor de votre entreprise](https://www.appvizer.fr/magazine/services-informatiques/virtualisation/infrastructure-informatique)
 - [Comment bien choisir son Data Warehouse](https://www.lemagit.fr/conseil/Bien-choisir-son-Data-Warehouse-nouvelle-generation)
+- Des exemples de projets réalisés par les Data Engineers : [ici](https://www.startdataengineering.com/post/data-engineering-project-for-beginners-batch-edition/), [ici](https://www.upgrad.com/blog/data-engineering-projects-ideas/) et [des exemples de sources](https://betterprogramming.pub/5-data-sources-for-data-engineering-projects-d198ca0e74d4) pour s'exercer
 
