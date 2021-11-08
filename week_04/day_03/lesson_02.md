@@ -1,10 +1,10 @@
-# Initiation à l'IA et au Machine Learning
+# Initiation à l'IA et au Machine Learning 💥
 
 ## 1. Introduction
 IA et Machine Learning : ce sont deux mots très à la mode aujourd'hui mais souvent utilisés à tort et à travers. Nous allons voir aujourd'hui ce qu'ils signifient précisément.
 
 ## 2. Historique et contexte
-Depuis l'Antiquité, le sujet des machines pensantes préoccupe les esprits.
+Depuis l'Antiquité, le sujet des machines pensantes préoccupe les esprits 📺
 
 **La concrétisation de cette idée est principalement due à Alan Turing** (mathématicien et cryptologue britannique) et à son concept de la « machine universelle » en 1936, qui est à la base des ordinateurs d'aujourd'hui. Il continuera à poser les bases de l'apprentissage automatique, avec son article sur « L'ordinateur et l'intelligence » en 1950, dans lequel il développe, entre autres, le test de Turing. Une IA passe le test de Turing si un humain n’est pas capable de déterminer dans une conversation si l’IA est un humain ou un ordinateur. A ce jour, on ne peut pas dire qu’une IA ait encore passé le test de Turing de façon incontestable, même si la perspective devient plus plausible avec les avancées scientifiques et technologiques.
 
@@ -14,7 +14,7 @@ Après l’emballement des années 50, **les années 60 ont ramené plus de réa
 
 On assiste même à un coup d’arrêt significatif pour l’IA et le machine learning. Tant et si bien qu’on parle d’« hiver de l’IA » à partir de 1974. Et si la technologie connaît un rebond au début des années 1980, elle doit affronter une nouvelle crise de 1987 à 1993. 
 
-**Puis la technologie connaît une accélération de son développement**. Et entre même dans la sphère publique, notamment grâce à Deep Blue. Cet ordinateur, développé par IBM, est spécialisé dans le jeu d’échecs. Et finira par battre, en 1997, le champion du monde Garry Kasparov.
+**Puis la technologie connaît une accélération de son développement**. Et entre même dans la sphère publique, notamment grâce à Deep Blue. Cet ordinateur, développé par IBM, est spécialisé dans le jeu d’échecs. Et finira par battre, en 1997, le champion du monde Garry Kasparov ♟♟
 
 IBM reproduira ensuite son succès, avec un nouveau programme, nommé Watson. En 2011, celui-ci remporte le jeu télévisé de culture générale Jeopardy! face aux deux meilleurs joueurs, en ayant recours au NLP.
 
