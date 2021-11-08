@@ -1,12 +1,12 @@
-# Initiation à la Data Science et au Machine Learning
+# Initiation à l'IA et au Machine Learning
 
 ## 1. Introduction
-Data Science et Machine Learning : ce sont deux mots très à la mode aujourd'hui mais souvent utilisés à tort et à travers. Nous allons voir aujourd'hui ce qu'ils signifient précisément.
+IA et Machine Learning : ce sont deux mots très à la mode aujourd'hui mais souvent utilisés à tort et à travers. Nous allons voir aujourd'hui ce qu'ils signifient précisément.
 
 ## 2. Historique et contexte
 Depuis l'Antiquité, le sujet des machines pensantes préoccupe les esprits.
 
-La concrétisation de cette idée est principalement due à Alan Turing (mathématicien et cryptologue britannique) et à son concept de la « machine universelle » en 1936, qui est à la base des ordinateurs d'aujourd'hui. Il continuera à poser les bases de l'apprentissage automatique, avec son article sur « L'ordinateur et l'intelligence » en 1950, dans lequel il développe, entre autres, le test de Turing. Une IA passe le test de Turing si un humain n’est pas capable de déterminer dans une conversation si l’IA est un humain ou un ordinateur.
+La concrétisation de cette idée est principalement due à Alan Turing (mathématicien et cryptologue britannique) et à son concept de la « machine universelle » en 1936, qui est à la base des ordinateurs d'aujourd'hui. Il continuera à poser les bases de l'apprentissage automatique, avec son article sur « L'ordinateur et l'intelligence » en 1950, dans lequel il développe, entre autres, le test de Turing. Une IA passe le test de Turing si un humain n’est pas capable de déterminer dans une conversation si l’IA est un humain ou un ordinateur. A ce jour, on ne peut pas dire qu’une IA ait encore passé le test de Turing de façon incontestable, même si la perspective devient plus plausible avec les avancées scientifiques et technologiques.
 
 En 1959, c’est l’informaticien américain Arthur Samuel qui utilise pour la première fois le terme « machine learning », pour son programme créé en 1952. Celui-ci est capable de jouer aux dames et d’apprendre au fur et à mesure de ses parties. Jusqu’à finir par battre le quatrième joueur des États-Unis.
 
