@@ -46,7 +46,7 @@ Pour bien comprendre les concepts fondamentaux du Machine Learning et que cela t
 
 Un programme informatique traditionnel effectue une tâche en suivant des instructions précises, et donc systématiquement de la même façon. **Au contraire, un système Machine Learning ne suit pas d’instructions, mais apprend à partir de l’expérience**. Par conséquent, ses performances s’améliorent au fil de son "entraînement", à mesure que l’algorithme est exposé à davantage de données.
 
-À mesure que le Big Data continuera à se développer, avec toujours plus de données générées, et alors que l’informatique continuera à gagner en puissance, le Machine Learning offrira encore davantage de possibilités…
+À mesure que le Big Data continuera à se développer, avec toujours plus de données générées, et alors que l’informatique continuera à gagner en puissance, le Machine Learning offrira encore davantage de possibilités ... 
 
 ## 5. Pour aller plus loin
 Deux cours OC plus avancés qui te permettront de renforcer tes compétences en Machine Learning si cela t'intéresse : 
