@@ -1,9 +1,9 @@
-# Garantir la sécurité des données
+# Garantir la sécurité des données et des systèmes 
 
 ## 1. Introduction
 Une introduction sur la ressource.
 
-## 2.Historique et contexte
+## 2. Historique et contexte
 Cette partie peut être plus ou moins longue. Elle explique l'histoire ou le contexte sur la notion que l'on veut enseigner.
 
 ## 3. La ressource
