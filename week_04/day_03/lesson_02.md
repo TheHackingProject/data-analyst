@@ -10,11 +10,11 @@ Depuis l'Antiquité, le sujet des machines pensantes préoccupe les esprits.
 
 En 1959, c’est l’informaticien américain Arthur Samuel qui utilise pour la première fois le terme « machine learning », pour son programme créé en 1952. Celui-ci est capable de jouer aux dames et d’apprendre au fur et à mesure de ses parties. Jusqu’à finir par battre le quatrième joueur des États-Unis.
 
-Après l’emballement des années 50, les années 60 ont ramené plus de réalisme et de pragmatisme dans le domaine. 
+Après l’emballement des années 50, **les années 60 ont ramené plus de réalisme et de pragmatisme dans le domaine**. 
 
 On assiste même à un coup d’arrêt significatif pour l’IA et le machine learning. Tant et si bien qu’on parle d’« hiver de l’IA » à partir de 1974. Et si la technologie connaît un rebond au début des années 1980, elle doit affronter une nouvelle crise de 1987 à 1993. 
 
-Puis la technologie connaît une accélération de son développement. Et entre même dans la sphère publique, notamment grâce à Deep Blue. Cet ordinateur, développé par IBM, est spécialisé dans le jeu d’échecs. Et finira par battre, en 1997, le champion du monde Garry Kasparov.
+**Puis la technologie connaît une accélération de son développement**. Et entre même dans la sphère publique, notamment grâce à Deep Blue. Cet ordinateur, développé par IBM, est spécialisé dans le jeu d’échecs. Et finira par battre, en 1997, le champion du monde Garry Kasparov.
 
 IBM reproduira ensuite son succès, avec un nouveau programme, nommé Watson. En 2011, celui-ci remporte le jeu télévisé de culture générale Jeopardy! face aux deux meilleurs joueurs, en ayant recours au NLP.
 
