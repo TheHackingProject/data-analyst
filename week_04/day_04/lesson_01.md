@@ -12,7 +12,7 @@ Si la loi de 1978 parlait d’”informations nominatives”, une nouvelle loi e
 
 Enfin, **le Réglement Général pour la Protection des Données** (RGPD, ou “GDPR” en anglais “General Data Protection Regulation”) est le résultat d’un long travail effectué par le G29 (groupe de travail européen sur la protection des données). Il a été adopté par le Parlement européen le 14 avril 2016, et est entré en service le 25 mai 2018.
 
-En cas de délit constaté lors du contrôle, les amendes sont désormais dissuasives, puisqu’elles peuvent aller jusqu’à 4 % du chiffre d’affaire mondial de l’entreprise4, une belle somme. Par ailleurs, le Règlement mentionne le Délégué à la Protection des Données comme un élément central du processus de mise en conformité.
+En cas de délit constaté lors du contrôle, les amendes sont désormais dissuasives, puisqu’elles peuvent aller jusqu’à 4 % du chiffre d’affaires mondial de l’entreprise. Par ailleurs, le Règlement mentionne le Délégué à la Protection des Données comme un élément central du processus de mise en conformité.
 
 ## 3. La ressource
 Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
