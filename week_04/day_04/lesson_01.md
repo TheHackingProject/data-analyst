@@ -15,16 +15,25 @@ Enfin, **le Réglement Général pour la Protection des Données** (RGPD, ou “
 En cas de délit constaté lors du contrôle, les amendes sont désormais dissuasives, puisqu’elles peuvent aller jusqu’à 4 % du chiffre d’affaires mondial de l’entreprise. Par ailleurs, le Règlement mentionne le Délégué à la Protection des Données comme un élément central du processus de mise en conformité.
 
 ## 3. La ressource
-Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
 
-### 3.1. Première sous partie
-blabla
+### 3.1. Les obligations de la RGPD pour les entreprises
 
-### 3.2. Deuxième sous partie
+#### 3.1.1. Obligations en matière de collecte des données
+
+#### 3.1.2. Accountability
+
+Une des premières obligations pour les entreprises, c’est **la tenue d’un registre des traitements** - ce qui remplace la déclaration à la CNIL – pour devenir responsables et garantes du respect de la vie privée. Dans ce registre, on y consigne les mêmes informations que dans la déclaration mais en inversant la charge de la preuve. Avant, la CNIL devait démontrer les manquements et le responsable du traitement avait du temps pour régulariser. Demain, cela sera à l’entreprise de démontrer qu’elle est en conformité. Le RGDP introduit aussi une obligation de notification par les responsables de traitement en cas de violation de données à caractère personnel. Ils doivent alerter la CNIL dans les meilleurs délais. 
+
+#### 3.1.3. Privacy by design
+La deuxième obligation est la prise en compte de la notion de respect de la vie privée dès la conception du produit, service, application. Un système d’information insuffisamment sécurisé ne sera pas conforme. L’entreprise doit placer le curseur sur le niveau le plus élevé en termes de protection de la vie privée. Chaque fois qu’elle initie un traitement, elle doit obtenir le consentement express (opt-in) et spécifique de l’utilisateur.
+
+#### 3.1.4. Autres
+
+### 3.2. Le rôle du DPO
 blabla
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+La mise en conformité avec le RGPD représente un travail de tous les jours, qui ne doit en aucun cas demeurer ponctuel. En effet, pour se conformer à ce règlement, l’entreprise doit être en mesure d’adapter sa sécurité aux avancées technologiques et surtout aux nouvelles techniques employées par la cybercriminalité (ce que nous allons voir dans la deuxième ressource).
 
 ## 5. Pour aller plus loin
 Quelques éléments en ligne pour aller plus loin
