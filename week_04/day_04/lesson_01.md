@@ -16,21 +16,52 @@ En cas de délit constaté lors du contrôle, les amendes sont désormais dissua
 
 ## 3. La ressource
 
-### 3.1. Les obligations de la RGPD pour les entreprises
+### 3.1. Les obligations du RGPD pour les entreprises
 
 #### 3.1.1. Obligations en matière de collecte des données
 
-#### 3.1.2. Accountability
+**Le recueil des consentements au moment de la collecte des données est l’un des points les plus importants du RGPD**. Les entreprises doivent obligatoirement demander un consentement clair et explicite à la personne au moment de la collecte des données. 
 
-Une des premières obligations pour les entreprises, c’est **la tenue d’un registre des traitements** - ce qui remplace la déclaration à la CNIL – pour devenir responsables et garantes du respect de la vie privée. Dans ce registre, on y consigne les mêmes informations que dans la déclaration mais en inversant la charge de la preuve. Avant, la CNIL devait démontrer les manquements et le responsable du traitement avait du temps pour régulariser. Demain, cela sera à l’entreprise de démontrer qu’elle est en conformité. Le RGDP introduit aussi une obligation de notification par les responsables de traitement en cas de violation de données à caractère personnel. Ils doivent alerter la CNIL dans les meilleurs délais. 
+Concrètement, au moment de la collecte (au niveau de vos formulaires web par exemple), vous devez demander le consentement (sous forme d’une case à cocher par exemple) et expliquer de manière claire la raison de la collecte, ce que vous comptez faire des données. Ce principe de transparence est la condition nécessaire pour que le consentement soit « éclairé », donné en connaissance de cause.
 
-#### 3.1.3. Privacy by design
-La deuxième obligation est la prise en compte de la notion de respect de la vie privée dès la conception du produit, service, application. Un système d’information insuffisamment sécurisé ne sera pas conforme. L’entreprise doit placer le curseur sur le niveau le plus élevé en termes de protection de la vie privée. Chaque fois qu’elle initie un traitement, elle doit obtenir le consentement express (opt-in) et spécifique de l’utilisateur.
+Une des conséquences de cette évolution réglementaire est le fait qu’il est désormais obligatoire de demander le consentement de l’internaute lorsque le site utilise des cookies. Sous la forme d’un bandeau d’information affiché à la première visite de l’internaute, le site web doit donner la possibilité à l’internaute de refuser l’utilisation des cookies (ce que l’on appelle le droit d’opposition) et doit expliquer clairement la finalité des cookies. 
 
-#### 3.1.4. Autres
+Le consentement peut être retiré à tout moment par la personne. Ce qui nous amène au deuxième point.
+
+#### 3.1.2. Obligations concernant le droit des personnes
+
+Toute entreprise stockant et utilisant des données à caractère personnel (les « DCP ») doit **garantir les droits des personnes sur leurs données**. Voici les principaux droits que consacre le RGPD :
+- Le droit d’accès. Un client a le droit de connaître les données dont votre entreprise dispose sur lui. Cela implique, du côté de l’entreprise, de mettre en place les process et les outils facilitant cet accès.
+- Le droit à l’oubli. Un client a le droit de vous demander de supprimer tout ou partie des données dont vous disposez sur lui.
+- Le droit de rectification. Un client a le droit de vous demander de rectifier des données qu’il estime erronées.
+- Le droit à la limitation des traitements, qui s’applicable à des cas précis comme par exemple les cookies.
+
+#### 3.1.3. Obligations en matière de sécurité des données
+
+Les entreprises ont pour obligation de **mettre en place les mesures de sécurité** permettant d’assurer une sécurisation maximale de l’intégrité des données personnelles stockées dans le système d’information. C’est un point très important dans la mesure où c’est l’entreprise qui est responsable en cas de fuite de données personnelles (data leak).
+
+Ces mesures de sécurité sont multiples : cryptage des données, pseudonymisation / anonymisation, analyses d’impact PIA (pour les données à caractère sensible), tests d’intrusion… Nous verrons ces concepts plus en détail dans la deuxième ressource du jour.
+
+En cas de violation de données, l’entreprise doit immédiatement contacter la CNIL. Cette obligation concerne aussi les sous-traitants : par exemple, les sociétés tierces hébergeant des données personnelles de l’entreprise (sociétés d’hébergement cloud, éditeurs de logiciels cloud…).
+
+#### 3.1.4. Accountability
+
+Toutes les entreprises doivent obligatoirement **tenir un « registre des traitements »**, c’est un dire un document (un fichier Excel par exemple) dans lequel sont recensés tous les traitements réalisés par l’entreprise sur les données personnelles. 
+
+Ce document doit être régulièrement mis à jour. Il peut avoir un rôle de preuve en cas de contrôle de la CNIL.
+
+Si votre entreprise a moins de 250 salariés (TPE ou PME), votre registre des traitements doit seulement recenser les traitements non occasionnels, les traitements potentiellement à risque et enfin les traitements portant sur des données à caractère sensible (données médicales, données judiciaires…).
+
+#### 3.1.5. Autres obligations 
+
+Tu as déjà vu les principales obligations à respecter. Il en existe d’autres et il serait fastidieux de toutes les énumérer. Voici quelques exemples :
+- Certaines entreprises ont pour obligation de désigner un Data Protection Officer. 
+- Les entreprises doivent prendre les mesures nécessaires à la protection des données personnelles dès la conception du produit ou du service. C’est ce que l’on appelle le principe de Privacy by Design.
+- Les entreprises ne doivent collecter que les données dont elles ont effectivement besoin. « Il faut se satisfaire du nécessaire ». Cela permet de lutter contre l’infobésité et de limiter les risques pour l’entreprise.
+- Les responsables de traitement doivent définir une durée raisonnable de conservation des données.
 
 ### 3.2. Le rôle du DPO
-blabla
+Cette fonction peut être confiée à un salarié de l’entreprise ou à un prestataire : par exemple, un cabinet d’avocats experts en droit de l’informatique et de l’internet. Pour en savoir plus sur le DPO, nous vous invitons à découvrir notre guide complet sur le Data Protection Officer.
 
 ## 4. Points importants à retenir
 La mise en conformité avec le RGPD représente un travail de tous les jours, qui ne doit en aucun cas demeurer ponctuel. En effet, pour se conformer à ce règlement, l’entreprise doit être en mesure d’adapter sa sécurité aux avancées technologiques et surtout aux nouvelles techniques employées par la cybercriminalité (ce que nous allons voir dans la deuxième ressource).
