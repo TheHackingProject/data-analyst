@@ -61,10 +61,24 @@ Tu as déjà vu les principales obligations à respecter. Il en existe d’autre
 - Les responsables de traitement doivent définir une durée raisonnable de conservation des données.
 
 ### 3.2. Le rôle du DPO
-Cette fonction peut être confiée à un salarié de l’entreprise ou à un prestataire : par exemple, un cabinet d’avocats experts en droit de l’informatique et de l’internet. Pour en savoir plus sur le DPO, nous vous invitons à découvrir notre guide complet sur le Data Protection Officer.
+Cette fonction peut être confiée à un salarié de l’entreprise ou à un prestataire : par exemple, un cabinet d’avocats experts en droit de l’informatique et de l’internet. 
+
+Le délégué à la protection des données est un un conseiller, un expert, un chef de projet et le point de contact avec la CNIL. Aucun diplôme n’est exigé pour être DPO. Toutefois, **celui-ci doit disposer de compétences juridiques et techniques**, et s’informer régulièrement des dernières mises à jour liées à son domaine d’expertise.
+ 
+Il peut disposer d’une « certification des compétences de DPO », délivrée après examen selon un référentiel officiel. Cette certification est une valeur ajoutée non négligeable.
+
+Toutes les entreprises ne sont pas concernés par l’obligation d’avoir un Délégué à la Protection des Données à caractère personnel ou DPO au sein de leur structure. Cependant, le DPO est fortement recommandé par la CNIL. **Il a le rôle de conseiller et permet de piloter votre conformité RGPD**.
+
+L’article 37.7 du RGPD prévoit la désignation d’un DPO dans 3 cas précis :
+- Lorsque le traitement de données à caractère personnel est effectué par une autorité ou un organisme public.
+- Lorsque les activités principales du responsable de traitement et du sous-traitant impliquent un suivi régulier et systématique à grande échelle des personnes concernées par les opérations de traitement (vidéosurveillance, géolocalisation, traitement des échanges bancaires, traitement clients nombreux : tout traitement recouvrant un nombre conséquent de personnes concernées…)
+- Lorsque les activités principales du responsable de traitement et du sous-traitant impliquent un traitement à grande échelle de catégories de données sensibles (données de santé, données biométrique …) ou encore de données personnelles relatives à des condamnations pénales et des infractions.
+
+Il est clair que c'est un métier très demandé. La profession enregistre 32 fois plus de professionnels qu’en 2015 selon LinkedIn.
+
 
 ## 4. Points importants à retenir
 La mise en conformité avec le RGPD représente un travail de tous les jours, qui ne doit en aucun cas demeurer ponctuel. En effet, pour se conformer à ce règlement, l’entreprise doit être en mesure d’adapter sa sécurité aux avancées technologiques et surtout aux nouvelles techniques employées par la cybercriminalité (ce que nous allons voir dans la deuxième ressource).
 
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+- Etudier [la certification des compétences du DPO](https://www.cnil.fr/fr/certification-des-competences-du-dpo-la-cnil-adopte-deux-referentiels) si ce rôle vous intéresse
