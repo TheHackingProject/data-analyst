@@ -1,22 +1,18 @@
-# Etre freelance dans la data
+# Faire du conseil dans la data
 
 ## 1. Introduction
-Une introduction sur la ressource.
+Tu as vu cette semaine les 4 types de rôle que l'on peut exercer dans la data. Si tu as tout aimé et que le choix est trop difficile pour toi, il reste une option : les faire tous à la fois 😉 En choisissant d'être consultant ou freelance data, tu devras avoir plusieurs cordes à ton arc afin de pouvoir conseiller au mieux les entreprises sur leurs différentes thématiques.
 
-## 2. Historique et contexte
-Cette partie peut être plus ou moins longue. Elle explique l'histoire ou le contexte sur la notion que l'on veut enseigner.
+## 2. La ressource
+Cette ressource va être très rapide car elle parle d'elle-même. Si cette posture d'expert indépendant t'intéresse, voici les ressources que tu peux consulter : 
+- un [témoignage](https://blog.chooseyourboss.com/2021/03/25/le-metier-de-consultant-data-on-peut-etre-tres-operationnel-ou-plus-strategique/) d'un consultant data 
+- un [article](https://www.cenisis.com/pourquoi-devenir-consultant-data/) d'une agence qui cherche à recruter 😏. Tu as pas mal d'entreprises qui sont spécialisés sur le conseil data. Ex : Cartelis, Artefact, fifty-five, Elevate etc.
+- un [article](https://be-freelancer.cherry-pick.io/2021/03/03/devenir-freelance-data-conseils/) qui explique comment devenir freelance dans la data. 
 
-## 3. La ressource
-Cette partie est le nerf de la ressource, elle expliquera les notions de cette ressource.
-
-### 3.1. Première sous partie
-blabla
-
-### 3.2. Deuxième sous partie
-blabla
+Le choix essentiel que tu dois faire dans ce cas, c'est voir si tu serais plus à l'aise dans un cabinet de conseil ou alors à ton propre compte. Les critères qui t'aideront à faire le choix : est-ce que tu recherches plutôt la stabilité ou la liberté ? Est-ce que tu préfères apprendre au contact des autres ou alors en faisant toi-même ? Est-ce que tu préfères avoir des horaires plutôt fixes ou alors variables ? 
 
 ## 4. Points importants à retenir
-La ressource en quelques points importants.
+La data est un métier qui s'exerce de plus en plus en externe car comme tu l'as vu tout au long du cursus, les missions sont souvent temporaires et mobilisent beaucoup de compétences diverses.
 
 ## 5. Pour aller plus loin
-Quelques éléments en ligne pour aller plus loin
+- Contacter des personnes dans la data pour obtenir leur retour d'expérience
