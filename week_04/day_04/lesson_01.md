@@ -40,7 +40,7 @@ Toute entreprise stockant et utilisant des données à caractère personnel (les
 
 Les entreprises ont pour obligation de **mettre en place les mesures de sécurité** permettant d’assurer une sécurisation maximale de l’intégrité des données personnelles stockées dans le système d’information. C’est un point très important dans la mesure où c’est l’entreprise qui est responsable en cas de fuite de données personnelles (data leak).
 
-Ces mesures de sécurité sont multiples : cryptage des données, pseudonymisation / anonymisation, analyses d’impact PIA (pour les données à caractère sensible), tests d’intrusion… Nous verrons ces concepts plus en détail dans la deuxième ressource du jour.
+Ces mesures de sécurité sont multiples : cryptage des données, pseudonymisation / anonymisation, analyses d’impact PIA (pour les données à caractère sensible), tests d’intrusion… 
 
 En cas de violation de données, l’entreprise doit immédiatement contacter la CNIL. Cette obligation concerne aussi les sous-traitants : par exemple, les sociétés tierces hébergeant des données personnelles de l’entreprise (sociétés d’hébergement cloud, éditeurs de logiciels cloud…).
 
@@ -82,3 +82,4 @@ La mise en conformité avec le RGPD représente un travail de tous les jours, qu
 
 ## 5. Pour aller plus loin
 - Etudier [la certification des compétences du DPO](https://www.cnil.fr/fr/certification-des-competences-du-dpo-la-cnil-adopte-deux-referentiels) si ce rôle vous intéresse
+- S'intéresser à la cybersécurité. Pour cela, tu peux déjà faire le [MOOC d'initiation](https://secnumacademie.gouv.fr/) proposé par l'ANSSI (Agence nationale de la sécurité des systèmes d'information). Si cela t'intéresse, tu peux t'intéresser aux métiers d'Analyste en sécurité informatique et RSSI (Responsable en Sécurité des Systèmes d'Information)
