@@ -5,21 +5,21 @@ Avant de se lancer dans l'apprentissage d'un langage, il est important de conna�
 ## 1. Introduction
 Tu viens de passer 3 semaines à découvrir les bases de l'informatique et tu as commencé à programmer avec le langage Ruby. Or, tu l'as lu, à partir d'aujourd'hui c'est focus sur Python. Je te vois déjà venir avec une tonne de questions  : Pourquoi on n'a pas commencé directement en Python ? Quelle est la différence entre les deux langages ? Est-ce que je dois oublier tout ce que j'ai appris lors des 3 semaines d'introduction ?
 
-Nous allons répondre à toutes ces questions dans cette ressource 😌😌
+Nous allons répondre à toutes ces questions dans cette ressource 😌
 
 ## 2. Historique et contexte
 Ruby a été créé en 1995 par un informaticien japonais, Yukihiro Matsumoto. C’est un langage de programmation polyvalent, orienté objet. M. Matsumoto a insisté sur le fait que Ruby devait être facile à utiliser et amusant, et devait se concentrer sur l'aspect "humain" plutôt que sur "l'ordinateur".
 
-Python a été créé en 1991 par un informaticien hollandais, Guido van Rossum. C'est un langage de programmation de haut niveau et polyvalent. Comme Ruby, il est également entièrement orienté objet. La philosophie de base de Python est qu’il doit être extrêmement facile à utiliser. C’est ce que signifie la partie « haut niveau » : un langage de programmation de haut niveau possède une syntaxe très simple et facile à lire, très similaire à la langue anglaise courante.
+Python a été créé en 1991 par un informaticien hollandais, Guido van Rossum. C'est un langage de programmation très polyvalent aussi. Comme Ruby, il est entièrement orienté objet. La philosophie de base de Python est qu’il doit être extrêmement facile à utiliser. C’est ce qu'on appelle un langage de « haut niveau » : un langage qui possède une syntaxe très simple et facile à lire, très similaire à la langue anglaise courante.
 
 ## 3. Pourquoi Ruby puis Python ?
 
 ### 3.1. Ruby, c'est parfait pour commencer
 
 - Commencer à apprendre Ruby en faisant les 3 semaines d'introduction de THP t'a permis de **rencontrer des personnes aux profils très différents**. A la suite de ces 3 semaines, vous avez choisi des parcours différents mais ce qui compte, c'est que vous avez déjà noué des liens forts et que vous faites désormais partie de la même communauté. Nous t'incitons à cultiver ce réseau de profils divers (tous passionnés par la Tech) qui pourra t'être utile à de nombreuses reprises.
-- **Ruby est un très bon langage de script**. Pour rappel, les langages de script sont les plus utilisés pour automatiser des tâches spécifiques. En outre, les langages de script sont moins gourmands en code par rapport aux langages de programmation traditionnels. Ils ne nécessitent pas l'étape de compilation et sont à la place interprétés.
+- **Ruby est un très bon langage de script**. Pour rappel, les langages de script sont les plus utilisés pour automatiser des tâches spécifiques. En outre, les langages de script sont moins gourmands en code par rapport aux langages de programmation traditionnels. Ils ne nécessitent pas l'étape de compilation car ils sont interprétés.
 - C'était **une opportunité de te faire voir différents langages**, entraîner ton cerveau à switcher de langage ... Rendez-vous au projet de cet après-midi et tu sauras si tu vas vite pouvoir devenir bilingue en programmation !
-- Pour débuter, **Ruby est légèrement plus simple que Python**. Il est plus permissif et c'est un bon ami pour commencer à comprendre l'algorithmie ! Maintenant que tu as déjà 3 semaines de code intensif derrière toi, on peut passer à autre chose et découvrir le monde de la DATAAAA 😜😜😜
+- Pour débuter, **Ruby est légèrement plus simple que Python**. Il est plus permissif et c'est un bon ami pour commencer à comprendre l'algorithmie ! Maintenant que tu as déjà 3 semaines de code intensif derrière toi, on peut passer à autre chose et découvrir le monde de la DATAAAA 😜
 
 
 ### 3.2. Python est LE langage le plus répandu pour l'analyse de données
