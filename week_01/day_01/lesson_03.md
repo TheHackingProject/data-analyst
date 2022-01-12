@@ -31,8 +31,8 @@ En téléchargeant Anaconda, tu bénéficieras à la fois de :
 
 *Quant à Jupyter, de quoi s'agit-il ?*
 
-Créé à partir de Python en 2014, **Jupyter est un notebook de calcul** (computational notebook) open-source, gratuit et interactif. 
-Avec cet outil, il est possible de visualiser le code et de l’exécuter depuis la même interface utilisateur. On peut même apporter des changements au code et vérifier les résultats de ces modifications instantanément. Des données peuvent également être ajoutées.
+Créé à partir de Python en 2014, **Jupyter est un notebook de calcul** (*computational notebook*) open-source, gratuit et interactif. 
+Avec cet outil, il est possible de visualiser le code et de l’exécuter depuis la même interface utilisateur. On peut même apporter des changements au code et vérifier les résultats de ces modifications instantanément. 
 **Enfin, cet outil permet de combiner  du code, des équations, des visualisations ou du texte**. Pour cette raison, il s’agit d’un outil idéal et très utile pour les Data Analysts et les Data Scientists.
 
 ___
@@ -98,4 +98,4 @@ Par ailleurs, il existe énormément de ressources en ligne pour apprendre à ma
 - un [autre cours pour débutants sur Python](https://python.antoinepernot.fr/index.php)
 - le site [Python Doctor](https://python.doctor/) qui donne plusieurs exemples
 
-et bien d'autres encore ... à toi d'aller chercher celles qui te correspondent le mieux ✌️✌️✌️
+et bien d'autres encore ... à toi d'aller chercher celles qui te correspondent le mieux ✌️✌️
