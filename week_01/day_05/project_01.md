@@ -1,64 +1,49 @@
-# ETL vs Big Data
+# Le tour du monde des universités !
+
+Tu t'es fait la main sur les musées de France. Tu cherches maintenant à monter en gamme et à étudier des données internationales. Rien de mieux pour cela que de se frotter aux fameux classements internationaux des universités 🎓🎓
 
 ## 1. Introduction
-Pour la fin de la semaine, on t'a préparé un projet d'un nouveau genre : plus stratégique que technique. En tant que Data Analyst, ça t'arrivera souvent d'avoir des missions de recherche où tu dois recueillir des informations sur une technologie, sur la concurrence ... Dans le milieu, on parle de veille technologique 🧐
+Suite à ton stage au ministère de la Culture, tu es embauché par l'Université de Strasbourg dans l'équipe data.
 
-Tu viens d'assimiler beaucoup de notions dans les ressources sur l'ETL et le Big Data. Pour que tu comprennes comment ça se passe dans dans la vie réelle, on va te demander aujourd'hui de décrire 2 cas d'usage.
-___
+Leur enjeu du moment est de bien comprendre les différents classements internationaux des universités et en particulier, voir comment ils pourraient améliorer leur place dans ces derniers.
 
-🤖🤖 PAUSE DEFINITION : C'est quoi un cas d'usage ? 🤖🤖
-
-Un cas d'utilisation, ou cas d'usage (*use-case* en anglais), définit en génie logiciel et en ingénierie des systèmes une manière d'utiliser un système qui a une valeur ou une utilité pour les acteurs impliqués. Les cas d'utilisation tentent d'éviter tout jargon technique et essayent au contraire d'adopter le langage de l'utilisateur final ou de l'expert du domaine. Plutôt que de rester au niveau généraliste, il s'agit de décrire une application précise d'une technologie réalisée à un certain moment par une certaine entité. Un outil, quel qu’il soit, ne dégage de valeur, que par ce qu’on en fait. Il faut donc prendre grand soin de la définition des cas d’usage. 
-
-___
+Pour te mettre à l'aise dans ta première mission, la directrice de l'équipe data te laisse une demi-journée pour te familiariser avec les jeux de données dont ils disposent et répondre à une liste de huit questions 🤓🤓
 
 ## 2. Le projet
 
-🌞🌞 Le projet est un projet de groupe : il n'y aura qu'un rendu pour toute la promotion. 
+### 2.1. Télécharger les fichier csv et les ouvrir sur ton notebook
 
-Chaque moussaillon doit choisir 2 cas d'usage : un des cas d'usage devra porter sur l'approche traditionnelle de *Business Intelligence* et l'autre devra s'intéresser à l'approche Big Data. 
+Les fichiers que t'a demandé de télécharger ta directrice sont disponibles sur [Kaggle](https://www.kaggle.com/mylesoneill/world-university-rankings). Tu dois d'abord te créer un compte sur la plateforme pour pouvoir télécharger les données. 
 
-Exemples : 
-- pour l'approche traditionnelle de Business Intelligence, vous pourriez parler de la Poste qui a transformé la BI de sa branche services-courrier-colis. En savoir plus [ici](https://www.lemagit.fr/etude/La-Poste-transforme-la-BI-de-sa-branche-services-courrier-colis).
-- pour l'approche Big Data, les cas d'usage de manquent pas : maintenance prédictive, amélioration de l'expérience client, lutte contre la fraude, efficacité opérationnelle ... Par ex, le groupe Crédit Agricole cherche à améliorer la formation de ses salariés en s'essayant à l'adaptive learning : tu peux regarder [ici](https://domoscio.com/fr/client/ifcam/). A toi d'être inventif et de trouver des cas originaux et intéresants !
+___
 
-### 2.1. Trouver 2 cas d'usage uniques par personne
+😑😑  Kaggle, kezako ? 😑😑
 
-Le plus simple pour trouver ces cas d'usage semble de fouiller le web avec les bons mots clés. Vous trouverez plusieurs types de sources : des médias spécialisés dans le digital, des entreprises qui vendent des logiciels et se doivent de montrer les cas d'usage de leurs clients pour faire leur promotion, des entreprises qui racontent les chantiers récémment mis en place ...
+Kaggle est une plateforme web qui organise des compétitions en data science. Pour cette raison, on trouve énormément de jeux de données sur cette plateforme. Tu seras amené plusieurs fois au cours de la formation à aller cette plateforme. Nous te recommandons d'utiliser Kaggle sans modération. 
 
-Vérifiez avec l'ensemble de la promo, vers midi par exemple, que chacun d'entre vous part sur des cas d'usage distincts. On peut tolérer deux fois la même entreprise si le cas d'usage décrit est vraiment différent.
-
-### 2.2. Collecter les informations demandées
-
-Pour chaque cas d’usage, tu devras préciser : 
-- Le contexte du projet
-- Le projet
-- Les données utilisées
-- Les outils utilisées
-- La méthodologie de réalisation (souvent composée de plusieurs étapes)
-- Les bénéfices business.
-
-Tu devras écrire 6 paragraphes par cas d'usage pour préciser chacun de ces éléments. 
+___
 
 
-### 2.3. Mettre en forme les informations
+### 2.2. Répondre aux questions posées par ton manager
 
-Chaque cas d'usage doit tenir sur une feuille A4. 
+- Donne un aperçu de chaque fichier csv et décris en une phrase son contenu. 
+- Quelles années sont prises en charge par chaque classement ? 
+- Combien d'universités sont prises en compte annuellement par chaque classement en moyenne ? Il s'agit ici de donner le nombre moyen d'universités prises en compte par chaque classement lors d'une année.
+- Quels sont les rankings obtenus par l'Université de Strabourg dans chacun des 3 classements disponibles ?
+- Selon le classement du *Times*, quels sont les 20 meilleures universités en 2016 ? Quelle est la part d'universités américaines ?
+- Combien chaque pays possède d'universités dans le classement de Shanghai en 2015 ? Range la liste par ordre décroissant. Pense à t'aider de la table université - pays pour réaliser cette requête.
+- Quelles sont les universités françaises présentes dans le classement du *Center for WUR* ?
+- Quels pays ont les plus faibles ratios (Dépenses dans les Institutions du Supérieur (Privées et Publiques) en 2011) / Nombre d'universités dans le classement du *Times* en 2011 ? Range cette liste par ordre croissant.
 
-Pour que cela soit agréable à lire, nous vous conseillons de tous suivre le même template graphique. Accordez-vous sur une manière de présenter les informations et chacun  n'aura plus qu'à remplir le template par chacun des paragraphes.
 
-La mise en forme fait clairement partie des compétences à avoir pour un Data Analyst donc si tu te sens l'âme d'un Designer, saisis cette opportunité pour réactiver tes talents en Powerpoint, Canva, Photoshop ou autres outils 🎨
+### 2.3. Trouver des informations intéressantes
 
+Tu as réussi à trouver une réponse à toutes ces questions ? 
+Il est temps maintenant que tu t'habitues à fonctionner en pleine autonomie 👉👉
 
-### 2.4. Rassembler tous les cas d'usage
-
-A la fin de la journée, vous devez réunir l'ensemble des cas d'usage dans le même fichier PDF. Votre objectif est d'obtenir un rendu harmonisé et professionnel qui pourrait être communiqué à des communautés data existantes. 
-
-A mon avis, tu es un peu perdu après la lecture de cet énonce. Donc comme on est sympas, on te met à disposition [un exemple de cas d'usage Big Data](https://drive.google.com/file/d/1P7CVWcyA8Yxn5PcP9aQCO-rtHNhRTY_Y/view?usp=sharing) entièrement rédigé 🚴‍♀️
-
-Comme vous l'avez remarqué, le travail d'équipe est un aspect important de ce projet. Nous vous laissons vous débrouiller comme vous le voulez mais n'oubliez pas que la communication et la méthodologie sont indispensables à tout travail de groupe.
+La directrice de l'équipe data te demande de lui apporter 5 informations intéressantes qui pourraient très utiles à la direction de l'Université pour orienter leur stratégie dans les années à venir. Par exemple, tu pourrais calculer que "les 20 meilleures universités au classement du Times ont un taux de parité relativement peu élevé (30% vs 45% en moyenne)". Ou alors que "l'université de Strasbourg fait partie du 10% des universités présentes dans le classement qui ont le moins d'étudiants internationaux". 
+❌ *Ces dernières données sont erronnées, à toi de chercher ce qui est intéressant dans tous ces fichiers et de renvoyer les bonnes données !*
 
 
 ## 3. Rendu attendu
-A la fin, vous aurez un fichier PDF contenant l'ensemble des cas d'usage proposés par les moussaillons. 
-Si tout le monde n'a pas joué le jeu, tant pis, c'est la vie : le book contiendra moins d'exemples pour vous et vos éventuels lecteurs 🦴🍖
+Un beau fichier Jupyter qui alterne entre code et texte et contient les 3 étapes du projet 🍹🍹
