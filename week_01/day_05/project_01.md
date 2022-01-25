@@ -1,6 +1,6 @@
 # Le tour du monde des universités !
 
-Tu t'es fait la main sur les musées de France. Tu cherches maintenant à monter en gamme et à étudier des données internationales. Rien de mieux pour cela que de se frotter aux fameux classements internationaux des universités 🎓🎓
+Tu t'es fait la main sur les musées de France en début de semaine. Depuis tu as vu SQL, le processus ETL et les nouvelles technos Big Data. Pour te remettre dans le bain de Python, tu cherches maintenant à monter en gamme et à étudier des données internationales. Rien de mieux pour cela que de se frotter aux fameux classements internationaux des universités 🎓🎓
 
 ## 1. Introduction
 Suite à ton stage au ministère de la Culture, tu es embauché par l'Université de Strasbourg dans l'équipe data.
