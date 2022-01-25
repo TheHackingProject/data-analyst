@@ -43,3 +43,5 @@ Cela permettra à ton manager d'évaluer tes capacités de prise d'initiative et
 
 ## 3. Rendu attendu
 Un beau fichier Jupyter qui alterne entre code et texte et contient les 3 étapes du projet 🍹🍹
+
+PS : le projet du jour est volontairement court pour te donner confiance. Si tu as encore du temps devant toi, n'hésite pas à requêter davantage le fichier des musées. La proactivité est une compétence indispensable pour être un bon Data Analyst.
