@@ -1,7 +1,7 @@
 # Comment optimiser ton parcours de formation à la Data Analyse
 
 ## 1. Introduction
-Voilà deux jours que tu as commencé la formation et tu es déjà complètement perdu. Un jour de Python, un jour de Python/Data et aujourd'hui, ça passe directement à SQL. Pourquoi est-ce que ça va aussi vite dans l'apprentissage ? Est-ce que ce métier est bien fait pour toi ? De quel métier au juste est-ce qu'on parle ? 🔦🔦
+Voilà deux jours que tu as commencé la formation et il se peut que tu sois déjà complètement perdu. Un jour de Python, un jour de Python/Data et aujourd'hui, ça passe directement à SQL. Pourquoi est-ce que ça va aussi vite dans l'apprentissage ? Est-ce que ce métier est bien fait pour toi ? De quel métier au juste est-ce qu'on parle ? 🔦🔦
 
 On va essayer de répondre à toutes ces questions, afin que tu puisses optimiser ton apprentissage et dès ces premiers jours, rester pro-actif dans ta formation (te poser des questions au début d'une journée, essayer d'y répondre pendant la journée et tirer les bonnes conclusions à la fin de la journée ou le lendemain lors des corrections).
 
