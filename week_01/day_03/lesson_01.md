@@ -3,21 +3,21 @@
 ## 1. Introduction
 Pendant 2 jours, on a laissé le suspense en mode "ba ouais Data Analyst, c'est évident comme job, tout le monde connaît". Mais en fait non, si on n'a pas tranché la question directement sur ce que l'intitulé de poste signifie, c'est qu'on n'a pas la réponse 😐😐
 
-Maintenant que tu fais partie de ce monde (tu maîtrises déjà Python), on peut te dire la vérité : personne n'est d'accord sur la définition du métier de **Data Analyst**. 
+Maintenant que tu fais partie de ce monde, on peut te dire la vérité : personne n'est d'accord sur la définition du métier de **Data Analyst**. 
 
-En gros, la Data est univers récent qui est en train de se construire. Donc il y a encore beaucoup de flou et surtout beaucoup de personnes qui ne savent pas vraiment de quoi elles parlent quand elles doivent s'aventurer dans l'univers data (recruteurs, chefs d'entreprise, chefs de projet etc.).
+En gros, la Data est univers récent qui est en train de se construire. Il y a encore beaucoup de flou et surtout beaucoup de personnes qui ne savent pas vraiment de quoi elles parlent quand elles doivent s'aventurer dans l'univers data (recruteurs, chefs d'entreprise, chefs de projet etc.).
 
-Malgré ce flou général, on va éclaircir tout cela aujourd'hui en te précisant tous les termes qui peuvent l'être.
+Malgré ce flou général, on va éclaircir tout cela aujourd'hui en te précisant tous les termes importants.
 
 ## 2. Historique et contexte
 La data et tous les métiers qu'elle englobe ont fait leur apparition dans le vocabulaire courant il n'y a qu'une dizaine d'années. Pourtant, ces métiers ne datent pas d'hier. Remontons un peu l'histoire pour mieux comprendre cela 📜
 
-En 1962, dans *The future of Data Analysis*, John W. Tukey, pourtant un statisticien de renom — on lui doit notamment le terme de « bit » ou encore les diagrammes « boîte à moustache » —, dit préférer le terme de « data analysis » à celui de statistique. Pour lui cette façon de tirer d’un grand nombre de données des tendances relevait plus d’une science empirique que des mathématiques pures, d’où cette différenciation qu’il va être le premier à suggérer.
+En 1962, dans *The future of Data Analysis*, John W. Tukey, pourtant un statisticien de renom — on lui doit notamment le terme de « bit » ou encore les diagrammes « boîte à moustache » —, dit préférer le terme de « data analysis » à celui de statistique. Pour lui cette **façon de tirer d’un grand nombre de données des tendances** relève plus d’une science empirique que des mathématiques pures, d’où cette différenciation qu’il est le premier à suggérer.
 
 ![texte](https://slideplayer.com/slide/14842537/90/images/3/In+Tukey%E2%80%99s+%281962%29+work+done+for+the+Army+Research+Office+titled%2C+The+Future+of+Data+Analysis%2C+John+Tukey+foreshadowed+the+emergence+of+Data+Science..jpg)
 
-Ensuite, en 1970, comme vu hier, Edgar F. Codd inventait les premières bases de données relationnelles.
-A la fin des années 1970 et dans les années 1980, l’informatisation des entreprises se concentrait sous l’angle de la production : saisies et calculs pour la comptabilité, la paie, les stocks, les factures… Des systèmes non conçus pour lancer des requêtes d’analyse.
+Quelques années plus tard, en 1970, comme vu hier, Edgar F. Codd inventait les premières bases de données relationnelles.
+A la fin des années 1970 et dans les années 1980, l’informatisation des entreprises se concentrait sous **l’angle de la production** : saisies et calculs pour la comptabilité, la paie, les stocks, les factures… Des systèmes non conçus pour lancer des requêtes d’analyse.
 
 C’est en 1989 qu’Howard Dresner (futur analyste de la société Gartner) reprend le terme de **Business intelligence** inventé par Luhn et en définit le cadre moderne : des concepts et méthodes pour améliorer la prise de décision grâce à des systèmes d’analyse de données factuelles. Dotée d’une structure et d’un vocabulaire commun, et portée par l’avènement des ordinateurs, l’informatique décisionnelle se normalise enfin.
 
@@ -25,10 +25,19 @@ A l’orée du XXIe siècle, la business intelligence est devenue rigoureuse et 
 
 ## 3. La ressource
 
-Voyons maintenant les différentes tâches existantes pour faire fonctionner les bases de données, le sujet qui nous intéresse en ce moment. Plutôt que de métiers, on parlera de tâches car comme on le disait dans l'introduction, les frontières entre les différents métiers de la data sont assez floues. Même si, pour que tu comprennes, on te précisera qui, de manière générale, est en charge de réaliser la tâche.
+### 3.1. Les termes à connaître
+
+#### 3.1.1. C'est quoi une "Data" ?
+
+#### 3.1.2. Différencier informatique de production et informatique décisionnelle
+
+#### 3.1.3. Différencier Data Analysis et Data Science
+
+#### 3.1.4. C'est quoi le Big Data ?
 
 
-### 3.1. Une équipe data, ça sert à quoi ?
+
+### 3.2. Une équipe data, ça sert à quoi ?
 
 Créer et administrer la base de données
 Avant de stocker ses données dans une base, il faut concevoir cette base (voir quel modèle utiliser, se projeter en intégrant tous les éléments), la créer (choisir le logiciel le plus adapté et rendre fonctionnelle la base) et l'administrer (décider des droits d'accès). 
