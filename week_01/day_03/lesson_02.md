@@ -1,61 +1,60 @@
-# Comprendre qui fait quoi : dev ou data ?
+# Data Warehouse et ETL : les piliers de la BI
+Quelques mots anglais qui paraissent barbares mais qui constituent la base de l'informatique décisionnel.
 
 ## 1. Introduction
-Pendant 3 jours, on a laissé le suspense en mode "ba ouais Data Analyst, c'est évident comme job, tout le monde connaît". Mais en fait non, si on n'a pas tranché la question directement, c'est qu'on n'a pas la réponse 😐😐
-
-Maintenant que tu fais partie de ce monde (tu maîtrises déjà Python et SQL), on peut te dire la vérité : personne n'est d'accord sur la définition du métier de **Data Analyst**. 
-
-En gros, c'est un métier récent qui prend différentes facettes (mais vraiment beaucoup de facettes différentes, crois-moi) selon l'entreprise concernée. C'est pourquoi, pendant cette formation Data, on va te présenter le maximum de concepts et d'outils pour que tu puisses ensuite travailler la data dans des environnements très divers. Et que tu deviennes un super couteau-suisse comme on dit 🔪🔎🔦🔬🔨 
-
-Enfin, malgré tout ce flou, on va essayer dans cette ressource de t'expliquer qui fait quoi, et quelles sont les frontières entre développement et data. 
+Le *Data warehouse*, ou entrepôt de données, est une base de données dédiée au stockage des données pour l'analyse décisionnelle. Il est alimenté en données depuis les bases de production grâce aux outils d'ETL (Extract Transform Load). Cette ressource, à la frontière de la culture générale, va te permettre de mieux comprendre les enjeux actuels de la data 👻👻
 
 ## 2. Historique et contexte
-La data et tous les métiers qu'elle englobe ont fait leur apparition dans le vocabulaire courant il n'y a qu'une dizaine d'années. Pourtant, ces métiers ne datent pas d'hier. Remontons un peu l'histoire pour mieux comprendre cela 📜
+Les premiers logiciels **Extract-Transform-Load** ont été développés au milieu des années 1970. A cette époque, les entreprises commençaient à utiliser plusieurs sources de données et à gérer différentes bases pour stocker différentes sortes de données business. Très tôt, le besoin s’est fait sentir d’agréger ces données. Au tournant des années 1980 – 1990, un type de plateforme s’est imposé comme solution de référence pour recevoir toutes ces données transformées et faire office de référentiel data : le Data Warehouse.
 
-En 1962, dans *The future of Data Analysis*, John W. Tukey, pourtant un statisticien de renom — on lui doit notamment le terme de « bit » ou encore les diagrammes « boîte à moustache » —, dit préférer le terme de « data analysis » à celui de statistique. Pour lui cette façon de tirer d’un grand nombre de données des tendances relevait plus d’une science empirique que des mathématiques pures, d’où cette différenciation qu’il va être le premier à suggérer.
-
-![texte](https://slideplayer.com/slide/14842537/90/images/3/In+Tukey%E2%80%99s+%281962%29+work+done+for+the+Army+Research+Office+titled%2C+The+Future+of+Data+Analysis%2C+John+Tukey+foreshadowed+the+emergence+of+Data+Science..jpg)
-
-Ensuite, en 1970, comme vu hier, Edgar F. Codd inventait les premières bases de données relationnelles.
-A la fin des années 1970 et dans les années 1980, l’informatisation des entreprises se concentrait sous l’angle de la production : saisies et calculs pour la comptabilité, la paie, les stocks, les factures… Des systèmes non conçus pour lancer des requêtes d’analyse.
-
-C’est en 1989 qu’Howard Dresner (futur analyste de la société Gartner) reprend le terme de **Business intelligence** inventé par Luhn et en définit le cadre moderne : des concepts et méthodes pour améliorer la prise de décision grâce à des systèmes d’analyse de données factuelles. Dotée d’une structure et d’un vocabulaire commun, et portée par l’avènement des ordinateurs, l’informatique décisionnelle se normalise enfin.
-
-A l’orée du XXIe siècle, la business intelligence est devenue rigoureuse et a conquis sa place dans le process de prise de décision. C'est son entrée dans l’ère du tout digital qui va la faire basculer dans une autre dimension. Depuis une vingtaine d'années et les débuts du Big Data, de nombreux acteurs de la technologie s'attachent à rajeunir la BI en la rebaptisant Data Discovery (Qliktech), Data Exploration (SAS), Analytics (Tableau, IBM, Oracle), Data Stories (Jolicharts), etc. Les terminologies et les acteurs sont nombreux. Ce qu'il faut retenir c'est qu'**on parle désormais de data pour désigner un ensemble très vaste de technologies qui permettent de traiter les données à très grande échelle**. 
+Un **Data Warehouse** (ou entrepôt de données) est une base de données relationnelle pensée et conçue pour les requêtes et les analyses de données, la prise de décision et les activités de type Business Intelligence, davantage que pour le traitement de transactions. Les Data Warehouses sont utilisées depuis près de 30 ans. Depuis peu toutefois, les Data Lakes gagnent en popularité à tel point que certains pensent qu’ils vont remplacer les Warehouses. 
 
 ## 3. La ressource
-Voyons maintenant les différentes tâches existantes pour faire fonctionner les bases de données, le sujet qui nous intéresse en ce moment. Plutôt que de métiers, on parlera de tâches car comme on le disait dans l'introduction, les frontières entre les différents métiers de la data sont assez floues. Même si, pour que tu comprennes, on te précisera qui, de manière générale, est en charge de réaliser la tâche.
 
-### 3.1. Créer et administrer la base de données
-Avant de stocker ses données dans une base, il faut concevoir cette base (voir quel modèle utiliser, se projeter en intégrant tous les éléments), la créer (choisir le logiciel le plus adapté et rendre fonctionnelle la base) et l'administrer (décider des droits d'accès). 
+### 3.1. Les 3 étapes de l'ETL
 
-Il s'agit plutôt d'un travail de développeur informatique.
+Comme son nom l'indique, l'ETL se décompose en trois phases : l'extraction, la transformation et le chargement.
 
-> Etre développeur base de données (ou *Data Engineer*) c'est être un spécialiste informatique qui conçoit et déploie une ou plusieurs bases de données. Cette personne est  garante de la cohérence et de l'accessibilité permanente des informations. Elle gère les projets de développement liés au système d'information de l'entreprise qui requièrent le déploiement des bases de données. Elle doit surveiller les performances de la base de données afin de vérifier si la base gère correctement les paramètres. 
+- Extract
 
-Dans les entreprises plus traditionnelles (industries manufacturières, grands groupes), tu entendras parler de "Administrateur Base de Données" ou "DB Administrator". 
-Depuis l'arrivée du Big Data, ces profils sont extrêmement recherchés car certains ont les compétences pour concevoir des bases de données NoSQL. Tu vas voir dans l'autre ressource ce que c'est.
+Pour vous représenter le fonctionnement d'un ETL, prenez l'exemple d'une entreprise vendant des biens à la fois en ligne et dans ses magasins en propre et ayant besoin d'analyser simultanément toutes les tendances de vente. Les données recueillies sur les clients proviennent donc de sources hétérogènes et ne seront, par conséquent, peut-être pas au même format. Le logiciel ETL va dans un premier temps collecter les données pertinentes auprès des différentes sources. Les données extraites sont ensuite stockées dans un data lake ou datawarehouse.
 
-### 3.2. Requêter et faire évoluer la base de données
-Une fois que la base de données est créée, un autre profil intervient : l'analyste.
+- Transform
 
-> Le métier de *Data Analyst* consiste à traiter les différentes données issues des clients, des produits ou des performances de l’entreprise afin de dégager des indicateurs utiles aux décideurs. 
+La transformation constitue l'étape essentielle du processus ETL. En effet, après l'extraction, lors de laquelle les données brutes sont agrégées et stockées, celles-ci sont nettoyées et converties au format des rapports de l'entreprise. Le nettoyage facilite la mise en conformité avec les normes internes de l'entreprise. Ces opérations, sans lesquelles les rapports seraient inexploitables, sont basées sur des règles prédéfinies : la standardisation (qui statue entre autres sur le format et le mode de stockage), la déduplication (soit le suivi et la suppression des doublons), la vérification pour surveiller les anomalies et le tri ou regroupement des données.
 
-Tu vois, la définition est assez vague. C'est pourquoi tu devras savoir faire plein de choses, maîtriser plein d'outils et surtout, être très adaptable.
+- Load
+
+Le processus ETL s'achève avec le chargement, complet ou incrémental, des données extraites et transformées dans le datawarehouse. Les équipes de Business Intelligence (BI) lancent ensuite des requêtes sur ces données, qui sont ensuite présentées aux utilisateurs finaux ou aux personnes chargées de prendre des décisions commerciales, ou utilisées comme entrées pour des algorithmes de Machine Learning.
+
+![gougou](https://static.axysweb.com/uploads/2018/11/ETL-infographie-axysweb-1024x404.png)
+
+### 3.2. Data Warehouse 
+
+L’une des principales particularités d’un Data Warehouse est que les informations y sont classées par sujets (clients, produits…). De fait, ce qui définit réellement une Data Warehouse est le type de données qu’elle contient et les personnes qui l’utilisent.
+
+Les Data Warehouses présentent de nombreux avantages. Pour les responsables informatiques, ils permettent notamment de séparer les processus analytiques des processus d’exploitation pour améliorer les performances dans ces deux domaines.
+
+Rappelle toi ce qu'on disait hier sur le flou potentiellement existant aujourd'hui entre Data Engineer et un Data Analyst dans certaines entreprises. En fait, si l'entreprise n'a pas de Data Engineer à sa disposition, le Data Warehouse peut ressembler à une brocante de village (redondance d'informations, informations non structurées...) ! Ce sera donc au Data Analyst d'aller farfouiller (Extract), remettre en forme (Transform) et mettre à disposition (Load) les données du Data Warehouse. On en revient toujours à la fameuse compétence "couteau-suisse" que doit avoir le Data Analyst 😅
+
 
 ## 4. Points importants à retenir
-L'analyse des données est devenue très complexe depuis une dizaine d'années. C'est pourquoi de nouveaux métiers sont apparus, avec des frontières encore en évolution. 
+- Au-delà des outils qu'il regroupe, l'ETL désigne aussi un processus fondamental dans l'analyse de données. Tu peux consulter [cette page de cours](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python/7296776-extrayez-et-transformez-des-donnees-avec-l-extraction-web) pour comprendre ce que veut dire plus généralement le processus ETL.
 
-En théorie : 
-Pour créer des bases de données, il faut être dev informatique. 
-Pour analyser des bases de données, il faut avoir un esprit analytique, orienté business et connaître les bases des statistiques. 
+- Il faut bien comprendre ce qu'on avait vu un peu hier : la définition d'un **système « opérationnel » ou « de gestion »**, également appelé système OLTP (*on-line transaction processing*). Ces systèmes sont dédiés aux métiers de l'entreprise pour les assister dans leurs tâches de gestion quotidiennes. La tendance est à l'utilisation de P.G.I. (progiciels de gestion intégrée) qui regroupent tous les logiciels de gestion de l'entreprise – finances, ressources humaines, logistique, ventes, etc. – en un unique progiciel paramétrable aux règles de l'entreprise. Qui est à différencier d'un **système « décisionnel »**, également appelés OLAP (*on-line analytical processing*). Ces systèmes sont dédiés au management de l'entreprise pour l'aider au pilotage de l'activité. Ils offrent au décideur une vision transversale de l'entreprise. La tendance pour réaliser un système décisionnel est à la mise en place d'un entrepôt de données, ou data warehouse.
 
-En pratique : 
-Ce sont parfois les mêmes personnes qui réalisent ces deux tâches. En tout cas, ces deux types de profils travaillent régulièrement ensemble et parlent, en partie, les mêmes langages. C'est pourquoi il est important que chacun des deux ait une bonne vision de ce que fait l'autre. D'où l'intérêt de la journée d'aujourd'hui pour vous moussaillons qui avez plutôt opté pour la partie analytique vs le dev pur : vous allez plongé dans l'univers du développement de bases de données 🙈🙈
+Dans un système OLTP, les données ne sont conservées que sur une courte période ; elles sont détaillées, personnelles, identifiées. A l'inverse, dans un système OLAP, les données sont historisées et peuvent être agrégées et anonymes.
+
 
 ## 5. Pour aller plus loin
-Les 2 autres ressources de la journée vont te permettre d'en savoir plus sur les tâches quotidiennes des *Data Engineers*.
+Si l'univers du Big Data t'intéresse, tu peux lire ces 2 articles de la société Talend, le leader des ETL open source : 
+- [Guide du processus ETL](https://www.talend.com/fr/resources/guide-etl/)
+- [Différences entre lacs de données et entrepôts de données](https://www.talend.com/fr/resources/data-lake-vs-data-warehouse/)
 
-Et pour comprendre mieux tout ce qu'on a dit dans cette ressource, je t'invite, plusieurs fois par semaine, à faire de la veille sur les offres d'emploi autour de la data. En plus des fameux Linkedin, Indeed, Apec, tu peux consulter [Welcome to the jungle](https://www.welcometothejungle.com/fr) : la plupart des entreprises de la Tech postent leurs annonces sur ce site. Tu peux également aller faire un tour sur les plateformes de free-lance comme [Malt](https://www.malt.fr/) et voir les expériences des experts de la data. Ces recherches t'aideront à voir tant la diversité de missions que les constantes qu'on retrouve dans les métiers de la data.
+Et si un jour tu te demandes s'il est temps pour ton entreprise de mettre en place un datawarehouse, voici plusieurs articles qui te seront utiles : 
+- [Est-il temps de mettre en place un Datawarehouse dans votre entreprise ?](https://www.cartelis.com/blog/datawarehouse-mise-en-place/)
+- [Comment créer son premier Data Warehouse ? Le guide complet pour les analystes débutants](https://www.cartelis.com/blog/creer-datawarehouse/)
+- [Comparatif complet des logiciels ETL : Cloud vs On-premise vs OpenSource](https://www.cartelis.com/blog/comparatif-logiciels-etl/)
+
 
 
