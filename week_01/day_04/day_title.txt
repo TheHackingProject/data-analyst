@@ -1,1 +1,1 @@
-Les bases de données relationnelles et SQL
+Apprendre SQL et le modèle relationnel
