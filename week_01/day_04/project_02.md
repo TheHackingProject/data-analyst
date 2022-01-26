@@ -1,50 +1,36 @@
-# Jouer avec une base NoSQL
-Ca c'est vraiment la classe 🔮🔮
+# 5 ans après, nouvelle enquête sur les Panama Papers
 
 ## 1. Introduction
-Dans ce projet, tu vas utiliser MongoDB 🎉🎉 Développé en 2007, MongoDB est depuis devenu un des SGBD les plus utilisés. Selon le classement *DB-Engines Ranking*, MongoDB se classe en cinquième position des serveurs de données les plus populaires au niveau mondial. Première technologie NoSQL de ce palmarès, l'infrastructure open source de MongoDB se hisse juste derrière les principaux systèmes phares de base relationnelle : Oracle Database, MySQL, SQL Server et PostgreSQL - avec lequel elle est au coude-à-coude.
+Toujours comme ce matin pendant le cours OpenClassrooms ([à relire](https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql/4539106-explorez-les-panama-papers) si tu as un peu oublié), tu es dans la peau d'un journaliste d'investigation du *Fronde* qui doit ré-enquêter sur les Panama Papers. La revue pense qu'il faut re-sensibiliser le public aux découvertes faites en 2016.
 
-![ranking](https://lh3.googleusercontent.com/hK6ISsEifSkk4fUl7V5lVvc87Bpce-q45uzX68S6fNwoW9__ysAflqBHFFZ5UcCP3K-uNlaqx9nL_0DsYFetgqcMhVAui7M0oDlkBRRgEs52EqtkTfATf1ZdetFYtKZbCYQVg8yO)
+A ce propos, le secrétaire de rédaction t'a retoqué hier ton article car selon lui, "il manque de données quantitatives et précises". Il te demande d'aller directement à la source de l'information, de reprendre toutes les données qui ont été rendues publiques à l'époque et de répondre à une longue liste de questions que se posent les lecteurs. Ces réponses pourront faire l'objet d'une infographie interactive, ce qui "plaira beaucoup plus aux lecteurs que ton histoire incompréhensible d'argent planqué".
 
 ## 2. Le projet
-### 2.1. Créer un cluster sur MongoDB Atlas
-Un cluster est un groupe de deux ou plusieurs serveurs indépendants fonctionnant comme un système unique.
-Et MongoDB Atlas est une version cloud entièrement gérée de la base de données. Cela va nous aider car autrement, les tâches nécessaires, telles que l’installation de la base de données, son réglage pour maintenir des performances optimales sur de longues périodes et sa sécurisation, ont tendance à demander beaucoup d’efforts spécialisés ... 
 
-Avec MongoDB Atlas, tu vas pouvoir créer un cluster MongoDB auprès de tout fournisseur de cloud majeur de votre choix et commencer à utiliser ce cluster en quelques minutes.
+Télécharge la base de données [ici](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/Cours_initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql/database_sqlite3.zip) et mets-toi dans la peau d'Hercule Poirot  🔎🔎
 
-- Tout d'abord, tu dois te créer un compte sur [MongoDB Atlas](https://account.mongodb.com/account/register).
-- Ensuite, tu te connectes, tu crée un cluster et tu lui donnes un nom. Choisis la version Free.
-- Puis, tu crées un utilisateur de base de données.
-- Tu ajoutes les adresses IP qui peuvent se connecter à ta base de données. Choisis que le serveur est accessible partout.
-- Tu connectes le cluster à MongoDB Compass.
+Voici la liste de questions auxquelles tu dois répondre : 
 
-
-### 2.2. Télécharger MongoDB Compass
-- Télécharge l'outil graphique [MongoDB Compass](https://www.mongodb.com/try/download/compass), tu l'ouvres et tu le connectes à ton cluster en collant l'url de connexion obtenu précédemment (en changeant 'password' par le mot-clé qui avait été saisi lors de la création de l'utilisateur.
-- Crée une base de données 'demo' et une collection 'publis'.
-- Télécharge les données disponibles [ici](https://drive.google.com/file/d/102Ooo-V8H6r5GIl07bcnKXe4N9qHz96s/view?usp=sharing). Il s'agit d'un extrait de la base de données DBLP (*Digital Bibliography & Library Project*), un catalogue de bibliographies en informatique disponible en ligne.
-- Dézippe le fichier et importe le à ta base de données.
-
-### 2.3. Requêter la base de données
-Ca y est tu as maintenant une base de données disponible sur MongoDB. A toi de faire les requêtes suivantes : 
-- Vérifier le nombre de documents importés.
-- Prévisualiser les 20 premiers documents.
-- Lister tous les livres (type 'Book').
-- Lister les publications depuis 2011.
-- Lister toutes les publications de 2011 et 2013.
-- Lister toutes les publications de 2011 ou 2013.
-- Lister les publications ayant 3 auteurs.
-- Lister les livres publiés depuis 2014.
-- Lister les publications de l'auteur "Toru Ishida".
-- Lister tous les éditeurs (type 'publisher') distincts.
-- Lister tous les auteurs distincts.
-- Trier les publications de 'Toru Ishida' par titre de livre et par page de début.
-- Compter le nombre de ses publications.
-- Compter le nombre de publications depuis 2011 et par type.
-- Compter le nombre de publications par auteur et trier le résultat par ordre croissant.
-
-Aide [ici](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4474606-interrogez-vos-donnees-avec-mongodb).
+- Combien la base de données contient-elle de sociétés offshores différentes dont la source est "Panama Papers" ?
+- Quel intermédiaire a créé le plus de sociétés offshores ? A-t-on son adresse et son pays ?
+- Combien la base contient-elle de bénéficiaires avec un nom unique ? Quel est le bénéficiaire dont le nom revient le plus souvent ? 
+- Donner la liste des juridictions avec le nombre d'entreprises offshores enregistrées sur chaque territoire, triée par ordre décroissant.
+- Regrouper les sociétés offshores par statut, et trier la liste par ordre décroissant.
+- Trouver la liste des bénéficiaires dont le nom contient "BNP" et ajouter, pour chaque bénéficiaire, le nom des sociétés offshores.
+- Trouver la liste des sociétés dont la juridiction est "France", "Monaco" ou "Réunion".
+- Trouver la liste des sociétés dont le pays de l'adresse et le pays de la juridiction sont différents.
+- Trouver la liste des bénéficiaires qui ont des sociétés au même nom et enregistrée à la même date, trier la liste par odre décroissant.
+- Donner la liste des intermédiaires qui ont aussi été bénéficiaires, en ajoutant leur nom de bénéficiaire et leur adresse.
+- Donner le top 10 des bénéficiaires qui ont le plus d'identités différentes (similar name and address) et le nombre d'identités correspondant.
+- Donner le top 10 des bénéficiaires qui ont le plus de parts toujours valides dans des entreprises offshores (dont la date de fin n'est pas encore passée).
+- Question bonus : réussir à retrouver dans la base au moins 3 personnalités que tu connais ([indice](https://fr.wikipedia.org/wiki/Liste_des_personnes_cit%C3%A9es_dans_les_Panama_Papers)) 😎😎😎
 
 ## 3. Rendu attendu
-Un fichier texte qui donne l'ensemble des requêtes pour obtenir les réponses.
+Un fichier .txt (ou .md) contenant les requêtes SQL qui permettent d'obtenir les infos demandées sur notre BDD.
+
+## 4. Aller plus loin
+Alors tu as aimé te prendre pour Sherlock Holmes pendant 3 heures ? Ca t'a plu de travailler sur de vraies données ? A l'époque, c'était assez novateur comme type de journalisme : c'est une des affaires qui a aidé les grandes rédactions à se tourner davantage vers la Data. 
+Si cela t'intéresse, voici 2 ressources qui t'en diront plus sur comment ça s'est passé dans la vie réelle :
+- un journaliste du Monde qui raconte [les 9 mois passés à travailler sur cette base de données](https://www.lejdd.fr/Medias/Presse-ecrite/Comment-nous-avons-travaille-pendant-9-mois-sur-Panama-Papers-779799)
+- un [long mémoire](https://dumas.ccsd.cnrs.fr/dumas-02996658/document) dont la thématique était "*Les “Panama Papers” marquent-ils l’émergence de pratiques professionnelles et journalistiques nouvelles ?*". Tu peux faire des recherchers (Ctrl F) et checker les moments où l'auteur parle de **data** ou **données**. Tu verras que la data analyse n'a malheureusement pas été la compétence la plus répandue dans cette affaire ... En fait, si on avait créé la formation Data 5 ans plus tôt, t'aurais vraiment pu être ce journaliste star 😅😅
+
