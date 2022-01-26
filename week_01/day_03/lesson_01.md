@@ -1,13 +1,13 @@
 # Data et BI : de quoi parle-t-on au juste ?
 
 ## 1. Introduction
-Pendant 3 jours, on a laissé le suspense en mode "ba ouais Data Analyst, c'est évident comme job, tout le monde connaît". Mais en fait non, si on n'a pas tranché la question directement, c'est qu'on n'a pas la réponse 😐😐
+Pendant 2 jours, on a laissé le suspense en mode "ba ouais Data Analyst, c'est évident comme job, tout le monde connaît". Mais en fait non, si on n'a pas tranché la question directement sur ce que l'intitulé de poste signifie, c'est qu'on n'a pas la réponse 😐😐
 
-Maintenant que tu fais partie de ce monde (tu maîtrises déjà Python et SQL), on peut te dire la vérité : personne n'est d'accord sur la définition du métier de **Data Analyst**. 
+Maintenant que tu fais partie de ce monde (tu maîtrises déjà Python), on peut te dire la vérité : personne n'est d'accord sur la définition du métier de **Data Analyst**. 
 
-En gros, c'est un métier récent qui prend différentes facettes (mais vraiment beaucoup de facettes différentes, crois-moi) selon l'entreprise concernée. C'est pourquoi, pendant cette formation Data, on va te présenter le maximum de concepts et d'outils pour que tu puisses ensuite travailler la data dans des environnements très divers. Et que tu deviennes un super couteau-suisse comme on dit 🔪🔎🔦🔬🔨 
+En gros, la Data est univers récent qui est en train de se construire. Donc il y a encore beaucoup de flou et surtout beaucoup de personnes qui ne savent pas vraiment de quoi elles parlent quand elles doivent s'aventurer dans l'univers data (recruteurs, chefs d'entreprise, chefs de projet etc.).
 
-Enfin, malgré tout ce flou, on va essayer dans cette ressource de t'expliquer qui fait quoi, et quelles sont les frontières entre développement et data. 
+Malgré ce flou général, on va éclaircir tout cela aujourd'hui en te précisant tous les termes qui peuvent l'être.
 
 ## 2. Historique et contexte
 La data et tous les métiers qu'elle englobe ont fait leur apparition dans le vocabulaire courant il n'y a qu'une dizaine d'années. Pourtant, ces métiers ne datent pas d'hier. Remontons un peu l'histoire pour mieux comprendre cela 📜
