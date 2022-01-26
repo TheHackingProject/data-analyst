@@ -81,4 +81,6 @@ Mais cela impose aux experts data d'être très pédagogues et rigoureux dans le
 
 ## 5. Pour aller plus loin
 - [un article](https://www.saagie.com/fr/blog/comment-lequipe-data-sintegre-t-elle-au-sein-dune-organisation-existante/) sur "Comment bien intégrer son équipe data"
-
+- des témoignages de start-ups qui décrivent le fonctionnement de leur équipe data : [Agicap](https://career.agicap.com/article/data/) et [Jobteaser](https://www.emil.school/articles/decryptage-de-lorganisation-de-lequipe-data-chez-jobteaser)
+- [un article](https://www.upwarddata.fr/blog/creer-sa-strategie-data/) qui donne des conseils pour bien cadrer sa stratégie data
+- toute source que vous pouvez trouver et qui vous permettra d'en savoir un peu plus sur le très vaste univers de la data ...
