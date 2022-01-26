@@ -1,4 +1,4 @@
-# Comprendre qui fait quoi : dev ou data ?
+# Data et BI : de quoi parle-t-on au juste ?
 
 ## 1. Introduction
 Pendant 3 jours, on a laissé le suspense en mode "ba ouais Data Analyst, c'est évident comme job, tout le monde connaît". Mais en fait non, si on n'a pas tranché la question directement, c'est qu'on n'a pas la réponse 😐😐
@@ -24,9 +24,13 @@ C’est en 1989 qu’Howard Dresner (futur analyste de la société Gartner) rep
 A l’orée du XXIe siècle, la business intelligence est devenue rigoureuse et a conquis sa place dans le process de prise de décision. C'est son entrée dans l’ère du tout digital qui va la faire basculer dans une autre dimension. Depuis une vingtaine d'années et les débuts du Big Data, de nombreux acteurs de la technologie s'attachent à rajeunir la BI en la rebaptisant Data Discovery (Qliktech), Data Exploration (SAS), Analytics (Tableau, IBM, Oracle), Data Stories (Jolicharts), etc. Les terminologies et les acteurs sont nombreux. Ce qu'il faut retenir c'est qu'**on parle désormais de data pour désigner un ensemble très vaste de technologies qui permettent de traiter les données à très grande échelle**. 
 
 ## 3. La ressource
+
 Voyons maintenant les différentes tâches existantes pour faire fonctionner les bases de données, le sujet qui nous intéresse en ce moment. Plutôt que de métiers, on parlera de tâches car comme on le disait dans l'introduction, les frontières entre les différents métiers de la data sont assez floues. Même si, pour que tu comprennes, on te précisera qui, de manière générale, est en charge de réaliser la tâche.
 
-### 3.1. Créer et administrer la base de données
+
+### 3.1. Une équipe data, ça sert à quoi ?
+
+Créer et administrer la base de données
 Avant de stocker ses données dans une base, il faut concevoir cette base (voir quel modèle utiliser, se projeter en intégrant tous les éléments), la créer (choisir le logiciel le plus adapté et rendre fonctionnelle la base) et l'administrer (décider des droits d'accès). 
 
 Il s'agit plutôt d'un travail de développeur informatique.
