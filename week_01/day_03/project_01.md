@@ -1,6 +1,6 @@
 # Le tour du monde des universités !
 
-Tu t'es fait la main sur les musées de France hier. Ce matin, t'as appris qu'il y avait tout un jargon lié à l'informatique décisionnelle. Mais avant de travailler à partir d'un data warehouse, tu dois améliorer tes skills en Python. Rien de mieux pour cela que de se frotter aux fameux classements internationaux des universités 🎓🎓
+Tu t'es fait la main sur les musées de France hier. Ce matin, t'as appris qu'il existe tout un jargon lié à l'informatique décisionnelle. Mais avant de travailler à partir d'un data warehouse, tu dois améliorer tes skills en Python. Rien de mieux pour cela que de se frotter aux fameux classements internationaux des universités 🎓🎓
 
 ## 1. Introduction
 Suite à ton stage au ministère de la Culture, tu es embauché par l'Université de Strasbourg dans l'équipe data.
