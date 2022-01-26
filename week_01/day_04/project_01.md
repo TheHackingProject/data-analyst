@@ -1,55 +1,29 @@
-# Modéliser un système de BI
+# La musique dans la peau 🎸🎸
 
 ## 1. Introduction
-Pour concevoir une bonne base de données, il faut bien comprendre le business concerné. Donc on fera souvent appel au Data Analyst pour réaliser la modélisation de la base ou pour vérifier que rien n'a été oublié. Avant que ça soit ton tour, profite de ce projet pour t'exercer et devenir un as de la modélisation de systèmes d'info décisionnels 🦁
+Dans les deux projets du jour, tu vas pratiquer à fond le langage SQL, une compétence souvent indispensable pour devenir Data Aanalyst.
 
 ## 2. Le projet
-### 2.1. Un système d'info décisionnel pour votre université 🎓🎓
+Suite à THP, une startup trop cool spécialisée dans la musique te recrute pour tes compétences de Data Analyst. C'est la fête. Comme cette startup existe déjà depuis plusieurs années, ils ont une base de données existante, et vont te demander de travailler dessus.
 
-Maintenant que vous savez cruncher les classements mondiaux des universités, vous avez pu transmettre un reporting sur l'évolution des performances de votre Université. Depuis, les équipes veulent améliorer cette performance. Et pour cela, le recteur de l'Université de Strasbourg vous a demandé de mettre en place un système qui lui permettra de prendre des décisions éclairées. 
+Dans cet exercice, on te demande donc de récupérer une base de données existante, et de faire des requêtes SQL dedans, afin de récupérer les datas qui t'intéressent, et qui feront de toi une star de la musique. 
 
-En fait, il cherche à étudier les facteurs influant sur la réussite des candidats aux examens. Pour cela, on vous a chargé de construire un datawarehouse.
+Nous allons travailler sur le [fichier suivant](https://drive.google.com/file/d/1XG-s84jEJINSnLUgw5TYBCFsuyUX_Ll4/view?usp=sharing), qui contient la BDD complète pour faire les requêtes.
+Tu devras rédiger les requêtes en langage SQL sur le SGBD de ton choix (tu peux travailler sur [SQL online compiler](https://sqliteonline.com/) si tu n'as pas de SGBD). Certaines requêtes avec des jointures ne seront pas faciles au premier abord, donc nous t'invitons à bien décortiquer les ressources que nous t'avons données 😉
 
-Il souhaite pouvoir répondre aux questions suivantes :
-- Quel est le nombre de réussites aux examens par cours, pour l’année 2020 ?
-- Quel est le nombre de réussites aux examens d’un cours obligatoire, pour l’année 2020 ?
-- Quel est le nombre de réussites aux examens par genre (féminin, masculin), entre 2019 et 2020 ?
-- Combien d’apprenants ayant un âge supérieur à 23 ans ont réussi leurs examens de « BI » ?
-- Quel est le nombre de réussites aux examens pendant le semestre d’hiver 2020 ?
+Rédige les requêtes SQL permettant d'obtenir les informations ci-dessous. Consigne importante : la requête doit se faire en une seule ligne de SQL et ne doit pas s'appuyer sur d'autres requêtes (notamment pas les requêtes précédentes).
 
-Pour cela, vous disposez des données suivantes :
-Pour chaque examen passé, on connaît l’âge et le genre de l’apprenant, le nom du cours (les cours peuvent être regroupés en cours obligatoire et cours à option), la date de l’examen, la note obtenue et si l’examen est réussi ou non.
-
-Pour l'instant, il vous demande de réfléchir à la conception du système. Vos premières missions sont les suivantes : 
-- Donner la table principale de l’entrepôt ainsi que les tables dimensions relatives.
-- Tracer le schéma en étoile dimensionnel.
-
-### 2.2. Un système décisionnel pour étudier vos ventes 💰💰
-
-Un ami à vous possède une entreprise qui revend du matériel informatique. Il vous demande de l'aider dans la gestion de ses ventes car il n'arrive pas vraiment à piloter son entreprise pour l'instant. 
-
-La seule chose dont il dispose est d'un fichier Access qui contient sa base de données. 
-
-Pour aider votre ami, vous allez utiliser le logiciel PowerBI Desktop (à télécharger [ici](https://powerbi.microsoft.com/fr-fr/downloads/)). 
-Vous importez votre fichier [sales.db](https://drive.google.com/file/d/13AZq7xX1JDkCsFjqUVqGTYJQmLkmAykc/view?usp=sharing), vous chargez toutes les tables. 
-
-___
-
-😩😩 Que faire si j'ai un Mac et que je ne peux pas télécharger Power BI Desktop ?
-
-à compléter ??
-___
-
-Pour en savoir plus sur le fonctionnement de PowerBI, vous pouvez regarder [cette vidéo](https://www.youtube.com/watch?v=PwyuzmL0jLU) ou [la doc de Microsoft](https://docs.microsoft.com/fr-fr/power-bi/fundamentals/desktop-getting-started). 
-
-Vos missions sont les suivantes : 
-- Déterminer la table fait et les tables dimensions
-- Créer un modèle relationnel en Etoile
-- Créer un modèle relationnel en Flocon
-- Ajouter deux nouvelles mesures : Total_Sales, Total_Costs
-- Afficher les totaux des ventes par client et par date
-- Visualiser la moyenne des ventes par catégorie de produit
+- Récupérer tous les albums
+- Récupérer tous les albums dont le titre contient "Great" ([indice](https://www.w3schools.com/sql/sql_wildcards.asp))
+- Donner le nombre total d'albums contenus dans la base (sans regarder les id bien sûr)
+- Supprimer tous les albums dont le nom contient "music"
+- Récupérer tous les albums écrits par AC/DC
+- Récupérer tous les titres des albums de AC/DC
+- Récupérer la liste des titres de l'album "Let There Be Rock"
+- Afficher le prix de cet album ainsi que sa durée totale
+- Afficher le coût de l'intégralité de la discographie de "Deep Purple"
+- Créer l'album de ton artiste favori en base, en renseignant correctement les trois tables albums, artists et tracks
 
 ## 3. Rendu attendu
-- Un fichier .pdf contenant les schémas de l'exercice 1. 
-- Un fichier .pbix contenant le schéma et les ajouts effectués sur vos tables de données pour l'exercice 2. 
+Un fichier .txt (ou .md) contenant les requêtes SQL qui permettent d'obtenir les infos demandées sur notre BDD musicale 🎶🎶
+
