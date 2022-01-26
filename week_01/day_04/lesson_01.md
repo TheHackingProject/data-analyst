@@ -1,59 +1,76 @@
-# Comprendre qui fait quoi : dev ou data ?
+# Bases de données et SQL 
+
+Aujourd'hui nous allons découvrir les bases de données, le modèle relationnel et SQL.
 
 ## 1. Introduction
-Pendant 3 jours, on a laissé le suspense en mode "ba ouais Data Analyst, c'est évident comme job, tout le monde connaît". Mais en fait non, si on n'a pas tranché la question directement, c'est qu'on n'a pas la réponse 😐😐
+Il y a un des aspects du web que tu n'as pas encore vu lors des 3 premières semaines d'introduction au code : il s'agit des bases de données ! 
 
-Maintenant que tu fais partie de ce monde (tu maîtrises déjà Python et SQL), on peut te dire la vérité : personne n'est d'accord sur la définition du métier de **Data Analyst**. 
+Or quand tu crées des applications web, il est indispensable de stocker les données (utilisateurs, messages échangés, etc.) quelque part. Dans cette ressource, nous allons t'apprendre comment fonctionnent les bases de données et les logiciels dédiés au stockage des données : les SGBD (ou systèmes de gestion de bases de données).
 
-En gros, c'est un métier récent qui prend différentes facettes (mais vraiment beaucoup de facettes différentes, crois-moi) selon l'entreprise concernée. C'est pourquoi, pendant cette formation Data, on va te présenter le maximum de concepts et d'outils pour que tu puisses ensuite travailler la data dans des environnements très divers. Et que tu deviennes un super couteau-suisse comme on dit 🔪🔎🔦🔬🔨 
+A la fin de cette ressource, tu devrais :
+- Savoir comment marche une base de données, un élément que tu retrouveras dans TOUTE application web ;
+- Te projeter facilement dans le quotidien d'un Data Analyst, ce métier où l'on passe ses journées à miner dans des BDD.
 
-Enfin, malgré tout ce flou, on va essayer dans cette ressource de t'expliquer qui fait quoi, et quelles sont les frontières entre développement et data. 
+## 2. Historique
+Très rapidement dans l'informatique, nous eûmes besoin de stocker les informations, traitées par nos programmes, quelque part : ainsi furent créées les bases de données. En 1970, un certain Edgar Codd, ingénieur chez IBM, a inventé un moyen de lier en base des tables entre elles. Ainsi, une entrée, comme un `Message`, pourrait être liée à une autre entrée, par exemple en le faisant appartenir à un `User`. **Le modèle relationnel a révolutionné l'informatique puisqu'aujourd'hui, il reste le format le plus répandu dans les applications.**
 
-## 2. Historique et contexte
-La data et tous les métiers qu'elle englobe ont fait leur apparition dans le vocabulaire courant il n'y a qu'une dizaine d'années. Pourtant, ces métiers ne datent pas d'hier. Remontons un peu l'histoire pour mieux comprendre cela 📜
-
-En 1962, dans *The future of Data Analysis*, John W. Tukey, pourtant un statisticien de renom — on lui doit notamment le terme de « bit » ou encore les diagrammes « boîte à moustache » —, dit préférer le terme de « data analysis » à celui de statistique. Pour lui cette façon de tirer d’un grand nombre de données des tendances relevait plus d’une science empirique que des mathématiques pures, d’où cette différenciation qu’il va être le premier à suggérer.
-
-![texte](https://slideplayer.com/slide/14842537/90/images/3/In+Tukey%E2%80%99s+%281962%29+work+done+for+the+Army+Research+Office+titled%2C+The+Future+of+Data+Analysis%2C+John+Tukey+foreshadowed+the+emergence+of+Data+Science..jpg)
-
-Ensuite, en 1970, comme vu hier, Edgar F. Codd inventait les premières bases de données relationnelles.
-A la fin des années 1970 et dans les années 1980, l’informatisation des entreprises se concentrait sous l’angle de la production : saisies et calculs pour la comptabilité, la paie, les stocks, les factures… Des systèmes non conçus pour lancer des requêtes d’analyse.
-
-C’est en 1989 qu’Howard Dresner (futur analyste de la société Gartner) reprend le terme de **Business intelligence** inventé par Luhn et en définit le cadre moderne : des concepts et méthodes pour améliorer la prise de décision grâce à des systèmes d’analyse de données factuelles. Dotée d’une structure et d’un vocabulaire commun, et portée par l’avènement des ordinateurs, l’informatique décisionnelle se normalise enfin.
-
-A l’orée du XXIe siècle, la business intelligence est devenue rigoureuse et a conquis sa place dans le process de prise de décision. C'est son entrée dans l’ère du tout digital qui va la faire basculer dans une autre dimension. Depuis une vingtaine d'années et les débuts du Big Data, de nombreux acteurs de la technologie s'attachent à rajeunir la BI en la rebaptisant Data Discovery (Qliktech), Data Exploration (SAS), Analytics (Tableau, IBM, Oracle), Data Stories (Jolicharts), etc. Les terminologies et les acteurs sont nombreux. Ce qu'il faut retenir c'est qu'**on parle désormais de data pour désigner un ensemble très vaste de technologies qui permettent de traiter les données à très grande échelle**. 
+Au début des années 70, deux ingénieurs chez IBM nommées Donald Chamberlin et Raymond Boyce, grâce aux travaux de "Ted" Codd ont inventé **un langage pour créer, modifier et lire une base de donnée relationnelle : le SQL** ou Structured Query Language. Leur invention est devenue tout aussi importante que celle de Mr Codd dans le monde de l'informatique : aujourd'hui le SQL est le langage de gestion de données le plus utilisé sur notre petite planète.
 
 ## 3. La ressource
-Voyons maintenant les différentes tâches existantes pour faire fonctionner les bases de données, le sujet qui nous intéresse en ce moment. Plutôt que de métiers, on parlera de tâches car comme on le disait dans l'introduction, les frontières entre les différents métiers de la data sont assez floues. Même si, pour que tu comprennes, on te précisera qui, de manière générale, est en charge de réaliser la tâche.
+### 3.1. Introduction aux bases de données
 
-### 3.1. Créer et administrer la base de données
-Avant de stocker ses données dans une base, il faut concevoir cette base (voir quel modèle utiliser, se projeter en intégrant tous les éléments), la créer (choisir le logiciel le plus adapté et rendre fonctionnelle la base) et l'administrer (décider des droits d'accès). 
+Suite aux projets que tu as réalisés avec les fichiers csv, tu peux imaginer que stocker tous les objets liés à un site web dans un fichier CSV, c'est fonctionnel mais pas toujours très pratique. En effet, supprimer une entrée n'est pas simple, chercher un élément donné peut être long et encore, tu n'as pas testé avec des milliers de lignes…
 
-Il s'agit plutôt d'un travail de développeur informatique.
+Nous allons ici commencer à étudier de vraies bases de données. Pour te faire un avis, regarde cette vidéo de [LucidChart](https://www.youtube.com/watch?v=wR0jg0eQsZA) où ils expliquent le concept des bases de données. Ensuite, je t'invite à regarder cette [vidéo de Khan Academy](https://www.youtube.com/watch?v=IXycPq7MnwE) qui explique les bases de données.
 
-> Etre développeur base de données (ou *Data Engineer*) c'est être un spécialiste informatique qui conçoit et déploie une ou plusieurs bases de données. Cette personne est  garante de la cohérence et de l'accessibilité permanente des informations. Elle gère les projets de développement liés au système d'information de l'entreprise qui requièrent le déploiement des bases de données. Elle doit surveiller les performances de la base de données afin de vérifier si la base gère correctement les paramètres. 
+Comme tu l'as compris, une base de données permet de stocker facilement de la donnée et d'y avoir accès. On peut se représenter une base de données comme un ensemble de gros tableurs Excel, avec des lignes et des colonnes, qu'on appellerait des tables.
 
-Dans les entreprises plus traditionnelles (industries manufacturières, grands groupes), tu entendras parler de "Administrateur Base de Données" ou "DB Administrator". 
-Depuis l'arrivée du Big Data, ces profils sont extrêmement recherchés car certains ont les compétences pour concevoir des bases de données NoSQL. Tu vas voir dans l'autre ressource ce que c'est.
+> Techniquement, une base de données n'est que ton ensemble de données. Le système de gestion de base de données (SGBD) est le logiciel qu'on utilise pour structurer et gérer ces données. Le simple terme de « base de données » est couramment utilisé pour désigner un SGBD. Cet abus de langage est assez répandu et permet d'éviter les phrases interminables. 
 
-### 3.2. Requêter et faire évoluer la base de données
-Une fois que la base de données est créée, un autre profil intervient : l'analyste.
+Le SGBD est donc un outil logiciel assurant l'interface Utilisateur/Base de données. Parmi les logiciels de base de données les plus célèbres, on peut citer : MySQL, PostgreSQL, SQL Server, Oracle, SQLite, etc.
 
-> Le métier de *Data Analyst* consiste à traiter les différentes données issues des clients, des produits ou des performances de l’entreprise afin de dégager des indicateurs utiles aux décideurs. 
+___
 
-Tu vois, la définition est assez vague. C'est pourquoi tu devras savoir faire plein de choses, maîtriser plein d'outils et surtout, être très adaptable.
+🔴 ALERTE 🔴
+
+Outre les SGBD classiques (ou SGBDr avec r pour relationnelles), on parle aujourd'hui de NoSQL et de big data. Il n'y a donc pas que les SGBDr et le langage SQL pour manipuler les données. Mais nous verrons cela demain. Aujourd'hui, nous restons dans le monde des bases de données relationnelles.
+
+___
+
+
+### 3.2. Le modèle relationnel 
+
+Pour bien comprendre les concepts fondamentaux du modèle relationnel, nous te demandons de suivre le cours OpenClassrooms [Initiez-vous à l'algèbre relationnelle avec le langage SQL](https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql). Commence par faire les deux premiers chapitres. Ils pourront te paraître théoriques mais ils constituent un très bon socle de connaissances pour appréhender ensuite la pratique de SQL, et même de Python. Le cours est très bien fait et surtout il est vraiment réalisé pour des futurs Data Analysts. 
+
+Une fois les deux premiers chapitres réalisés (jusqu'au Quiz "L'algèbre relationnelle"), tu peux lire ce récapitulatif de  la terminologie du monde relationnel : 
+
+- Un **SGBDR** est un logiciel pouvant gérer plusieurs bases de données dans une entreprise. Il permet de construire une base, d'assurer son intégrité et ses sauvegardes, de stocker les données de cette base, de manipuler les données et ce via le langage **SQL** (Structured Query Language). Il s'agit donc d'une interface entre l'homme et la machine.
+- La structure qui permet de stocker les données se nomme une **table**. Une table contient des **colonnes** et des **lignes**. Une table a toujours une **clé**, que l'on nomme clé primaire. Elle peut avoir plusieurs index. 
+- Un **index** est un ensemble de pointeurs, permettant de récupérer les données plus rapidement que s'il fallait lire séquentiellement toutes les lignes d'une table. Il pointe vers une ligne en particulier.
+- Les tables peuvent être reliées entre elles par des **contraintes**, dites contraintes d'intégrité référentielle. Quand le concepteur crée une table, il définit son nom, ses colonnes, sa clé. Le SGBDR crée la structure demandée, ainsi qu'une contrainte sur la colonne clé (pour éviter les clés en double), plus un index sur cette colonne clé.
+- Enfin, lorsque le concepteur créer une nouvelle base, le SGBDR crée un **journal** pour mémoriser toutes les actions effectuées sur cette base. L'administrateur de la base pourra définir quel **utilisateur** est habilité à manipuler les données de l'entreprise.
+
+
+### 3.3. SQL
+
+SQL est donc le langage adapté aux bases de données relationnelles.
+
+Pour que tu maîtrises les requêtes principales de ce langage, nous te demandons de faire les deux derniers chapitres du cours OpenClassrooms. Ils commencent [ici](https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql/4538696-comprenez-les-bases-de-donnees-sql).
+
+Télécharge la base de données, ainsi que le logiciel SQLiteStudio (si vraiment tu n'arrives pas à le télécharger, tu peux toujours utiliser [SQL Online Compiler](https://sqliteonline.com/)). Lis bien le projet fil rouge autour des Panama Papers car c'est le même jeu de données que tu devras étudier cet après-midi dans ton projet 👁👁.
+
+> Tu te demandes pourquoi tu ne vois qu'une partie du langage SQL (LMD, et plus particulièrement la partie lecture des données) ? En fait, c'est l'action principale qui te sera demandée en tant que Data Analyst : interroger la base de données pour en tirer des informations actualisées. Mais ne t'inquiète pas, on te détaillera les autres tâches dans la journée de demain 😏😏.
+
+A la fin du cours OpenClassrooms, tu auras vu toutes les requêtes principales et tu pourras maintenant pratiquer en pleine autonomie le SQL 😊😊
+
 
 ## 4. Points importants à retenir
-L'analyse des données est devenue très complexe depuis une dizaine d'années. C'est pourquoi de nouveaux métiers sont apparus, avec des frontières encore en évolution. 
+- Un modèle relationnel n'est rien de plus qu'une représentation de la réalité. Un non-codeur doit pouvoir comprendre ton schéma relationnel, demande à ton petit cousin de 12 ans ou [regarde la méthode qu'utilisait Feynman](https://www.mieuxpenser.com/articles/la-meilleure-maniere-dapprendre-la-methode-feynman) pour expliquer les concepts compliqués
+- Savoir pratiquer SQL. Une "cheet sheet" est toujours utile pour se rappeler de la syntaxe.
 
-En théorie : 
-Pour créer des bases de données, il faut être dev informatique. 
-Pour analyser des bases de données, il faut avoir un esprit analytique, orienté business et connaître les bases des statistiques. 
-
-En pratique : 
-Ce sont parfois les mêmes personnes qui réalisent ces deux tâches. En tout cas, ces deux types de profils travaillent régulièrement ensemble et parlent, en partie, les mêmes langages. C'est pourquoi il est important que chacun des deux ait une bonne vision de ce que fait l'autre. D'où l'intérêt de la journée d'aujourd'hui pour vous moussaillons qui avez plutôt opté pour la partie analytique vs le dev pur : vous allez plongé dans l'univers du développement de bases de données 🙈🙈
+![ee](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-Cheet-Sheet-1.png)
 
 ## 5. Pour aller plus loin
-Les 2 autres ressources de la journée vont te permettre d'en savoir plus sur les tâches quotidiennes des *Data Engineers*.
-
-Et pour comprendre mieux tout ce qu'on a dit dans cette ressource, je t'invite, plusieurs fois par semaine, à faire de la veille sur les offres d'emploi autour de la data. En plus des fameux Linkedin, Indeed, Apec, tu peux consulter [Welcome to the jungle](https://www.welcometothejungle.com/fr) : la plupart des entreprises de la Tech postent leurs annonces sur ce site. Tu peux également aller faire un tour sur les plateformes de free-lance comme [Malt](https://www.malt.fr/) et voir les expériences des experts de la data. Ces recherches t'aideront à voir tant la diversité de missions que les constantes qu'on retrouve dans les métiers de la data.
+Voici deux ressources pour être au top du SQL :
+- Le [cours de W3 Schools](https://www.w3schools.com/sql/), qui contient une doc exhaustive de ce que l'on veut faire en SQL. Très pratique pour vérifier des syntaxes de méthodes.
+- Plein d'exercices chez [SQL Zoo](https://sqlzoo.net/wiki/SELECT_basics), idéal pour s'entraîner.
