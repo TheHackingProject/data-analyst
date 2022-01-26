@@ -25,11 +25,20 @@ A l’orée du XXIe siècle, la business intelligence est devenue rigoureuse et 
 
 ## 3. La ressource
 
-### 3.1. Les termes à connaître
+### 3.1. C'est quoi une "data" ?
 
-#### 3.1.1. C'est quoi une "Data" ?
+Une data c’est tout simplement une donnée stockée numériquement. Plus précisément, c'est une information dématérialisée capable de circuler à travers un réseau de télécommunication ou informatique. Ce peut être une donnée que vous avez déposée inconsciemment en navigant sur Internet (ex : les cookies, les logs). Ce peut être une donnée que vous avez créée consciemment (ex : rédaction d'un mail). Ce peut être une donnée qui a été produite par une autre machine (ex : systèmes de mesure, IoT).
 
-#### 3.1.2. Différencier informatique de production et informatique décisionnelle
+On comprend alors qu'il y a différents types de données. Lorsqu'une entreprise parle de "nos données", cela mériterait d'être précisé car on ne sait pas s'il s'agit des données personnelles des utilisateurs, des données commerciales et financières, des données liées aux opérations de l'entreprise, des données marketing etc.
+
+Finalement, le mot "data" est très galvaudé. Il n'a plus vraiment de sens lorsqu'il n'est pas précisé par les personnes qui l'utilisent.
+
+
+### 3.2. Différencier informatique et informatique décisionnelle
+
+L’informatique décisionnelle est une branche de l’informatique de plus en plus adoptée par les entreprises. Connue également sous l’appellation *Business Intelligence* (et souvent BI) en anglais, elle désigne l’ensemble des méthodes et outils informatiques utilisés généralement pour piloter une organisation. Le meilleur exemple de solution d’informatique décisionnelle est le tableau de bord. L’informatique décisionnelle utilise les données brutes de l’organisation comme matière première. A l’aide d’outils décisionnels (logiciels ou applications), on se connecte à des sources de données qui peuvent être très diverses : Excel, base de données SQL, ERP, etc…
+
+### 3.3. Différencier modèle transactionnel et modèle multidimensionnel
 
 #### 3.1.3. Différencier Data Analysis et Data Science
 
