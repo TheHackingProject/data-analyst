@@ -55,19 +55,30 @@ Les systèmes « décisionnels », également appelés OLAP (on-line analytical 
 En revanche, **dans un système OLAP, les données sont historisées et peuvent être agrégées**.
 
 
-### 3.4. C'est quoi le Big Data ?
+### 3.4. Une équipe data, ça sert à quoi ?
 
-Le Big Data consiste en une variété de données (images, sons, vidéo, internet des objets, …) qui ne peuvent être stockées dans des bases de données classiques (lignes-colonnes). Stocker ces données est alors bien plus complexe que de stocker des chiffres ou du texte. Tu creuseras cela dans la prochaine ressource.
+L’équipe Data permet de faciliter le développement d’une entreprise, quelle qu’elle soit. 
 
+Elle aura plusieurs types de missions : 
+- Assurer et permettre la fiabilité des données
+- Doter les salariés d'outils efficaces pour analyser leurs données
+- Anticiper les nouvelles tendances
+- Détecter certaines problématiques possibles. 
 
-### 3.5. Une équipe data, ça sert à quoi ?
+Finalement, elle a un doublie rôle : 
+- un rôle de prestataire de services, pour lequel l'équipe data doit répondre aux besoins des équipes qui la sollicitent
+- un rôle de conseiller et de visionnaire, pour lequel l'équipe data peut influencer le business grâce à ses recommandations.
 
-
+En fonction des organisations, c'est une équipe qui pourra fonctionner de manière autonome et centralisée ou bien de manière décentralisée (en dispatchant des expers Data dans les équipes qui en ont besoin).
 
 
 ## 4. Points importants à retenir
 
+Autour de la data, on trouve beaucoup de confusions et de termes galvaudés. C'est bon signe car cela témoigne de l'intérêt grandissant du grand public et des médias pour ces thématiques. 
+
+Mais cela impose aux experts data d'être très pédagogues et rigoureux dans leurs échanges. Rectifier les mauvaises interprétations et trouver des moyens de vulgariser est un exercice difficile mais indispensable à tout bon Data Analyst.
+
 
 ## 5. Pour aller plus loin
-
+- [un article](https://www.saagie.com/fr/blog/comment-lequipe-data-sintegre-t-elle-au-sein-dune-organisation-existante/) sur "Comment bien intégrer son équipe data"
 
