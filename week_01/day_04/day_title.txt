@@ -1,1 +1,1 @@
-Les bases de données : concepts avancés
+Les bases de données relationnelles et SQL
