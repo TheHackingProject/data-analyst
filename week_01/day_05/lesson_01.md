@@ -1,4 +1,4 @@
-# Modéliser un data warehouse ou système d'information décisionnel
+# Modéliser un data warehouse
 
 ## 1. Introduction
 Tu as normalement bien compris la différence entre base de données et système de BI. Pour rappel, les entrepôts de données (ou data warehouses) sont un type spécial de base de données, spécifiquement construit dans le but d'exécuter des analyses. 
