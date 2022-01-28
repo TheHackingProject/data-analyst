@@ -1,4 +1,4 @@
-# Jouer avec une base NoSQL
+# Projet BONUS : jouer avec une base NoSQL
 Ca c'est vraiment la classe 🔮🔮
 
 ## 1. Introduction
