@@ -1,4 +1,4 @@
-# Modéliser et créer une BDD relationnelle
+# Modéliser et créer une base de données
 
 ## 1. Introduction
 Avant de foncer tête baissée dans le codage d'une BDD, il est important de bien la modéliser pour voir les différents éléments qui vont la composer. Sans une vision globale et un dessin de ta BDD entière, tu vas forcément oublier quelque chose et t'en mordre les doigts plus tard.
