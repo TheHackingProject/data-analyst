@@ -65,9 +65,9 @@ Elle aura plusieurs types de missions :
 - Anticiper les nouvelles tendances
 - Détecter certaines problématiques possibles. 
 
-Finalement, elle a un doublie rôle : 
+Finalement, elle a un double rôle (dont la répartition va dépendre de chaque entreprise) : 
 - un rôle de prestataire de services, pour lequel l'équipe data doit répondre aux besoins des équipes qui la sollicitent
-- un rôle de conseiller et de visionnaire, pour lequel l'équipe data peut influencer le business grâce à ses recommandations.
+- un rôle de conseiller stratégique, pour lequel l'équipe data peut influencer le business grâce à ses recommandations.
 
 En fonction des organisations, c'est une équipe qui pourra fonctionner de manière autonome et centralisée ou bien de manière décentralisée (en dispatchant des expers Data dans les équipes qui en ont besoin).
 
