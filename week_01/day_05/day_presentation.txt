@@ -1,1 +1,1 @@
-Aujourd'hui, tu vas découvrir des concepts avancés liés aux bases de données comme la modélisation et l'univers NoSQL.
+Aujourd'hui, tu vas découvrir des concepts avancés liés aux bases de données comme le Big Data et la modélisation.
