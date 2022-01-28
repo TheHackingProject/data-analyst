@@ -1,1 +1,1 @@
-Aujourd'hui, tu vas découvrir des concepts avancés liés aux bases de données comme le Big Data et la modélisation.
+Aujourd'hui, tu vas découvrir des concepts avancés liés aux bases de données comme modélisation et le Big Data.
