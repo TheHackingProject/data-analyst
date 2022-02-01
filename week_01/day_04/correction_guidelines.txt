@@ -1,1 +1,4 @@
-1)
+Est-ce que tu as 347 albums dans ta base ?
+Est-ce que tu as 2 albums d'AC/DC ?
+Est-ce que tu as 20 titres pour les 2 albums d'AC/DC ?
+
