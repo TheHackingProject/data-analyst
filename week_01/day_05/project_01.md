@@ -37,7 +37,9 @@ ___
 
 😩😩 Que faire si j'ai un Mac et que je ne peux pas télécharger Power BI Desktop ?
 
-à compléter ??
+PowerBI Desktop est un logiciel de data très répandu sur le marché donc je te conseille de trouver un PC dans ton entourage (à un moment ou un autre, pas obligé que ce soit aujourd'hui) et de te familiariser à son interfance.
+
+En attendant, si tu n'as vraiment pas de PC et que tu ne veux pas t'ennuyer avec des tentatives de virtualisation, tu peux réaliser le projet avec un ERD classique.
 ___
 
 Pour en savoir plus sur le fonctionnement de PowerBI, vous pouvez regarder [cette vidéo](https://www.youtube.com/watch?v=PwyuzmL0jLU) ou [la doc de Microsoft](https://docs.microsoft.com/fr-fr/power-bi/fundamentals/desktop-getting-started). 
