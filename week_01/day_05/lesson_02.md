@@ -96,4 +96,3 @@ Le Data Analyst doit savoir travailler avec les tous les types de bases de donn�
 
 ## 5. Pour aller plus loin
 - Pour approfondir la modélisation de bases de données classique, cf. le cours [Modélisez et implémentez une base de données relationnelle avec UML](https://openclassrooms.com/fr/courses/4055451-modelisez-et-implementez-une-base-de-donnees-relationnelle-avec-uml)
-- Pour approfondir la notion de système d'information décisionnel, vous pouvez lire [cet article](https://www.decideo.fr/bruley/docs/B374.pdf) qui explique concrètement comment se met en place ce type de système
