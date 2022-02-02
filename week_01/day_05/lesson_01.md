@@ -14,7 +14,7 @@ On va maintenant voir comment on modélise ces deux types de systèmes. Dans cet
 
 Le concept a tenté de répondre aux différents problèmes associés à ce flux, principalement les coûts élevés qui y sont associés. 
 
-En 1990, la société Red Brick Systems, fondée par Ralph Kimball, lance Red Brick Warehouse, le premier système de gestion de base de données spécialement conçu pour l'entreposage de données. En 1994, Bill Inmon définit le data warehouse comme "une collection de données orientées sujet, intégrées, non volatiles et historisées, organisées pour le support d’un processus d ’aide à la décision".
+En 1990, la société Red Brick Systems, fondée par Ralph Kimball, lance Red Brick Warehouse, le premier système de gestion de base de données spécialement conçu pour l'entreposage de données. En 1994, Bill Inmon définit le data warehouse comme "une collection de données orientées sujet, intégrées, non volatiles et historisées, organisées pour le support d’un processus d’aide à la décision".
 
 Depuis, le marché de datawarehouse se veut en forte croissance : estimé à 21 milliards $ en 2020, il atteindra 34 milliards $ en 2025 selon les prévisions de *Datamation*.
 
