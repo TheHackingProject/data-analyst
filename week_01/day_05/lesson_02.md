@@ -1,7 +1,7 @@
 # Modéliser et créer une base de données
 
 ## 1. Introduction
-Avant de foncer tête baissée dans le codage d'une BDD, il est important de bien la modéliser pour voir les différents éléments qui vont la composer. Sans une vision globale et un dessin de ta BDD entière, tu vas forcément oublier quelque chose et t'en mordre les doigts plus tard.
+Pour un dev, avant de foncer tête baissée dans le codage d'une BDD, il est important de bien la modéliser pour voir les différents éléments qui vont la composer. Sans une vision globale et un dessin de la BDD entière, la plupart des parties prenantes d'un projet digital seraient perdue.
 
 ## 2. Historique et contexte
 Peter Chen a développé les modèles **entité-association** pour la conception de bases de données dans les années 1970. Alors qu'il travaillait comme professeur assistant à la Sloan School of Management du MIT, il a publié en 1976 un article précurseur intitulé « The Entity-Relationship Model: Toward a Unified View of Data » (Le modèle entité-association : vers une vision unifiée des données).
@@ -36,7 +36,7 @@ N'hésite pas à utiliser un logiciel d'ERD (*Entity Relation Diagram*) pour t'a
 [VisualParadigm Online](https://online.visual-paradigm.com/fr/),
 [DB Diagram.io](https://dbdiagram.io/d).
 
-Entraîne-toi ! Imagine des idées de startup puis fais un diagramme via un *ERD*. En tant que Data Analyst, tu seras amené à relire et comprendre ces schémas de bases de donées. 
+Entraîne-toi avec le second projet ! Et surtout, tu peux toi aussi imaginer des idées de startup et faire un diagramme via un *ERD*. En tant que Data Analyst, tu seras amené à relire et comprendre ces schémas de bases de donées. 
 
 
 ### 3.2 Créer une BDD relationnelle
