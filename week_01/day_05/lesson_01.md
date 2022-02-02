@@ -56,9 +56,9 @@ Tu trouveras [ici](https://stph.scenari-community.org/dwh/int/co/intUC032modObj.
 
 La conception des modèles de données dans un DW est une étape importante qui nécessite une approche différente de celle utilisée lors de la conception de systèmes opérationnels. Il est aussi important de savoir comment naviguer dans l’entrepôt et comment l’alimenter. 
 
-Si vous êtes confronté un jour à la lourde tâche de créer un data warehouse pour une entreprise, prenez du temps en amont pour comprendre l'ensemble des concepts liés à la conception de data warehouse. Ex, les deux méthodes les plus connues dans la conception d’un entrepôt de données sont les approches introduites par Bill Inmon « top-down » et Ralph Kimball « bottom-up ».
+Si vous êtes confronté un jour à la lourde tâche de créer un data warehouse pour une entreprise, prenez du temps en amont pour comprendre l'ensemble des concepts liés à la conception de data warehouse. Ex : les deux méthodes les plus connues dans la conception d’un entrepôt de données sont les approches introduites par Bill Inmon « top-down » et Ralph Kimball « bottom-up ».
 
 
 ## 5. Pour aller plus loin
 - Tu as envie de savoir comment ça se passe concrètement dans la réalité ? Lis [cet article](https://grim.developpez.com/cours/businessintelligence/concepts/conception-datawarehouse/) qui explique bien les interactions entre flocon, étoile et constellation.
-- Tu peux aussi regarder des témoignages concrets de mise en place de data warehouse : [ici](https://fr.slideshare.net/hamzus/document-1295639592) le travail de Abderrahmane Filali pour la société SONELGAZ, opérateur énergétique en Algérie
+- Tu peux aussi regarder des témoignages concrets de mise en place de data warehouse : [ici](https://fr.slideshare.net/hamzus/document-1295639592) le travail de Abderrahmane Filali pour la société SONELGAZ, opérateur énergétique en Algérie 
