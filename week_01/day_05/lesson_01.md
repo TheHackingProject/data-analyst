@@ -42,17 +42,23 @@ Tout cela étant dit, nous allons te présenter les notions essentielles à la m
 - **les faits sont ce sur quoi va porter l'analyse**. Ils mesurent l ’activité. Les faits sont toujours numériques. On aura des tables de faits sur les ventes (chiffre d'affaires net, quantités et montants commandés, quantités facturées, quantités retournées, volumes des ventes, etc.) par exemple ou sur les stocks (nombre d'exemplaires d'un produit en stock, niveau de remplissage du stock, taux de roulement d'une zone, etc.), ou peut-être sur les ressources humaines (performances des employés, nombre de demandes de congés, nombre de démissions, taux de roulement des employés, etc.)
 - **les dimensions sont ce qu'on utilisera pour faire nos analyses**. Elles sont les critères selon lesquels on souhaite évaluer, quantifier les faits. Il peut y avoir une dimension client, une dimension produit, une dimension géographie (pour faire des analyses par secteur géographique), une dimension temps etc. Chaque table de dimension peut avoir et a en général **plusieurs attributs**.
 
+Enfin, il y a  trois modélisations possibles pour organiser les données stockées dans un Data Warehouse : 
+- **la modélisation en étoile**. Le modèle en étoile centre une table des faits et la relie à chaque table de dimension. 
+- **la modélisation en flocon**. Le modèle en flocon reprend le modèle en étoile en décomposant les dimensions. 
+- **la modélisation en constellation**. Le modèle en constellation rassemble plusieurs tables des faits qui utilisent les mêmes dimensions. 
 
-
-Pour comprendre la modélisation d'un système décisionnel, regarde [cette vidéo](https://www.youtube.com/watch?v=7vPIo1QI0Ek). Dans un des deux projets du jour, tu vas devoir t'essayer à ce type de modélisation donc pense à bien prendre des notes pour retenir les concepts clés 📝
+Pour synthétiser tout cela, regarde [cette vidéo](https://www.youtube.com/watch?v=7vPIo1QI0Ek). Dans un des deux projets du jour, tu vas devoir t'essayer à ce type de modélisation donc essaye bien de retenir les concepts clés 📝
 
 Tu trouveras [ici](https://stph.scenari-community.org/dwh/int/co/intUC032modObj.html) quelques lignes intéressantes sur les objectifs du modèle dimensionnel, ainsi qu'un exemple de modèle en étoile.
 
 
-
-
 ## 4. Points importants à retenir
- 
+
+La conception des modèles de données dans un DW est une étape importante qui nécessite une approche différente de celle utilisée lors de la conception de systèmes opérationnels. Il est aussi important de savoir comment naviguer dans l’entrepôt et comment l’alimenter. 
+
+Si vous êtes confronté un jour à la lourde tâche de créer un data warehouse pour une entreprise, prenez du temps en amont pour comprendre l'ensemble des concepts liés à la conception de data warehouse. Ex, les deux méthodes les plus connues dans la conception d’un entrepôt de données sont les approches introduites par Bill Inmon « top-down » et Ralph Kimball « bottom-up ».
+
 
 ## 5. Pour aller plus loin
-- 
+- Tu as envie de savoir comment ça se passe concrètement dans la réalité ? Lis [cet article](https://grim.developpez.com/cours/businessintelligence/concepts/conception-datawarehouse/) qui explique bien les interactions entre flocon, étoile et constellation.
+- Tu peux aussi regarder des témoignages concrets de mise en place de data warehouse : [ici](https://fr.slideshare.net/hamzus/document-1295639592) le travail de Abderrahmane Filali pour la société SONELGAZ, opérateur énergétique en Algérie
