@@ -18,9 +18,23 @@ En 1990, la société Red Brick Systems, fondée par Ralph Kimball, lance Red Br
 
 ## 3. La ressource
 
-### 3.1 Modéliser une BDD
+### 3.1 Modéliser un data warehouse
 
-En fait, la modélisation permet avant tout d'avoir un langage commun.
+Il existe deux types de systèmes : **le système opérationnel et le système décisionnel**. 
+
+Les systèmes « opérationnels » ou « de gestion », également appelés systèmes OLTP (*on-line transaction processing*), sont dédiés aux métiers de l'entreprise pour les assister dans leurs tâches de gestion quotidiennes et donc directement opérationnels.
+
+Les systèmes « décisionnels », également appelés OLAP (*on-line analytical processing*), sont dédiés au management de l'entreprise pour l'aider au pilotage de l'activité. Ils offrent au décideur une vision transversale de l'entreprise.
+
+Bien que les systèmes d'informations OLTP et OLAP aient le point commun de regrouper les données de l'entreprise dans un S.G.B.D. (système de gestion de bases de données) et d'en fournir l'accès aux utilisateurs, ils présentent de profondes différences. Dans un système OLTP, les données ne sont conservées que sur une courte période ; elles sont détaillées, personnelles, identifiées (une facture appartient à une personne précise) et représentent généralement en volume quelques centaines de mégaoctets, voir quelques gigaoctets. En revanche, dans un système OLAP, les données sont historisées et peuvent être agrégées. 
+
+Pour bien comprendre la différence entre base de données classique et datawarehouse (la base de données du système décisionnel), lis [cet article](https://www.oracle.com/fr/database/difference-data-warehouse-base-donnees.html).
+
+Enfin, **on ne modélise pas un système décisionnel de la même manière qu'une base de données opérationnelle**. Pour comprendre la modélisation d'un système décisionnel, regarde [cette vidéo](https://www.youtube.com/watch?v=7vPIo1QI0Ek). Dans un des deux projets du jour, tu vas devoir t'essayer à ce type de modélisation donc pense à bien prendre des notes pour retenir les concepts clés 📝
+
+Tu trouveras [ici](https://stph.scenari-community.org/dwh/int/co/intUC032modObj.html) quelques lignes intéressantes sur les objectifs du modèle dimensionnel, ainsi qu'un exemple de modèle en étoile.
+
+
 
 
 ## 4. Points importants à retenir
