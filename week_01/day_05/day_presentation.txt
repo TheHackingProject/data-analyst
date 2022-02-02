@@ -1,1 +1,1 @@
-Aujourd'hui, tu vas prendre un peu de recul et chercher à comprendre comment on conçoit des bases de données.
+Aujourd'hui, tu vas prendre un peu de recul et chercher à comprendre comment on conçoit des bases de données, en fonction de leur type.
