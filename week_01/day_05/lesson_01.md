@@ -3,7 +3,7 @@
 ## 1. Introduction
 Tu as normalement bien compris la différence entre base de données et système de BI. Pour rappel, les entrepôts de données (ou data warehouses) sont un type spécial de base de données, spécifiquement construit dans le but d'exécuter des analyses. 
 
-Alors que la plupart des bases de données sont des fichiers d'application OLTP (*Online Transactional Processing*), la plupart des entrepôts de données sont des fichiers OLAP (*Online Application Processing*). En raison de la structure des fichiers OLAP, il est beaucoup plus facile d'effectuer des requêtes et des analyses sur les données qu'ils contiennent, et n'importe qui peut interroger l'entrepôt de données avec un logiciel d'entrepôt de données ou une connaissance du SQL.
+Alors que la plupart des bases de données sont des fichiers d'application OLTP (*Online Transactional Processing*), la plupart des entrepôts de données sont des fichiers OLAP (*Online Analytical Processing*). En raison de la structure des fichiers OLAP, il est beaucoup plus facile d'effectuer des requêtes et des analyses sur les données qu'ils contiennent, et n'importe qui peut interroger l'entrepôt de données avec un logiciel d'entrepôt de données ou une connaissance du SQL.
 
 En revanche, alors qu'on s'attend à ce que les bases de données aient un temps de disponibilité de 99,99 %, les entrepôts de données n'ont généralement pas besoin d'avoir ce genre de temps de disponibilité. Les entrepôts de données ne sont pas constamment lus et écrits comme les bases de données le sont. La plupart des entrepôts de données se rafraîchissent avec les données des bases de données, souvent toutes les 24 heures environ.
 
