@@ -6,7 +6,7 @@ NumPy est une bibliothèque Python destinée à manipuler des matrices ou tablea
 
 📌 *Utilité pour le projet* : 1/5<br/>
 📊 *Utilité pour être Data Analyst* : 4/5<br/> 
-💡 *Pourquoi cette ressource ?* : En fait, NumPy te sera très utile quand tu auras acquis de l'expérience car de très gros tableaux (numpy arrays) sont plus efficaces que de très gros dataframes (pandas). Néanmois, la librairie est traditionnellement présentée en tout début de formation car tu dois l'importer si tu veux utiliser les opérateurs arithmétiques de base comme la moyenne, la racine carrée etc.
+💡 *Pourquoi cette ressource ?* : En fait, NumPy te sera très utile quand tu auras acquis de l'expérience (ou que tu feras de la data science) car de très gros tableaux (numpy arrays) sont plus efficaces que de très gros dataframes (pandas). Néanmois, la librairie est traditionnellement présentée en tout début de formation car tu dois l'importer si tu veux utiliser les opérateurs arithmétiques de base comme la moyenne, la racine carrée etc.
 
 ## 2. Historique et contexte
 Comme on l'a déjà vu, le langage Python n'a pas été conçu à l'origine pour le calcul numérique. Cependant, il a très tôt attiré l'attention de la communauté scientifique et technique.
