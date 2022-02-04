@@ -4,6 +4,10 @@ Quelques mots anglais qui paraissent barbares mais qui constituent la base de l'
 ## 1. Introduction
 Le *Data warehouse*, ou entrepôt de données, est une base de données dédiée au stockage des données pour l'analyse décisionnelle. Il est alimenté en données depuis les bases de production grâce aux outils d'ETL (Extract Transform Load). Cette ressource, à la frontière de la culture générale, va te permettre de mieux comprendre les enjeux actuels de la data 👻👻
 
+📌 *Utilité pour le projet* : uniquement pour le projet bonus<br/>
+📊 *Utilité pour être Data Analyst* : 4/5<br/>
+💡 *Pourquoi cette ressource ?* : Idem que la ressource supplémentaire, tu peux la passer si tu veux faire direct le projet mais réserve-toi un moment dans la semaine pour comprendre ces concepts clés de la data. Vous pouvez par exemple le faire en groupe, vous interroger sur ce que vous avez compris de ces 2 ressources et voir si vous seriez prêts à l'expliquer à un total novice de la data.
+
 ## 2. Historique et contexte
 Les premiers logiciels **Extract-Transform-Load** ont été développés au milieu des années 1970. A cette époque, les entreprises commençaient à utiliser plusieurs sources de données et à gérer différentes bases pour stocker différentes sortes de données business. Très tôt, le besoin s’est fait sentir d’agréger ces données. Au tournant des années 1980 – 1990, un type de plateforme s’est imposé comme solution de référence pour recevoir toutes ces données transformées et faire office de référentiel data : le Data Warehouse.
 
