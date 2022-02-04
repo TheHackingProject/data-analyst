@@ -4,6 +4,10 @@ Peut-être la ressource qui te servira le plus dans ton quotidien de Data Analys
 ## 1. Introduction
 Ici, tu verras l'intérêt de la librairie Pandas, ainsi que les opérations basiques sur l'objet phare de cette librairie, **le dataframe**.
 
+📌 *Utilité pour le projet* : 5/5<br/>
+📊 *Utilité pour être Data Analyst* : 5/5<br/>
+💡 *Pourquoi cette ressource ?* : Maîtriser le format le plus utilisé en analyse de données : le dataframe.
+
 ## 2. Historique et contexte
 Entre 2007 à 2010, Wes McKinney a commencé à construire ce qui allait devenir Pandas alors qu'il était chercheur dans la société américaine AQR Capital.
 
