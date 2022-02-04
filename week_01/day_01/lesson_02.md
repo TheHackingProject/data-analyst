@@ -8,7 +8,7 @@ Tu viens de passer 3 semaines à découvrir les bases de l'informatique et tu as
 Nous allons répondre à toutes ces questions dans cette ressource 😌
 
 📌 *Utilité pour le projet* : 1/5<br/>
-📊 *Utilité pour être Data Analyst* : 2/5<br/>
+📊 *Utilité pour être Data Analyst* : 3/5<br/>
 💡 *Pourquoi cette ressource ?* : Comprendre pourquoi tu vas apprendre Python comme langage de traitement de données.
 
 ## 2. Historique et contexte
