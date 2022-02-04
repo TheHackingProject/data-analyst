@@ -9,6 +9,10 @@ En gros, la Data est univers récent qui est en train de se construire. Il y a e
 
 Malgré ce flou général, on va éclaircir tout cela aujourd'hui en te précisant tous les termes importants.
 
+📌 *Utilité pour le projet* : uniquement pour le projet bonus
+📊 *Utilité pour être Data Analyst* : 4/5<br/>
+💡 *Pourquoi cette ressource ?* : C'est grâce à la maîtrise parfaite de ces concepts que tu passeras d'un simple exécutant Data (à qui on ne confiera pas la gestion du projet ou ni de tâche stratégique) à une personne que l'on peut consulter quand il s'agit de prendre des décisions importantes. Ce qu'il faut retenir ici c'est que si les mondes de l'informatique et de la data se sont construits en même temps à la fin des années 80, ils n'ont aujourd'hui plus rien à voir. Nous te conseillons de bien comprendre les différences entre les deux univers car tu seras amené à travailler avec tous les types de profils. Finalement, c'est de la culture générale donc tu peux mettre de côté la ressource mais ne l'oublie pas 🙏
+
 ## 2. Historique et contexte
 La data et tous les métiers qu'elle englobe ont fait leur apparition dans le vocabulaire courant il n'y a qu'une dizaine d'années. Pourtant, ces métiers ne datent pas d'hier. Remontons un peu l'histoire pour mieux comprendre cela 📜
 
