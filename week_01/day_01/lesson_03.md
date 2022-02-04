@@ -7,6 +7,10 @@ Sans transition aucune, on se lance ! Comment ça marche Python ? Est-ce que c'e
 
 Allons découvrir tout cela 🐣 🐣 ☕️☕️  
 
+📌 *Utilité pour le projet* : 5/5<br/>
+📊 *Utilité pour être Data Analyst* : 4/5<br/>
+💡 *Pourquoi cette ressource ?* : Se familiariser avec les notebooks et découvrir la syntaxe générale de Python.
+
 ## 2. La ressource
 Pour bien comprendre les bases de Python, nous te demandons de suivre le cours OpenClassrooms [Initiez-vous à Python pour l'analyse de données](https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees).
 Ce cours est très bien fait et il est très adapté au niveau débutant.
