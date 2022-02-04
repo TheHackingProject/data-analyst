@@ -3,8 +3,8 @@
 ## 1. Introduction
 C'est le moment de faire le point sur toutes les compétences que tu viens d'acquérir lors des 3 semaines d'introduction THP. Bravo à toi jeune moussaillon, tu peux être fier 🙌 
 
-📌 *Utilité pour le projet* : 0/5
-📊 *Utilité pour être Data Analyst* : 0/5
+📌 *Utilité pour le projet* : 0/5<br/>;
+📊 *Utilité pour être Data Analyst* : 0/5<br/>;
 💡 *Pourquoi cette ressource ?* : Récapituler les compétences acquises lors des 3 semaines d'intro.
 
 ## 2. Retour vers le passé 🎃
