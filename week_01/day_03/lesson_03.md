@@ -5,6 +5,10 @@ Voilà deux jours que tu as commencé la formation et il se peut que tu sois dé
 
 On va essayer de répondre à toutes ces questions, afin que tu puisses optimiser ton apprentissage et dès ces premiers jours, rester pro-actif dans ta formation (te poser des questions au début d'une journée, essayer d'y répondre pendant la journée et tirer les bonnes conclusions à la fin de la journée ou le lendemain lors des corrections).
 
+📌 *Utilité pour le projet* : 0/5<br/>
+📊 *Utilité pour être Data Analyst* : 5/5<br/>
+💡 *Pourquoi cette ressource ?* : Cette ressource va te permettre d'adopter la bonne attitude pendant ton parcours. Finalement, un data Analyst c'est quelqu'un qui a des compétences techniques (il sait coder et utiliser les outils de la data. Pour cela il a beaucoup pratiqué) mais c'est aussi quelqu'un qui sait prendre du recul, vulgariser des concepts techniques et influencer les décisions. Pour acquérir les compétences hard, tu vas réaliser des projets. Pour acquérir les compétences soft, tu vas prendre connaissance de ressources très diverses et les faire tiennes au fur et à mesure de la formation (via certains projets, via des discussions avec la communauté, via le projet final etc.). Ne néglige pas un des deux aspects si tu veux être un bon Data Analyst.
+
 ## 2. Historique et contexte
 La pédagogie The Hacking Project repose sur deux piliers fondamentaux : 
 - **l'enseignement par projets**. Le projet permet aux apprenants d'identifier et de formuler leurs propres problèmes et *in fine* de développer un savoir applicable. L'apprentissage par projets est un modèle qui se distingue de l'enseignement traditionnel par le focus qui est centré sur l'apprenant et son projet. Les apprenants ont l'opportunité de travailler de manière plus autonome et de construire leur connaissance, ils sont placés en situation de résolution de problèmes. De manière très claire, l'apprenant est amené à être un acteur-auteur de son apprentissage.
