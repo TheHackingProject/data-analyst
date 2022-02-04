@@ -9,7 +9,7 @@ Nous allons répondre à toutes ces questions dans cette ressource 😌
 
 📌 *Utilité pour le projet* : 1/5<br/>
 📊 *Utilité pour être Data Analyst* : 2/5<br/>
-💡 *Pourquoi cette ressource ?* : Comprendre pourquoi tu vas apprendre Python pour analyser des données.
+💡 *Pourquoi cette ressource ?* : Comprendre pourquoi tu vas apprendre Python comme langage de traitement de données.
 
 ## 2. Historique et contexte
 Ruby a été créé en 1995 par un informaticien japonais, Yukihiro Matsumoto. C’est un langage de programmation polyvalent, orienté objet. M. Matsumoto a insisté sur le fait que Ruby devait être facile à utiliser et amusant, et devait se concentrer sur l'aspect "humain" plutôt que sur "l'ordinateur".
