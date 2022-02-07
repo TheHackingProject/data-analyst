@@ -9,6 +9,10 @@ En revanche, alors qu'on s'attend à ce que les bases de données aient un temps
 
 On va maintenant voir comment on modélise ces deux types de systèmes. Dans cette ressource, focus sur les data warehouses 👉
 
+📌 *Utilité pour le projet* : 5/5<br/>
+📊 *Utilité pour être Data Analyst* : 3/5<br/>
+💡 *Pourquoi cette ressource ?* : Cette ressource permet de comprendre le type de données auxquelles tu seras confronté dans les entreprises qui ont déjà un peu réfléchi à organiser un système d'info décisionnel. A la fin de la journée, les concepts vus mercredi (BI vs système opérationnel) vont te paraître plus concrets et tu sauras dorénavant naviguer plus confortablement dans l'univers data. En tant que Data Analyst, tu pourras être amené à modéliser des entrepôts de données et tu devras dans tous les cas comprendre les choix de modélisation donc c'est une compétence très importante.
+
 ## 2. Historique et contexte
 **Le concept de data warehousing remonte à la fin des années 1980** lorsque les chercheurs d'IBM Barry Devlin et Paul Murphy ont développé le « business data warehouse ». Essentiellement, le concept d'entreposage de données visait à fournir un modèle architectural pour le flux de données allant des systèmes opérationnels aux environnements d'aide à la décision.
 
