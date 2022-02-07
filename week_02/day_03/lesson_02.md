@@ -3,6 +3,8 @@
 ## 1. Introduction
 L'analyste de données apporte avant tout une lecture statistique aux problèmes auxquels est confrontée l'entreprise. Pour cela, il va devoir parfois utiliser des concepts statistiques avancés. On peut lui demander par exemple : de réaliser une analyse multi-variée pour comprendre la corrélation entre des variables ou de réaliser un test statistique afin de vérifier une prédiction, ou encore de réaliser une modélisation statistique à l’aide de méthodes d’apprentissage supervisé et non supervisé. En sachant que les sujets statistiques sont trop variés pour être tous couverts ici, nous verrons dans cette ressource les  méthodes les plus courantes 💆‍♀️💆‍♂️
 
+
+
 ## 2. Historique et contexte
 L'avènement de l'informatique dans les années 40 (aux États-Unis), puis en Europe (dans les années 60) permit de traiter un plus grand nombre de données, mais surtout de croiser entre elles des séries de données de types différents. C'est le développement de ce qu'on appelle l'analyse multidimensionnelle : on étudie les relations entre plus de 2 variables à la fois !
 
