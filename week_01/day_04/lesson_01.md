@@ -13,7 +13,7 @@ A la fin de cette ressource, tu devrais :
 
 📌 *Utilité pour le projet* : 5/5<br/>
 📊 *Utilité pour être Data Analyst* : 5/5<br/>
-💡 *Pourquoi cette ressource ?* : Aujourd'hui, c'est simple, tu fonces tête baissée dans les projets et tu requêtes toute la journée en SQL, compétence très présente dans les offres d'emploi de Data Analyst.
+💡 *Pourquoi cette ressource ?* : Aujourd'hui, c'est simple, tu fonces tête baissée dans les projets et tu requêtes toute la journée en SQL, compétence très présente dans les offres d'emploi de Data Analyst (car nécessaire pour requêter une base de données relationnelle ou pouvoir utiliser certains outils de dataviz).
 
 ## 2. Historique
 Très rapidement dans l'informatique, nous eûmes besoin de stocker les informations, traitées par nos programmes, quelque part : ainsi furent créées les bases de données. En 1970, un certain Edgar Codd, ingénieur chez IBM, a inventé un moyen de lier en base des tables entre elles. Ainsi, une entrée, comme un `Message`, pourrait être liée à une autre entrée, par exemple en le faisant appartenir à un `User`. **Le modèle relationnel a révolutionné l'informatique puisqu'aujourd'hui, il reste le format le plus répandu dans les applications.**
