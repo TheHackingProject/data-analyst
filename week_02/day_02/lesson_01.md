@@ -3,6 +3,10 @@
 ## 1. Introduction
 C'est l’étape la plus importante avant d’analyser des données. Attention, cette étape peut être très fastidieuse, elle constitue souvent un vraie casse-tête pour les Data Analysts 🤬
 
+📌 *Utilité pour le projet* : 5/5<br/>
+📊 *Utilité pour être Data Analyst* : 5/5<br/>
+💡 *Pourquoi cette ressource ?* : Ici, on théorise le nettoyage des données. Tu vas surtout apprendre en pratiquant donc go sur le projet dès que possible !
+
 ## 2. Historique et contexte
 Les volumes de données dont nous disposons ne cessent d’augmenter, de même que les risques d’erreur. Ces données qui présentent des problèmes d’erreur et d’incohérence sont généralement appelées « données sales », et leur impact global n’est pas négligeable. On estime que 3 % seulement des données satisfont aux normes de qualité de base et que les données sales coûtent plus de 3 milliards $USD par an aux entreprises américaines.
 Par conséquent, il faut compter sur le nettoyage des données (aussi appelé *data cleaning*) pour pouvoir réaliser des analyses cohérentes. 
