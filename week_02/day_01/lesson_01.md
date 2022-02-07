@@ -4,6 +4,10 @@ Commençons par le commencement : comment obtient-on des données dans la pratiq
 ## 1. Introduction
 Maintenant que tu connais les langages indispensables à un bon Data Analyst, il faut que tu comprennes le processus général d'analyse de données. Ce processus se compose de différentes étapes. La première étape est sans aucun doute l'obtention des données. En effet, pour tout projet, l'entreprise doit en premier lieu identifier la ou les sources de données intéressantes puis voir comment s'approprier ces sources.
 
+📌 *Utilité pour le projet* : 4/5<br/>
+📊 *Utilité pour être Data Analyst* : 2/5<br/>
+💡 *Pourquoi cette ressource ?* : Encore une fois, pour des raisons pédagogiques. C'est pour que tu aies une vision d'ensemble sur toute la chaîne de la data. En effet, sans collecte des données, il n'y a pas d'analyse. Néanmoins, la collecte des données n'est pas vraiment le rôle du Data Analyst donc si tu ne souhaites pas être Data Engineer ni travailler dans une petite structure, on accepte que tu ne te battes pas avec le projet du jour pendant des heures. 
+
 ## 2. Historique et contexte
 Pendant des siècles, l’humanité a stocké ses données dans les livres 📝 L’arrivée du digital au XXème siècle a donné une dimension exponentielle et globale à cette pratique. Cette révolution des données, qui n’est encore qu’à ses prémices, est en train de multiplier les sources de données et de nous donner, à chacun, la possibilité d'étudier ces multiples données.
 
