@@ -3,6 +3,11 @@
 ## 1. Introduction
 On va reprendre dans cette ressource les notions qu'il faut maîtriser pour réussir ses analyses de données. Tu as déjà dû voir ça plusieurs fois dans ton cursus éducatif mais ça fait toujours du bien de reprendre ces notions qui sont omniprésentes dans notre quotidien ✍️
 
+📌 *Utilité pour le projet* : 1/5<br/>
+📊 *Utilité pour être Data Analyst* : 2/5<br/>
+💡 *Pourquoi cette ressource ?* : Pour te faire un petit "refresh" des notions de statistique à connaître. A la fin de la ressource, tu auras peut être un coup de chaud sur les matrices de corrélation : passe ton chemin si tu n'as pas la tête à ça aujourd'hui.
+
+
 ## 2. Historique et contexte
 L'origine du mot "statistique" remonte au latin classique *status* (état) qui, par une série d'évolutions successives, aboutit au français "statistique", attesté pour la première fois en 1771.
 
