@@ -6,6 +6,11 @@ Notre cerveau est incapable de traiter les gros volumes de données générées 
 
 Le volume de données continuera à croître alors que le temps et les ressources nécessaires pour les interpréter diminueront. La visualisation des données sera alors l’un des rares outils capable de nous aider à emporter ce défi.
 
+
+📌 *Utilité pour le projet* : 4/5<br/>
+📊 *Utilité pour être Data Analyst* : 5/5<br/>
+💡 *Pourquoi cette ressource ?* : T'expliquer l'importance de la visualisation.
+
 ## 2. Historique et contexte
 
 Tout pourrait porter à croire que la Data visualisation est récente mais il n’en est rien, bien au contraire. Prenons l’exemple d’un très vaste volume d’informations que la population a dû assimiler : la Bible. Pour faciliter l’assimilation des informations très éclatées qui s’y trouvent, un support visuel assez singulier a été produit au Moyen-Age. Il s’agit de [l’Arbre de Jessé](https://fr.wikipedia.org/wiki/Arbre_de_Jess%C3%A9) qui est une représentation de la généalogie présumée de Jésus de Nazareth et qui synthétise l’ensemble des informations relatives à ses ascendants - informations très clairsemées au fil de l’ouvrage. On estime que cette aide visuelle constitue le premier exemple significatif de Data visualisation.
