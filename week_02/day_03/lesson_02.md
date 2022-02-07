@@ -3,6 +3,9 @@
 ## 1. Introduction
 L'analyste de données apporte avant tout une lecture statistique aux problèmes auxquels est confrontée l'entreprise. Pour cela, il va devoir parfois utiliser des concepts statistiques avancés. On peut lui demander par exemple : de réaliser une analyse multi-variée pour comprendre la corrélation entre des variables ou de réaliser un test statistique afin de vérifier une prédiction, ou encore de réaliser une modélisation statistique à l’aide de méthodes d’apprentissage supervisé et non supervisé. En sachant que les sujets statistiques sont trop variés pour être tous couverts ici, nous verrons dans cette ressource les  méthodes les plus courantes 💆‍♀️💆‍♂️
 
+📌 *Utilité pour le projet* : 0/5<br/>
+📊 *Utilité pour être Data Analyst* : 1/5<br/>
+💡 *Pourquoi cette ressource ?* : Simplement pour que tu prennes conscience de l'ampleur du domaine des statistiques. Si tu as envie d'être Data Scientist ou que tu aimes les statistiques, plonge toi sérieusement dans certains de ces concepts avancés. Si non, tu peux clairement passer ton chemin : un Data Analyst n'a pas besoin de connaître tous ces concepts. Ce que je te recommande c'est de lire la ressource aujourd'hui et tu reviendras te former à ces concepts le jour où on te le demandera expressément.
 
 
 ## 2. Historique et contexte
