@@ -3,6 +3,10 @@
 ## 1. Introduction
 Maintenant que l'on a décomposé les 4 étapes de l'analyse de données, on va les réunir ensemble pour voir dans la pratique comment une analyse de données peut se dérouler.
 
+📌 *Utilité pour le projet* : 2/5<br/>
+📊 *Utilité pour être Data Analyst* : 5/5<br/>
+💡 *Pourquoi cette ressource ?* : Synthétiser les apprentissages des 4 jours précédant en te plongeant dans le quotidien du Data Analyst : un cycle itératif infini. Tu comprendras aujourd'hui pourquoi la persévérance, le sens du détail et le pragmatisme sont des qualités indispensables pour être un bon Data Analyst.
+
 ## 2. Historique et contexte
 Les notions requises pour une analyse des données modernes commencent à être maîtrisées **au début du 19ème siècle**. Adolphe Quetelet, astronome et statisticien belge, exploite ce qu'il connaît de la loi gaussienne à l'anthropométrie pour examiner la dispersion autour de la moyenne (la variance) des mesures des tailles d'un groupe d'hommes. Puis, Francis Galton, parce qu'il veut étudier la taille des pères et des fils, s'intéresse à la variation conjointe (la covariance et la corrélation) de deux grandeurs, qui est à l'origine de ce qu'on appelle aujourd'hui la régression.
 
