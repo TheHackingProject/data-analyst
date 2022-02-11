@@ -3,6 +3,10 @@
 ## 1. Introduction
 La première étape d'une stratégie data est d'identifier des indicateurs à suivre. C'est cela qui motivera ensuite la création d'un dashboard avec pour objectif le suivi de ces indicateurs de performance ✔️
 
+📌 *Utilité pour le projet* : 3/5<br/>
+📊 *Utilité pour être Data Analyst* : 4/5<br/>
+💡 *Pourquoi cette ressource ?* : Se doter de bons KPIs n'est pas simple. Si tu ne dois retenir qu'une chose, c'est l'acronyme SMART.
+
 ## 2. Historique et contexte
 Les indicateurs clés de performance sont des instruments de pilotage qui servent à mesurer le degré de réalisation des objectifs stratégiques que s’est donnée une entreprise, une business unit, ou encore une équipe projet. Ces *key performance indicators* (ou *KPI*) en anglais sont étroitement liés aux facteurs clés de succès. Ces deux concepts ont été popularisés dans les années 60-70.
 
