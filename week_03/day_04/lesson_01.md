@@ -3,6 +3,10 @@
 ## 1. Introduction
 C'est une mission qui apparaît souvent dans les offres d'emploi mais on sent que même la personne qui écrit l'offre ne sait pas vraiment de quoi ça parle ... Essayons dans cette ressource de comprendre ce que tu pourrais faire pour améliorer la stack data d'une entreprise 😑
 
+📌 *Utilité pour le projet* : 2/5<br/>
+📊 *Utilité pour être Data Analyst* : 3/5<br/>
+💡 *Pourquoi cette ressource ?* : En tant qu'expert Data, tu auras besoin d'outils performants pour mener à bien tes missions. Mais pour savoir quels outils utiliser, tu devras faire de la veille et avoir des connaissances techniques pour comprendre le monde des stacks informatiques. Cette ressource va surtout t'aider à te familiariser avec le vocabulaire.
+
 ## 2. Historique et contexte
 
 Avant les années 2000, **le modèle d'architecture était appelé « monolithique »**, car tout le code de l'application tenait dans un déploiement unique. Si l'un des éléments de l'application ne fonctionnait pas correctement, il fallait mettre hors ligne l'application entière pour résoudre le problème avant de déployer une autre version. Cela posait notamment le problème de l'interopérabilité des systèmes d'information, particulièrement complexe lors de la fusion ou de l'acquisition d'entreprises. 
