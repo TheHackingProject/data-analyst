@@ -3,6 +3,10 @@
 ## 1. Introduction
 Un Data Analyst est très souvent amené à présenter ses résultats. C'est pourquoi nous allons voir ici comment améliorer tes présentations (tant sur l'écrit que sur l'oral).
 
+📌 *Utilité pour le projet* : 5/5<br/>
+📊 *Utilité pour être Data Analyst* : 5/5<br/>
+💡 *Pourquoi cette ressource ?* : Te donner les moyens pour améliorer tes présentations. Même si c'est une tâche à laquelle tu es habituée, elle est tellement centrale dans le métier de Data Analyst que tu dois la travailler sans relâche.
+
 ## 2. Historique et contexte
 Revenons sur l'histoire de PowerPoint, le programme de présentation le plus utilisé dans le monde. Il a été développé à l’origine par Robert Gaskins et le programmeur Dennis Austins sous le nom de Presenter pour la société Forethought. 
 **Forethought a créé PowerPoint 1.0 en avril 1987 pour le Macintosh d’Apple**. C’était au début un programme en noir et blanc, générant des pages mêlant textes et graphiques qu’on présente avec rétroprojecteur. 
