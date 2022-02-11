@@ -3,6 +3,10 @@
 ## 1. Introduction
 En plus de bien communiquer comme on l'a vu mercredi, un bon Data Analyst doit être pédagogue : réussir à traduire les concepts techniques de la data dans un langage courant, savoir s'adapter à son interlocuteur, chercher à pérenniser les compétences de ses collaborateurs ... 
 
+📌 *Utilité pour le projet* : 1/5<br/>
+📊 *Utilité pour être Data Analyst* : 4/5<br/>
+💡 *Pourquoi cette ressource ?* : Comme la data est une discipline très récente, le rôle de tout expert data est d'abord d'être ambassadeur et vulgarisateur. Garde les conseils de cette ressource bien en tête, surtout quand tu passeras des entretiens. Si tu sais illustrer ça par des exemples vécus, ton interlocuteur se dira que tu as compris les enjeux principaux du métier de Data Analyst.
+
 ## 2. Historique et contexte
 
 Depuis une dizaine d’années, on a assisté à un changement de paradigme : la data représente de nouvelles opportunités pour les entreprises. En fait, on utilisait déjà la data auparavant mais c’était l’apanage des départements marketing (bien connaître sa cible, ses clients) et finance (surveiller sa tréso, optimiser ses investissements et valider les audits imposés). En gros, tout ce qu’on apprend encore en business school : contrôle de gestion, marketing, analyse financière 😶
