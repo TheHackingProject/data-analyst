@@ -3,6 +3,10 @@
 ## 1. Introduction
 Une fois que les KPI sont identifiés, il est important de suivre leur évolution via un tableau de bord 🎯
 
+📌 *Utilité pour le projet* : 5/5<br/>
+📊 *Utilité pour être Data Analyst* : 5/5<br/>
+💡 *Pourquoi cette ressource ?* : Te faire découvrir la méthodologie et les outils pour réaliser des tableaux de bord efficaces.
+
 ## 2. Historique et contexte
 
 A partir de la seconde moitié du 19ème siècle, les dirigeants élaborent un système d'information de gestion présentant les données, pour l'essentiel sous forme narrative, au travers d'un « rapport hebdomadaire » ou « journal de marche ». La révolution industrielle entraine la croissance de la taille des entreprises et leur complexité. Le besoin des gestionnaires d'informations statistiques descriptives de la réalité opérationnelle se fait de plus en plus important. 
