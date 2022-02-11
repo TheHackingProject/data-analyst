@@ -3,6 +3,10 @@
 ## 1. Introduction
 Le Data Analyst participe à l'amélioration de la stack data de son entreprise, bien souvent en réalisant des études spécifiques. Nous verrons ici quels livrables tu devras être en mesure de produire pour documenter les process data de ton entreprise 📂📂
 
+📌 *Utilité pour le projet* : 4/5<br/>
+📊 *Utilité pour être Data Analyst* : 4/5<br/>
+💡 *Pourquoi cette ressource ?* : Comprendre ce qu'un Data Analyst peut apporter aux équipes Business et quels types de missins on lui confiera.
+
 ## 2. Définitions
 **Documenter ses données, c’est donner les informations nécessaires pour les trouver, les lire, les comprendre et les réutiliser** : sources, modalités de production, de collecte et de traitement, logiciel utilisé, format du fichier, unités de mesure, attribution de mots-clés thématiques descriptifs, localisation géographique, date d’acquisition, identifiant … Ces informations sont aussi appelées métadonnées, ce qui signifie « données décrivant des données ».
 
