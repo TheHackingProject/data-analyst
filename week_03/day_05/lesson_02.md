@@ -3,6 +3,10 @@
 ## 1. Introduction
 On a vu dans la ressource précédente l'attitude à avoir pour partager de la connaissance data à ses collègues. On va voir ici les connaissances techniques qu'il peut être utiles de partager.
 
+📌 *Utilité pour le projet* : 3/5<br/>
+📊 *Utilité pour être Data Analyst* : 4/5<br/>
+💡 *Pourquoi cette ressource ?* : T'ouvrir les horizons et te faire découvrir une autre facette du métier de Data Analyst : celui qui peut faire gagner du temps à qui le veut. Comme le risque principal du métier est de perdre du temps à réaliser trop de tâches manuelles, le Data Analyst est souvent quelqu'un de débrouillard qui connaît beaucoup d'astuces et d'outils pour optimiser les process. A creuser si ça t'intéresse. Si tu préfères être un as de Python ou de Tableau, tu peux passer ton tour.
+
 ## 2. Historique et contexte
 L’automatisation trouve ses origines les plus lointaines dans la construction d’automates, dont les premiers modèles remontent à l’Antiquité. Cette méthode a depuis, pris une autre dimension, notamment durant le siècle dernier avec, par exemple, l’industrie automobile et les usines de Ford aux Etats-Unis, qui appliquaient les enseignements du taylorisme. Les machines exécutent des tâches répétitives, l’automatisation augmente la production et réduit considérablement la pénibilité du travail et le nombre d’heures effectuées 🏭🏭
 
