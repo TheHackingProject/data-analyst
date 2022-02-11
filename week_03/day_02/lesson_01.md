@@ -3,6 +3,10 @@
 ## 1. Introduction
 Tu vas découvrir aujourd'hui comment la data peut améliorer le business. Autrement dit, ce que tu devras fournir aux équipes Business pour essayer de les rendre plus performantes 👫👫
 
+📌 *Utilité pour le projet* : 2/5<br/>
+📊 *Utilité pour être Data Analyst* : 4/5<br/>
+💡 *Pourquoi cette ressource ?* : Comprendre ce qu'un Data Analyst peut apporter aux équipes Business et quels types de missins on lui confiera.
+
 ## 2. Historique et contexte
 Comme vu lors de la première semaine de formation (journée de jeudi), l'ancêtre de la Data s'appelait auparavant *Business Intelligence* ... 
 
