@@ -3,6 +3,10 @@
 ## 1. Introduction
 Dans la plupart des entreprises, on retrouve, en plus des équipes Business (dont le rôle est de maximiser le chiffre d'affaires de l'entreprise), des équipes Produit : leur rôle est de créer la meilleure expérience utilisateur possible. De la même manière que les équipes Business, les équipes Produit vont s'aider fortement de la data : nous allons voir ici comment.
 
+📌 *Utilité pour le projet* : 2/5<br/>
+📊 *Utilité pour être Data Analyst* : 4/5<br/>
+💡 *Pourquoi cette ressource ?* : Comprendre ce qu'un Data Analyst peut apporter aux équipes Produit et quels types de missins on lui confiera.
+
 ## 2. Historique et contexte
 
 Les origines du Product Management remontent à 1930 chez Procter et Gamble (P&G). Un des produits de P&G se vendait mal et un manager décida alors de dédier une personne à celui-ci, pour maximiser les ventes du produit. Cette personne fut appelée le «brand man». Le rôle du «brand man» a grandement participé à la définition des missions du product manager. 
