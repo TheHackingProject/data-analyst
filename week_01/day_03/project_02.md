@@ -3,7 +3,7 @@
 ## 1. Introduction
 Si t'as encore de l'énergie, on t'a préparé un projet d'un nouveau genre : plus stratégique que technique. En tant que Data Analyst, ça t'arrivera souvent d'avoir des missions de recherche où tu dois recueillir des informations sur une technologie, sur la concurrence ... Dans le milieu, on parle de veille technologique 🧐
 
-Tu viens d'assimiler beaucoup de notions dans les ressources sur l'informatique décisionnelles. Pour que tu comprennes comment ça se passe dans dans la vie réelle, on va te demander aujourd'hui de décrire 1 cas d'usage.
+Tu viens d'assimiler des notions dans les ressources sur l'informatique décisionnelle. Pour que tu comprennes comment ça se passe dans dans la vie réelle, on va te demander aujourd'hui de décrire 1 cas d'usage.
 ___
 
 🤖🤖 PAUSE DEFINITION : C'est quoi un cas d'usage ? 🤖🤖
