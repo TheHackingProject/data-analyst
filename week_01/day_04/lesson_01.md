@@ -75,8 +75,8 @@ A la fin du cours OpenClassrooms, tu auras vu toutes les requêtes principales e
 ![ee](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-Cheet-Sheet-1.png)
 
 ## 5. Pour aller plus loin
-C'est le seul jour de la formation consacré au langage SQL. C'est un langage assez intuitif, pour lequel on progresse très vite dès qu'on pratique. 
+C'est le seul jour de la formation consacré au langage SQL. On a choisi cela car SQL est un langage assez intuitif. Et surtout, avec SQL, les automatismes viennent très vite quand on y est confronté pour de vrai. Donc pas d'inquiétude, tu peux laisser le sujet reposer pour l'instant. 
 
-Si tu besoin de t'exercer davantage pour passer des entretiens ou être vite opérationnel, voici deux ressources pour être au top du SQL :
+Quand tu auras besoin de t'exercer davantage pour passer des entretiens ou être vite opérationnel, voici deux ressources pour être au top du SQL :
 - Le [cours de W3 Schools](https://www.w3schools.com/sql/), qui contient une doc exhaustive de ce que l'on veut faire en SQL. Très pratique pour vérifier des syntaxes de méthodes.
 - Plein d'exercices chez [SQL Zoo](https://sqlzoo.net/wiki/SELECT_basics), idéal pour s'entraîner.
