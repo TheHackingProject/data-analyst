@@ -23,10 +23,17 @@ Finalement, ces 3 standards se ressemblent et peuvent être retrouvés aujourd'h
 
 Pour bien comprendre la modélisation de bases de données, nous t'invitons à faire le cours [Modélisez et implémentez une base de données relationnelle avec UML](https://openclassrooms.com/fr/courses/4055451-modelisez-et-implementez-une-base-de-donnees-relationnelle-avec-uml).
 
-Dans ce chapitre, nous allons apprendre à créer ce qu'on appelle le schéma conceptuel d'une base de données. Ce schéma décrit les tables de la BDD ainsi que leurs liens. La description de la table est relativement simple : elle se borne à leur donner un nom, à décrire chaque colonne (nom et type) et à dire quelles sont les clés primaires. Les liens ne sont pas traduit en clés étrangères, qui ne sont d'ailleurs pas présentes dans ce schéma. Ce schéma conceptuel n'est qu'une première étape dans la modélisation d'une base de données. La seconde étape consiste à prendre le schéma et traduire les liens entre tables sous la forme de clés étrangères : on obtient alors le modèle logique de la base de données. Une fois cela fait, on peut traduire le tout dans un langage de programmation qui permet de gérer des bases de données (le SQL, par exemple) : c'est la troisième étape.
+Si tu souhaites comprendre l'essentiel sans rentrer dans les détails, tu peux regarder seulement [cette partie du cours](https://openclassrooms.com/fr/courses/6938711-modelisez-vos-bases-de-donnees/7501478-decomposez-la-modelisation-de-votre-bdd-en-trois-etapes-cles).
+
+Une fois la lecture finie, tu dois être plus au clair avec les 3 étapes de conception : 
+1) **le modèle conceptuel des données (MCD)**. Ce schéma décrit les tables de la BDD ainsi que leurs liens. La description de la table est relativement simple : elle se borne à leur donner un nom, à décrire chaque colonne (nom et type) et à dire quelles sont les clés primaires. Les liens ne sont pas traduit en clés étrangères, qui ne sont d'ailleurs pas présentes dans ce schéma. Ce schéma conceptuel n'est qu'une première étape dans la modélisation d'une base de données. 
+2) **le modèle logiques des données (MLD)**. La seconde étape consiste à prendre le schéma et traduire les liens entre tables sous la forme de clés étrangères : on obtient alors le modèle logique de la base de données. 
+3) **le modèle physique des données (MPD)**. Une fois cela fait, on peut traduire le tout dans un langage de programmation qui permet de gérer des bases de données (le SQL, par exemple) : c'est la troisième étape.
 
 
 ### 3.2 Créer une BDD relationnelle
+
+On est donc pile dans la troisième étape vu juste au-dessus !
 
 Une fois que tu as modélisé la base, c'est assez simple de la créer. C'est le travail généralement du développeur mais on t'explique ça ici car ça peut être utile (si tu te lances dans l'entrepreneuriat par exemple).
 
