@@ -86,4 +86,4 @@ Avant de coder une BDD, il faut se poser pour établir toutes les tables, les re
 
 
 ## 5. Pour aller plus loin
-
+- Des cours et exercices sur la modélisation : [ici](https://stph.scenari-community.org/bdd/0/co/bdd_1.html)
