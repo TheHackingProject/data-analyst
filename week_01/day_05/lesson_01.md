@@ -21,7 +21,9 @@ Finalement, ces 3 standards se ressemblent et peuvent être retrouvés aujourd'h
 
 ### 3.1 Modéliser une BDD
 
-- Pour approfondir la modélisation de bases de données classique, cf. le cours [Modélisez et implémentez une base de données relationnelle avec UML](https://openclassrooms.com/fr/courses/4055451-modelisez-et-implementez-une-base-de-donnees-relationnelle-avec-uml)
+Pour bien comprendre la modélisation de bases de données, nous t'invitons à faire le cours [Modélisez et implémentez une base de données relationnelle avec UML](https://openclassrooms.com/fr/courses/4055451-modelisez-et-implementez-une-base-de-donnees-relationnelle-avec-uml).
+
+Dans ce chapitre, nous allons apprendre à créer ce qu'on appelle le schéma conceptuel d'une base de données. Ce schéma décrit les tables de la BDD ainsi que leurs liens. La description de la table est relativement simple : elle se borne à leur donner un nom, à décrire chaque colonne (nom et type) et à dire quelles sont les clés primaires. Les liens ne sont pas traduit en clés étrangères, qui ne sont d'ailleurs pas présentes dans ce schéma. Ce schéma conceptuel n'est qu'une première étape dans la modélisation d'une base de données. La seconde étape consiste à prendre le schéma et traduire les liens entre tables sous la forme de clés étrangères : on obtient alors le modèle logique de la base de données. Une fois cela fait, on peut traduire le tout dans un langage de programmation qui permet de gérer des bases de données (le SQL, par exemple) : c'est la troisième étape.
 
 
 ### 3.2 Créer une BDD relationnelle
