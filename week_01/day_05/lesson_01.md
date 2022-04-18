@@ -1,11 +1,11 @@
 # Modéliser et créer une base de données
 
 ## 1. Introduction
-Pour un dev, avant de foncer tête baissée dans le codage d'une BDD, il est important de bien la modéliser pour voir les différents éléments qui vont la composer. Sans une vision globale et un dessin de la BDD entière, la plupart des parties prenantes d'un projet digital seraient perdue.
+
 
 📌 *Utilité pour le projet* : 5/5<br/>
 📊 *Utilité pour être Data Analyst* : 1/5<br/>
-💡 *Pourquoi cette ressource ?* : Purement pour des raisons pédagogiques. Si on t'avait montré uniquement la modélisation d'un système décisionnel, tu n'aurais pas pu comparer et surtout en entreprise, tu n'aurais pas été capable de dialoguer avec les devs, de comprendre les bases de données sur lesquelles ils travaillent. Quand on t'aurait demandé de connecter la base de données opérationnelle avec le système de BI, tu aurais beugué et probablement tout mélangé. 
+💡 *Pourquoi cette ressource ?* : 
 
 ## 2. Historique et contexte
 Peter Chen a développé les modèles **entité-association** pour la conception de bases de données dans les années 1970. Alors qu'il travaillait comme professeur assistant à la Sloan School of Management du MIT, il a publié en 1976 un article précurseur intitulé « The Entity-Relationship Model: Toward a Unified View of Data » (Le modèle entité-association : vers une vision unifiée des données).
