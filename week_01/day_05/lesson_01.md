@@ -21,7 +21,7 @@ Finalement, ces 3 standards se ressemblent et peuvent être retrouvés aujourd'h
 
 ### 3.1 Modéliser une BDD
 
-
+- Pour approfondir la modélisation de bases de données classique, cf. le cours [Modélisez et implémentez une base de données relationnelle avec UML](https://openclassrooms.com/fr/courses/4055451-modelisez-et-implementez-une-base-de-donnees-relationnelle-avec-uml)
 
 
 ### 3.2 Créer une BDD relationnelle
@@ -77,4 +77,4 @@ Avant de coder une BDD, il faut se poser pour établir toutes les tables, les re
 
 
 ## 5. Pour aller plus loin
-- Pour approfondir la modélisation de bases de données classique, cf. le cours [Modélisez et implémentez une base de données relationnelle avec UML](https://openclassrooms.com/fr/courses/4055451-modelisez-et-implementez-une-base-de-donnees-relationnelle-avec-uml)
+
