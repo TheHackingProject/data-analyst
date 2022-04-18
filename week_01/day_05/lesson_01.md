@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Avant que la base de données existe, elle doit être modélisée. Nous verrons aujourd'hui comment se réalise cette étape de modélisation et à quoi elle sert.
+Avant de créer une base de données, il est important de la modéliser (cad la représenter sous forme de schéma).
 
 📌 *Utilité pour le projet* : 5/5<br/>
 📊 *Utilité pour être Data Analyst* : 2/5<br/>
@@ -15,7 +15,7 @@ A la même époque à peu près, la méthode d'analyse et de conception de syst�
 
 Par la suite, le monde a changé et un autre standard s’est imposé, tout en gardant certains principes de la méthodologie Merise. Au milieu des années 90, les *Three Amigos* (Grady Booch, Ivar Jacobson and James Rumbaug) se sont associés pour apporter plus de clarté aux programmeurs en créant de nouvelles normes. Les efforts de ces penseurs ont abouti à la création en 1996 d'**UML**, un langage de modélisation commun.
 
-Finalement, Merise et UML se basent sur un schéma Entité-Relation. En fait, ces 3 standards peuvent être retrouvés aujourd'hui dans les projets informatiques car l'essentiel reste que les parties prenantes du projet se comprennent ! 
+Finalement, ces 3 standards se ressemblent et peuvent être retrouvés aujourd'hui dans les projets informatiques. L'essentiel reste que les parties prenantes du projet se comprennent ! 
 
 ## 3. La ressource
 
@@ -75,9 +75,6 @@ Les bases de données relationnelles sont la base de la majorité des applicatio
 
 Avant de coder une BDD, il faut se poser pour établir toutes les tables, les relations entre elles et leurs attributs. 
 
-Il faut également se demander s'il s'agit d'une base de données opérationnelle ou alors d'un datawarehouse car la modélisation ne sera pas la même. 
-
-Le Data Analyst doit savoir travailler avec les tous les types de bases de données (même si quand le datawarehouse est déjà mis en place, il travaillera principalement sur le système d'info décisionnel). 
 
 ## 5. Pour aller plus loin
 - Pour approfondir la modélisation de bases de données classique, cf. le cours [Modélisez et implémentez une base de données relationnelle avec UML](https://openclassrooms.com/fr/courses/4055451-modelisez-et-implementez-une-base-de-donnees-relationnelle-avec-uml)
