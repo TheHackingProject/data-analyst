@@ -2,15 +2,16 @@
 
 ## 1. Introduction
 
+Avant que la base de données existe, elle doit être modélisée. Nous verrons aujourd'hui comment se réalise cette étape de modélisation et à quoi elle sert.
 
 📌 *Utilité pour le projet* : 5/5<br/>
-📊 *Utilité pour être Data Analyst* : 1/5<br/>
-💡 *Pourquoi cette ressource ?* : 
+📊 *Utilité pour être Data Analyst* : 2/5<br/>
+💡 *Pourquoi cette ressource ?* : Pour que tu saches lire les schémas de base de données sans aucun problème.
 
 ## 2. Historique et contexte
-Peter Chen a développé les modèles **entité-association** pour la conception de bases de données dans les années 1970. Alors qu'il travaillait comme professeur assistant à la Sloan School of Management du MIT, il a publié en 1976 un article précurseur intitulé « The Entity-Relationship Model: Toward a Unified View of Data » (Le modèle entité-association : vers une vision unifiée des données).
+Peter Chen a développé les modèles **entité-association** pour la conception de bases de données dans les années 1970. Alors qu'il travaillait comme professeur assistant au MIT, il a publié en 1976 un article précurseur intitulé « The Entity-Relationship Model: Toward a Unified View of Data » (Le modèle entité-association : vers une vision unifiée des données).
 
-A la même époque à peu près, la méthode d'analyse et de conception de systèmes **Merise** a été élaborée par un collectif français en 1979. Elle a fourni un cadre méthodologique et un langage commun et rigoureux à une génération d'informaticiens français.
+A la même époque à peu près, la méthode d'analyse et de conception de systèmes **Merise** a été élaborée par un collectif français en 1979. Elle a fourni un cadre méthodologique et un langage commun et rigoureux à toute une génération d'informaticiens français.
 
 Par la suite, le monde a changé et un autre standard s’est imposé, tout en gardant certains principes de la méthodologie Merise. Au milieu des années 90, les *Three Amigos* (Grady Booch, Ivar Jacobson and James Rumbaug) se sont associés pour apporter plus de clarté aux programmeurs en créant de nouvelles normes. Les efforts de ces penseurs ont abouti à la création en 1996 d'**UML**, un langage de modélisation commun.
 
@@ -20,32 +21,12 @@ Finalement, Merise et UML se basent sur un schéma Entité-Relation. En fait, ce
 
 ### 3.1 Modéliser une BDD
 
-En fait, la modélisation permet avant tout d'avoir un langage commun. 
 
-Un diagramme entité-association est un type d'organigramme illustrant la façon dont des « entités » telles que des personnes, objets ou concepts sont liées les unes aux autres au sein d'un système. Les diagrammes entité-association sont généralement utilisés pour concevoir des bases de données relationnelles. Appelés *ERD* en anglais, ils utilisent une série de symboles prédéfinis tels que des rectangles, losanges et ovales reliés par des lignes pour décrire les interconnexions entre les entités, leurs relations et leurs attributs. Ils imitent une structure grammaticale, où les entités sont des noms et les relations des verbes. Voici un exemple de diagramme entité-association :
-
-![ex](https://d2slcw3kip6qmk.cloudfront.net/marketing/pages/i18n/fr/ER-diagram-images/Exemple-de-diagramme-entite-association-de-base-dedonnees.png)
-
-Voici les 3 éléments que tu vas devoir lister pour modéliser ta BDD à tête reposée :
-- **Les tables** : ce sont les tableaux qui composeront ta base de données. C'est ce qui demande le plus de réflexion mais qui t'aidera à poser des concepts concrets sur des thèmes abstraits. Tu verras plus tard qu'au final, une table (SQL) et un objet (Python) sont très liés... Exemples de tables : users, orders, cities, articles, etc.
-- **Les relations entre tables** : il vous faut établir quelles tables sont liées entre elles et via quelle relation (1-1, 1-N et N-N). En général, cette réflexion vient en même temps que celles où on détermine les tables. Par exemple : relation 1-N entre users et cities (un utilisateur vit dans une ville, une ville peut être lié à plusieurs utilisateurs), relation N-N entre users et les items (un utilisateur peut acheter plusieurs articles et chaque article peut avoir été acheté par plusieurs utilisateurs), etc.
-- **Les attributs de chaque table** : ce sont en gros les colonnes qui définissent chaque entrée d'une table. Par exemple, dans une table users on aura : first_name, gender, email, phone etc.
-
-Cette phase de réflexion doit être menée en équipe et sans ordinateur. Plusieurs choix :
-- Sur un tableau blanc, éventuellement à l'aide de post-its ;
-- En faisant un gros diagramme sur une feuille A4 avec un bon vieux stylo ;
-
-N'hésite pas à utiliser un logiciel d'ERD (*Entity Relation Diagram*) pour t'aider. Voici une liste :
-[LucidChart](https://www.lucidchart.com/),
-[VisualParadigm Online](https://online.visual-paradigm.com/fr/),
-[DB Diagram.io](https://dbdiagram.io/d).
-
-Entraîne-toi avec le second projet ! Et surtout, tu peux toi aussi imaginer des idées de startup et faire un diagramme via un *ERD*. En tant que Data Analyst, tu seras amené à relire et comprendre ces schémas de bases de donées. 
 
 
 ### 3.2 Créer une BDD relationnelle
 
-Une fois que tu as modélisé la base, c'est assez simple de la créer, et ça peut être utile (si tu te lances dans l'entrepreneuriat par exemple).
+Une fois que tu as modélisé la base, c'est assez simple de la créer. C'est le travail généralement du développeur mais on t'explique ça ici car ça peut être utile (si tu te lances dans l'entrepreneuriat par exemple).
 
 Le premier chapitre du cours OpenClassrooms [Implémentez vos bases de données relationnelles avec SQL](https://openclassrooms.com/fr/courses/6971126-implementez-vos-bases-de-donnees-relationnelles-avec-sql) t'indique comment faire. Si ça t'intéresse, va jusqu'au quiz *Créez une base de données avec MySQL*. 
 
