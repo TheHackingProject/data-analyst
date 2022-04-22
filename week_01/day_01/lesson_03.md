@@ -97,13 +97,5 @@ La ressource est disponible [ici](https://python.antoinepernot.fr/cours.php?cour
 ## 5. Pour aller plus loin
 La documentation Python disponible [ici](https://docs.python.org/3/). Quand tu commenceras à être à l'aise avec Python, tu pourras trouver des renseignements sur tous les packages et méthodes existants en Python. N'oublie pas de [RTFM](https://fr.wikipedia.org/wiki/RTFM_(expression)).
 
-Par ailleurs, il existe énormément de ressources en ligne pour apprendre à maîtriser Python. Si tu veux appronfondir certaines notions de Python, voici quelques ressources qui pourront t'être utiles : 
+Par ailleurs, il existe énormément de ressources en ligne pour apprendre à maîtriser Python. On a décidé d'arrêter de les partager car ça inquiétait plus les moussaillons qu'autre chose. Si tu as envie d'en faire plus et de découvrir certains aspects précis de Python, à toi d'aller chercher les sites qui te correspondent le mieux ✌️✌️ 
 
-- un [cours d'introduction à Python](https://courspython.com/)
-- un [autre cours pour débutants sur Python](https://python.antoinepernot.fr/index.php)
-- le site [Python Doctor](https://python.doctor/) qui donne plusieurs exemples
-
-et bien d'autres encore ... à toi d'aller chercher celles qui te correspondent le mieux ✌️✌️
-
-
-- Savoir s'adapter à l'état d'esprit de Python et ses bonnes pratiques. Voici [une ressource](https://python.sdv.univ-paris-diderot.fr/15_bonnes_pratiques/) qui te fera découvrir l'essentiel du Python mindset. Et rappelle toi qu'en utilisant Python pour l'analyse de données, tu n'as pas les mêmes exigences/contraintes qu'un dev Python qui doit créer des applications robustes et stables.
