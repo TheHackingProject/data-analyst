@@ -25,7 +25,7 @@ Pour vous représenter le fonctionnement d'un ETL, prenez l'exemple d'une entrep
 
 - Transform
 
-La transformation constitue l'étape essentielle du processus ETL. En effet, après l'extraction, lors de laquelle les données brutes sont agrégées et stockées, celles-ci sont nettoyées et converties au format des rapports de l'entreprise. Le nettoyage facilite la mise en conformité avec les normes internes de l'entreprise. Ces opérations, sans lesquelles les rapports seraient inexploitables, sont basées sur des règles prédéfinies : la standardisation (qui statue entre autres sur le format et le mode de stockage), la déduplication (soit le suivi et la suppression des doublons), la vérification pour surveiller les anomalies et le tri ou regroupement des données.
+La transformation constitue l'étape essentielle du processus ETL. En effet, après l'extraction, les données sont nettoyées et converties au format des rapports de l'entreprise. Le nettoyage facilite la mise en conformité avec les normes internes de l'entreprise. Ces opérations, sans lesquelles les rapports seraient inexploitables, sont basées sur des règles prédéfinies : la standardisation (qui statue entre autres sur le format et le mode de stockage), la déduplication (soit le suivi et la suppression des doublons), la vérification pour surveiller les anomalies et le tri ou regroupement des données.
 
 - Load
 
