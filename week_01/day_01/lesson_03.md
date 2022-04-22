@@ -13,9 +13,9 @@ Allons découvrir tout cela 🐣 🐣 ☕️☕️
 
 ## 2. La ressource
 Pour bien comprendre les bases de Python, nous te demandons de suivre le cours OpenClassrooms [Initiez-vous à Python pour l'analyse de données](https://openclassrooms.com/fr/courses/6204541-initiez-vous-a-python-pour-lanalyse-de-donnees).
-Ce cours est très bien fait et il est très adapté au niveau débutant.
+Ce cours est très bien fait et il est adapté au niveau débutant.
 
-N'hésite pas à prendre deux heures entières pour faire les 3 premiers chapitres (en réalisant les exercices sur ton Notebook et les quizz). Tu peux t'arrêter avant *Prenez en main les modules et librairies Python* car c'est le programme de la journée de demain.
+Force-toi à prendre deux heures entières pour faire les 3 premiers chapitres (en réalisant les exercices sur ton Notebook et les quizz). Tu peux t'arrêter avant *Prenez en main les modules et librairies Python* car c'est le programme de la journée de demain.
 
 ### 2.1. Jupyter Notebook et Anaconda
 Pour ton environnement de développement, nous te recommandons fortement de suivre ce que préconise le cours, c'est-à-dire télécharger Anaconda et utiliser Jupyter Notebook.
@@ -89,7 +89,7 @@ La ressource est disponible [ici](https://python.antoinepernot.fr/cours.php?cour
 - Comprendre les différents types et comment on les reconnaît (parenthèses, crochets etc).
 ![Les types sous Python](https://i.imgur.com/ne7Wx2O.png)
 
-- Se familiariser avec les méthodes les plus utilisées sur ces types (accéder à un élément, ajouter un élément, supprimer un élément, modifier un élément, compter le nombre d’éléments stockés etc.).
+- Se familiariser avec les méthodes les plus utilisées sur ces types (accéder à un élément, ajouter un élément, supprimer un élément, modifier un élément, compter le nombre d’éléments stockés etc.)
 
 - Comprendre la gestion des fichiers avec Python
 
