@@ -35,7 +35,7 @@ Le processus ETL s'achève avec le chargement, complet ou incrémental, des donn
 
 ### 3.2. Data Warehouse 
 
-L’une des principales particularités d’un Data Warehouse est que les informations y sont classées par sujets (clients, produits…). De fait, ce qui définit réellement un Data Warehouse est le type de données qu’elle contient et les personnes qui l’utilisent.
+L’une des principales particularités d’un Data Warehouse est que les informations y sont classées par sujets (clients, produits…).
 
 Les Data Warehouses présentent de nombreux avantages. Pour les responsables informatiques, ils permettent notamment de séparer les processus analytiques des processus d’exploitation pour améliorer les performances dans ces deux domaines.
 
@@ -56,7 +56,4 @@ Si l'univers du Big Data t'intéresse, tu peux lire ces 2 articles de la sociét
 Et si un jour tu te demandes s'il est temps pour ton entreprise de mettre en place un datawarehouse, voici plusieurs articles qui te seront utiles : 
 - [Est-il temps de mettre en place un Datawarehouse dans votre entreprise ?](https://www.cartelis.com/blog/datawarehouse-mise-en-place/)
 - [Comment créer son premier Data Warehouse ? Le guide complet pour les analystes débutants](https://www.cartelis.com/blog/creer-datawarehouse/)
-
-
-
 
