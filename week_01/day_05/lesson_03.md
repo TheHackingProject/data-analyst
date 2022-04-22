@@ -58,6 +58,8 @@ La conception des modèles de données dans un DW est une étape importante qui 
 
 Si vous êtes confronté un jour à la lourde tâche de créer un data warehouse pour une entreprise, prenez du temps en amont pour comprendre l'ensemble des concepts liés à la conception de data warehouse. 
 
+Ceci dit, depuis l'avênement du cloud, les projets datawarehouses peuvent être simplifiés et accessibles aux petites entreprises. La plupart des entreprises ont recours aux services cloud pour construire leurs entrepôts de données. Les plateformes des leaders s'appellent Google BigQuery, Amazon Redshift, Azure Synapse, Snowflake.
+
 
 ## 5. Pour aller plus loin
 - Tu as envie de savoir comment ça se passe concrètement dans la réalité ? Lis [cet article](https://grim.developpez.com/cours/businessintelligence/concepts/conception-datawarehouse/) qui explique bien les interactions entre flocon, étoile et constellation.
