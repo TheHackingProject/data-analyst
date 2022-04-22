@@ -3,15 +3,11 @@
 ## 1. Introduction
 Tu as normalement bien compris la différence entre base de données et système de BI. Pour rappel, les entrepôts de données (ou data warehouses) sont un type spécial de base de données, spécifiquement construit dans le but d'exécuter des analyses. 
 
-Alors que la plupart des bases de données sont des fichiers d'application OLTP (*Online Transactional Processing*), la plupart des entrepôts de données sont des fichiers OLAP (*Online Analytical Processing*). En raison de la structure des fichiers OLAP, il est beaucoup plus facile d'effectuer des requêtes et des analyses sur les données qu'ils contiennent, et n'importe qui peut interroger l'entrepôt de données avec un logiciel d'entrepôt de données ou une connaissance du SQL.
-
-En revanche, alors qu'on s'attend à ce que les bases de données aient un temps de disponibilité de 99,99 %, les entrepôts de données n'ont généralement pas besoin d'avoir ce genre de temps de disponibilité. Les entrepôts de données ne sont pas constamment lus et écrits comme les bases de données le sont. La plupart des entrepôts de données se rafraîchissent avec les données des bases de données, souvent toutes les 24 heures environ.
-
-On va maintenant voir comment on modélise ces deux types de systèmes. Dans cette ressource, focus sur les data warehouses 👉
+Tu as vu dans le projet 1 comment on modélise une base de données classique. Dans cette ressource et le projet 2, focus sur les data warehouses 👉
 
 📌 *Utilité pour le projet* : 5/5 pour le projet 2<br/>
 📊 *Utilité pour être Data Analyst* : 3/5<br/>
-💡 *Pourquoi cette ressource ?* : Cette ressource permet de comprendre le type de données auxquelles tu seras confronté dans les entreprises qui ont déjà un peu réfléchi à organiser un système d'info décisionnel. A la fin de la journée, les concepts vus mercredi (BI vs système opérationnel) vont te paraître plus concrets et tu sauras dorénavant naviguer plus confortablement dans l'univers data. En tant que Data Analyst, tu pourras être amené à modéliser des entrepôts de données et tu devras dans tous les cas comprendre les choix de modélisation donc c'est une compétence très importante.
+💡 *Pourquoi cette ressource ?* : Cette ressource permet de comprendre le type de données auxquelles tu seras confronté dans les entreprises qui ont déjà un peu réfléchi à organiser un système d'info décisionnel. En tant que Data Analyst, tu pourras être amené à modéliser des entrepôts de données et tu devras dans tous les cas comprendre les choix de modélisation donc c'est une compétence très importante.
 
 ## 2. Historique et contexte
 **Le concept de data warehousing remonte à la fin des années 1980** lorsque les chercheurs d'IBM Barry Devlin et Paul Murphy ont développé le « business data warehouse ». Essentiellement, le concept d'entreposage de données visait à fournir un modèle architectural pour le flux de données allant des systèmes opérationnels aux environnements d'aide à la décision.
@@ -51,16 +47,16 @@ Enfin, il y a  trois modélisations possibles pour organiser les données stock�
 - **la modélisation en flocon**. Le modèle en flocon reprend le modèle en étoile en décomposant les dimensions. 
 - **la modélisation en constellation**. Le modèle en constellation rassemble plusieurs tables des faits qui utilisent les mêmes dimensions. 
 
-Pour synthétiser tout cela, regarde [cette vidéo](https://www.youtube.com/watch?v=7vPIo1QI0Ek). Dans un des deux projets du jour, tu vas devoir t'essayer à ce type de modélisation donc essaye bien de retenir les concepts clés 📝
+Pour synthétiser tout cela, regarde [cette vidéo](https://www.youtube.com/watch?v=7vPIo1QI0Ek). Dans le projet 2, tu vas devoir t'essayer à ce type de modélisation donc essaye bien de retenir les concepts clés 📝
 
 Tu trouveras [ici](https://stph.scenari-community.org/dwh/int/co/intUC032modObj.html) quelques lignes intéressantes sur les objectifs du modèle dimensionnel, ainsi qu'un exemple de modèle en étoile.
 
 
 ## 4. Points importants à retenir
 
-La conception des modèles de données dans un DW est une étape importante qui nécessite une approche différente de celle utilisée lors de la conception de systèmes opérationnels. Il est aussi important de savoir comment naviguer dans l’entrepôt et comment l’alimenter. 
+La conception des modèles de données dans un DW est une étape importante qui nécessite une approche différente de celle utilisée lors de la conception de systèmes opérationnels. 
 
-Si vous êtes confronté un jour à la lourde tâche de créer un data warehouse pour une entreprise, prenez du temps en amont pour comprendre l'ensemble des concepts liés à la conception de data warehouse. Ex : les deux méthodes les plus connues dans la conception d’un entrepôt de données sont les approches introduites par Bill Inmon « top-down » et Ralph Kimball « bottom-up ».
+Si vous êtes confronté un jour à la lourde tâche de créer un data warehouse pour une entreprise, prenez du temps en amont pour comprendre l'ensemble des concepts liés à la conception de data warehouse. 
 
 
 ## 5. Pour aller plus loin
