@@ -11,7 +11,7 @@ Le *Data warehouse*, ou entrepôt de données, est une base de données dédiée
 ## 2. Historique et contexte
 Les premiers logiciels **Extract-Transform-Load** ont été développés au milieu des années 1970. A cette époque, les entreprises commençaient à utiliser plusieurs sources de données et à gérer différentes bases pour stocker différentes sortes de données business. Très tôt, le besoin s’est fait sentir d’agréger ces données. Au tournant des années 1980 – 1990, un type de plateforme s’est imposé comme solution de référence pour recevoir toutes ces données transformées et faire office de référentiel data : le Data Warehouse.
 
-Un **Data Warehouse** (ou entrepôt de données) est une base de données relationnelle pensée et conçue pour les requêtes et les analyses de données, la prise de décision et les activités de type Business Intelligence, davantage que pour le traitement de transactions. Les Data Warehouses sont utilisées depuis près de 30 ans. Depuis peu toutefois, les Data Lakes gagnent en popularité à tel point que certains pensent qu’ils vont remplacer les Warehouses. 
+Un **Data Warehouse** (ou entrepôt de données) est une base de données relationnelle pensée et conçue pour les requêtes et les analyses de données, la prise de décision et les activités de type Business Intelligence, davantage que pour le traitement de transactions. Les Data Warehouses sont utilisés depuis près de 30 ans. 
 
 ## 3. La ressource
 
@@ -35,7 +35,7 @@ Le processus ETL s'achève avec le chargement, complet ou incrémental, des donn
 
 ### 3.2. Data Warehouse 
 
-L’une des principales particularités d’un Data Warehouse est que les informations y sont classées par sujets (clients, produits…). De fait, ce qui définit réellement une Data Warehouse est le type de données qu’elle contient et les personnes qui l’utilisent.
+L’une des principales particularités d’un Data Warehouse est que les informations y sont classées par sujets (clients, produits…). De fait, ce qui définit réellement un Data Warehouse est le type de données qu’elle contient et les personnes qui l’utilisent.
 
 Les Data Warehouses présentent de nombreux avantages. Pour les responsables informatiques, ils permettent notamment de séparer les processus analytiques des processus d’exploitation pour améliorer les performances dans ces deux domaines.
 
