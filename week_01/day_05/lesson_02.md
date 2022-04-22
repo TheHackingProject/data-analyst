@@ -39,21 +39,19 @@ L’une des principales particularités d’un Data Warehouse est que les inform
 
 Les Data Warehouses présentent de nombreux avantages. Pour les responsables informatiques, ils permettent notamment de séparer les processus analytiques des processus d’exploitation pour améliorer les performances dans ces deux domaines.
 
-Ce sont des notions à connaître car tu verras qu'il existe un flou aujourd'hui entre Data Engineer et un Data Analyst dans certaines entreprises. En fait, si l'entreprise n'a pas de Data Engineer à sa disposition, ce sera au Data Analyst d'aller farfouiller (Extract), remettre en forme (Transform) et mettre à disposition (Load) les données du Data Warehouse. On en revient toujours à la fameuse compétence "couteau-suisse" que doit avoir le Data Analyst 😅
+Ils sont très utiles pour permettre aux entreprises d’accéder rapidement et facilement aux données en provenance de multiples sources de manière centralisée. De manière générale, un Data Warehouse permet de réduire le temps nécessaire pour l’analyse de données et la production de rapports et de faciliter ces tâches.
+
+Pour toi futur Data Analyst, ce sont des notions à connaître car tu verras qu'il existe un flou aujourd'hui entre Data Engineer et Data Analyst dans certaines entreprises. En fait, si l'entreprise n'a pas de Data Engineer à sa disposition, ce sera au Data Analyst d'aller farfouiller (Extract), remettre en forme (Transform) et mettre à disposition (Load) les données du Data Warehouse. On en revient toujours à la fameuse compétence "couteau-suisse" que doit avoir le Data Analyst 😅
 
 
 ## 4. Points importants à retenir
 - Au-delà des outils qu'il regroupe, l'ETL désigne aussi un processus fondamental dans l'analyse de données. Tu peux consulter [cette page de cours](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python/7296776-extrayez-et-transformez-des-donnees-avec-l-extraction-web) pour comprendre ce que veut dire plus généralement le processus ETL.
 
-- Il faut bien comprendre ce qu'on a vu mercredi : la définition d'un **système « opérationnel » ou « de gestion »**, également appelé système OLTP (*on-line transaction processing*). Ces systèmes sont dédiés aux métiers de l'entreprise pour les assister dans leurs tâches de gestion quotidiennes. La tendance est à l'utilisation de P.G.I. (progiciels de gestion intégrée) qui regroupent tous les logiciels de gestion de l'entreprise – finances, ressources humaines, logistique, ventes, etc. – en un unique progiciel paramétrable aux règles de l'entreprise. Qui est à différencier d'un **système « décisionnel »**, également appelés OLAP (*on-line analytical processing*). Ces systèmes sont dédiés au management de l'entreprise pour l'aider au pilotage de l'activité. Ils offrent au décideur une vision transversale de l'entreprise. La tendance pour réaliser un système décisionnel est à la mise en place d'un entrepôt de données, ou data warehouse.
+- Il faut bien comprendre ce qu'on a vu mercredi : la définition d'un **système « opérationnel » ou « de gestion »**, également appelé système OLTP (*on-line transaction processing*). Ces systèmes sont dédiés aux métiers de l'entreprise pour les assister dans leurs tâches de gestion quotidiennes. Qui est à différencier d'un **système « décisionnel »**, également appelés OLAP (*on-line analytical processing*). Ces systèmes sont dédiés au management de l'entreprise pour l'aider au pilotage de l'activité. Ils offrent au décideur une vision transversale de l'entreprise. La tendance pour réaliser un système décisionnel est à la mise en place d'un entrepôt de données, ou data warehouse.
 
 
 ## 5. Pour aller plus loin
-Si l'univers du Big Data t'intéresse, tu peux lire ces 2 articles de la société Talend, le leader des ETL open source : 
-- [Guide du processus ETL](https://www.talend.com/fr/resources/guide-etl/)
-- [Différences entre lacs de données et entrepôts de données](https://www.talend.com/fr/resources/data-lake-vs-data-warehouse/)
-
-Et si un jour tu te demandes s'il est temps pour ton entreprise de mettre en place un datawarehouse, voici plusieurs articles qui te seront utiles : 
+Si un jour tu te demandes s'il est temps pour ton entreprise de mettre en place un datawarehouse, voici plusieurs articles qui te seront utiles : 
 - [Est-il temps de mettre en place un Datawarehouse dans votre entreprise ?](https://www.cartelis.com/blog/datawarehouse-mise-en-place/)
 - [Comment créer son premier Data Warehouse ? Le guide complet pour les analystes débutants](https://www.cartelis.com/blog/creer-datawarehouse/)
 
