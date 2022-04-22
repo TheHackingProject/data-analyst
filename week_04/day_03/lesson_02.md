@@ -49,6 +49,8 @@ Un programme informatique traditionnel effectue une tâche en suivant des instru
 À mesure que le Big Data continuera à se développer, avec toujours plus de données générées, et alors que l’informatique continuera à gagner en puissance, le Machine Learning offrira encore davantage de possibilités ... 
 
 ## 5. Pour aller plus loin
+La chaîne YouTube *Machine Learnia* qui propose plus de 30 vidéos sur [Python pour le Machine Learning](https://www.youtube.com/watch?v=82KLS2C_gNQ&list=PLO_fdPEVlfKqMDNmCFzQISI2H_nJcEDJq).
+
 Deux cours OC plus avancés qui te permettront de renforcer tes compétences en Machine Learning si cela t'intéresse : 
 - [Evaluez les performances d'un modèle de machine learning](https://openclassrooms.com/fr/courses/4297211-evaluez-les-performances-dun-modele-de-machine-learning)
 - [Entraînez un modèle prédictif linéaire](https://openclassrooms.com/fr/courses/4444646-entrainez-un-modele-predictif-lineaire)
