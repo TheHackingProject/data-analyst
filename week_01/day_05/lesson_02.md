@@ -41,17 +41,26 @@ Les Data Warehouses présentent de nombreux avantages. Pour les responsables inf
 
 Ils sont très utiles pour permettre aux entreprises d’accéder rapidement et facilement aux données en provenance de multiples sources de manière centralisée. De manière générale, un Data Warehouse permet de réduire le temps nécessaire pour l’analyse de données et la production de rapports et de faciliter ces tâches.
 
-Pour toi futur Data Analyst, ce sont des notions à connaître (cf. ressource suivante) car tu verras qu'il existe un flou aujourd'hui entre Data Engineer et Data Analyst dans certaines entreprises. En fait, si l'entreprise n'a pas de Data Engineer à sa disposition, ce sera au Data Analyst d'aller farfouiller (Extract), remettre en forme (Transform) et mettre à disposition (Load) les données du Data Warehouse. On en revient toujours à la fameuse compétence "couteau-suisse" que doit avoir le Data Analyst 😅
+
+### 3.3. Quelles différences entre le Data Warehouse et la base de données opérationnelle ?
+
+Il faut bien comprendre ce qu'on a commencé à voir mercredi. 
+
+D'une part, une entreprise possède un **système « opérationnel » ou « de gestion »**, également appelé système OLTP (*on-line transaction processing*). Ces systèmes sont dédiés aux métiers de l'entreprise pour les assister dans leurs tâches de gestion quotidiennes. Les bases de données sont ici conçues de manière à ce que les données qu'elles contiennent soient accessibles et manipulables. Mais par ailleurs, l'entreprise a besoin d'un meilleur endroit pour conserver les données en provenance de diverses sources : un endroit qui  permet de maintenir un référentiel unique et d'exécuter des analyses sur toutes les sources de données et flux simultanément.
+
+C'est pourquoi, dès qu'elles commencent à s'intéresser sérieusement à leurs données, les entreprises se dotent d'un **système « décisionnel »**, également appelés OLAP (*on-line analytical processing*). Ces systèmes sont dédiés au management de l'entreprise pour l'aider au pilotage de l'activité. Ils offrent au décideur une vision transversale de l'entreprise. La tendance pour réaliser un système décisionnel est à la mise en place d'un entrepôt de données, ou data warehouse.
+
+Mais tu dois te demander : concrètement, quelles sont les différences entre les systèmes OLTP et systèmes OLAP ?
+
+Voici quelques réponses qui vont t'éclairer : en raison de la structure des fichiers OLAP, il est beaucoup plus facile d'effectuer des requêtes et des analyses sur les données qu'ils contiennent, et n'importe qui peut interroger l'entrepôt de données avec un logiciel d'entrepôt de données ou une connaissance du SQL.
+
+En revanche, alors qu'on s'attend à ce que les bases de données aient un temps de disponibilité de 99,99 %, les entrepôts de données n'ont généralement pas besoin d'avoir ce genre de temps de disponibilité. Les entrepôts de données ne sont pas constamment lus et écrits comme les bases de données le sont. La plupart des entrepôts de données se rafraîchissent avec les données des bases de données, souvent toutes les 24 heures environ.
 
 
 ## 4. Points importants à retenir
-- Au-delà des outils qu'il regroupe, l'ETL désigne aussi un processus fondamental dans l'analyse de données. Tu peux consulter [cette page de cours](https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python/7296776-extrayez-et-transformez-des-donnees-avec-l-extraction-web) pour comprendre ce que veut dire plus généralement le processus ETL.
+- Au-delà des logiciels, l'ETL désigne par extension un processus fondamental dans l'analyse de données. Finalement, tu entendras souvent cet acronyme de la part des experts data car il permet de nommer le processus qui sert à récolter des données à un endroit, à les manipuler un peu et à les sauvegarder dans un autre endroit.  
 
-- Il faut bien comprendre ce qu'on a vu mercredi : la définition d'un **système « opérationnel » ou « de gestion »**, également appelé système OLTP (*on-line transaction processing*). Ces systèmes sont dédiés aux métiers de l'entreprise pour les assister dans leurs tâches de gestion quotidiennes. Qui est à différencier d'un **système « décisionnel »**, également appelés OLAP (*on-line analytical processing*). Ces systèmes sont dédiés au management de l'entreprise pour l'aider au pilotage de l'activité. Ils offrent au décideur une vision transversale de l'entreprise. La tendance pour réaliser un système décisionnel est à la mise en place d'un entrepôt de données, ou data warehouse.
-
-Concrètement, quelles sont leurs différences ? En raison de la structure des fichiers OLAP, il est beaucoup plus facile d'effectuer des requêtes et des analyses sur les données qu'ils contiennent, et n'importe qui peut interroger l'entrepôt de données avec un logiciel d'entrepôt de données ou une connaissance du SQL.
-
-En revanche, alors qu'on s'attend à ce que les bases de données aient un temps de disponibilité de 99,99 %, les entrepôts de données n'ont généralement pas besoin d'avoir ce genre de temps de disponibilité. Les entrepôts de données ne sont pas constamment lus et écrits comme les bases de données le sont. La plupart des entrepôts de données se rafraîchissent avec les données des bases de données, souvent toutes les 24 heures environ.
+- En tant que Data Analyst, ton rôle est théoriquement d'utiliser les données déjà enregistrées (Loaded) dans l'entrepôt de données pour créer des tableaux de bord et faire des analyses. Donc normalement, ce n'est pas toi qui gères le fonctionnement du data warehouse. Néanmoins, dans la pratique, il existe un flou aujourd'hui entre Data Engineer et Data Analyst dans certaines entreprises. En fait, si l'entreprise n'a pas de Data Engineer à sa disposition, ce sera au Data Analyst d'aller aussi farfouiller (Extract), remettre en forme (Transform) et mettre à disposition (Load) les données du Data Warehouse. On en revient toujours à la fameuse compétence "couteau-suisse" que doit avoir le Data Analyst 😅
 
 
 ## 5. Pour aller plus loin
