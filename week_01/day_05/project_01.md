@@ -1,8 +1,8 @@
 # Petits sites de BDD relationnelles
-Tu vas concevoir la base de données de plusieurs projets. SPOILER ALERT : ce projet fait également partie du pacours Dev Fullstack (sauf qu'eux devaient les créer pour de vrai). En fait, c'est rarement au Data Analyst de réaliser cette étape mais si tu arrives à le faire, tu auras une meilleure vue d'ensemble et tu pourras facilement dialoguer avec les devs quand il s'agira d'aller récupérer "leurs" données pour faire tes analyses ✌️ 
+Tu vas concevoir la base de données de plusieurs projets. SPOILER ALERT : ce projet fait également partie du pacours Dev Fullstack (sauf qu'eux devaient les créer pour de vrai). En fait, c'est rarement au Data Analyst de réaliser cette étape mais si tu arrives à le faire, tu auras une meilleure vue d'ensemble et tu pourras facilement dialoguer avec les devs quand tu auras besoin de comprendre et récupérer "leurs" données pour faire tes analyses ✌️ 
 
 ## 1. Introduction
-Pour ce projet, nous allons te demander de modéliser plusieurs applications. Ce seront tes premières tables avancées, mais à ton niveau plus rien ne t'arrête.
+Pour ce projet, nous allons te demander de modéliser plusieurs applications. 
 
 ## 2. Le projet
 
