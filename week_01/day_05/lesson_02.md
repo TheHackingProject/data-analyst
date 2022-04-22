@@ -41,7 +41,7 @@ Les Data Warehouses présentent de nombreux avantages. Pour les responsables inf
 
 Ils sont très utiles pour permettre aux entreprises d’accéder rapidement et facilement aux données en provenance de multiples sources de manière centralisée. De manière générale, un Data Warehouse permet de réduire le temps nécessaire pour l’analyse de données et la production de rapports et de faciliter ces tâches.
 
-Pour toi futur Data Analyst, ce sont des notions à connaître car tu verras qu'il existe un flou aujourd'hui entre Data Engineer et Data Analyst dans certaines entreprises. En fait, si l'entreprise n'a pas de Data Engineer à sa disposition, ce sera au Data Analyst d'aller farfouiller (Extract), remettre en forme (Transform) et mettre à disposition (Load) les données du Data Warehouse. On en revient toujours à la fameuse compétence "couteau-suisse" que doit avoir le Data Analyst 😅
+Pour toi futur Data Analyst, ce sont des notions à connaître (cf. ressource suivante) car tu verras qu'il existe un flou aujourd'hui entre Data Engineer et Data Analyst dans certaines entreprises. En fait, si l'entreprise n'a pas de Data Engineer à sa disposition, ce sera au Data Analyst d'aller farfouiller (Extract), remettre en forme (Transform) et mettre à disposition (Load) les données du Data Warehouse. On en revient toujours à la fameuse compétence "couteau-suisse" que doit avoir le Data Analyst 😅
 
 
 ## 4. Points importants à retenir
