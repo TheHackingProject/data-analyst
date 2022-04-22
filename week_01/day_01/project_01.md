@@ -15,7 +15,6 @@ La difficulté des exercices est croissante alors pas d'inquiétude si tu as du 
 - afficher les caractères de `bonjour` de la position 1 à la position 3  
 - afficher les caractères de `bonjour` de la position 3 jusqu'à la fin  
 - vérifier que `bonjour` commence par `hel`
-- vérifier que `bonjour` se termine par `world !`  
 
 ## 2.2. Manipulation de fonctions 🔗
 - créer une fonction qui prend en paramètre une variable intitulée `name` et qui affiche `Hello` suivi du prénom choisi  
