@@ -5,7 +5,7 @@
 Avant de créer une base de données, il est important de la modéliser (cad la représenter sous forme de schéma).
 
 📌 *Utilité pour le projet* : 5/5 pour le projet 1<br/>
-📊 *Utilité pour être Data Analyst* : 2/5<br/>
+📊 *Utilité pour être Data Analyst* : 3/5<br/>
 💡 *Pourquoi cette ressource ?* : Pour que tu saches lire les schémas de base de données sans aucun problème.
 
 ## 2. Historique et contexte
