@@ -49,10 +49,10 @@ La mise en forme fait clairement partie des compétences à avoir pour un Data A
 
 A la fin de la journée, vous pouvez réunir l'ensemble des cas d'usage dans le même fichier PDF. Ainsi, vous aurez un rendu harmonisé et professionnel qui pourra être partagé.
 
-Si tu es un peu perdu après la lecture de cet énonce, on te met à disposition [un exemple de cas d'usage](https://drive.google.com/file/d/1P7CVWcyA8Yxn5PcP9aQCO-rtHNhRTY_Y/view?usp=sharing) entièrement rédigé 🚴‍♀‍ Attention, il s'agit ici d'un cas d'usage de l'IA. Ici, on te demande un cas d'usage de BI. 
+Si tu es un peu perdu après la lecture de cet énoncé, on te met à disposition [un exemple de cas d'usage](https://drive.google.com/file/d/1P7CVWcyA8Yxn5PcP9aQCO-rtHNhRTY_Y/view?usp=sharing) entièrement rédigé 🚴‍♀‍ Attention, il s'agit ici d'un cas d'usage de l'IA. Ici, on te demande un cas d'usage de BI. 
 
 
 ## 3. Rendu attendu
 A la fin, vous aurez un fichier PDF contenant l'ensemble des cas d'usage proposés par les moussaillons. 
-Si vous n'êtes pas beaucoup à avoir choisi de réaliser le projet, tant pis, c'est la vie : le book contiendra moins d'exemples pour vous et vos éventuels lecteurs 🦴🍖
-
+Si vous n'êtes pas beaucoup à avoir choisi de réaliser le projet, tant pis, c'est la vie : le book contiendra moins d'exemples pour vous et vos éventuels lecteurs 🦴🍖 
+Et si vous n'avez pas fini aujourd'hui, vous pourrez tout à fait le reprendre à un autre moment au cours des 5 semaines de formation. Le plus important c'est d'avoir compris l'exercice et d'être capable de le refaire si un jour tu arrives dans une entreprise et qu'on te dit "en fait, on n'a pas bien compris exactement dans quels cas les entreprises utilisent la data pour améliorer leurs problèmatiques RH. Est-ce que tu peux nous faire une présentation qui détaille les cas d'usage data intéressants pour les RH" ?
