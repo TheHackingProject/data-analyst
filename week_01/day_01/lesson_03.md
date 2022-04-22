@@ -64,6 +64,8 @@ Il existe plusieurs types de variables pour stocker les éléments en Python :
 - les dictionnaires `dictionary` : un tableau non ordonné, où chaque élément est associé à une clé. Ex : `symboles = {"H" : "hydrogen", "He" : "helium", "Li" : "lithium"}`
 - les sets ou ensembles `set` : une collection d'objets non ordonnée et contenant des éléments uniques. Ex : `s = {1,2,3}`.
 
+Tu as dû remarquer que chaque type a une syntaxe particulière : les crochets pour la liste, les parenthèses pour le tuple etc.
+
 Le type d'une variable peut changer, il correspond toujours au type de la dernière affectation.
 La fonction `type()` détermine le type d'une variable.
 
@@ -91,15 +93,17 @@ La ressource est disponible [ici](https://python.antoinepernot.fr/cours.php?cour
 
 - Comprendre la gestion des fichiers avec Python
 
-- Savoir s'adapter à l'état d'esprit de Python et ses bonnes pratiques. Voici [une ressource](https://python.sdv.univ-paris-diderot.fr/15_bonnes_pratiques/) qui te fera découvrir l'essentiel du Python mindset. Et rappelle toi qu'en utilisant Python pour l'analyse de données, tu n'as pas les mêmes exigences/contraintes qu'un dev Python qui doit créer des applications robustes et stables.
 
 ## 5. Pour aller plus loin
-La documentation Python disponible [ici](https://docs.python.org/3/). Quand tu commenceras à être à l'aise avec Python, tu pourras trouver des renseignements sur tous les packages et méthodes existants en Python.
+La documentation Python disponible [ici](https://docs.python.org/3/). Quand tu commenceras à être à l'aise avec Python, tu pourras trouver des renseignements sur tous les packages et méthodes existants en Python. N'oublie pas de [RTFM](https://fr.wikipedia.org/wiki/RTFM_(expression)).
 
 Par ailleurs, il existe énormément de ressources en ligne pour apprendre à maîtriser Python. Si tu veux appronfondir certaines notions de Python, voici quelques ressources qui pourront t'être utiles : 
-- la chaîne YouTube *Machine Learnia* qui propose plus de 30 vidéos sur [Python pour le Machine Learning](https://www.youtube.com/watch?v=82KLS2C_gNQ&list=PLO_fdPEVlfKqMDNmCFzQISI2H_nJcEDJq)
+
 - un [cours d'introduction à Python](https://courspython.com/)
 - un [autre cours pour débutants sur Python](https://python.antoinepernot.fr/index.php)
 - le site [Python Doctor](https://python.doctor/) qui donne plusieurs exemples
 
 et bien d'autres encore ... à toi d'aller chercher celles qui te correspondent le mieux ✌️✌️
+
+
+- Savoir s'adapter à l'état d'esprit de Python et ses bonnes pratiques. Voici [une ressource](https://python.sdv.univ-paris-diderot.fr/15_bonnes_pratiques/) qui te fera découvrir l'essentiel du Python mindset. Et rappelle toi qu'en utilisant Python pour l'analyse de données, tu n'as pas les mêmes exigences/contraintes qu'un dev Python qui doit créer des applications robustes et stables.
