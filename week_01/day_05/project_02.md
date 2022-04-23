@@ -1,7 +1,7 @@
 # Modéliser un système de BI
 
 ## 1. Introduction
-Pour concevoir une bonne base de données, il faut bien comprendre le business concerné. Donc on fera souvent appel au Data Analyst pour réaliser la modélisation de la base ou pour vérifier que rien n'a été oublié. Avant que ça soit ton tour, profite de ce projet pour t'exercer et devenir un as de la modélisation de systèmes d'info décisionnels 🦁
+Pour concevoir une bon entrepôt de données, il faut bien comprendre le business concerné. Donc on fera souvent appel au Data Analyst pour réaliser la modélisation de la base ou pour vérifier que rien n'a été oublié. Avant que ça soit ton tour, profite de ce projet pour t'exercer et devenir un as de la modélisation de systèmes d'info décisionnels 🦁
 
 ## 2. Le projet
 ### 2.1. Un système d'info décisionnel pour votre université 🎓🎓
@@ -20,7 +20,7 @@ Il souhaite pouvoir répondre aux questions suivantes :
 Pour cela, vous disposez des données suivantes :
 Pour chaque examen passé, on connaît l’âge et le genre de l’apprenant, le nom du cours (les cours peuvent être regroupés en cours obligatoire et cours à option), la date de l’examen, la note obtenue et si l’examen est réussi ou non.
 
-Pour l'instant, il vous demande de réfléchir à la conception du système. Vos premières missions sont les suivantes : 
+Pour l'instant, il vous demande de réfléchir à la conception du système. Vos missions sont les suivantes : 
 - Donner la table principale de l’entrepôt ainsi que les tables dimensions relatives.
 - Tracer le schéma en étoile dimensionnel.
 
@@ -30,7 +30,8 @@ Un ami à vous possède une entreprise qui revend du matériel informatique. Il 
 
 La seule chose dont il dispose est d'un fichier Access qui contient sa base de données. 
 
-Pour aider votre ami, vous allez utiliser le logiciel PowerBI Desktop (à télécharger [ici](https://powerbi.microsoft.com/fr-fr/downloads/)). 
+Pour aider votre ami, vous allez utiliser le logiciel PowerBI Desktop(à télécharger [ici](https://powerbi.microsoft.com/fr-fr/downloads/)). Vous avez choisi PowerBI car il possède une vue dédié à la modélisation : il est donc le logiciel le plus pratique pour modéliser des données.
+
 Vous importez votre fichier [sales.db](https://drive.google.com/file/d/13AZq7xX1JDkCsFjqUVqGTYJQmLkmAykc/view?usp=sharing), vous chargez toutes les tables. 
 
 ___
@@ -42,7 +43,7 @@ PowerBI Desktop est un logiciel de data très répandu sur le marché donc je te
 En attendant, si tu n'as vraiment pas de PC et que tu ne veux pas t'ennuyer avec des tentatives de virtualisation, tu peux réaliser le projet avec un ERD classique.
 ___
 
-Pour en savoir plus sur le fonctionnement de PowerBI, vous pouvez regarder [cette vidéo](https://www.youtube.com/watch?v=PwyuzmL0jLU) ou [la doc de Microsoft](https://docs.microsoft.com/fr-fr/power-bi/fundamentals/desktop-getting-started). 
+Pour en savoir plus sur le fonctionnement de PowerBI, vous pouvez regarder [cette vidéo](https://www.youtube.com/watch?v=PwyuzmL0jLU) ou [la doc de Microsoft](https://docs.microsoft.com/fr-fr/power-bi/fundamentals/desktop-getting-started), dont un tutoriel spécifique à la [conception de modèle de données](https://docs.microsoft.com/fr-fr/learn/modules/design-model-power-bi/).
 
 Vos missions sont les suivantes : 
 - Déterminer la table fait et les tables dimensions
