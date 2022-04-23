@@ -43,7 +43,7 @@ PowerBI Desktop est un logiciel de data très répandu sur le marché donc je te
 En attendant, si tu n'as vraiment pas de PC et que tu ne veux pas t'ennuyer avec des tentatives de virtualisation, tu peux réaliser le projet avec un ERD classique.
 ___
 
-Pour en savoir plus sur le fonctionnement de PowerBI, vous pouvez regarder [cette vidéo](https://www.youtube.com/watch?v=PwyuzmL0jLU) ou [la doc de Microsoft](https://docs.microsoft.com/fr-fr/power-bi/fundamentals/desktop-getting-started), dont un tutoriel spécifique à la [conception de modèle de données](https://docs.microsoft.com/fr-fr/learn/modules/design-model-power-bi/).
+Pour en savoir plus sur le fonctionnement de PowerBI, vous pouvez regarder [cette vidéo](https://www.youtube.com/watch?v=PwyuzmL0jLU) ou [la doc de Microsoft](https://docs.microsoft.com/fr-fr/power-bi/fundamentals/desktop-getting-started), en particulier un tutoriel spécifique à la [conception de modèle de données](https://docs.microsoft.com/fr-fr/learn/modules/design-model-power-bi/).
 
 Vos missions sont les suivantes : 
 - Déterminer la table fait et les tables dimensions
