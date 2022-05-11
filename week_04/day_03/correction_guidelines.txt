@@ -1,10 +1,10 @@
 Est-ce qu'on nous dit si l'analyse proposée est descriptive, prédictive ou prescriptive ? 
 A-t-on une liste de questions auxquelles les analyses vont essayer de répondre ? 
 Cette liste de questions est-elle priorisée en fonction de critères définis ? 
-Est-ce que le choix de solutions n'apparaît qu'une fois les analyses ont été présentées ? 
+Est-ce que le choix de solutions n'apparaît qu'une fois que le problème a été présenté ? 
 Est-ce que le choix d'outils est justifié ?
 Est-ce que les objectifs en termes d'analyse sont précis ? Est-ce qu'on comprend la finalité du projet ? 
 Est-ce que l'on a des informations sur l'expérience et le niveau de l'équipe sur les concepts utilisés ? Y-a-t-il une transparence de l'information ?
 Avec les informations figurant sur les slides, peut-on dire s'il s'agit plutôt un projet de Data Analyse ou de Data Science ?
-Est-ce que le vocabulaire utilisé est suffisamment précis pour qu'on comprenne ce que saura le livrable final ? 
-Est-ce que la répartition des rôles choisie semble efficace et optimisée ? 
+Est-ce que le vocabulaire utilisé est suffisamment précis pour qu'on comprenne ce que sera le livrable final ? 
+
