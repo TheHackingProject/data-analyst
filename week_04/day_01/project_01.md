@@ -84,7 +84,7 @@ Même quand on travaille en méthode agile, c'est important de planifier les pro
 N'oubliez pas donc de faire une roadmap (feuille de route) ou une timeline qui positionnera dans le temps les jalons essentiels de votre projet. Vous pouvez d'ailleurs à cette occasion identifier les points d'étape qui vous semblent les plus épineux et sur lesquels il faudra être vigilant.
 
 ## 3. Rendu attendu
-- **Un executive summary** qui permet de bien cerner votre vision du projet. Les différentes éléments de l'exec summary à présenter sont : 
+- **Une présentation synthétique** (sous PPT par ex) qui permet de bien cerner votre vision du projet. Les différentes éléments à présenter sont : 
   -  Présentation ; 
   -  Problème à résoudre ; 
   -  L'équipe en place (et ses différents rôles) ; 
@@ -93,6 +93,7 @@ N'oubliez pas donc de faire une roadmap (feuille de route) ou une timeline qui p
   -  Le cadrage du projet ; 
   -  La timeline du projet.
 
-Vous pouvez faire des efforts sur ce livrable car tu auras l'occasion de le présenter au client lors de la restitution finale après les 5 jours de travail. Comme pour tout projet data, tu devras raconter l'histoire (cf. journée sur le storytelling et les présentations percutantes) de ton projet au client. D'où l'importance d'un support type exec summary. Pour certains éléments, tu peux tout à fait mettre des captures d'écran ou des liens qui redirigent vers ce qui a déjà été fait (ex : un board Trello, un fichier Word). L'idée de l'exec summary n'est pas de rajouter du travail inutile mais de recentraliser l'ensemble des éléments d'un projet.
+Comme pour tout projet data, tu devras raconter l'histoire (cf. journée sur le storytelling et les présentations percutantes) de ton projet au client. D'où l'importance d'un support de présentation. Pour certains éléments, tu peux tout à fait mettre des captures d'écran ou des liens qui redirigent vers ce qui a déjà été fait (ex : un board Trello, un fichier Word). L'idée du support de présentation n'est pas de rajouter du travail inutile mais de recentraliser l'ensemble des éléments d'un projet.
+Enfin, si certains éléments sont amenés à changer au cours du projet, il n'y a aucun problème pour cela, vous pourrez revenir sur les slides et les modifier facilement.
 
-- Ton équipe et toi devez présenter cet executive summary à tes collègues de formation demain matin. Les guidelines de correction permettront d'évaluer le support de présentation. Et ils pourront te poser des questions et te faire des remarques très utiles pour l'avancée de ton projet.
+- Ton équipe et toi devez présenter ces slides à tes collègues de formation demain matin. Les guidelines de correction permettront d'évaluer le support de présentation. Et ils pourront te poser des questions et te faire des remarques très utiles pour l'avancée de ton projet.
