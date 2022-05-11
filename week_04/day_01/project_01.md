@@ -84,7 +84,7 @@ Même quand on travaille en méthode agile, c'est important de planifier les pro
 N'oubliez pas donc de faire une roadmap (feuille de route) ou une timeline qui positionnera dans le temps les jalons essentiels de votre projet. Vous pouvez d'ailleurs à cette occasion identifier les points d'étape qui vous semblent les plus épineux et sur lesquels il faudra être vigilant.
 
 ## 3. Rendu attendu
-- **Une présentation synthétique** (sous PPT par ex) qui permet de bien cerner votre vision du projet. Les différentes éléments à présenter sont : 
+- **Une présentation synthétique** (sous PPT par ex) qui permet de bien cerner votre vision du projet. Les différents éléments à présenter sont : 
   -  Présentation ; 
   -  Problème à résoudre ; 
   -  L'équipe en place (et ses différents rôles) ; 
