@@ -15,7 +15,7 @@ Projet qui va durer une semaine etc
 
 #### 2.2.2. Distribuer les rôles et définir une méthodologie de travail
 
-
+#### 2.2.3. Découper les tâches et se projeter sur le premier rendu
 
 Il y a 2 principes de base dans l'organisation de votre petite équipe. Et ils sont TRES simples. C'est :
 
