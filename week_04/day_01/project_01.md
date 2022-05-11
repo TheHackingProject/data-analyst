@@ -1,12 +1,43 @@
 # Lance ton projet crash test
 
 ## 1. Introduction
-Pq on fait un projet crash test ?
-Projet qui va durer une semaine etc
+
+Pendant les 3 premières semaines, tu as fait des projets de taille raisonnable dans le sens où ils pouvaient être réalisés par une personne en une journée. Or, dans la majorité des cas, les projets data en entreprise vont impliquer plusieurs personnes (car ils nécessitent des compétences variées) et cela sur plusieurs jours. 
+
+Avant que tu sois lancé totalement dans le grand bain avec LE PROJET FINAL, on va permettre à ton équipe de se tester sur un projet d'envergure avec LE PROJET CRASH TEST 😯
+
+On te conseille de faire ce projet crash test à fond pour 2 raisons : 
+- cette semaine, vous allez passer du temps à tâtonner avec des moments où vous ne saurez pas dans quelle direction aller. Mais la semaine prochaine, vous n'aurez plus ces hésitations car vous aurez déjà une première expérience de ce qui fonctionne et ce qui n'est pas efficace. En effet, sans vous en rendre compte, vous allez créer des automatismes et commencer à comprendre comment fonctionnent les membres de votre équipe. 
+- si vous y passez un minimum de temps, vous allez pouvoir ajouter le livrable de ce projet crash test à votre book. Le sujet est d'actualité et très généraliste donc il pourra intéresser.
+
 
 ## 2. Le projet
 
 ### 2.1. La mission de la semaine
+
+Avec ton équipe, vous avez décidé de vous mettre en freelance avant la fin de la formation THP. Vous vous êtes inscrits sur une plateforme qui met en relation des indépendants avec des porteurs de projet. Et quelques jours après votre inscription, vous recevez le message suivant : 
+
+"Bonjour, 
+
+Je suis très intéressé par votre profil car je recherche plusieurs personnes qui pourraient me fournir des analyses de données assez poussées sur les résultats obtenus aux élections présidentielles d'avril 2022. 
+
+Plus précisément, je suis en train de créer un nouveau parti politique avec plusieurs personnalités qui m'ont rejoint. Néanmoins, je ne sais pas dans quels circonscriptions il est plus judicieux de présenter nos candidatures. Pour information, mon parti se positionnera comme un parti avec des idées de gauche.
+
+Si la mission vous intéresse, j'aurais besoin d'avoir une vue sur : 
+- les circonscriptions qui semblent acquises aux candidats de droite
+- les circonscriptions qui semblent acquises aux candidats de gauche
+- les circonscriptions où l'abstention est très répandue
+- les circonscriptions où les votes sont très hétérogènes. 
+
+Je peux vous laisser 5 jours pour me fournir un premier livrable dans ce sens. Vous pouvez travailler à 3 sur la mission avec un TJM de 300 euros/jour. C'est possible que je fasse appel en même temps à d'autres experts pour comparer les résultats donc n'hésitez pas à me proposer une approche originale. 
+
+A votre disposition si vous avez besoin d'informations complémentaires."
+
+Dans un premier temps, vous trouvez le message un peu étrange donc vous en parlez à la commu THP et certaines personnes vous répondent que c'est assez courant que les politiques fassent appel à des analystes de données (surtout quand ils n'en ont pas déjà dans leurs équipes) pour savoir comment se positionner. 
+
+Donc feu 🔥 vous acceptez la mission, en espérant qu'en 5 jours vous allez réussir à proposer un premier livrable intéressant pour que votre mystérieux accepte de continuer à bosser avec vous ! (surtout s'il finit pas être le prochain Président de la République, ça serait balo de le laisser filer 🤤).
+
+En gros, pour récapituler, vous avez 5 jours pour proposer une première analyse des résultats obtenus à la présidentielles. Ton client semble avoir besoin d'une analyse plutôt "grossière" qui classifie les circonscriptions en 4 types différents. A toi de trouver de bonnes hypothèses et de proposer des visualisations intéressantes. Le délai est short donc une bonne gestion de projet semble indispensable pour pouvoir rendre quelque chose à temps !
 
 
 ### 2.2. A vous de jouer !
