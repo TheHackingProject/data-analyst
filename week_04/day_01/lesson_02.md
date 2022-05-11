@@ -65,7 +65,7 @@ ___
 
 ### 3.3. Consultant Data
 
-Comme les projets Data sont surtout très lourds à mettre en place, il est fréquent que les métiers de chefs de projet Data soient réalisés par des consultants. Ceux-ci peuvent être à leur compte (en freelance) ou bien employés par des ESN.
+Comme les projets Data sont surtout très lourds à mettre en place, il est fréquent que les métiers de chefs de projet Data soient réalisés par des consultants. Ceux-ci peuvent être à leur compte (en freelance) ou bien employés par des ESN ou des cabinets de conseil.
 
 **Le consultant data intervient auprès de diverses organisations**. Selon les cas, il peut les aider à définir leur stratégie data sur le long terme, mettre en place des business units spécifiques, ou encore développer des outils pour des clients.
 
