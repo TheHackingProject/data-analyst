@@ -71,7 +71,7 @@ Comme les projets Data sont surtout très lourds à mettre en place, il est fré
 
 Concrètement, sur le terrain, les problématiques sont diversifiées : de la stratégie et du conseil au sein de la direction générale, au data analyst en régie chez ses clients au sein d’une équipe marketing, en passant par l’optimisation d’algorithmes ou la migration vers une nouvelle infrastructure data ou cloud.
 
-Le point commun entre tous les consultants data, c’est une forte connaissance métier et sectorielle de leurs clients, ainsi qu’une forte expertise technique (plusieurs langages, plusieurs cloud, etc). Leur quotidien se partage entre la gestion de projet (ouverture de compte, suivi, budgétisation, roadmap), et la production de livrables comme la création de dataviz ou d’algorithmes poussés.
+Le point commun entre tous les consultants data, c’est une forte connaissance métier et sectorielle de leurs clients. Leur quotidien se partage entre la gestion de projet (ouverture de compte, suivi, budgétisation, roadmap), et la production de livrables comme la création de dataviz ou d’algorithmes.
 
 
 ## 4. Points importants à retenir
