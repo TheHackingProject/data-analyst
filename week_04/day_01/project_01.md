@@ -92,6 +92,7 @@ N'oubliez pas donc de faire une roadmap (feuille de route) ou une timeline qui p
   -  La méthodologie de travail ; 
   -  Le cadrage du projet ; 
   -  La timeline du projet.
+
 Vous pouvez faire des efforts sur ce livrable car tu auras l'occasion de le présenter au client lors de la restitution finale après les 5 jours de travail. Comme pour tout projet data, tu devras raconter l'histoire (cf. journée sur le storytelling et les présentations percutantes) de ton projet au client. D'où l'importance d'un support type exec summary. Pour certains éléments, tu peux tout à fait mettre des captures d'écran ou des liens qui redirigent vers ce qui a déjà été fait (ex : un board Trello, un fichier Word). L'idée de l'exec summary n'est pas de rajouter du travail inutile mais de recentraliser l'ensemble des éléments d'un projet.
 
 - Ton équipe et toi devez présenter cet executive summary à tes collègues de formation demain matin. Les guidelines de correction permettront d'évaluer le support de présentation. Et ils pourront te poser des questions et te faire des remarques très utiles pour l'avancée de ton projet.
