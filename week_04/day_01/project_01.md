@@ -1,9 +1,7 @@
-# Trouver et cadrer son projet final
+# Cadrer le projet crash test
 
 ## 1. Introduction
-Le projet final c'est l'occasion de consolider l'ensemble des connaissances acquises pendant THP et de créer, pour la première fois, un produit dont vous serez fiers et qui pourra te servir dans un futur portfolio afin de prouver que tu maîtrises la donnée.
-
-Mais si tu as appris à requêter des bases de données, le travail en équipe c'est une autre affaire ! En entreprise, on voit beaucoup de projets s'effondrer à cause de problèmes de communication. Très souvent, quelques bonnes pratiques de gestion de projet, que l'on va voir aujourd'hui, permettent de créer une bonne dynamique de travail.
+Pq on fait un projet crash test ?
 
 ## 2. Le projet
 
