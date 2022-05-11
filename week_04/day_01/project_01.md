@@ -2,10 +2,20 @@
 
 ## 1. Introduction
 Pq on fait un projet crash test ?
+Projet qui va durer une semaine etc
 
 ## 2. Le projet
 
-### 2.1. Constituer son équipe et distribuer des rôles
+### 2.1. La mission de la semaine
+
+
+### 2.2. A vous de jouer 
+
+#### 2.2.1. Cadrer le projet en rédigeant un cahier des charges
+
+#### 2.2.2. Distribuer les rôles et définir une méthodologie de travail
+
+
 
 Il y a 2 principes de base dans l'organisation de votre petite équipe. Et ils sont TRES simples. C'est :
 
