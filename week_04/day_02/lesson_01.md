@@ -1,18 +1,18 @@
 # Data Engineer et Data Architect
 
 ## 1. Introduction
-On a déjà vu rapidement lors de la première semaine quel était le rôle du Data Engineer et à quel moment il intervenait par rapport au Data Analyst. Mais comme ces rôles sont très importants, nous allons revoir en détail ces métiers qui gèrent la collecte et le stockage des données.
+On a déjà vu rapidement lors de la première semaine quel était le rôle du Data Engineer et à quel moment il intervenait par rapport au Data Analyst. Mais comme c'est un rôle très important, nous allons voir en détail les métiers qui gèrent la collecte et le stockage des données.
 
 ## 2. Historique et contexte
 Il est difficile de dater avec précision l’apparition des ingénieurs de la donnée. C’est dans les années 1980 que le terme  *information engineering* est inventé pour décrire la conception des bases de données et pour inclure l’ingénierie logicielle à l’analyse de données.
 
-Mais avec l’essor d’Internet dans les années 1990 et 2000, les administrateurs de bases de données, développeurs SQL et autres professionnels de l’informatique liés à ce domaine n’étaient pas encore considérés comme des "Data Engineers".
+Mais le terme "Data Engineer" est venu bien après. Même avec l’essor d’Internet dans les années 1990 et 2000, les administrateurs de bases de données, développeurs SQL et autres professionnels de l’informatique liés à ce domaine n’étaient pas encore considérés comme des "Data Engineers".
 
 Ce terme a été popularisé en 2011 par des entreprises data-driven comme Facebook et AirBnB. Les ingénieurs logiciels de ces entreprises assises sur des mines d’or de données avaient besoin de créer des outils pour exploiter ces informations.
 
-**Le rôle du Data Engineer** consistait à l’époque à utiliser des outils ETL traditionnels. Il **a toutefois évolué pour développer ses propres outils afin de prendre en charge les volumes de données toujours plus importants**.
+**Le rôle du Data Engineer** consistait alors à utiliser des outils ETL traditionnels. Il **a toutefois évolué pour consister à développer ses propres outils afin de prendre en charge les volumes de données toujours plus importants**.
 
-Désormais, suite à l’envol du Big Data, le Data Engineering est une catégorie d’ingénierie logicielle focalisée sur les données à travers l’infrastructure, le Data Warehousing, le forage et la modélisation de données ou encore la gestion des métadonnées.
+Désormais, suite à l’envol du Big Data, le Data Engineering est une catégorie d’ingénierie logicielle focalisée sur les données à travers l’infrastructure, le Data Warehousing et la modélisation de données.
 
 ## 3. La ressource
 
@@ -75,7 +75,7 @@ ___
 ## 4. Points importants à retenir
 Dans un projet data, on considère souvent que la valeur réside dans l’algorithme permettant de transformer automatiquement et rapidement des données massives en une information non triviale : recommandation de produits, traduction, reconnaissance faciale…, de fait, le data scientist – chargé du développement de cet algorithme – semble être l’acteur essentiel du projet.
 
-C’est partiellement faux, pour une raison très simple : **la valeur ajoutée réside, en majeure partie, dans les données elles-mêmes**. Pour faire simple, le data scientist ne pourra jamais faire mieux que ce que les données lui permettent de faire. C’est pourquoi **les profils Data Architect et Data Engineer sont essentiels : c’est eux qui créent, entretiennent et améliorent les systèmes d’information permettant aux autres membres de l’équipe data de faire leur travail**. Sans eux, les data scientist passeront probablement plus de temps à administrer les données qu’à les analyser.
+C’est partiellement faux, pour une raison très simple : **la valeur ajoutée réside, en majeure partie, dans les données elles-mêmes**. Pour faire simple, le data scientist ne pourra jamais faire mieux que ce que les données lui permettent de faire. C’est pourquoi **les profils Data Engineer et Data Architect sont essentiels : c’est eux qui créent, entretiennent et améliorent les systèmes d’information permettant aux autres membres de l’équipe data de faire leur travail**. Sans eux, les data scientists passeraient probablement plus de temps à administrer les données qu’à les analyser.
 
 ## 5. Pour aller plus loin
 Pour mieux comprendre la différence entre Data Engineer et Data Scientist, tu peux lire [cet article](https://www.lemagit.fr/conseil/Data-scientist-et-data-engineer-deux-experts-a-ne-pas-confondre).
