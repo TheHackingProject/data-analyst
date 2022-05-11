@@ -21,7 +21,7 @@ Avec ton équipe, vous avez décidé de vous mettre en freelance avant la fin de
 
 Je suis très intéressé par votre profil car je recherche plusieurs personnes qui pourraient me fournir des analyses de données assez poussées sur les résultats obtenus aux élections présidentielles d'avril 2022. 
 
-Plus précisément, je suis en train de créer un nouveau parti politique avec plusieurs personnalités qui m'ont rejoint. Néanmoins, je ne sais pas dans quels circonscriptions il est plus judicieux de présenter nos candidatures. Pour information, mon parti se positionnera comme un parti avec des idées de gauche.
+Plus précisément, je suis en train de créer un nouveau parti politique avec plusieurs personnalités qui m'ont rejoint. Néanmoins, je ne sais pas dans quels circonscriptions il est plus judicieux de présenter nos candidatures aux élections législatives. Pour information, mon parti se positionnera comme un parti avec des idées de gauche (mais je ne peux pas vous en dire plus pour l'instant et je vous demande de garder ces informations confidentielles).
 
 Si la mission vous intéresse, j'aurais besoin d'avoir une vue sur : 
 - les circonscriptions qui semblent acquises aux candidats de droite
@@ -29,18 +29,24 @@ Si la mission vous intéresse, j'aurais besoin d'avoir une vue sur :
 - les circonscriptions où l'abstention est très répandue
 - les circonscriptions où les votes sont très hétérogènes. 
 
-Je peux vous laisser 5 jours pour me fournir un premier livrable dans ce sens. Vous pouvez travailler à 3 sur la mission avec un TJM de 300 euros/jour. C'est possible que je fasse appel en même temps à d'autres experts pour comparer les résultats donc n'hésitez pas à me proposer une approche originale. 
+Je peux vous laisser 5 jours pour me fournir un premier livrable dans ce sens. Vous pouvez travailler à 3 sur la mission avec un TJM de 300 euros/jour. C'est possible que je fasse appel en même temps à d'autres experts pour comparer les résultats. 
+
+Si vos travaux sont ceux qui m'intéressent le plus, je n'hésiterai pas à refaire appel à vos services pendant plusieurs semaines si vous êtes disponibles et intéressés.
 
 A votre disposition si vous avez besoin d'informations complémentaires."
 
 Dans un premier temps, vous trouvez le message un peu étrange donc vous en parlez à la commu THP et certaines personnes vous répondent que c'est assez courant que les politiques fassent appel à des analystes de données (surtout quand ils n'en ont pas déjà dans leurs équipes) pour savoir comment se positionner. 
 
-Donc feu 🔥 vous acceptez la mission, en espérant qu'en 5 jours vous allez réussir à proposer un premier livrable intéressant pour que votre mystérieux accepte de continuer à bosser avec vous ! (surtout s'il finit pas être le prochain Président de la République, ça serait balo de le laisser filer 🤤).
+Donc feu 🔥 vous acceptez la mission, en espérant qu'en 5 jours vous allez réussir à proposer un premier livrable intéressant pour que votre mystérieux client accepte de continuer à bosser avec vous ! (surtout s'il finit pas être le prochain Président de la République, ça serait balo de le laisser filer 🤤).
 
-En gros, pour récapituler, vous avez 5 jours pour proposer une première analyse des résultats obtenus à la présidentielles. Ton client semble avoir besoin d'une analyse plutôt "grossière" qui classifie les circonscriptions en 4 types différents. A toi de trouver de bonnes hypothèses et de proposer des visualisations intéressantes. Le délai est short donc une bonne gestion de projet semble indispensable pour pouvoir rendre quelque chose à temps !
+En gros, pour récapituler, vous avez 5 jours pour proposer une première analyse des résultats obtenus à la présidentielle. Le client semble avoir besoin d'une analyse plutôt "grossière" qui classifie les circonscriptions en 4 types différents. A toi de trouver des hypothèses plausibles pour un politicard et de proposer des visualisations intéressantes. Le délai est short donc une bonne gestion de projet semble indispensable pour pouvoir rendre quelque chose à temps !
+
+Si jamais tu n'y connais rien à la politique, garde-toi surtout de le dire à ton client et demande à la personne de ton entourage qui s'y intéresse le plus de te faire un petit brief en 15 minutes des forces en place et de ce qui s'est dit/passé.
 
 
 ### 2.2. A vous de jouer !
+
+
 
 #### 2.2.1. Cadrer le projet en rédigeant un cahier des charges
 
