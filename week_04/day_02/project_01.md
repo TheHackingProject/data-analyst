@@ -23,7 +23,7 @@ En gros, il y a deux manières d'aborder un projet d'analyse de données :
 - fournir une analyse statique. Le plus souvent sous la forme de PPT ou PDF, ces analyses sont peu valables dans le temps et permettent surtout d'éclairer une situation à un instant T.
 - fournir des outils d'analyses dynamiques. Ici, vous donnez à votre client les clés de la voiture et vous lui dites "voilà comment je t'ai pré-mâché le travail, à toi maintenant de t'amuser et d'exploiter comme tu veux les outils". C'est le cas par exemple d'un dashboard automatisé ou bien d'un entrepôt de donné accessible en ligne.
 
-Une solution souvent est de faire un mix des deux, cad fournir des dashboards automatisés accompagné de conclusions résumées dans un PPT. 
+Une solution souvent est de faire un mix des deux, cad fournir des dashboards automatisés accompagnés de conclusions résumées dans un PPT. 
 Dans le cas présent, vous n'avez que 5 jours donc n'oubliez l'importance du MVP 🛴🛴🛴
 
 
