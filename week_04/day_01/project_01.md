@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Pendant les 3 premières semaines, tu as fait des projets de taille raisonnable dans le sens où ils pouvaient être réalisés par une personne en une journée. Or, dans la majorité des cas, les projets data en entreprise vont impliquer plusieurs personnes (car ils nécessitent des compétences variées) et cela sur plusieurs jours. 
+Pendant les 3 premières semaines, tu as fait des projets de taille raisonnable dans le sens où ils pouvaient être réalisés par une personne en une journée. Or, il arrive souvent aussi que les projets data en entreprise impliquent plusieurs personnes (car ils nécessitent des compétences variées) et cela sur plusieurs jours. 
 
 Avant que tu sois lancé totalement dans le grand bain avec LE PROJET FINAL, on va permettre à ton équipe de se tester sur un projet d'envergure avec LE PROJET CRASH TEST 😯
 
@@ -21,7 +21,7 @@ Avec ton équipe, vous avez décidé de vous mettre en freelance avant la fin de
 
 Je suis très intéressé par votre profil car je recherche plusieurs personnes qui pourraient me fournir des analyses de données assez poussées sur les résultats obtenus aux élections présidentielles d'avril 2022. 
 
-Plus précisément, je suis en train de créer un nouveau parti politique avec plusieurs personnalités qui m'ont rejoint. Néanmoins, je ne sais pas dans quels circonscriptions il est plus judicieux de présenter nos candidatures aux élections législatives. Pour information, mon parti se positionnera comme un parti avec des idées de gauche (mais je ne peux pas vous en dire plus pour l'instant et je vous demande de garder ces informations confidentielles).
+Plus précisément, je suis en train de créer un nouveau parti politique avec plusieurs personnalités qui m'ont rejoint. Néanmoins, je ne sais pas dans quels circonscriptions il est plus judicieux de présenter nos candidatures aux élections législatives prochaines. Pour information, mon parti se positionnera comme un parti avec des idées de gauche (mais je ne peux pas vous en dire plus pour l'instant et je vous demande de garder ces informations confidentielles).
 
 Si la mission vous intéresse, j'aurais besoin d'avoir une vue sur : 
 - les circonscriptions qui semblent acquises aux candidats de droite
@@ -29,7 +29,7 @@ Si la mission vous intéresse, j'aurais besoin d'avoir une vue sur :
 - les circonscriptions où l'abstention est très répandue
 - les circonscriptions où les votes sont très hétérogènes. 
 
-N'hésitez pas à ajouter des catégories si vous en voyez d'autres utiles. Je peux vous laisser 5 jours pour me fournir un premier livrable dans ce sens. Vous pouvez travailler à 3 sur la mission avec un TJM de 300 euros/jour. C'est possible que je fasse appel en même temps à d'autres experts pour comparer les résultats. 
+N'hésitez pas à ajouter des catégories si vous en voyez d'autres utiles. Je peux vous laisser 5 jours pour me fournir un premier livrable dans ce sens. Vous pouvez travailler à 3 sur la mission avec un TJM de 300 euros/jour. C'est possible que je fasse appel en même temps à d'autres experts pour comparer les résultats obtenus. 
 
 Si vos travaux sont ceux qui m'intéressent le plus, je n'hésiterai pas à refaire appel à vos services pendant plusieurs semaines si vous êtes disponibles et intéressés.
 
@@ -41,47 +41,31 @@ Donc feu 🔥 vous acceptez la mission, en espérant qu'en 5 jours vous allez r�
 
 En gros, pour récapituler, vous avez 5 jours pour proposer une première analyse des résultats obtenus à la présidentielle. Le client semble avoir besoin d'une analyse plutôt "grossière". A toi de trouver des hypothèses plausibles pour un politicard et de proposer des visualisations intéressantes. Le délai est short donc une bonne gestion de projet semble indispensable pour pouvoir rendre quelque chose à temps !
 
-Si jamais tu n'y connais rien à la politique, garde-toi surtout de le dire à ton client et demande à la personne de ton entourage qui s'y intéresse le plus de te faire un petit brief en 15 minutes des forces en place et de ce qui s'est dit/passé.
+Si jamais tu n'y connais rien à la politique, garde-toi surtout de le dire à ton client (avance au contraire dans ta réponse que tu es passionné de politique) et lis 3-4 articles et demande à la personne de ton entourage qui s'y intéresse le plus de te faire un petit brief en 15 minutes des forces en place et de ce qui s'est dit/passé.
 
 
 ### 2.2. A vous de jouer !
 
-
-
 #### 2.2.1. Cadrer le projet en rédigeant un cahier des charges
+
+Souvent, quand on voit la quantité de travail à abattre, on a tendance à partir tête baissée trouver des données et commencer direct l'analyse. Ce n'est pas une bonne technique et il est bien souvent judicieux de prendre le temps pour faire un "reculer pour mieux sauter" en posant à tête reposée les specs de votre projet. Ainsi, pendant cette journée, nous allons vous demander de ne pas coder ni utiliser d'outil et de vous concentrer sur le cadrage du projet. 
+
+Pour cadrer un projet data, vous allez essayer de répondre aux questions suivantes : 
+- comment reformulez-vous le problème de votre client ? 
+- à quelles questions allez-vous répondre ? Et qu'est-ce qui, au contraire, ne fera pas partie de votre périmètre d'analyse ? 
+- quelles sources de données allez-vous utiliser ? 
+- qu'est-ce qui va constituer votre MVP (*Minimum Viable Product*) et qu'est-ce qui sera ajouté ensuite s'il vous reste du temps ?
+- quelle forme va prendre votre rendu ?
+
+Rédiger un cahier des charges vous permettra de poser par écrit toutes les réponses à ces questions. D'éclaircir tout ça pour votre équipe et votre client.
+Peu importe la forme du cahier des charges (long document word comme le template Volere, des user stories Trello ou des slides Powerpoint), ce qui compte c'est que cela soit écrit et entendu par l'ensemble des membres de l'équipe. C'est le cadre dans lequel chacun doit participer au projet.
+
 
 #### 2.2.2. Distribuer les rôles et définir une méthodologie de travail
 
-#### 2.2.3. Découper les tâches et se projeter sur le premier rendu
-
-Il y a 2 principes de base dans l'organisation de votre petite équipe. Et ils sont TRES simples. C'est :
-
-- **Chaque membre doit être motivé**. Sans motivation, vous n'irez nulle part : il faut mouiller le maillot pendant 1 semaine ! Levez-vous comme au début de THP, retrouvez-vous à heure fixe pour bosser ensemble, etc. Pas besoin de faire des nocturnes chaque jour : si vous faites un bon 9h-19h quotidien, bien concentrés sur votre boulot, c'est suffisant !
-- **Chaque membre doit être responsable**. Il faut que chaque membre de l'équipe bosse en autonomie, sans attendre qu'on lui dise quoi faire et sans espérer que quelqu'un d'autre viendra faire le boulot à sa place. Si un membre de l'équipe ne se sent pas responsable des tâches dont il a la charge, il perd son temps en plus de faire perdre aux autres le leur. Ne bossez pas parce qu'on vous l'a demandé : bossez pour vous, pour appliquer ce qu'on vous a appris !
-
-Ces deux points sont à la base de la méthode agile : il faut une équipe motivée et qui s'approprie le projet. Une fois cela dit, voici quelques astuces pour vous répartir le boulot d'un projet data :
-
-- Il est souvent conseillé d'avoir un "leader". Pas forcément quelqu'un qui va prendre toutes les décisions mais quelqu'un qui a la vision globale du projet et peut répartir les tâches que personne ne prend naturellement en charge. C'est bien si cette personne apprécie la gestion de projet et se sent assertif.
-- Tu vas voir cette semaine tous les rôles d'un projet data : chef de projet, Data Engineer, Data Analyst, Data Scientist. Essaye de voir quels rôles sont nécessaires à ton projet. Et n'hésite pas à recalibrer ton projet en fonction du métier découvert cette semaine.
-
 Bien sûr, pas besoin d'avoir une séparation stricte entre les différents rôles. Faites en fonction des affinités de chacun mais surtout en fonction du besoin ! La distribution des rôles et surtout des tâches permettra de responsabiliser tous les participants. Si vous avez des doublons dans l'équipe (des personnes qui travaillent sur les mêmes tâches), il y a un risque de voir apparaître des comportements de passager clandestin.
 
-### 2.2. Réaliser son cahier des charges
-
-Souvent, quand on voit la quantité de travail à abattre, on a tendance à partir tête baissée trouver des données et commencer direct l'analyse. Ce n'est pas une bonne technique et il est bien souvent judicieux de prendre le temps pour faire un "reculer pour mieux sauter" en posant à tête reposée les specs de votre projet. Ainsi, pendant cette journée, nous allons vous demander de ne pas coder ni utiliser d'outil et de vous concentrer sur le cahier des charges de votre projet.
-
-Pour le cahier des charges de votre application, vous pouvez produire ces différents types de livrables (s'ils correspondent à votre projet) :
-- **Un cahier des charges classique** (ex : modèle Volere)
-- **Un parcours utilisateur** de votre application. La technique du "user flow" (parcours utilisateur) est une technique hyper simple à mettre en place. Pour découvrir plus en détails, je te conseille [cette vidéo](https://www.youtube.com/watch?v=TIV1y11xz7k) de présentation de Christine Chun où elle explique les bases du parcours utilisateur.
-- **Des user stories** (format Trello)
-- **Des wireframes** de votre produit. Les wireframes sont des "dessins basse fidélité d'une interface numérique". C'est une technique extrêmement pratique pour designer une page web, afin de savoir quoi mettre dans la page avant de foncer dans le code. Tu trouveras une excellente vidéo de CareerFoundry qui explique les bases du wireframe. 
-
-En gros, ce que l'on vous a demandé pour le projet Infrastructure data, mais adapté à votre projet. Si votre projet est très axé datavisualisation et qu'il ne s'agit pas d'un produit à proprement parler, essayez tout-même de concevoir en amont le support sur lequel sera présenté votre analyse.
-
-
-### 2.3. Choisir une méthodologie de travail
-
-Afin d'avoir une bonne dynamique de travail, il est important de mettre en place des rituels de suivi du projet. 
+Ensuite, mettez vous d'accord sur la méthodologie de travail : est-ce que vous travaillez en Agile ou plutôt en cascade ?
 
 La base du suivi des travaux est d'avoir un Trello ou n'importe quel [tableau Kanban](https://fr.wikipedia.org/wiki/Tableau_kanban) qui liste les fonctionnalités "à faire", "en cours" et "faites". A ce sujet, je t'invite à regarder cette [vidéo de présentation de Trello et GitHub Boards](https://www.youtube.com/watch?v=wJ5sRD0iiMk) faite par un mouss' de la session 8 du code (les slides sont dispos ici).
 
@@ -92,12 +76,22 @@ Prévoyez par exemple, chaque matin, de faire un rapide "stand-up meeting" : tou
 
 L'objectif est que vous partagiez les infos entre vous et que tout le monde ait le sentiment que, globalement, le travail avance bien.
 
-Pendant le meeting, le leader peut alors mettre à jour le tableau Trello des tâches "à faire", "en cours" et "terminées".
+Finalement, accordez-vous sur certaines règles de fonctionnement et partagez-les au début entre vous. L'idée est que tous les membres soient à l'aise avec les rituels choisis et se sentent impliqués.
 
-Accordez vous sur certaines règles de fonctionnement et partagez-les au début entre vous. L'idée est que tous les membres soient à l'aise avec les rituels choisis et se sentent impliqués.
+#### 2.2.3. Découper les tâches et se projeter sur le rendu final
+Même quand on travaille en méthode agile, c'est important de planifier les projets sur lesquels on travaille pour minimiser le risque d'être complètement hors délai. 
 
+N'oubliez pas donc de faire une roadmap (feuille de route) ou une timeline qui positionnera dans le temps les jalons essentiels de votre projet. Vous pouvez d'ailleurs à cette occasion identifier les points d'étape qui vous semblent les plus épineux et sur lesquels il faudra être vigilant.
 
 ## 3. Rendu attendu
-- **Un executive summary** qui permet de bien cerner la vision de l'organisation qui se cache derrière le projet. Les différentes étapes de l'exec summary seront Présentation ; Problème à résoudre ; Business Model ; L'équipe en place (et ses différents rôles) ; La méthodologie de travail ; Les clients ; Les résultats escomptés dans 3 ans. Tu peux utiliser des méthodes comme la [méthode QQOQCP](https://qualiblog.fr/outils-et-methodes/methode-qqoqccp-outil-analyse-simple-et-performant/) pour présenter le problème auquel cherche à répondre ton projet, ou toute autre framework qui permet de clarifier ta stratégie ou ton positionnement. Tu peux faire des efforts sur ce livrable car tu auras l'occasion de le présenter lors de la soutenance finale avec le jury. En effet, à la différence d'un projet web, tu n'auras pas nécessairement de démo à réaliser. Mais comme tout projet data, tu devras raconter l'histoire (cf. journée sur le storytelling et les présentations percutantes) de ton projet au jury. D'où l'importance d'un support type exec summary.
+- **Un executive summary** qui permet de bien cerner votre vision du projet. Les différentes éléments de l'exec summary à présenter sont : 
+  -  Présentation ; 
+  -  Problème à résoudre ; 
+  -  L'équipe en place (et ses différents rôles) ; 
+  -  Les données utilisées ; 
+  -  La méthodologie de travail ; 
+  -  Le cadrage du projet ; 
+  -  La timeline du projet.
+Vous pouvez faire des efforts sur ce livrable car tu auras l'occasion de le présenter au client lors de la restitution finale après les 5 jours de travail. Comme pour tout projet data, tu devras raconter l'histoire (cf. journée sur le storytelling et les présentations percutantes) de ton projet au client. D'où l'importance d'un support type exec summary. Pour certains éléments, tu peux tout à fait mettre des captures d'écran ou des liens qui redirigent vers ce qui a déjà été fait (ex : un board Trello, un fichier Word). L'idée de l'exec summary n'est pas de rajouter du travail inutile mais de recentraliser l'ensemble des éléments d'un projet.
 
-- Ton équipe et toi devez présenter cet executive summary à tes collègues de formation demain matin. Les guidelines de correction permettront d'évaluer le support de présentation, ainsi que la présentation orale. Et ils pourront te poser des questions et te faire des remarques très utiles pour l'avancée de ton projet.
+- Ton équipe et toi devez présenter cet executive summary à tes collègues de formation demain matin. Les guidelines de correction permettront d'évaluer le support de présentation. Et ils pourront te poser des questions et te faire des remarques très utiles pour l'avancée de ton projet.
