@@ -1,22 +1,23 @@
-# Organise la collecte et le stockage de tes données pour ton projet final ⛓
+# Organise la collecte et le stockage de tes données ⛓
 
 ## 1. Introduction
-Avec les ressources d'aujourd'hui, tu as dû comprendre le rôle essentiel des Data Architect et Data Engineering. Comme tu l'as vu aussi lors de la journée de jeudi la semaine dernière, le Data Engineer est à l'origine de chaque projet data un minimum conséquent. 
-
-Donc à toi de jouer ! Pour que ton projet final fonctionne, il faut que tu organises la collecte et le stockage des données 🗂
+Hier vous étiez surtout concentrés sur la partie Cadrage et Gestion du projet. Aujourd'hui, on commence la chaîne de la donnée (rappelle toi la semaine 2) et on rentre dans le vif du sujet 👽
 
 ## 2. Le projet
 
 ### 2.1. La collecte des données
-- Quelles sources de données as-tu identifiées pour réaliser ton projet ?
-- Comment vas-tu récupérer ces sources de données ? 
+- Quelles sources de données avez-vous identifiées pour réaliser ton projet ?
+- Comment allez-vous récupérer ces sources de données ? 
 - Ces sources sont-elles exploitables en l'état ou faut-il réaliser des traitements dessus ? 
-- Tu peux aussi tenter d'automatiser la récupération des données dans le temps pour réaliser les traitements de manière répétée.
+- Est-ce que ces sources de données peuvent communiquer entre elles ou seront-elles traitées de manière indépendante ?
+- Avez-vous besoin d'automatiser la récupération des données dans le temps pour réaliser des traitements de manière répétée ?
 
-### 2.2. Le stockage des données
-- Tu peux avoir besoin de stocker des données en lignes (dans le cas d'un datawarehouse par exemple). Dans ce cas, réfléchis à la modélisation et aux outils nécessaires pour le stockage.
-- C'est très possible que ton projet ne nécessite pas de s'occuper de cette étape car les données sont déjà stockées en ligne.
+### 2.2. Le stockage des données et leur modélisation
+- Avez-vous besoin de stocker des données en ligne (dans le cas d'un datawarehouse par exemple) ? 
+- Allez-vous modéliser vos données pour en faire un ensemble unifié ?
 
 ## 3. Rendu attendu
-- Ajoute une slide ou deux à ta présentation exec summary qui décrivent ces étapes et ce que vous avez décidé de faire
-- Si tu as le temps, commence à réaliser ces étapes de collecte et de stockage (avec modélisation si besoin)
+- Ajoutez une slide ou deux à votre présentation qui décrivent ces étapes et ce que vous avez décidé de faire.
+- Et surtout, commencez à réaliser ces étapes de collecte et de stockage (avec modélisation si besoin)
+
+PS : si vous ne souhaitez pas vous intéresser de trop près à ces tâches et vous préférez vous concentrer sur la partie Analyse, c'est tout à fait possible. Optez pour un outil qui ne nécessite pas de modélisation et enchaînez direct avec la partie analyse.
