@@ -9,7 +9,7 @@ Projet qui va durer une semaine etc
 ### 2.1. La mission de la semaine
 
 
-### 2.2. A vous de jouer 
+### 2.2. A vous de jouer !
 
 #### 2.2.1. Cadrer le projet en rédigeant un cahier des charges
 
