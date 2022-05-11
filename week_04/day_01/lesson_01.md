@@ -78,7 +78,7 @@ ___
 
 😩😩 Quelle méthode dois-je choisir ? 😩😩
 
-Très à la mode en ce moment, les méthodes agiles peuvent paraître plus attractives et efficaces. Néanmoins, les méthodes traditionnelles resistent et peuvent être privilégiées pour certains projets.
+Très à la mode en ce moment, les méthodes agiles peuvent paraître plus attractives et efficaces. Néanmoins, les méthodes traditionnelles résistent et peuvent être privilégiées pour certains projets.
 
 Pour résumer, **les méthodes traditionnelles conviennent mieux aux projets sans complexité technologique et pour lesquels le client a une vision très précise de son besoin**. Plus souple, une méthode agile offre de nombreux avantages en termes d'adaptabilité au changement, de gestion des risques et de visibilité sur le produit final. Elle sera privilégiée sur des projets plus complexes, sans documentation détaillée (si les délais sont assez courts par exemple).
 
