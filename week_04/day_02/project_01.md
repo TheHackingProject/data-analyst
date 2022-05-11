@@ -7,7 +7,7 @@ Hier vous étiez surtout concentrés sur la partie Cadrage et Gestion du projet.
 
 ### 2.1. La collecte des données
 - Quelles sources de données avez-vous identifiées pour réaliser ton projet ?
-- Comment allez-vous récupérer ces sources de données ? Sont-elles disponibles en ligne ? Devez-vous faire du scraping ? Vous connecter à une API ? 
+- Comment allez-vous récupérer ces sources de données ? Sont-elles disponibles en ligne ? Devez-vous faire du scraping et/ou vous connecter à une API ? 
 - Ces sources sont-elles exploitables en l'état ou faut-il réaliser des traitements dessus ? 
 - Est-ce que ces sources de données peuvent communiquer entre elles ou seront-elles traitées de manière indépendante ?
 - Avez-vous besoin d'automatiser la récupération des données dans le temps pour réaliser des traitements de manière répétée ?
