@@ -1,4 +1,4 @@
-# Interroge la légalité et la confidentialité de ton projet final 
+# Interroge la légalité et la confidentialité de ton projet
 
 ## 1. Introduction
 Tu vas rendre un projet de data. Il est donc impératif que tu aies étudié les questions de protection de données avant de rendre ton travail public 🍪🍪
@@ -19,3 +19,4 @@ Il faut que tu réfléchisses à tout ça en amont car il ne faut pas que tu per
 
 ## 3. Rendu attendu
 - Comme d'habitude, ajoute une slide à ta présentation finale qui montre que tu as étudié ces questions et que tu peux défendre les choix réalisés.
+- Et si pas de souci de RGPD en vue, continue à charbonner à fond les analyses droite/gauche 🤖
