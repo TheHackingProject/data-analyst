@@ -31,8 +31,6 @@ Pour le cahier des charges de votre application, vous pouvez produire ces diffé
 - **Des user stories** (format Trello)
 - **Des wireframes** de votre produit. Les wireframes sont des "dessins basse fidélité d'une interface numérique". C'est une technique extrêmement pratique pour designer une page web, afin de savoir quoi mettre dans la page avant de foncer dans le code. Tu trouveras une excellente vidéo de CareerFoundry qui explique les bases du wireframe. 
 
-En gros, ce que l'on vous a demandé pour le projet Infrastructure data, mais adapté à votre projet. Si votre projet est très axé datavisualisation et qu'il ne s'agit pas d'un produit à proprement parler, essayez tout-même de concevoir en amont le support sur lequel sera présenté votre analyse.
-
 
 ### 2.3. Choisir une méthodologie de travail
 
@@ -64,3 +62,5 @@ Accordez vous sur certaines règles de fonctionnement et partagez-les au début 
 
 Comme pour tout projet data, tu devras raconter l'histoire (cf. journée sur le storytelling et les présentations percutantes) de ton projet au client. D'où l'importance d'un support de présentation. Pour certains éléments, tu peux tout à fait mettre des captures d'écran ou des liens qui redirigent vers ce qui a déjà été fait (ex : un board Trello, un fichier Word). L'idée du support de présentation n'est pas de rajouter du travail inutile mais de recentraliser l'ensemble des éléments d'un projet.
 Enfin, si certains éléments sont amenés à changer au cours du projet, il n'y a aucun problème pour cela, vous pourrez revenir sur les slides et les modifier facilement.
+
+C'était la dernière ressource que tu pourras consulter cette semaine ! On te conseille de revenir sur les ressources des semaines précédentes dès que tu as un doute. Et de t'accrocher car c'est ce qui est le plus dur dans un projet data : rester motivés pour créer un projet qui apporte de la valeur 🙂 🙃 💪 
