@@ -53,7 +53,14 @@ Accordez vous sur certaines règles de fonctionnement et partagez-les au début 
 
 
 ## 3. Rendu attendu
-- **Un executive summary** qui permet de bien cerner la vision de l'organisation qui se cache derrière le projet. Les différentes étapes de l'exec summary seront Présentation ; Problème à résoudre ; Business Model ; L'équipe en place (et ses différents rôles) ; La méthodologie de travail ; Les clients ; Les résultats escomptés dans 3 ans. Tu peux utiliser des méthodes comme la [méthode QQOQCP](https://qualiblog.fr/outils-et-methodes/methode-qqoqccp-outil-analyse-simple-et-performant/) pour présenter le problème auquel cherche à répondre ton projet, ou toute autre framework qui permet de clarifier ta stratégie ou ton positionnement. Tu peux faire des efforts sur ce livrable car tu auras l'occasion de le présenter lors de la soutenance finale avec le jury. En effet, à la différence d'un projet web, tu n'auras pas nécessairement de démo à réaliser. Mais comme tout projet data, tu devras raconter l'histoire (cf. journée sur le storytelling et les présentations percutantes) de ton projet au jury. D'où l'importance d'un support type exec summary.
+- Comme lors du projet crash test, **une présentation synthétique** (sous PPT par ex) qui permet de bien cerner votre vision du projet. Les différents éléments à présenter sont : 
+  -  Présentation ; 
+  -  Problème à résoudre ; 
+  -  L'équipe en place (et ses différents rôles) ; 
+  -  Les données utilisées ; 
+  -  La méthodologie de travail ; 
+  -  Le cadrage du projet ; 
+  -  La timeline du projet.
 
-- Ton équipe et toi devez présenter cet executive summary à tes collègues de formation demain matin. Les guidelines de correction permettront d'évaluer le support de présentation, ainsi que la présentation orale. Et ils pourront te poser des questions et te faire des remarques très utiles pour l'avancée de ton projet.
-
+Comme pour tout projet data, tu devras raconter l'histoire (cf. journée sur le storytelling et les présentations percutantes) de ton projet au client. D'où l'importance d'un support de présentation. Pour certains éléments, tu peux tout à fait mettre des captures d'écran ou des liens qui redirigent vers ce qui a déjà été fait (ex : un board Trello, un fichier Word). L'idée du support de présentation n'est pas de rajouter du travail inutile mais de recentraliser l'ensemble des éléments d'un projet.
+Enfin, si certains éléments sont amenés à changer au cours du projet, il n'y a aucun problème pour cela, vous pourrez revenir sur les slides et les modifier facilement.
