@@ -28,6 +28,8 @@ Voici la liste de questions auxquelles tu dois répondre :
 ## 3. Rendu attendu
 Un fichier .txt (ou .md) contenant les requêtes SQL qui permettent d'obtenir les infos demandées sur notre BDD.
 
+❗️ Les projets du jour sont longs mais si tu n'as pas le temps de tout finir, pas de problème, tu pourras t'y remettre demain. Le sujet de vendredi se traite assez rapidement. De manière générale, on te conseille même d'alterner code et sujets de conception ou tâches de gestion de projet. Ca permet de ne pas rester bloqué pendant des heures sur du code et de t'aérer l'esprit. 
+
 ## 4. Aller plus loin
 Alors tu as aimé te prendre pour Sherlock Holmes pendant 3 heures ? Ca t'a plu de travailler sur de vraies données ? A l'époque, c'était assez novateur comme type de journalisme : c'est une des affaires qui a aidé les grandes rédactions à se tourner davantage vers la Data. 
 Si cela t'intéresse, voici 2 ressources qui t'en diront plus sur comment ça s'est passé dans la vie réelle :
