@@ -94,5 +94,5 @@ Un PM aura un expéditeur et un (ou plusieurs) destinataires.
 
 
 ## 3. Rendu attendu
-3 schémas de base de données relationnels qui montrent que tu as bien compris le principe et que tu sauras lire à ton tour des schémas 😎
+3 schémas de base de données relationnelles qui montrent que tu as bien compris le principe et que tu sauras lire à ton tour des schémas 😎
 
