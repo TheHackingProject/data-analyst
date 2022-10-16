@@ -1,1 +1,1 @@
-Aujourd'hui, tu vas prendre un peu de recul et comprendre les 
+Aujourd'hui, tu vas prendre un peu de recul et comprendre dans quel contexte et pourquoi les Data Analysts sont amenés à utiliser SQL
