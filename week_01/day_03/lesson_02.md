@@ -74,7 +74,7 @@ Finalement, il faut voir ce programme comme un tronc commun à l'ensemble des m�
 
 Et dans tous les cas, il faudra te laisser du temps après les 5 semaines pour continuer à pratiquer les concepts vus et créer des automatismes. Certains projets sont à faire en mode très rapide (ex : faire un book des cas d'usage de la BI et du Big Data). L'idée est de donner le maximum sur le temps imparti. Tu pourras plus tard revenir sur les sujets dont tu as besoin et replonger dans tout ça (car l'accès à tes ressources et projets THP est à vie) 😌
 
-Car en fait, **ce sont surtout les missions qu'on te confiera en entreprise et les projets personnels que tu décideras de mener qui décideront quelles compétences tu dois maîtriser**. Inutile pour toi de vouloir tout maîtriser dès les 5 semaines. Au contraire, tu risques de t'épuiser et de ne plus rien maîtriser à la fin. Enfin, ce n'est pas non plus ce qu'on attendra de toi en entretien. On cherchera plutôt à voir si tu te connais et si ta personnalité correspond aux besoins de l'entreprise. 
+Finalement, **ce sont surtout les missions qu'on te confiera en entreprise et les projets personnels que tu décideras de mener qui décideront quelles compétences tu dois maîtriser**. Inutile pour toi de vouloir tout maîtriser dès les 5 semaines. Au contraire, tu risques de t'épuiser et de ne plus rien maîtriser à la fin. Par ailleurs, ce n'est pas non plus ce qu'on attendra de toi en entretien. On cherchera plutôt à voir si tu te connais et si ta personnalité correspond aux besoins de l'entreprise. 
 
 
 ## 4. Points importants à retenir
