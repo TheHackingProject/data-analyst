@@ -2,6 +2,7 @@ Est-ce que tu as 347 albums dans ta base ?
 Est-ce que tu as 2 albums d'AC/DC ?
 Est-ce que tu as 20 titres pour les 2 albums d'AC/DC ?
 Est-ce que l'album "Let There Be Rock" dure 2400415 millisecondes, soit environ 40 minutes ?
-Est-ce que 3 schémas ont été réalisés ?
+Est-ce que tu as trouvé 91.079$ pour le coût de l'intégralité de la discographie de "Deep Purple" ?
+Est-ce que, pour le projet 2, 3 schémas ont été réalisés ?
 Est-ce que la personne peut expliquer clairement l'intérêt de modéliser une base de données ?
-
+Est-ce que la personne peut expliquer la différence entre clé primaire et clé étrangère ?
