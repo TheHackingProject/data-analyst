@@ -64,7 +64,7 @@ ___
 
 ## 4. Points importants à retenir
 - NumPy permet une manipulation aisée et flexible des tableaux. 
-- NumPy reste très important dans l'analyse de donnée pour sa redoutable efficacité. L’idée principale derrière les tableaux est de stocker plusieurs éléments du même type ensemble dans le but d’améliorer les performances de calcul.
+- NumPy est important dans l'analyse de donnée pour sa redoutable efficacité. L’idée principale derrière les tableaux est de stocker plusieurs éléments du même type ensemble dans le but d’améliorer les performances de calcul.
 
 ## 5. Pour aller plus loin
 La [documentation officielle](https://numpy.org/doc/stable/reference/).
