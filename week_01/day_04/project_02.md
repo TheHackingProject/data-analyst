@@ -29,7 +29,7 @@ Une fois les attributs fixés, on s'attaque aux relations :
 - Un `appointment` ne peut avoir qu'un seul `patient`, mais un `patient` peut avoir plusieurs `appointment`.
 - Un `doctor` peut avoir plusieurs `patient`, au travers des `appointments`, et vice versa.
 
-#### 2.1.4. Petit coup de boost
+#### 2.1.3. Petit coup de boost
 Ta startup de docteurs marche à merveille, tellement que tu aimerais ajouter plusieurs tables :
 - `city`. Chaque docteur, patient, et rendez-vous est lié à une `city`. Une city peut avoir plusieurs docteurs, patients, et rendez-vous.
 - tu voudrais virer la ligne `specialty` de ta table `doctor` et la remplacer par un model à part entière : tu vas donc créer un model `specialty`. Un docteur aurait plusieurs `specialty`, et une `specialty` pourrait concerner plusieurs `doctor`.
