@@ -59,8 +59,7 @@ Cela ressemble beaucoup à notre schéma de docteurs tout ceci ! C'est fait expr
 L'utilisateur pourra donc rechercher les potins par ville, par utilisateurs, par date (plus récent ou plus ancien), par nombre de likes, par tags, pour trouver les potins les plus croustillants.
 **Ça fait beaucoup??** Oui clairement, y a de la fonctionnalité de déglingos là. Pas de panique. On va te guider! Suis-nous.
 #### 2.3.2. Dessine-moi une BDD 
-Allez, feuille / tableau / ERD en main et hop! =\> Imagine les models qu'il faut pour cette app, les relations possibles, puis évidemment les attributs de chaque model. Toute l'architecture de la BDD doit tenir sur un dessin que vous allez faire en équipe. 
-Une fois que c'est fait, on va te guider et tu vas pouvoir comparer ton schéma à notre pas à pas.
+Allez, feuille / tableau / ERD en main et hop! =\> Imagine les models qu'il faut pour cette app, les relations possibles, puis évidemment les attributs de chaque model. Toute l'architecture de la BDD doit tenir sur un dessin. 
 #### 2.3.3. Les models
 
 ##### LES USERS
