@@ -5,4 +5,4 @@ Est-ce que le nombre médian de musées par ville est 1 et le nombre moyen est 1
 Est-ce que le nombre de musées dont le nom commence par "Château" est 57 ?
 Est-ce que le département qui a le plus de musées est le 75 et celui qui en a le moins est le 98 ?
 Est-ce qu'il y a la mention de deux sources de données qui apportent des informations supplémentaires sur les musées en France ?
-
+Est-ce que la personne est capable de justifier le choix des deux sources proposées ? Etes-vous convaincu par son raisonnement ?
