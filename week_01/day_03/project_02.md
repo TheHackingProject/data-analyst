@@ -25,7 +25,7 @@ Le plus simple pour trouver vos cas d'usage est de fouiller le web avec les bons
 
 ### 2.2. Collecter les informations demandées
 
-Pour chaque cas d’usage, tu devras préciser : 
+Pour détailler ton cas d’usage, tu devras préciser : 
 - Le contexte du projet
 - Le projet
 - Les données utilisées
@@ -33,7 +33,7 @@ Pour chaque cas d’usage, tu devras préciser :
 - La méthodologie de réalisation (souvent composée de plusieurs étapes)
 - Les bénéfices business.
 
-Tu devras écrire 6 paragraphes par cas d'usage pour préciser chacun de ces éléments. 
+Tu devras écrire 6 paragraphes pour préciser chacun de ces éléments. 
 
 
 ### 2.3. Mettre en forme les informations
