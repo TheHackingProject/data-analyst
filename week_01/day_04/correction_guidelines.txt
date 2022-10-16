@@ -2,8 +2,3 @@ Est-ce que tu as 347 albums dans ta base ?
 Est-ce que tu as 2 albums d'AC/DC ?
 Est-ce que tu as 20 titres pour les 2 albums d'AC/DC ?
 Est-ce que l'album "Let There Be Rock" dure 2400415 millisecondes, soit environ 40 minutes ?
-Est-ce que tu trouves 213 634 sociétés offshores différentes dont la source est Panama Papers ?
-Est-ce que tu trouves aucune société offshore dont la juridiction est France, Monaco ou Réunion ?
-Est-ce que tu trouves 32 bénéficiaires différents dont le nom contient BNP ?
-As-tu réussi à trouver la liste des bénéficiaires qui ont des sociétés au même nom et enregistrée à la même date ?
-As-tu réussi à trouver le top 10 des bénéficiaires qui ont le plus de parts toujours valides dans des entreprises offshores (dont la date de fin n'est pas encore passée) ?
