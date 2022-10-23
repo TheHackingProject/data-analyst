@@ -46,15 +46,20 @@ Ils sont très utiles pour permettre aux entreprises d’accéder rapidement et 
 
 Il faut bien comprendre ce qu'on a commencé à voir mercredi. 
 
-D'une part, une entreprise possède un **système « opérationnel » ou « de gestion »**, également appelé système OLTP (*on-line transaction processing*). Ces systèmes sont dédiés aux métiers de l'entreprise pour les assister dans leurs tâches de gestion quotidiennes. Les bases de données sont ici conçues de manière à ce que les données qu'elles contiennent soient accessibles et manipulables. Mais par ailleurs, l'entreprise a besoin d'un meilleur endroit pour conserver les données en provenance de diverses sources : un endroit qui  permet de maintenir un référentiel unique et d'exécuter des analyses sur toutes les sources de données et flux simultanément.
+D'une part, une entreprise possède un **système « opérationnel » ou « de gestion »**, également appelé système OLTP (*on-line transaction processing*). es bases de données transactionnelles sont optimisées pour l'exécution de systèmes de production, aussi bien pour les sites Web que pour les banques et les magasins. Ces bases de données sont d'excellents outils pour lire et écrire des lignes de données individuelles très rapidement, tout en maintenant l'intégrité des données.
+
+Mais par ailleurs, l'entreprise a besoin d'un meilleur endroit pour conserver les données en provenance de diverses sources : un endroit qui  permet de maintenir un référentiel unique et d'exécuter des analyses sur toutes les sources de données et flux simultanément.
 
 C'est pourquoi, dès qu'elles commencent à s'intéresser sérieusement à leurs données, les entreprises se dotent d'un **système « décisionnel »**, également appelés OLAP (*on-line analytical processing*). Ces systèmes sont dédiés au management de l'entreprise pour l'aider au pilotage de l'activité. Ils offrent au décideur une vision transversale de l'entreprise. La tendance pour réaliser un système décisionnel est à la mise en place d'un entrepôt de données, ou data warehouse.
+
 
 Mais tu dois te demander : concrètement, quelles sont les différences entre les systèmes OLTP et systèmes OLAP ?
 
 Voici quelques réponses qui vont t'éclairer : en raison de la structure des fichiers OLAP, il est beaucoup plus facile d'effectuer des requêtes et des analyses sur les données qu'ils contiennent, et n'importe qui peut interroger l'entrepôt de données avec un logiciel d'entrepôt de données ou une connaissance du SQL.
 
 En revanche, alors qu'on s'attend à ce que les bases de données aient un temps de disponibilité de 99,99 %, les entrepôts de données n'ont généralement pas besoin d'avoir ce genre de temps de disponibilité. Les entrepôts de données ne sont pas constamment lus et écrits comme les bases de données le sont. La plupart des entrepôts de données se rafraîchissent avec les données des bases de données, souvent toutes les 24 heures environ.
+
+
 
 
 ## 4. Points importants à retenir
