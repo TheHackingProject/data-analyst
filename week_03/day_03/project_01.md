@@ -1,17 +1,17 @@
 # Captive ton auditoire en parlant ciné 🎬
 
 ## 1. Introduction
-Stop la création de tableaux de bord tranquille derrière ton ordi. Là tu vas passer de l'ombre à la lumière. La RH de ton entreprise (la Gaumont) est venue te voir ce matin, elle a un créneau de libre pour la KRIS (Key Results and Information Shared) du jeudi matin. Elle souhaite donc que tu présentes demain matin une analyse à l'ensemble des 50 salariés qui bossent au siège. On va te donner un fichier avec plein de données sur le cinéma, la problématique principale du moment pour la boite et débrouille toi pour que ça intéresse les gens 🎤🎤
+Stop la création de tableaux de bord tranquille derrière ton ordi. Là tu vas passer de l'ombre à la lumière. La RH de ton entreprise (la Gaumont) est venue te voir ce matin, elle a un créneau de libre pour la KRIS (Key Results and Information Shared) du jeudi matin. Elle souhaite donc que tu présentes demain matin une analyse à l'ensemble des 50 salariés qui bossent au siège. On va te donner un fichier avec plein de données sur le cinéma, la problématique principale du moment pour la boite et ce sera à toi de réussir à intéresser tout ce beau monde 🎤🎤
 
 ## 2. Le projet
 
 ### 2.1. Analyser les données
 
-Voici [la base de données](https://docs.google.com/spreadsheets/d/1la1hRu9IZ3sUq2a7aS6bG05y13cYuKpR/edit?usp=sharing&ouid=100767761288291012140&rtpof=true&sd=true) pour faire tes analyses. Tu peux utiliser les outils que tu préfères pour faire tes analyses. Comme d'habitude, personne n'ira de toute façon vérifier les calculs que tu as faits.
+Voici [la base de données](https://docs.google.com/spreadsheets/d/1la1hRu9IZ3sUq2a7aS6bG05y13cYuKpR/edit?usp=sharing&ouid=100767761288291012140&rtpof=true&sd=true) pour faire tes analyses. Tu peux utiliser les outils que tu préfères pour faire tes analyses (Excel, Python, Tableau, etc.). Comme d'habitude, personne n'ira de toute façon vérifier les calculs que tu as faits.
 
-Le fichier possède beaucoup d'onglets mais à toi de voir les données que tu as envie d'analyser. La question à laquelle tu dois répondre t'a été communiquée en amont : "Est-ce que le cinéma est vraiment en perte de vitesse ?". On te précise que c'est une question cruciale donc on espère que tu trouveras des éléments de réponse intéressants qui permettront ensuite de se poser les bonnes questions stratégiques.
+Le fichier possède beaucoup d'onglets mais à toi de choisir les données que tu as envie d'utiliser. La question à laquelle tu dois répondre t'a été communiquée en amont : "Est-ce que le cinéma est vraiment en perte de vitesse ?". On te précise que c'est une question cruciale donc on espère que tu trouveras des éléments de réponse intéressants qui permettront ensuite de se poser les bonnes questions stratégiques.
 
-Enfin, n'hésite pas à faire beaucoup de graphes, comme d'hab.
+Enfin, n'hésite pas à faire beaucoup de graphes, comme d'hab aussi.
 
 
 ### 2.2. Créer un support visuel
