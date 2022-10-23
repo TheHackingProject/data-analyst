@@ -7,7 +7,7 @@ Stop la création de tableaux de bord tranquille derrière ton ordi. Là tu vas 
 
 ### 2.1. Analyser les données
 
-Voici [la base de données](https://docs.google.com/spreadsheets/d/1la1hRu9IZ3sUq2a7aS6bG05y13cYuKpR/edit?usp=sharing&ouid=100767761288291012140&rtpof=true&sd=true) pour faire tes analyses. T'as pas forcément besoin d'utiliser Python, tu peux te contenter d'Excel. Comme tu préfères.
+Voici [la base de données](https://docs.google.com/spreadsheets/d/1la1hRu9IZ3sUq2a7aS6bG05y13cYuKpR/edit?usp=sharing&ouid=100767761288291012140&rtpof=true&sd=true) pour faire tes analyses. Tu peux utiliser les outils que tu préfères pour faire tes analyses. Comme d'habitude, personne n'ira de toute façon vérifier les calculs que tu as faits.
 
 Le fichier possède beaucoup d'onglets mais à toi de voir les données que tu as envie d'analyser. Trouve un angle d'attaque (Ex : "Est-ce que le cinéma est vraiment en perte de vitesse ?"). Enfin, n'hésite pas à faire beaucoup de graphes, comme d'hab.
 
