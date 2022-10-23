@@ -5,6 +5,10 @@ Stop la création de tableaux de bord tranquille derrière ton ordi. Là tu vas 
 
 ## 2. Le projet
 
+Comme dans la plupart des projets de Data Analyse, tu devras traiter trois dimensions : l'analyse, la création d'un visuel, le message final à transmettre (souvent appelé "l'histoire à raconter"). 
+
+Il y a forcément un aspect qui te plaît le plus des 3 mais profite de ce genre de projets pour travailler les 3. Ton auditoire de toute façon regardera les 3 aspects : les techniciens seront attentifs en particulier à l'analyse réalisée ; la plupart des collaborateurs au visuel et les grands chefs retiendront surtout le message final.
+
 ### 2.1. Analyser les données
 
 Voici [la base de données](https://docs.google.com/spreadsheets/d/1la1hRu9IZ3sUq2a7aS6bG05y13cYuKpR/edit?usp=sharing&ouid=100767761288291012140&rtpof=true&sd=true) pour faire tes analyses. Tu peux utiliser les outils que tu préfères pour faire tes analyses (Excel, Python, Tableau, etc.). Comme d'habitude, personne n'ira de toute façon vérifier les calculs que tu as faits.
