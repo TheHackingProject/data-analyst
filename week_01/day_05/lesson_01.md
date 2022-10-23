@@ -46,7 +46,7 @@ Ils sont très utiles pour permettre aux entreprises d’accéder rapidement et 
 
 Il faut bien comprendre ce qu'on a commencé à voir mercredi. 
 
-D'une part, une entreprise possède un **système « opérationnel » ou « de gestion »**, également appelé système OLTP (*on-line transaction processing*). es bases de données transactionnelles sont optimisées pour l'exécution de systèmes de production, aussi bien pour les sites Web que pour les banques et les magasins. Ces bases de données sont d'excellents outils pour lire et écrire des lignes de données individuelles très rapidement, tout en maintenant l'intégrité des données.
+D'une part, une entreprise possède un **système « opérationnel » ou « de gestion »**, également appelé système OLTP (*on-line transaction processing*). Ces bases de données sont d'excellents outils pour lire et écrire des lignes de données individuelles très rapidement, tout en maintenant l'intégrité des données. On parle aussi de bases de données **transactionnelles**. 
 
 Mais par ailleurs, l'entreprise a besoin d'un meilleur endroit pour conserver les données en provenance de diverses sources : un endroit qui  permet de maintenir un référentiel unique et d'exécuter des analyses sur toutes les sources de données et flux simultanément.
 
@@ -60,6 +60,19 @@ Voici quelques réponses qui vont t'éclairer : en raison de la structure des fi
 En revanche, alors qu'on s'attend à ce que les bases de données aient un temps de disponibilité de 99,99 %, les entrepôts de données n'ont généralement pas besoin d'avoir ce genre de temps de disponibilité. Les entrepôts de données ne sont pas constamment lus et écrits comme les bases de données le sont. La plupart des entrepôts de données se rafraîchissent avec les données des bases de données, souvent toutes les 24 heures environ.
 
 
+### 3.4. En savoir plus sur les données transactionnelles 
+
+Au sein d’une base de données, **le terme de "transaction" désigne les opérations apportant des modifications aux données**. Par exemple, un virement bancaire provoquant le débit du compte de l’émetteur et le crédit du compte du bénéficiaire est une transaction.
+
+Ces transactions doivent toutefois présenter quatre propriétés visant à garantir leur validité même en cas d’erreur ou de pannes informatiques. Ces quatre propriétés sont l’atomicité, la cohérence, l’isolation et la durabilité. Afin de mémoriser facilement ces attributs, Andreas Reuter et Theo Härder ont inventé l’acronyme  » ACID  » en 1983.
+
+Les bases de données transactionnelles sont idéales pour assurer ce qu'on appelle "l'intégrité des données". En effet, elles sont conçues pour être conformes à la norme ACID, ce qui garantit que les écritures dans la base de données aboutissent ou échouent dans leur ensemble, tout en maintenant un haut niveau d'intégrité des données lors de leur écriture. 
+
+L'exemple le plus parlant pour comprendre est celui du secteur bancaire : on imagine mal une banque enregistrer seulement une partie des transactions (prélèvement sur un compte et crédit sur un autre) effectuées. C'est très important pour la banque d'inscrire en base l'atomicité (comme le A d'ACID) de la transaction. En gros, soit la banque vous dit que votre virement de 1 500 euros est passé, soit elle vous informe qu'il y a eu un bug et que rien n'est passé mais vous ne courez pas le risque que seulement 500 euros aient été virés.
+
+Enfin, **les données transactionnelles** diffèrent des autres principales catégories de données, qui sont :
+- **les données analytiques** : les données analytiques, comme leur nom l'indique, sont le résultat de calculs ou d'analyses effectués sur les données transactionnelles.
+- **les données maîtres** : les données maîtres représentent les objets commerciaux réels et critiques sur lesquels lesdites transactions sont effectuées, en tenant également compte des paramètres sur lesquels l'analyse des données est effectuée.
 
 
 ## 4. Points importants à retenir
