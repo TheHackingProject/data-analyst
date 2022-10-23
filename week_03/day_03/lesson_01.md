@@ -5,7 +5,9 @@ Un Data Analyst est très souvent amené à présenter ses résultats. C'est pou
 
 📌 *Utilité pour le projet* : 5/5<br/>
 📊 *Utilité pour être Data Analyst* : 5/5<br/>
-💡 *Pourquoi cette ressource ?* : Te donner les moyens pour améliorer tes présentations. Même si c'est une tâche à laquelle tu es habituée, elle est tellement centrale dans le métier de Data Analyst que tu dois la travailler sans relâche.
+💡 *Pourquoi cette ressource ?* : Te donner les moyens pour réussir des présentations mémorabes.
+
+Je te vois venir et dire "relou, j'en ai déjà fait des centaines de présentations PPT". Mais la différence réelle ici c'est qu'on te demande de faire une présentation DATA, c'est-à-dire une présentation qui partage beaucoup d'informations chiffrées. En faisant l'exercice sérieusement, tu te rendras compte que c'est vraiment difficile de capter son audience avec ce genre de présentations. Paradoxalement, les gens adorent obtenir des données chiffrées mais dès qu'on leur propose de leur présenter à l'oral des données chiffrées, il n'y a plus personne pour écouter. A toi de voir comment changer cela !
 
 ## 2. Historique et contexte
 Revenons sur l'histoire de PowerPoint, le programme de présentation le plus utilisé dans le monde. Il a été développé à l’origine par Robert Gaskins et le programmeur Dennis Austins sous le nom de Presenter pour la société Forethought. 
