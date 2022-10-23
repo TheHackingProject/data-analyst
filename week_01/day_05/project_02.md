@@ -1,7 +1,7 @@
 # Modéliser un système de BI
 
 ## 1. Introduction
-Pour concevoir une bon entrepôt de données, il faut bien comprendre le business concerné. Donc on fera souvent appel au Data Analyst pour réaliser la modélisation de la base ou pour vérifier que rien n'a été oublié. Avant que ça soit ton tour, profite de ce projet pour t'exercer et devenir un as de la modélisation de systèmes d'info décisionnels 🦁
+Pour concevoir un bon entrepôt de données, il faut bien comprendre le business concerné. On pourrait faire appel au Data Analyst pour réaliser la modélisation de la base ou pour vérifier que rien n'a été oublié. Avant que ça soit ton tour, profite de ce projet pour t'exercer et devenir un as de la modélisation de systèmes d'info décisionnels 🦁
 
 ## 2. Le projet
 ### 2.1. Un système d'info décisionnel pour votre université 🎓🎓
