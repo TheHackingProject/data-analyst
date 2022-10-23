@@ -1,1 +1,1 @@
-Améliorer les performances data de l'entreprise
+Comprendre le métier et requêter de grosses bases de données
