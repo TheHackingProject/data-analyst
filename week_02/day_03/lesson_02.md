@@ -1,7 +1,7 @@
 # Concepts avancés en statistiques
 
 ## 1. Introduction
-L'analyste de données apporte avant tout une lecture statistique aux problèmes auxquels est confrontée l'entreprise. Pour cela, il va devoir parfois utiliser des concepts statistiques avancés. On peut lui demander par exemple : de réaliser une analyse multi-variée pour comprendre la corrélation entre des variables ou de réaliser un test statistique afin de vérifier une prédiction, ou encore de réaliser une modélisation statistique à l’aide de méthodes d’apprentissage supervisé et non supervisé. En sachant que les sujets statistiques sont trop variés pour être tous couverts ici, nous verrons dans cette ressource les  méthodes les plus courantes 💆‍♀️💆‍♂️
+L'analyste de données peut être amené à collaborer avec ses collègues Data Scientists donc il peut être intéressant de découvrir les concepts utilisés en science des données par les statisticiens. Pour rappel, le Data Scientist apporte avant tout une lecture statistique aux problèmes auxquels est confrontée l'entreprise. Pour cela, il va devoir parfois utiliser des concepts statistiques avancés. On peut lui demander par exemple : de réaliser une analyse multi-variée pour comprendre la corrélation entre des variables ou de réaliser un test statistique afin de vérifier une prédiction, ou encore de réaliser une modélisation statistique à l’aide de méthodes d’apprentissage supervisé et non supervisé. En sachant que les sujets statistiques sont trop variés pour être tous couverts ici, nous verrons dans cette ressource les  méthodes les plus courantes 💆‍♀️💆‍♂️
 
 📌 *Utilité pour le projet* : 0/5<br/>
 📊 *Utilité pour être Data Analyst* : 1/5<br/>
