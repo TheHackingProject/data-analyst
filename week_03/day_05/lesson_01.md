@@ -1,63 +1,71 @@
-# Partager les bonnes pratiques data aux équipes
+# Comprendre le métier
 
 ## 1. Introduction
-En plus de bien communiquer comme on l'a vu mercredi, un bon Data Analyst doit être pédagogue : réussir à traduire les concepts techniques de la data dans un langage courant, savoir s'adapter à son interlocuteur, chercher à pérenniser les compétences de ses collaborateurs ... 
+Si à l’issue de la formation, tu décides de devenir Data Analyst ou Business Analyst, il y a un mot que tu entendras très fréquemment et que tu te mettras à utiliser de manière frénétique c’est « **le métier** ».
+Que désigne concrètement « le métier », ce mot qui, au premier abord, peut paraître très obscur ? Et comment devient-on expert pour comprendre le métier ? Nous allons tenter de répondre à ces questions dans la ressource du jour.
 
-📌 *Utilité pour le projet* : 1/5<br/>
-📊 *Utilité pour être Data Analyst* : 4/5<br/>
-💡 *Pourquoi cette ressource ?* : Comme la data est une discipline très récente, le rôle de tout expert data est d'abord d'être ambassadeur et vulgarisateur. Garde les conseils de cette ressource bien en tête, surtout quand tu passeras des entretiens. Si tu sais illustrer ça par des exemples vécus, ton interlocuteur se dira que tu as compris les enjeux principaux du métier de Data Analyst.
+📌 *Utilité pour le projet* : 3/5<br/>
+📊 *Utilité pour être Data Analyst* : 5/5<br/>
+💡 *Pourquoi cette ressource ?* : Comprendre concrètement pourquoi le Data Analyst est un profil hybride (qui se situe à mi-chemin entre la technique et le métier) qui doit pouvoir parler avec tout le monde. 
 
 ## 2. Historique et contexte
+Le mot métier tu le connais : ça désigne l’exercice par une personne d’une activité dans un domaine professionnel, en vue d’une rémunération 🤑
 
-Depuis une dizaine d’années, on a assisté à un changement de paradigme : la data représente de nouvelles opportunités pour les entreprises. En fait, on utilisait déjà la data auparavant mais c’était l’apanage des départements marketing (bien connaître sa cible, ses clients) et finance (surveiller sa tréso, optimiser ses investissements et valider les audits imposés). En gros, tout ce qu’on apprend encore en business school : contrôle de gestion, marketing, analyse financière 😶
-
-Ce qui a changé aujourd’hui, c’est que la data va bien au-delà de ces applications : elle doit infuser l’ensemble de la chaîne de valeur. L’enjeu pour l’entreprise est de transformer son modèle opérationnel et **devenir data-centric**. 
-
-En fait **l'objectif avec la data, c’est de supprimer tous les silos**. Cependant, réussir à faire en sorte que tout le monde parle le langage data, c'est un process complexe qui demande du temps. C'est pour cela que les entreprises recrutent des équipes spécialisées en data : elles espèrent vraiment qu'à terme, tous leurs collaborateurs deviendront *data-driven*, c'est-à-dire capables de s'aider de la data pour prendre des décisions.
-
-C'est donc parfaitement ton rôle, en tant que Data Analyst, d'évangéliser tes collègues et de leur transmettre toutes tes connaissances/compétences. Facile à dire mais pas facile à faire. On va voir dans les ressources du jour des tips pour réussir à devenir un vrai gourou de la data 🗣
+Mais ce qui nous intéresse ici c’est plutôt le sens par extension : le métier désigne alors **le degré de maîtrise acquis par une personne ou par une organisation du fait de la pratique** sur une durée suffisante de cette activité. On parle aussi d’expérience ou de savoir-faire. 
+Tu reliras cette définition à la fin de la ressource et ça te parlera davantage.
 
 ## 3. La ressource
-Nous allons voir ici 3 différents types d'action, qui correspondent aux différents types d'attitude que tu pourras rencontrer face au changement. C'est volontairement schématisé, en espérant que tu comprennes surtout la posture à développer 👂
 
-### 3.1. Rendre disponible le savoir
+### 3.1. Le métier vs la technique
 
-En tant que garant de la suppression des silos, tu te dois d'être exemplaire et de t'appliquer cette règle à toi-même 👮‍♂️ Concrètement, tu as interdiction de faire de la rétention d'informations. Au contraire, **tu dois PARTAGER tout ce que tu sais**.
+Dans le cadre de projets informatiques, on trouve 2 types d’équipes distincts : les équipes qu’on va définir comme relevant du « métier », par opposition aux équipes qui relèvent de la « technique ».
 
-Comment faire cela ? Tu as tout un tas de manières : organiser des workshops (ateliers où tu invites tes collègues à participer), organiser des conférences, partager des articles ... Exemple le plus classique : organiser un atelier de 2 heures pour se former à Google Analytics et faire découvrir à qui le souhaitent comment analyser les données des utilisateurs. Finalement, il s'agit de créer une culture data dans ton entreprise. Tu mets à disposition et en profite qui veut 😇
+Les équipes métiers sont celles qui sont responsables de faire tourner l’entreprise. Cela concerne les activités qui génèrent le chiffre d’affaires de l’entreprise. Par exemple, si l’entreprise est fabricant d’automobiles, le département cœur de métier est le département de production en charge de la construction des voitures.
 
-Cette première étape est pas mal mais ce n'est pas suffisant. Pourquoi à ton avis 🧐 ?
+Par opposition aux équipes métiers, il y a des équipes support (juridique, RH). C'est le cas aussi des équipes techniques : elles viennent en support des équipes métiers pour leur proposer des solutions automatisées qui facilitent le quotidien de toutes les parties prenantes. 
 
-Car ça ne va pas intéresser tout le monde. Disons qu'une partie seulement de tes collaborateurs risque de s'y intéresser et d'y consacrer du temps. Dans chaque entreprise, on a un public qu'on va appeler les "technophiles". Ce sont des personnes qui aiment l'innovation et apprendre toujours plus de nouvelles choses. Ces gens seront curieux et participeront à tes ateliers dans la limite de leur temps disponible. Mais pour faire disparaître définitivement les silos, on va devoir aller plus loin 💪
+Autrement dit, un système d’information se construit à partir de l’analyse des processus métier de l’organisation. Il faut bien comprendre cela : le rôle de la data est de traduire dans les SI et les bases de données les processus métiers existants. Et plus largement, lorsque vous mènerez des projets informatiques en entreprise, votre objectif premier sera de faciliter les activités opérationnelles dites « métier » (ou « business » en anglais). 
 
-### 3.2. Collaborer et proposer des coups de main
 
-2ème objectif une fois que tu as mis à disposition ton savoir : **aller à la rencontre des personnes**. Tu cherches à atteindre à ce moment-là la plupart de tes collaborateurs : ceux qui n'ont pas de temps supplémentaire à consacrer, ceux qui ne se sentent pas autorisés/légitimes pour faire autre chose que leurs missions personnelles etc. 
+### 3.2. Des exemples de métiers
 
-L'idée ici est de sortir des grands discours (qui étaient de rigueur à l'étape précédente) et de **passer à la pratique**. Pour cela, tu peux organiser des entretiens individuels avec les personnes qui te semblent avoir besoin d'aide sur leurs données. Pour cela, tu peux leur proposer de regarder comment ils travaillent aujourd'hui pour voir si cela peut être amélioré via la data. 
+Chaque entreprise a un cœur de métier très précis duquel découlent ses interlocuteurs métiers. 
 
-Tu peux aussi faire du *shadowing*. Désolée pour l'anglicisme, le *shadowing* (ou filature en français) est une des méthodes d’observation les plus courantes. Cette méthode consiste à devenir littéralement l’ombre de quelqu’un durant une période déterminée afin d’observer son comportement et ses interactions dans son environnement naturel. Cela va te permettre de repérer les tâches qui pourraient être automatisées ou optimisées, grâce à un meilleur usage de la data.
+Pour bien comprendre cela, le plus utile est de s’interroger sur toutes les entreprises que tu connais. Fais le jeu en te demandant, pour chaque entreprise, quel est son cœur de métier et qui est le plus susceptible de mieux connaître les processus métiers. 
 
-Suite à cela, tu peux **passer à la discussion pour essayer de préciser le besoin de la personne**. L'interroger sur les outils qu'elle utilise au quotidien, ce qui lui fait perdre du temps. Et lui proposer ensuite des débuts de solution pour essayer de répondre à son besoin. Ces débuts de solution, encore une fois, seront très différents en fonction du problème : 
-- tu peux lui dire que sur ce sujet précis, tu n'es pas expert mais que tu reviendras vers elle dans quelques jours une fois que tu auras creusé le sujet de ton côté
-- tu peux lui montrer ce que tu peux faire avec des outils déjà en place et lui demander si ça l'intéresse
-- tu peux lui proposer une session pendant laquelle tu lui expliqueras le fonctionnement d'un outil
-- tu peux l'inviter à un meeting sur le sujet pour qu'elle comprenne les problèmatiques actuelles ...
+On te donne ici quelques exemples qui te permettront de vérifier si tu as compris tout ce qu’on vient d’expliquer précédemment.
 
-Il y a presque autant de solutions que de problèmes. L'important est de réussir à embarquer le plus de monde car l'objectif est collectif : casser les silos !
+Orange ? 🍊
+Avant tout, le cœur de métier d’Orange est les réseaux. Réseaux fixes et réseaux mobiles. Les personnes métiers peuvent être directement les techniciens qui s’occupent d’installer les réseaux (par ex, le technicien fibre qui vient installer la fibre chez toi). Vu le niveau de complexité de ces infrastructures, sont considérés comme métiers également les ingénieurs qui vont surveiller et gérer à plus haut niveau les réseaux en question. Par ailleurs, vu le nombre de clients que possède Orange, on peut aussi considérer comme métiers les téléconseillers et les conseillers boutique du réseau Orange : ce sont également des salariés du groupe qui possèdent de nombreuses connaissances sur les processus et les produits Orange. Tous ces différentes personnes vont avoir des besoins à transmettre aux équipes informatiques (data, logiciel, web).
 
-### 3.3. Montrer les résultats obtenus
+Pôle Emploi ? 🧑‍💼 
+Le cœur de métier de Pôle Emploi est l’accompagnement des demandeurs d’emploi. De façon évidente, les personnes qui connaissent le mieux le métier sont les conseillers Pôle Emploi. Concrètement, tout impact sur les systèmes d’information (métier ou technique) devra être communiqué au conseiller Pôle Emploi car c’est lui qui va devoir *in fine* transmettre l’information au demandeur d’emploi. Ex d’information : quels sont les montants des indemnisations ? Pourquoi l’application mobile ne permet plus de faire son actualisation ? Comment faire pour envoyer ses justificatifs ? 
 
-Enfin, tu feras face à un troisième type de personnes : les personnes plutôt réfractaires au changement. En général, elles ont des habitudes bien ancrées et sont sceptiques quand on leur demande de les changer. Ces personnes se méfient de la nouveauté, souvent à juste titre, car elles ont déjà expérimenté beaucoup de projets qu'on leur présentait comme révolutionnaires et qui n'ont apporté aucun bénéfice 🙃 Inutile donc de juger ce troisième type de personnes, elles ont tout aussi raison que les deux autres types. 
+L’Oréal ? 💅
+Parfois, la réponse peut sembler un peu plus dure à trouver. Par exemple, on trouve sur leur site que le cœur de métier de l’Oréal est la beauté. « Créateur de beauté est notre seule et unique vocation depuis plus de 110 ans ». Cela a un impact sur les équipes qui vont être considérées comme métiers : on va inclure les équipes de R&D (celles qui conçoivent les produits) mais aussi les équipes marketing (celles qui s’occupent de vendre les produits), les équipes de gestion (celles qui suivent les chiffres des ventes), les équipes de qualité (qui vérifient le respect des normes) … 
 
-**Ton rôle est de s'adapter à leur ressenti**. Pour cela, tu vas adopter une approche plus pragmatique. Ce qu'elles veulent, c'est du concret, des résultats. Tu peux donc attendre d'avoir obtenu des résultats positifs avant de t'intéresser à cette cible. 
+Finalement, beaucoup d'équipes peuvent être considérées comme métiers et cela dépend du business de l'entreprise. Pour certaines entreprises, c'est facile car l'entreprise n'a qu'une activité (ex le coeur de métier d'une librairie : vendre des livres). Pour d'autres, c'est plus compliqué car il y a beaucoup d'activités donc il y a énormément d'interlocuteurs à interroger avant de vraiment comprendre les process métiers.
 
-Une fois que tu as les résultats en revanche, saisis l'occasion pour les embarquer. Choisis un langage accessible, adopte une posture empathique et prépare toi à l'adversité. 
-Tu peux reprendre les techniques vus dans les étapes précédentes. L'essentiel est de montrer que ça fonctionne et que ceux qui décident de ne pas embarquer dans les projets data se rendent la tâche plus compliquée 🤔
+
+### 3.3. Le Data Analyst dans tout ça
+
+On t’a raconté tout ça sur la technique et le métier car le Data Analyst est un profil hybride qui doit savoir parler les deux langages : technique et métier. Son entité de rattachement peut varier car cela va dépendre des choix organisationnels de l’entreprise concernée (est-ce qu’on préfère rattacher les équipes Data à la DSI pour les centraliser ou alors on préfère les rattacher à des directions métier de manière décentralisée ?).
+
+Mais dans tous les cas, on attend du Data Analyst qu’il acquiert progressivement des « compétences fonctionnelles », aussi appelées « compétences métier ». Concrètement, on évaluera **ta capacité à comprendre un domaine fonctionnel complexe, à se mettre à la place du demandeur et à décortiquer des processus longs et en constant changement**.
+
+Et plus tu resteras longtemps sur un domaine fonctionnel précis, plus tu connaîtras par cœur les données importantes, où les trouver (dans quelle base de données) rapidement, quelle personne du métier interroger en cas de question. Et tu verras que cette connaissance métier est très valorisée (même au niveau du salaire par ex : une entreprise paiera plus cher un profil qui connaît déjà le métier en question).
+
 
 ## 4. Points importants à retenir
-Tu l'as compris, être expert data c'est réussir à conduire le changement dans une organisation donnée. Pour cela, 3 types d'actions qui peuvent te sembler évidents mais qu'on a tendance à oublier dans le feu de l'action : partager - collaborer - montrer les résultats obtenus.
+
+On attend deux choses bien précises d’un Data Analyst :
+-	Sa maîtrise de l’environnement technique de l’entreprise (outils) ET
+-	Sa connaissance du métier.
+
+La première chose est, contrairement à ce qu’on croit, la plus facile à acquérir. De quelques jours à quelques mois de pratique (en fonction des outils), cela suffira pour t’habituer à l’environnement en question. Les automatismes s’acquièrent très vite ! Et ils doivent de toute façon se perdre très vite car les changements d’outils sont devenus de plus en plus fréquents dans les entreprises.
+
+La deuxième chose en revanche (la connaissance du métier) est longue et difficile. C’est cela qui te permettra de passer d’un Analyst moyen à un très bon Data Analyst. Pour bien comprendre un business, il faut souvent des années d’expérience. Surtout lorsque l’entreprise à des années d’existence (comme les trois exemples vus au-dessus), tu peux imaginer le niveau de détail à connaître pour bien maîtriser un système d’information. 
+
 
 ## 5. Pour aller plus loin
-- Un [cours article](https://isarta.fr/infos/les-4-lecons-de-mckinsey-pour-adopter-une-culture-data-dans-son-entreprise/) qui détaille "Les 4 leçons de McKinsey pour adopter une culture data dans son entreprise"
-- Un [webinaire](https://www.youtube.com/watch?v=59bXTxsGaZ4) (plus long cette fois, 45 minutes), organisé par Opendatasoft sur la thématique "Conduite du changement : toi, moi et les data" avec deux témoignages : la Caisse des dépôts et le département de l'Isère
+Identifie les métiers qui t’intéressent et ne les lâche plus jamais : ambitionne de devenir l’encyclopédie de ces métiers … car au fond, c’est un peu ça être Data Analyst !
