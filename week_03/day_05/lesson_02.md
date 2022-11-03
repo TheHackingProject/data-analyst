@@ -1,4 +1,4 @@
-# Automatiser pour gagner du temps
+# La data préparation
 
 ## 1. Introduction
 On a vu dans la ressource précédente l'attitude à avoir pour partager de la connaissance data à ses collègues. On va voir ici les connaissances techniques qu'il peut être utiles de partager.
