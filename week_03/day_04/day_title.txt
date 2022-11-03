@@ -1,1 +1,1 @@
-Comprendre le métier et requêter de grosses bases de données
+Former les équipes à la data et à ses outils
