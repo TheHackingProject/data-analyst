@@ -1,4 +1,4 @@
-# Mettre en place un système de veille automatisée
+# Projet découverte des métiers 
 
 ## 1. Introduction
 Faire de la veille, c'est vraiment très utile mais ça peut vite devenir fatigant 🙄 On a tous vécu ces newsletters qui se ressemblent toutes et que notre cerveau fatigue de lire ! Tu vas voir aujourd'hui comment mettre en ta place un bon système de veille. Et tu devrais bien le faire car pour une fois, c'est en partant de tes propres besoins que tu vas réaliser le projet.
