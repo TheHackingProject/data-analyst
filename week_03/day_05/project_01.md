@@ -55,9 +55,11 @@ Trouve un jeu de données que tu trouves particulièrement intéressant et fais 
 
 Réfléchis cette fois-ci au jeu de données sur lequel tu aimerais vraiment bosser : ton jeu de données idéal. 
 
-Et rédiges-en le mini cahier des charges comme si tu devais réfléchir à comment mettre ce jeu de données en OpenData. Les questions que tu dois te poser ici c'est : quelle entreprise est en mesure de fournir ces données ? Pour quels objectifs ou sous quelles conditions pourrait-elle envisager les fournir en OpenData ?
+Et rédiges-en le mini cahier des charges comme si tu devais réfléchir à comment mettre ce jeu de données en OpenData. Les questions que tu dois te poser ici c'est : quelle entreprise est en mesure de fournir ces données ? Pour quels objectifs ou sous quelles conditions pourrait-elle envisager les fournir en OpenData ? Vérifie donc si le jeu n'existe pas encore en ligne et pose toi la question du pourquoi.
 
 C'est un travail que doivent vraiment réaliser les Data Analysts qui sont derrière l'ensemble des données disponibles en opendata donc tu ne perds pas de temps à creuser la question maintenant.
+
+Surtout, cela t'aidera concrètement à identifier les secteurs pour lesquels tu aimerais travailler en tant que Data Analyst. 
 
 ## 3. Rendu attendu
 Un fichier texte avec au minimum une page par lot de données qui rend compte de l'ensemble de tes réflexions.
