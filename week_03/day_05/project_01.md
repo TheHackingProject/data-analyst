@@ -59,7 +59,7 @@ Et rédiges-en le mini cahier des charges comme si tu devais réfléchir à comm
 
 C'est un travail que doivent vraiment réaliser les Data Analysts qui sont derrière l'ensemble des données disponibles en opendata donc tu ne perds pas de temps à creuser la question maintenant.
 
-Surtout, cela t'aidera concrètement à identifier les secteurs pour lesquels tu aimerais travailler en tant que Data Analyst. 
+Surtout, cela t'aidera concrètement à identifier les secteurs pour lesquels tu aimerais travailler en tant que Data Analyst 🧮
 
 ## 3. Rendu attendu
 Un fichier texte avec au minimum une page par lot de données qui rend compte de l'ensemble de tes réflexions.
