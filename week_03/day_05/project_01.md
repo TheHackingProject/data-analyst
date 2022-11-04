@@ -1,15 +1,14 @@
 # Partons à la découverte des métiers 
 
 ## 1. Introduction
-Faire de la veille, c'est vraiment très utile mais ça peut vite devenir fatigant 🙄 On a tous vécu ces newsletters qui se ressemblent toutes et que notre cerveau fatigue de lire ! Tu vas voir aujourd'hui comment mettre en ta place un bon système de veille. Et tu devrais bien le faire car pour une fois, c'est en partant de tes propres besoins que tu vas réaliser le projet.
+Pour commencer à connaître un métier, rien de mieux que de s'essayer et plonger directement dans un de ses jeux de données. Dans le projet du jour, nous allons parcourir plusieurs jeux de données de différentes indutries pour que tu puisses commencer à adopter les bons réflexes. Accessoirement, ce projet t'aidera à savoir sur quels secteurs tu as le plus d'appétences, pour te donner des idées pour la suite 😊
 
 ## 2. Le projet
-### 2.1. Réfléchis à tes propres besoins
-Si tu as déjà des intérêts professionnels identifiés, c'est parfait ✅ Pose toi pour les lister et voir si tu n'en oublies aucun. 
+### 2.1. L'énergie 💡
+La crise énergétique nous menace, les médias s'emballent, on a besoin de toi pour se poser froidement et comprendre les notions en présence. 
 
-Si tu n'as pas vraiment d'idée, pense à ce qui t'intéresse dans la vie de tous les jours. Ca peut être a priori toutes les thématiques autour de la data. Mais tu peux ouvrir au maximum les horizons et te faire une veille qui te ressemble le plus possible. Si tu as envie d'être continuellement informé sur le sport, le yoga, l'écologie, la gastronomie et le product management, ça ne pose aucun problème. En revanche, assure toi de cloisonner tes systèmes de veille s'ils ne correspondent pas aux mêmes besoins. Si non, tu seras vite perdu. 
-
-Et dans les deux cas, on te conseille d'utiliser ton projet final comme cas d'usage. Tu vas commencer dans 10 jours un projet sur une thématique particulière (ex : les crypto-monnaies, l'éducation dans le monde) avec des techniques précises (ex : outil Tableau, algorithmes de Machine Learning). Tu peux mettre ces concepts en veille pour voir ce qu'il s'en dit actuellement. Certaines infos pourraient orienter la conception puis la réalisation de ton projet final. Et le fait d'être au courant de l'actualité de ces sujets t'assurera une posture intéressante lors de la soutenance finale.
+Pour cela, on va regarder 6 jeux de données proposés par Enedis (l'ancien EDF, qui gère le réseau électrique en France) : 
+- jeu 1(https://data.enedis.fr/explore/dataset/production-electrique-par-filiere-a-la-maille-region/)
 
 ### 2.2. Conçois le système adéquat
 Lis bien la ressource et renseigne toi sur les différents systèmes de veille que tu peux mettre en place (systèmes d'alerte, newsletter, lecteurs de flux RSS, abonnements sur des réseaux sociaux etc.). 
